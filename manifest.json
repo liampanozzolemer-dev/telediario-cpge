@@ -1,0 +1,16 @@
+{
+  "name": "Telediario 4' CPGE",
+  "short_name": "Telediario 4'",
+  "description": "Actualités Telediario en 4 minutes et vocabulaire d'espagnol CPGE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://img.rtve.es/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

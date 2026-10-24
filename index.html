@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Telediario en 4' — Prépa Espagnol</title>
+  
+  <!-- PWA Meta tags pour iPhone et Android -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Telediario 4'">
+  <meta name="theme-color" content="#0f172a">
+
+  <!-- Tailwind CSS via CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- HLS.js pour la lecture audio/vidéo fluide sur Android/PC -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <!-- Phosphor Icons pour une interface élégante -->
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <!-- Données pré-chargées (permet le fonctionnement en local par simple double-clic) -->
+  <script src="data/telediarios.js"></script>
+
+  <style>
+    /* Empêcher le rebond élastique sur iOS */
+    body {
+      -webkit-tap-highlight-color: transparent;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    .custom-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-amber-500 selection:text-slate-950">
+
+  <!-- Header fixe avec statut et bouton Favoris -->
+  <header class="sticky top-0 z-40 bg-slate-900/90 backdrop-blur-md border-b border-slate-800 px-4 py-3 flex items-center justify-between">
+    <div class="flex items-center space-x-2">
+      <div class="w-8 h-8 rounded-lg bg-amber-500 text-slate-950 font-black flex items-center justify-center text-sm shadow-lg shadow-amber-500/20">
+        4'
+      </div>
+      <div>
+        <h1 class="text-sm font-bold tracking-tight text-white flex items-center gap-1.5">
+          Telediario Express
+          <span class="text-[10px] bg-red-500/20 text-red-400 font-semibold px-1.5 py-0.5 rounded border border-red-500/30">RTVE</span>
+        </h1>
+        <p class="text-[11px] text-slate-400">Actualité & Lexique CPGE</p>
+      </div>
+    </div>
+
+    <!-- Bouton ouvrir les favoris -->
+    <button onclick="toggleFavoritesModal()" class="relative flex items-center gap-1.5 bg-slate-800 hover:bg-slate-700 active:scale-95 transition px-3 py-1.5 rounded-full text-xs font-medium border border-slate-700">
+      <i class="ph-fill ph-star text-amber-400 text-sm"></i>
+      <span>Vocabulaire</span>
+      <span id="fav-counter" class="bg-amber-500 text-slate-950 text-[10px] font-bold px-1.5 py-0.2 rounded-full hidden">0</span>
+    </button>
+  </header>
+
+  <!-- Conteneur principal -->
+  <main class="flex-1 max-w-xl w-full mx-auto p-4 space-y-4 pb-20">
+
+    <!-- Carrousel horizontal des éditions de la semaine -->
+    <div class="space-y-1.5">
+      <div class="flex items-center justify-between text-xs text-slate-400 px-1">
+        <span class="font-semibold text-slate-300">Éditions disponibles</span>
+        <span id="date-indicator">Chargement...</span>
+      </div>
+      <div id="episodes-pill-list" class="flex gap-2 overflow-x-auto pb-1 custom-scrollbar -mx-4 px-4">
+        <!-- Rempli dynamiquement -->
+      </div>
+    </div>
+
+    <!-- Lecteur Multimédia (Audio / Vidéo) -->
+    <section class="bg-slate-900 rounded-2xl border border-slate-800 p-4 shadow-xl space-y-3">
+      <!-- Sélecteur Mode Audio vs Mode Vidéo -->
+      <div class="flex bg-slate-950 p-1 rounded-xl border border-slate-800">
+        <button id="tab-audio" onclick="setMediaType('audio')" class="flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 bg-amber-500 text-slate-950 shadow">
+          <i class="ph-bold ph-headphones text-sm"></i>
+          <span>Audio seul (Express)</span>
+        </button>
+        <button id="tab-video" onclick="setMediaType('video')" class="flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 text-slate-400 hover:text-white">
+          <i class="ph-bold ph-video-camera text-sm"></i>
+          <span>Vidéo complète</span>
+        </button>
+      </div>
+
+      <!-- Zone Vidéo (affichée seulement en mode vidéo) -->
+      <div id="video-container" class="hidden aspect-video rounded-xl overflow-hidden bg-black border border-slate-800 relative">
+        <iframe id="video-iframe" class="w-full h-full" src="" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+      </div>
+
+      <!-- Zone Audio Player (affichée en mode audio) -->
+      <div id="audio-container" class="bg-gradient-to-br from-slate-800/80 to-slate-900 rounded-xl p-4 border border-slate-700/60 flex flex-col items-center justify-center space-y-3">
+        <div class="text-center space-y-1">
+          <p id="player-title" class="text-xs font-semibold text-white line-clamp-1">Chargement du journal...</p>
+          <p id="player-date" class="text-[11px] text-slate-400 font-mono">RTVE Play • 4 minutes</p>
+        </div>
+
+        <audio id="main-audio" preload="metadata"></audio>
+
+        <!-- Commandes Audio -->
+        <div class="flex items-center gap-4">
+          <button onclick="seekAudio(-15)" class="text-slate-400 hover:text-white transition p-2 active:scale-90" title="-15s">
+            <i class="ph-bold ph-arrow-counter-clockwise text-xl"></i>
+          </button>
+          
+          <button id="play-btn" onclick="togglePlay()" class="w-14 h-14 rounded-full bg-amber-500 hover:bg-amber-400 active:scale-95 text-slate-950 flex items-center justify-center shadow-lg shadow-amber-500/25 transition">
+            <i id="play-icon" class="ph-fill ph-play text-2xl ml-0.5"></i>
+          </button>
+
+          <button onclick="seekAudio(15)" class="text-slate-400 hover:text-white transition p-2 active:scale-90" title="+15s">
+            <i class="ph-bold ph-arrow-clockwise text-xl"></i>
+          </button>
+        </div>
+
+        <!-- Barre de progression -->
+        <div class="w-full space-y-1">
+          <div class="w-full bg-slate-950 h-1.5 rounded-full overflow-hidden cursor-pointer" onclick="seekClick(event)">
+            <div id="progress-bar" class="bg-amber-500 h-full w-0 rounded-full transition-all duration-100"></div>
+          </div>
+          <div class="flex justify-between text-[10px] text-slate-500 font-mono px-0.5">
+            <span id="current-time">0:00</span>
+            <span id="total-duration">4:00</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Accordéon 1 : Résumé des actualités (IA) -->
+    <section class="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden shadow-lg transition">
+      <button onclick="toggleSection('summary-content', 'summary-chevron')" class="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-slate-800/40 transition">
+        <div class="flex items-center gap-2">
+          <div class="p-1.5 rounded-lg bg-blue-500/10 text-blue-400 border border-blue-500/20">
+            <i class="ph-bold ph-newspaper-clipping text-base"></i>
+          </div>
+          <div>
+            <h2 class="text-xs font-bold text-slate-200 uppercase tracking-wider">Résumé de l'actualité</h2>
+            <p class="text-[11px] text-slate-400">Faits marquants & analyse géopolitique</p>
+          </div>
+        </div>
+        <i id="summary-chevron" class="ph-bold ph-caret-up text-slate-400 transition-transform"></i>
+      </button>
+
+      <div id="summary-content" class="px-4 pb-4 space-y-2.5 pt-1">
+        <ul id="summary-list" class="space-y-2 text-xs leading-relaxed text-slate-300">
+          <!-- Rempli dynamiquement -->
+        </ul>
+      </div>
+    </section>
+
+    <!-- Accordéon 2 : Vocabulaire clé CPGE (IA) -->
+    <section class="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden shadow-lg transition">
+      <button onclick="toggleSection('vocab-content', 'vocab-chevron')" class="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-slate-800/40 transition">
+        <div class="flex items-center gap-2">
+          <div class="p-1.5 rounded-lg bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+            <i class="ph-bold ph-translate text-base"></i>
+          </div>
+          <div>
+            <h2 class="text-xs font-bold text-slate-200 uppercase tracking-wider">Vocabulaire & Tournures clés</h2>
+            <p class="text-[11px] text-slate-400">À mémoriser pour les épreuves & khôlles</p>
+          </div>
+        </div>
+        <i id="vocab-chevron" class="ph-bold ph-caret-up text-slate-400 transition-transform"></i>
+      </button>
+
+      <div id="vocab-content" class="px-4 pb-4 space-y-2.5 pt-1">
+        <div id="vocab-list" class="space-y-2">
+          <!-- Rempli dynamiquement -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Modal / Panneau latéral des favoris -->
+  <div id="fav-modal" class="fixed inset-0 z-50 bg-slate-950/80 backdrop-blur-sm hidden flex items-end sm:items-center justify-center p-0 sm:p-4">
+    <div class="bg-slate-900 border border-slate-800 rounded-t-3xl sm:rounded-2xl max-w-lg w-full max-h-[85vh] flex flex-col shadow-2xl overflow-hidden">
+      <div class="p-4 border-b border-slate-800 flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <i class="ph-fill ph-star text-amber-400 text-lg"></i>
+          <h3 class="text-sm font-bold text-white">Mon Carnet de Vocabulaire</h3>
+        </div>
+        <button onclick="toggleFavoritesModal()" class="text-slate-400 hover:text-white p-1 rounded-lg">
+          <i class="ph-bold ph-x text-base"></i>
+        </button>
+      </div>
+
+      <div id="favorites-container" class="p-4 overflow-y-auto space-y-2 flex-1 custom-scrollbar">
+        <!-- Rempli dynamiquement -->
+      </div>
+
+      <div class="p-3 border-t border-slate-800 bg-slate-950/50 flex gap-2">
+        <button onclick="copyAllFavorites()" class="flex-1 py-2 text-xs font-semibold bg-slate-800 hover:bg-slate-700 active:scale-95 text-slate-200 rounded-xl transition flex items-center justify-center gap-1.5 border border-slate-700">
+          <i class="ph-bold ph-copy"></i>
+          <span>Copier ma liste</span>
+        </button>
+        <button onclick="clearAllFavorites()" class="py-2 px-3 text-xs font-semibold text-red-400 hover:bg-red-500/10 rounded-xl transition">
+          <i class="ph-bold ph-trash"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Variables globales
+    let allEpisodes = [];
+    let currentEpisodeIndex = 0;
+    let mediaMode = "audio"; // 'audio' ou 'video'
+    let hls = null;
+    let favorites = JSON.parse(localStorage.getItem("telediario_favs") || "[]");
+
+    const audioEl = document.getElementById("main-audio");
+    const playBtn = document.getElementById("play-btn");
+    const playIcon = document.getElementById("play-icon");
+    const progressBar = document.getElementById("progress-bar");
+    const currentTimeEl = document.getElementById("current-time");
+    const totalDurationEl = document.getElementById("total-duration");
+
+    // Chargement initial des données
+    async function initApp() {
+      updateFavoritesCounter();
+
+      // 1. Priorité aux données injectées par data/telediarios.js (fonctionne en local avec simple double-clic !)
+      if (window.TELEDIARIO_DATA && Array.isArray(window.TELEDIARIO_DATA) && window.TELEDIARIO_DATA.length > 0) {
+        allEpisodes = window.TELEDIARIO_DATA;
+        renderEpisodePills();
+        selectEpisode(0);
+        return;
+      }
+
+      // 2. Repli par requête fetch (pour déploiement serveur GitHub Pages / Vercel)
+      try {
+        const res = await fetch("data/telediarios.json");
+        if (res.ok) {
+          allEpisodes = await res.json();
+          if (allEpisodes && allEpisodes.length > 0) {
+            renderEpisodePills();
+            selectEpisode(0);
+            return;
+          }
+        }
+      } catch (err) {
+        console.warn("Fetch distant indisponible ou bloqué :", err);
+      }
+
+      showError("Aucune édition disponible pour le moment.");
+    }
+
+    // Affichage des pilules d'éditions
+    function renderEpisodePills() {
+      const list = document.getElementById("episodes-pill-list");
+      list.innerHTML = "";
+
+      allEpisodes.forEach((ep, idx) => {
+        const btn = document.createElement("button");
+        btn.id = `pill-${idx}`;
+        btn.onclick = () => selectEpisode(idx);
+        
+        const isToday = idx === 0;
+        btn.className = `flex-shrink-0 px-3 py-2 rounded-xl text-left border transition text-xs flex flex-col space-y-0.5 ${
+          idx === 0
+            ? "bg-amber-500/15 border-amber-500/40 text-amber-300 font-semibold"
+            : "bg-slate-900/80 border-slate-800 text-slate-400 hover:border-slate-700"
+        }`;
+
+        btn.innerHTML = `
+          <span class="text-[10px] uppercase tracking-wider font-mono opacity-80">${ep.date_label || ep.date}</span>
+          <span class="line-clamp-1 text-white">${ep.title.replace("Telediario ", "")}</span>
+        `;
+        list.appendChild(btn);
+      });
+    }
+
+    // Sélection d'une édition
+    function selectEpisode(idx) {
+      currentEpisodeIndex = idx;
+      const ep = allEpisodes[idx];
+
+      // Mise à jour visuelle des pilules
+      allEpisodes.forEach((_, i) => {
+        const pill = document.getElementById(`pill-${i}`);
+        if (pill) {
+          if (i === idx) {
+            pill.className = "flex-shrink-0 px-3 py-2 rounded-xl text-left border transition text-xs flex flex-col space-y-0.5 bg-amber-500 text-slate-950 font-bold border-amber-400 shadow-md shadow-amber-500/20";
+          } else {
+            pill.className = "flex-shrink-0 px-3 py-2 rounded-xl text-left border transition text-xs flex flex-col space-y-0.5 bg-slate-900 border-slate-800 text-slate-400 hover:border-slate-700";
+          }
+        }
+      });
+
+      document.getElementById("date-indicator").innerText = `${ep.date_label || ep.date}`;
+      document.getElementById("player-title").innerText = ep.title;
+      document.getElementById("player-date").innerText = `${ep.date_label || ep.date} • Durée : ${ep.duration}`;
+
+      // Configurer la vidéo
+      const iframe = document.getElementById("video-iframe");
+      iframe.src = ep.embed_url;
+
+      // Configurer l'audio (via HLS stream ou source native)
+      setupAudioStream(ep.hls_url);
+
+      // Remplir le résumé
+      renderSummary(ep.summary);
+
+      // Remplir le vocabulaire
+      renderVocabulary(ep.vocabulary);
+    }
+
+    // Configuration du flux audio via Hls.js ou HTML5 natif (Safari iOS)
+    function setupAudioStream(hlsUrl) {
+      audioEl.pause();
+      playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+      progressBar.style.width = "0%";
+      currentTimeEl.innerText = "0:00";
+
+      if (audioEl.canPlayType("application/vnd.apple.mpegurl")) {
+        // Safari iOS natif
+        audioEl.src = hlsUrl;
+      } else if (Hls.isSupported()) {
+        if (hls) {
+          hls.destroy();
+        }
+        hls = new Hls();
+        hls.loadSource(hlsUrl);
+        hls.attachMedia(audioEl);
+      }
+    }
+
+    // Gestion du Play / Pause
+    function togglePlay() {
+      if (audioEl.paused) {
+        audioEl.play().then(() => {
+          playIcon.className = "ph-fill ph-pause text-2xl";
+        }).catch(err => console.log("Play error:", err));
+      } else {
+        audioEl.pause();
+        playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+      }
+    }
+
+    audioEl.addEventListener("timeupdate", () => {
+      if (audioEl.duration) {
+        const pct = (audioEl.currentTime / audioEl.duration) * 100;
+        progressBar.style.width = `${pct}%`;
+        currentTimeEl.innerText = formatTime(audioEl.currentTime);
+        totalDurationEl.innerText = formatTime(audioEl.duration);
+      }
+    });
+
+    audioEl.addEventListener("ended", () => {
+      playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+      progressBar.style.width = "0%";
+    });
+
+    function seekAudio(seconds) {
+      audioEl.currentTime = Math.max(0, Math.min(audioEl.currentTime + seconds, audioEl.duration || 240));
+    }
+
+    function seekClick(e) {
+      const rect = e.currentTarget.getBoundingClientRect();
+      const clickPos = (e.clientX - rect.left) / rect.width;
+      if (audioEl.duration) {
+        audioEl.currentTime = clickPos * audioEl.duration;
+      }
+    }
+
+    function formatTime(secs) {
+      const m = Math.floor(secs / 60);
+      const s = Math.floor(secs % 60);
+      return `${m}:${s < 10 ? '0' : ''}${s}`;
+    }
+
+    // Basculer entre Audio seul et Vidéo
+    function setMediaType(type) {
+      mediaMode = type;
+      const tabAudio = document.getElementById("tab-audio");
+      const tabVideo = document.getElementById("tab-video");
+      const audioContainer = document.getElementById("audio-container");
+      const videoContainer = document.getElementById("video-container");
+
+      if (type === "audio") {
+        tabAudio.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 bg-amber-500 text-slate-950 shadow";
+        tabVideo.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 text-slate-400 hover:text-white";
+        audioContainer.classList.remove("hidden");
+        videoContainer.classList.add("hidden");
+      } else {
+        tabVideo.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 bg-amber-500 text-slate-950 shadow";
+        tabAudio.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 text-slate-400 hover:text-white";
+        videoContainer.classList.remove("hidden");
+        audioContainer.classList.add("hidden");
+        audioEl.pause();
+        playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+      }
+    }
+
+    // Affichage du résumé
+    function renderSummary(summaryList) {
+      const container = document.getElementById("summary-list");
+      container.innerHTML = "";
+      if (!summaryList || summaryList.length === 0) {
+        container.innerHTML = `<li class="text-slate-500 italic">Résumé non disponible pour cette édition.</li>`;
+        return;
+      }
+      summaryList.forEach(item => {
+        const li = document.createElement("li");
+        li.className = "flex items-start gap-2 bg-slate-950/40 p-2.5 rounded-xl border border-slate-800/80";
+        li.innerHTML = `
+          <i class="ph-bold ph-check-circle text-amber-400 text-sm mt-0.5 flex-shrink-0"></i>
+          <span>${item}</span>
+        `;
+        container.appendChild(li);
+      });
+    }
+
+    // Affichage du vocabulaire
+    function renderVocabulary(vocabList) {
+      const container = document.getElementById("vocab-list");
+      container.innerHTML = "";
+      if (!vocabList || vocabList.length === 0) {
+        container.innerHTML = `<p class="text-slate-500 text-xs italic">Aucun vocabulaire extrait pour cette édition.</p>`;
+        return;
+      }
+
+      vocabList.forEach(item => {
+        const isFav = isFavorite(item.term);
+        const card = document.createElement("div");
+        card.className = "bg-slate-950/60 p-3 rounded-xl border border-slate-800 flex items-start justify-between gap-3";
+        card.innerHTML = `
+          <div class="space-y-1">
+            <div class="flex items-center gap-2">
+              <span class="text-xs font-bold text-amber-300 font-mono">${item.term}</span>
+              <span class="text-slate-500 text-[10px]">→</span>
+              <span class="text-xs font-medium text-slate-200">${item.translation}</span>
+            </div>
+            ${item.context ? `<p class="text-[11px] text-slate-400 italic">« ${item.context} »</p>` : ''}
+          </div>
+          <button onclick="toggleFavoriteWord('${escapeQuotes(item.term)}', '${escapeQuotes(item.translation)}', '${escapeQuotes(item.context || '')}')" class="p-1.5 rounded-lg transition ${
+            isFav ? 'text-amber-400 bg-amber-400/10' : 'text-slate-500 hover:text-white hover:bg-slate-800'
+          }">
+            <i class="${isFav ? 'ph-fill ph-star' : 'ph-bold ph-star'} text-base"></i>
+          </button>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    // Gestion des Favoris (localStorage)
+    function isFavorite(term) {
+      return favorites.some(f => f.term.toLowerCase() === term.toLowerCase());
+    }
+
+    function toggleFavoriteWord(term, translation, context) {
+      const idx = favorites.findIndex(f => f.term.toLowerCase() === term.toLowerCase());
+      if (idx >= 0) {
+        favorites.splice(idx, 1);
+      } else {
+        favorites.unshift({ term, translation, context, date: new Date().toLocaleDateString('fr-FR') });
+      }
+      localStorage.setItem("telediario_favs", JSON.stringify(favorites));
+      updateFavoritesCounter();
+      renderVocabulary(allEpisodes[currentEpisodeIndex].vocabulary);
+      renderFavoritesModal();
+    }
+
+    function updateFavoritesCounter() {
+      const countEl = document.getElementById("fav-counter");
+      if (favorites.length > 0) {
+        countEl.innerText = favorites.length;
+        countEl.classList.remove("hidden");
+      } else {
+        countEl.classList.add("hidden");
+      }
+    }
+
+    function toggleFavoritesModal() {
+      const modal = document.getElementById("fav-modal");
+      if (modal.classList.contains("hidden")) {
+        modal.classList.remove("hidden");
+        renderFavoritesModal();
+      } else {
+        modal.classList.add("hidden");
+      }
+    }
+
+    function renderFavoritesModal() {
+      const container = document.getElementById("favorites-container");
+      container.innerHTML = "";
+      if (favorites.length === 0) {
+        container.innerHTML = `
+          <div class="text-center py-8 text-slate-500 space-y-2">
+            <i class="ph-bold ph-star text-3xl opacity-40"></i>
+            <p class="text-xs">Aucun mot favori enregistré pour le moment.</p>
+            <p class="text-[11px] text-slate-600">Cliquez sur l'étoile à côté des mots du Telediario pour les ajouter à votre carnet de révision.</p>
+          </div>
+        `;
+        return;
+      }
+
+      favorites.forEach((fav, i) => {
+        const item = document.createElement("div");
+        item.className = "bg-slate-950 p-2.5 rounded-xl border border-slate-800 flex items-start justify-between gap-2";
+        item.innerHTML = `
+          <div class="space-y-0.5">
+            <div class="flex items-center gap-1.5 text-xs">
+              <span class="font-bold text-amber-300 font-mono">${fav.term}</span>
+              <span class="text-slate-500">→</span>
+              <span class="text-slate-200 font-medium">${fav.translation}</span>
+            </div>
+            ${fav.context ? `<p class="text-[10px] text-slate-400 italic">« ${fav.context} »</p>` : ''}
+          </div>
+          <button onclick="removeFavorite(${i})" class="text-slate-500 hover:text-red-400 p-1">
+            <i class="ph-bold ph-trash text-sm"></i>
+          </button>
+        `;
+        container.appendChild(item);
+      });
+    }
+
+    function removeFavorite(idx) {
+      favorites.splice(idx, 1);
+      localStorage.setItem("telediario_favs", JSON.stringify(favorites));
+      updateFavoritesCounter();
+      renderFavoritesModal();
+      renderVocabulary(allEpisodes[currentEpisodeIndex].vocabulary);
+    }
+
+    function clearAllFavorites() {
+      if (confirm("Supprimer tous vos mots favoris ?")) {
+        favorites = [];
+        localStorage.removeItem("telediario_favs");
+        updateFavoritesCounter();
+        renderFavoritesModal();
+        renderVocabulary(allEpisodes[currentEpisodeIndex].vocabulary);
+      }
+    }
+
+    function copyAllFavorites() {
+      if (favorites.length === 0) return;
+      const text = favorites.map(f => `• ${f.term} : ${f.translation}${f.context ? ` ("${f.context}")` : ''}`).join("\n");
+      navigator.clipboard.writeText(text).then(() => {
+        alert("Liste de vocabulaire copiée dans le presse-papier !");
+      });
+    }
+
+    function toggleSection(contentId, chevronId) {
+      const content = document.getElementById(contentId);
+      const chevron = document.getElementById(chevronId);
+      if (content.classList.contains("hidden")) {
+        content.classList.remove("hidden");
+        chevron.className = "ph-bold ph-caret-up text-slate-400 transition-transform";
+      } else {
+        content.classList.add("hidden");
+        chevron.className = "ph-bold ph-caret-down text-slate-400 transition-transform";
+      }
+    }
+
+    function escapeQuotes(str) {
+      return (str || "").replace(/'/g, "\\'").replace(/"/g, '&quot;');
+    }
+
+    function showError(msg) {
+      document.getElementById("player-title").innerText = msg;
+    }
+
+    window.onload = initApp;
+  </script>
+</body>
+</html>
