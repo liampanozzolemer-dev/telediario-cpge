@@ -4,223 +4,416 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Telediario en 4' — Prépa Espagnol</title>
-  
-  <!-- PWA Meta tags pour iPhone et Android -->
+
+  <!-- PWA Meta tags -->
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Telediario 4'">
-  <meta name="theme-color" content="#0f172a">
+  <meta name="theme-color" content="#dc2626">
 
   <!-- Tailwind CSS via CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <!-- HLS.js pour la lecture audio/vidéo fluide sur Android/PC -->
+  <!-- HLS.js pour le streaming fluide -->
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <!-- Phosphor Icons pour une interface élégante -->
+  <!-- Phosphor Icons pour une interface moderne -->
   <script src="https://unpkg.com/@phosphor-icons/web"></script>
-  <!-- Données pré-chargées (permet le fonctionnement en local par simple double-clic) -->
+  <!-- Données locales pré-chargées (double-clic PC) -->
   <script src="data/telediarios.js"></script>
 
   <style>
-    /* Empêcher le rebond élastique sur iOS */
     body {
       -webkit-tap-highlight-color: transparent;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
     .custom-scrollbar::-webkit-scrollbar {
       display: none;
     }
+    /* Bandeau drapeau espagnol */
+    .bandera-espana {
+      background: linear-gradient(180deg, #dc2626 0%, #dc2626 25%, #f59e0b 25%, #f59e0b 75%, #dc2626 75%, #dc2626 100%);
+    }
   </style>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-amber-500 selection:text-slate-950">
+<body class="bg-gradient-to-b from-amber-50/70 via-slate-50 to-red-50/40 text-slate-900 min-h-screen flex flex-col antialiased selection:bg-amber-400 selection:text-red-950">
 
-  <!-- Header fixe avec statut et bouton Favoris -->
-  <header class="sticky top-0 z-40 bg-slate-900/90 backdrop-blur-md border-b border-slate-800 px-4 py-3 flex items-center justify-between">
-    <div class="flex items-center space-x-2">
-      <div class="w-8 h-8 rounded-lg bg-amber-500 text-slate-950 font-black flex items-center justify-center text-sm shadow-lg shadow-amber-500/20">
-        4'
+  <!-- Liseré supérieur Drapeau Espagnol -->
+  <div class="h-1.5 w-full bandera-espana shadow-sm"></div>
+
+  <!-- En-tête lumineux, dynamique et institutionnel -->
+  <header class="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-amber-200/80 px-4 py-2.5 shadow-sm">
+    <div class="max-w-2xl mx-auto flex items-center justify-between">
+      
+      <!-- Logo & Titre avec drapeau -->
+      <div class="flex items-center space-x-2.5">
+        <div class="w-10 h-10 rounded-2xl bg-gradient-to-tr from-red-600 to-amber-500 text-white font-black flex items-center justify-center text-base shadow-md shadow-red-500/20 border-2 border-amber-300">
+          4'
+        </div>
+        <div>
+          <div class="flex items-center gap-1.5">
+            <h1 class="text-base font-extrabold tracking-tight text-slate-900 flex items-center gap-1">
+              Telediario Express
+            </h1>
+            <span class="text-xs">🇪🇸</span>
+            <span class="text-[10px] bg-red-100 text-red-700 font-bold px-1.5 py-0.2 rounded-full border border-red-300">RTVE</span>
+          </div>
+          <p class="text-[11px] font-medium text-amber-800/80">Actualité & Lexique Concours CPGE</p>
+        </div>
       </div>
-      <div>
-        <h1 class="text-sm font-bold tracking-tight text-white flex items-center gap-1.5">
-          Telediario Express
-          <span class="text-[10px] bg-red-500/20 text-red-400 font-semibold px-1.5 py-0.5 rounded border border-red-500/30">RTVE</span>
-        </h1>
-        <p class="text-[11px] text-slate-400">Actualité & Lexique CPGE</p>
+
+      <!-- Boutons d'accès aux Favoris et aux Dossiers -->
+      <div class="flex items-center gap-2">
+        <!-- Bouton Dossiers Thématiques -->
+        <button onclick="openThematicModal()" class="flex items-center gap-1 bg-amber-100/90 hover:bg-amber-200 active:scale-95 text-amber-950 px-2.5 py-1.5 rounded-xl text-xs font-bold border border-amber-300 shadow-sm transition" title="Dossiers thématiques d'actualité">
+          <i class="ph-bold ph-folder text-base text-amber-700"></i>
+          <span class="hidden sm:inline">Dossiers</span>
+          <span id="dossier-badge" class="bg-red-600 text-white text-[10px] font-black px-1.5 py-0.2 rounded-full">0</span>
+        </button>
+
+        <!-- Bouton Vocabulaire -->
+        <button onclick="toggleFavoritesModal()" class="flex items-center gap-1 bg-red-600 hover:bg-red-700 active:scale-95 text-white px-2.5 py-1.5 rounded-xl text-xs font-bold shadow-sm shadow-red-600/20 transition" title="Mon Carnet de Vocabulaire">
+          <i class="ph-fill ph-star text-amber-300 text-sm"></i>
+          <span class="hidden sm:inline">Vocabulaire</span>
+          <span id="fav-counter" class="bg-amber-400 text-red-950 text-[10px] font-black px-1.5 py-0.2 rounded-full">0</span>
+        </button>
       </div>
+
     </div>
-
-    <!-- Bouton ouvrir les favoris -->
-    <button onclick="toggleFavoritesModal()" class="relative flex items-center gap-1.5 bg-slate-800 hover:bg-slate-700 active:scale-95 transition px-3 py-1.5 rounded-full text-xs font-medium border border-slate-700">
-      <i class="ph-fill ph-star text-amber-400 text-sm"></i>
-      <span>Vocabulaire</span>
-      <span id="fav-counter" class="bg-amber-500 text-slate-950 text-[10px] font-bold px-1.5 py-0.2 rounded-full hidden">0</span>
-    </button>
   </header>
 
-  <!-- Conteneur principal -->
-  <main class="flex-1 max-w-xl w-full mx-auto p-4 space-y-4 pb-20">
+  <!-- Contenu Principal -->
+  <main class="flex-1 max-w-2xl w-full mx-auto p-4 space-y-4 pb-24">
 
     <!-- Carrousel horizontal des éditions de la semaine -->
     <div class="space-y-1.5">
-      <div class="flex items-center justify-between text-xs text-slate-400 px-1">
-        <span class="font-semibold text-slate-300">Éditions disponibles</span>
-        <span id="date-indicator">Chargement...</span>
+      <div class="flex items-center justify-between text-xs font-bold text-slate-600 px-1">
+        <span class="flex items-center gap-1 text-red-700">
+          <i class="ph-bold ph-calendar"></i>
+          <span>Éditions récentes de la semaine</span>
+        </span>
+        <span id="date-indicator" class="text-amber-800 font-mono text-[11px] bg-amber-100/60 px-2 py-0.5 rounded-md border border-amber-200">
+          Chargement...
+        </span>
       </div>
-      <div id="episodes-pill-list" class="flex gap-2 overflow-x-auto pb-1 custom-scrollbar -mx-4 px-4">
+      <div id="episodes-pill-list" class="flex gap-2 overflow-x-auto pb-1.5 pt-0.5 custom-scrollbar -mx-4 px-4">
         <!-- Rempli dynamiquement -->
       </div>
     </div>
 
-    <!-- Lecteur Multimédia (Audio / Vidéo) -->
-    <section class="bg-slate-900 rounded-2xl border border-slate-800 p-4 shadow-xl space-y-3">
-      <!-- Sélecteur Mode Audio vs Mode Vidéo -->
-      <div class="flex bg-slate-950 p-1 rounded-xl border border-slate-800">
-        <button id="tab-audio" onclick="setMediaType('audio')" class="flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 bg-amber-500 text-slate-950 shadow">
-          <i class="ph-bold ph-headphones text-sm"></i>
-          <span>Audio seul (Express)</span>
+    <!-- Lecteur Multimédia (Audio robuste & Vidéo) -->
+    <section class="bg-white rounded-3xl border-2 border-amber-200/80 p-4 shadow-lg shadow-amber-900/5 space-y-3.5 relative overflow-hidden">
+      <!-- Décoration festive discrète -->
+      <div class="absolute -right-6 -bottom-6 w-28 h-28 bg-gradient-to-br from-amber-200/40 to-red-200/40 rounded-full blur-2xl pointer-events-none"></div>
+
+      <!-- Bascule Mode Audio / Mode Vidéo -->
+      <div class="flex bg-amber-100/70 p-1 rounded-2xl border border-amber-200">
+        <button id="tab-audio" onclick="setMediaType('audio')" class="flex-1 py-2 text-xs font-bold rounded-xl transition flex items-center justify-center gap-1.5 bg-red-600 text-white shadow-md shadow-red-600/20">
+          <i class="ph-bold ph-headphones text-base"></i>
+          <span>🎧 Mode Audio seul (Express)</span>
         </button>
-        <button id="tab-video" onclick="setMediaType('video')" class="flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 text-slate-400 hover:text-white">
-          <i class="ph-bold ph-video-camera text-sm"></i>
-          <span>Vidéo complète</span>
+        <button id="tab-video" onclick="setMediaType('video')" class="flex-1 py-2 text-xs font-bold rounded-xl transition flex items-center justify-center gap-1.5 text-amber-900 hover:text-red-700">
+          <i class="ph-bold ph-video-camera text-base"></i>
+          <span>🎬 Mode Vidéo officiel</span>
         </button>
       </div>
 
-      <!-- Zone Vidéo (affichée seulement en mode vidéo) -->
-      <div id="video-container" class="hidden aspect-video rounded-xl overflow-hidden bg-black border border-slate-800 relative">
+      <!-- Zone Vidéo (Iframe officielle RTVE) -->
+      <div id="video-container" class="hidden aspect-video rounded-2xl overflow-hidden bg-black border border-slate-300 relative shadow-inner">
         <iframe id="video-iframe" class="w-full h-full" src="" frameborder="0" allowfullscreen allow="autoplay"></iframe>
       </div>
 
-      <!-- Zone Audio Player (affichée en mode audio) -->
-      <div id="audio-container" class="bg-gradient-to-br from-slate-800/80 to-slate-900 rounded-xl p-4 border border-slate-700/60 flex flex-col items-center justify-center space-y-3">
-        <div class="text-center space-y-1">
-          <p id="player-title" class="text-xs font-semibold text-white line-clamp-1">Chargement du journal...</p>
-          <p id="player-date" class="text-[11px] text-slate-400 font-mono">RTVE Play • 4 minutes</p>
+      <!-- Zone Audio Player (HLS robuste anti-coupure) -->
+      <div id="audio-container" class="bg-gradient-to-br from-amber-500/10 via-red-500/10 to-amber-500/15 rounded-2xl p-4 border border-amber-200 flex flex-col items-center justify-center space-y-3 shadow-inner">
+        
+        <!-- Élément vidéo masqué pour le décodage continu (anti-bug de coupure) -->
+        <video id="media-player" playsinline style="width: 1px; height: 1px; opacity: 0.01; position: absolute; pointer-events: none;"></video>
+
+        <div class="text-center space-y-0.5">
+          <div class="inline-flex items-center gap-1 text-[11px] font-bold text-red-700 bg-red-100 px-2 py-0.5 rounded-full border border-red-200 mb-1">
+            <span class="w-2 h-2 rounded-full bg-red-600 animate-pulse"></span>
+            RTVE Noticias 4'
+          </div>
+          <p id="player-title" class="text-sm font-extrabold text-slate-900 line-clamp-1">Chargement du journal...</p>
+          <p id="player-date" class="text-xs text-amber-800 font-medium">Édition du jour</p>
         </div>
 
-        <audio id="main-audio" preload="metadata"></audio>
-
         <!-- Commandes Audio -->
-        <div class="flex items-center gap-4">
-          <button onclick="seekAudio(-15)" class="text-slate-400 hover:text-white transition p-2 active:scale-90" title="-15s">
-            <i class="ph-bold ph-arrow-counter-clockwise text-xl"></i>
+        <div class="flex items-center gap-5 pt-1">
+          <button onclick="seekAudio(-15)" class="w-10 h-10 rounded-full bg-white hover:bg-amber-100 text-slate-700 border border-amber-200 flex items-center justify-center transition active:scale-90 shadow-sm" title="Reculer de 15s">
+            <i class="ph-bold ph-arrow-counter-clockwise text-lg"></i>
           </button>
           
-          <button id="play-btn" onclick="togglePlay()" class="w-14 h-14 rounded-full bg-amber-500 hover:bg-amber-400 active:scale-95 text-slate-950 flex items-center justify-center shadow-lg shadow-amber-500/25 transition">
-            <i id="play-icon" class="ph-fill ph-play text-2xl ml-0.5"></i>
+          <button id="play-btn" onclick="togglePlay()" class="w-16 h-16 rounded-full bg-gradient-to-tr from-red-600 to-amber-500 hover:from-red-500 hover:to-amber-400 active:scale-95 text-white flex items-center justify-center shadow-xl shadow-red-500/30 transition border-2 border-white">
+            <i id="play-icon" class="ph-fill ph-play text-3xl ml-1"></i>
           </button>
 
-          <button onclick="seekAudio(15)" class="text-slate-400 hover:text-white transition p-2 active:scale-90" title="+15s">
-            <i class="ph-bold ph-arrow-clockwise text-xl"></i>
+          <button onclick="seekAudio(15)" class="w-10 h-10 rounded-full bg-white hover:bg-amber-100 text-slate-700 border border-amber-200 flex items-center justify-center transition active:scale-90 shadow-sm" title="Avancer de 15s">
+            <i class="ph-bold ph-arrow-clockwise text-lg"></i>
           </button>
         </div>
 
         <!-- Barre de progression -->
-        <div class="w-full space-y-1">
-          <div class="w-full bg-slate-950 h-1.5 rounded-full overflow-hidden cursor-pointer" onclick="seekClick(event)">
-            <div id="progress-bar" class="bg-amber-500 h-full w-0 rounded-full transition-all duration-100"></div>
+        <div class="w-full space-y-1 pt-1">
+          <div class="w-full bg-amber-200/70 h-2.5 rounded-full overflow-hidden cursor-pointer shadow-inner relative" onclick="seekClick(event)">
+            <div id="progress-bar" class="bg-gradient-to-r from-red-600 to-amber-500 h-full w-0 rounded-full transition-all duration-100"></div>
           </div>
-          <div class="flex justify-between text-[10px] text-slate-500 font-mono px-0.5">
+          <div class="flex justify-between text-[11px] text-amber-900 font-mono font-semibold px-1">
             <span id="current-time">0:00</span>
             <span id="total-duration">4:00</span>
           </div>
         </div>
+
+        <!-- Bouton relancer en cas de coupure réseau -->
+        <button onclick="forceReloadAudio()" class="text-[11px] text-amber-800 hover:text-red-700 underline font-medium flex items-center gap-1 transition">
+          <i class="ph-bold ph-arrows-clockwise"></i>
+          <span>Relancer le flux si la lecture s'interrompt</span>
+        </button>
       </div>
     </section>
 
-    <!-- Accordéon 1 : Résumé des actualités (IA) -->
-    <section class="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden shadow-lg transition">
-      <button onclick="toggleSection('summary-content', 'summary-chevron')" class="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-slate-800/40 transition">
-        <div class="flex items-center gap-2">
-          <div class="p-1.5 rounded-lg bg-blue-500/10 text-blue-400 border border-blue-500/20">
-            <i class="ph-bold ph-newspaper-clipping text-base"></i>
+    <!-- SECTION 1 : Résumé des actualités avec classement par dossier thématique -->
+    <section class="bg-white rounded-3xl border-2 border-red-200/80 shadow-md shadow-red-500/5 overflow-hidden transition">
+      <button onclick="toggleSection('summary-content', 'summary-chevron')" class="w-full px-5 py-3.5 flex items-center justify-between text-left bg-gradient-to-r from-red-50/70 to-amber-50/50 hover:bg-red-100/50 transition">
+        <div class="flex items-center gap-3">
+          <div class="w-9 h-9 rounded-2xl bg-red-600 text-white flex items-center justify-center shadow-md shadow-red-600/20 text-lg">
+            <i class="ph-bold ph-newspaper-clipping"></i>
           </div>
           <div>
-            <h2 class="text-xs font-bold text-slate-200 uppercase tracking-wider">Résumé de l'actualité</h2>
-            <p class="text-[11px] text-slate-400">Faits marquants & analyse géopolitique</p>
+            <h2 class="text-sm font-extrabold text-slate-900 tracking-tight">Titulares del día — Points clés</h2>
+            <p class="text-xs text-red-700 font-medium">Synthèse journalistique & enjeux géopolitiques</p>
           </div>
         </div>
-        <i id="summary-chevron" class="ph-bold ph-caret-up text-slate-400 transition-transform"></i>
+        <i id="summary-chevron" class="ph-bold ph-caret-up text-red-700 text-lg transition-transform"></i>
       </button>
 
-      <div id="summary-content" class="px-4 pb-4 space-y-2.5 pt-1">
-        <ul id="summary-list" class="space-y-2 text-xs leading-relaxed text-slate-300">
+      <div id="summary-content" class="p-4 space-y-2.5 bg-white">
+        <ul id="summary-list" class="space-y-2.5">
           <!-- Rempli dynamiquement -->
         </ul>
       </div>
     </section>
 
-    <!-- Accordéon 2 : Vocabulaire clé CPGE (IA) -->
-    <section class="bg-slate-900 rounded-2xl border border-slate-800 overflow-hidden shadow-lg transition">
-      <button onclick="toggleSection('vocab-content', 'vocab-chevron')" class="w-full px-4 py-3 flex items-center justify-between text-left hover:bg-slate-800/40 transition">
-        <div class="flex items-center gap-2">
-          <div class="p-1.5 rounded-lg bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-            <i class="ph-bold ph-translate text-base"></i>
+    <!-- SECTION 2 : Vocabulaire & Tournures clés CPGE -->
+    <section class="bg-white rounded-3xl border-2 border-amber-300/80 shadow-md shadow-amber-500/5 overflow-hidden transition">
+      <button onclick="toggleSection('vocab-content', 'vocab-chevron')" class="w-full px-5 py-3.5 flex items-center justify-between text-left bg-gradient-to-r from-amber-50/80 to-amber-100/40 hover:bg-amber-100/60 transition">
+        <div class="flex items-center gap-3">
+          <div class="w-9 h-9 rounded-2xl bg-amber-500 text-amber-950 flex items-center justify-center shadow-md shadow-amber-500/20 text-lg">
+            <i class="ph-bold ph-translate"></i>
           </div>
           <div>
-            <h2 class="text-xs font-bold text-slate-200 uppercase tracking-wider">Vocabulaire & Tournures clés</h2>
-            <p class="text-[11px] text-slate-400">À mémoriser pour les épreuves & khôlles</p>
+            <h2 class="text-sm font-extrabold text-slate-900 tracking-tight">Léxico & Expresiones clave</h2>
+            <p class="text-xs text-amber-800 font-medium">Vocabulaire de concours à mémoriser (★ favoris)</p>
           </div>
         </div>
-        <i id="vocab-chevron" class="ph-bold ph-caret-up text-slate-400 transition-transform"></i>
+        <i id="vocab-chevron" class="ph-bold ph-caret-up text-amber-700 text-lg transition-transform"></i>
       </button>
 
-      <div id="vocab-content" class="px-4 pb-4 space-y-2.5 pt-1">
-        <div id="vocab-list" class="space-y-2">
+      <div id="vocab-content" class="p-4 bg-white">
+        <div id="vocab-list" class="space-y-2.5">
           <!-- Rempli dynamiquement -->
         </div>
       </div>
     </section>
 
+    <!-- SECTION 3 : Transcription intégrale (Repliée par défaut) -->
+    <section class="bg-white rounded-3xl border-2 border-slate-200 shadow-md shadow-slate-200/50 overflow-hidden transition">
+      <button onclick="toggleSection('transcript-content', 'transcript-chevron')" class="w-full px-5 py-3.5 flex items-center justify-between text-left bg-slate-50 hover:bg-slate-100 transition">
+        <div class="flex items-center gap-3">
+          <div class="w-9 h-9 rounded-2xl bg-slate-800 text-white flex items-center justify-center shadow text-lg">
+            <i class="ph-bold ph-article"></i>
+          </div>
+          <div>
+            <h2 class="text-sm font-extrabold text-slate-900 tracking-tight">Transcripción completa</h2>
+            <p class="text-xs text-slate-500 font-medium">Texte officiel de l'audio en espagnol (dépliable)</p>
+          </div>
+        </div>
+        <i id="transcript-chevron" class="ph-bold ph-caret-down text-slate-600 text-lg transition-transform"></i>
+      </button>
+
+      <div id="transcript-content" class="p-4 bg-white hidden space-y-3">
+        <div class="flex justify-between items-center pb-2 border-b border-slate-100">
+          <span class="text-xs font-semibold text-slate-500">Texte retranscrit officiel</span>
+          <button onclick="copyTranscript()" class="text-xs font-bold text-red-600 hover:text-red-700 flex items-center gap-1 bg-red-50 px-2.5 py-1 rounded-lg border border-red-200 transition">
+            <i class="ph-bold ph-copy"></i>
+            <span>Copier le texte</span>
+          </button>
+        </div>
+        <p id="transcript-text" class="text-xs text-slate-700 leading-relaxed font-sans whitespace-pre-line bg-amber-50/40 p-3 rounded-2xl border border-amber-100">
+          <!-- Rempli dynamiquement -->
+        </p>
+      </div>
+    </section>
+
   </main>
 
-  <!-- Modal / Panneau latéral des favoris -->
-  <div id="fav-modal" class="fixed inset-0 z-50 bg-slate-950/80 backdrop-blur-sm hidden flex items-end sm:items-center justify-center p-0 sm:p-4">
-    <div class="bg-slate-900 border border-slate-800 rounded-t-3xl sm:rounded-2xl max-w-lg w-full max-h-[85vh] flex flex-col shadow-2xl overflow-hidden">
-      <div class="p-4 border-b border-slate-800 flex items-center justify-between">
+  <!-- MODAL 1 : Mon Carnet de Vocabulaire (Favoris) -->
+  <div id="fav-modal" class="fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-sm hidden flex items-end sm:items-center justify-center p-0 sm:p-4">
+    <div class="bg-white rounded-t-3xl sm:rounded-3xl max-w-lg w-full max-h-[85vh] flex flex-col shadow-2xl border-2 border-amber-200 overflow-hidden">
+      <div class="p-4 border-b border-amber-100 bg-amber-50 flex items-center justify-between">
         <div class="flex items-center gap-2">
-          <i class="ph-fill ph-star text-amber-400 text-lg"></i>
-          <h3 class="text-sm font-bold text-white">Mon Carnet de Vocabulaire</h3>
+          <div class="w-8 h-8 rounded-xl bg-red-600 text-white flex items-center justify-center shadow">
+            <i class="ph-fill ph-star text-amber-300 text-base"></i>
+          </div>
+          <div>
+            <h3 class="text-sm font-black text-slate-900">Mi Cuaderno de Léxico</h3>
+            <p class="text-[11px] text-amber-800">Mots sauvegardés pour vos khôlles</p>
+          </div>
         </div>
-        <button onclick="toggleFavoritesModal()" class="text-slate-400 hover:text-white p-1 rounded-lg">
+        <button onclick="toggleFavoritesModal()" class="w-8 h-8 rounded-full bg-white hover:bg-slate-100 text-slate-500 flex items-center justify-center border border-slate-200">
           <i class="ph-bold ph-x text-base"></i>
         </button>
       </div>
 
-      <div id="favorites-container" class="p-4 overflow-y-auto space-y-2 flex-1 custom-scrollbar">
+      <div id="favorites-container" class="p-4 overflow-y-auto space-y-2.5 flex-1 custom-scrollbar">
         <!-- Rempli dynamiquement -->
       </div>
 
-      <div class="p-3 border-t border-slate-800 bg-slate-950/50 flex gap-2">
-        <button onclick="copyAllFavorites()" class="flex-1 py-2 text-xs font-semibold bg-slate-800 hover:bg-slate-700 active:scale-95 text-slate-200 rounded-xl transition flex items-center justify-center gap-1.5 border border-slate-700">
+      <div class="p-3 border-t border-slate-100 bg-slate-50 flex gap-2">
+        <button onclick="copyAllFavorites()" class="flex-1 py-2.5 text-xs font-bold bg-red-600 hover:bg-red-700 active:scale-95 text-white rounded-xl transition flex items-center justify-center gap-1.5 shadow-md shadow-red-600/20">
           <i class="ph-bold ph-copy"></i>
-          <span>Copier ma liste</span>
+          <span>Copier ma liste de vocabulaire</span>
         </button>
-        <button onclick="clearAllFavorites()" class="py-2 px-3 text-xs font-semibold text-red-400 hover:bg-red-500/10 rounded-xl transition">
-          <i class="ph-bold ph-trash"></i>
+        <button onclick="clearAllFavorites()" class="py-2.5 px-3 text-xs font-bold text-red-600 hover:bg-red-100 rounded-xl transition" title="Tout effacer">
+          <i class="ph-bold ph-trash text-base"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL 2 : Mes Dossiers Thématiques d'Actualité -->
+  <div id="thematic-modal" class="fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-sm hidden flex items-end sm:items-center justify-center p-0 sm:p-4">
+    <div class="bg-white rounded-t-3xl sm:rounded-3xl max-w-xl w-full max-h-[90vh] flex flex-col shadow-2xl border-2 border-amber-300 overflow-hidden">
+      
+      <div class="p-4 border-b border-amber-100 bg-gradient-to-r from-amber-50 to-red-50 flex items-center justify-between">
+        <div class="flex items-center gap-2.5">
+          <div class="w-9 h-9 rounded-2xl bg-amber-500 text-amber-950 flex items-center justify-center shadow">
+            <i class="ph-bold ph-folder-notch-open text-xl"></i>
+          </div>
+          <div>
+            <h3 class="text-sm font-black text-slate-900">Dossiers Thématiques d'Actualité</h3>
+            <p class="text-[11px] text-amber-900 font-medium">Classement par sujets de dissertation & khôlle</p>
+          </div>
+        </div>
+        <button onclick="closeThematicModal()" class="w-8 h-8 rounded-full bg-white hover:bg-slate-100 text-slate-500 flex items-center justify-center border border-slate-200">
+          <i class="ph-bold ph-x text-base"></i>
+        </button>
+      </div>
+
+      <!-- Onglets des dossiers existants -->
+      <div class="p-3 bg-amber-50/50 border-b border-amber-100 flex items-center gap-2 overflow-x-auto custom-scrollbar" id="dossier-tabs-list">
+        <!-- Rempli dynamiquement -->
+      </div>
+
+      <!-- Contenu du dossier sélectionné -->
+      <div class="p-4 overflow-y-auto space-y-3 flex-1 custom-scrollbar bg-slate-50" id="dossier-items-container">
+        <!-- Rempli dynamiquement -->
+      </div>
+
+      <div class="p-3 border-t border-slate-200 bg-white flex gap-2">
+        <button onclick="copyCurrentDossier()" class="flex-1 py-2.5 text-xs font-bold bg-amber-500 hover:bg-amber-600 active:scale-95 text-amber-950 rounded-xl transition flex items-center justify-center gap-1.5 shadow">
+          <i class="ph-bold ph-copy"></i>
+          <span>Copier la fiche de ce thème</span>
+        </button>
+        <button onclick="deleteCurrentDossier()" class="py-2.5 px-3 text-xs font-bold text-red-600 hover:bg-red-50 rounded-xl transition border border-red-200" title="Supprimer ce dossier">
+          <i class="ph-bold ph-trash text-base"></i>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- MODAL 3 : Dialogue pour enregistrer un point dans un dossier -->
+  <div id="save-item-modal" class="fixed inset-0 z-50 bg-slate-900/60 backdrop-blur-sm hidden flex items-center justify-center p-4">
+    <div class="bg-white rounded-3xl max-w-md w-full p-5 shadow-2xl border-2 border-amber-300 space-y-4">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center gap-2">
+          <div class="w-8 h-8 rounded-xl bg-amber-500 text-amber-950 flex items-center justify-center font-bold">
+            <i class="ph-bold ph-folder-plus text-base"></i>
+          </div>
+          <h4 class="text-sm font-black text-slate-900">Classer ce fait d'actualité</h4>
+        </div>
+        <button onclick="closeSaveItemModal()" class="text-slate-400 hover:text-slate-600">
+          <i class="ph-bold ph-x text-base"></i>
+        </button>
+      </div>
+
+      <!-- Point sélectionné -->
+      <div class="p-3 bg-amber-50 rounded-2xl border border-amber-200 text-xs text-slate-800 leading-relaxed font-medium" id="save-item-preview">
+        <!-- Rempli dynamiquement -->
+      </div>
+
+      <!-- Choix d'un dossier existant (masqué si aucun dossier n'a encore été créé) -->
+      <div id="existing-dossier-group" class="space-y-1.5">
+        <label class="text-xs font-bold text-slate-700">Choisir un dossier existant :</label>
+        <select id="dossier-select" class="w-full text-xs font-semibold p-2.5 bg-slate-50 border border-slate-300 rounded-xl focus:ring-2 focus:ring-amber-500 outline-none">
+          <!-- Rempli dynamiquement -->
+        </select>
+      </div>
+
+      <!-- Créer un nouveau dossier -->
+      <div class="space-y-1.5 pt-1">
+        <label id="new-dossier-label" class="text-xs font-bold text-slate-700">Créer un nouveau dossier :</label>
+        <div class="flex gap-2">
+          <input type="text" id="new-dossier-input" placeholder="Ex: Crise du logement, Politique, etc." class="flex-1 text-xs p-2.5 bg-slate-50 border border-slate-300 rounded-xl focus:ring-2 focus:ring-amber-500 outline-none">
+        </div>
+      </div>
+
+      <!-- Bouton Valider -->
+      <div class="pt-2 flex gap-2">
+        <button onclick="closeSaveItemModal()" class="flex-1 py-2.5 text-xs font-bold text-slate-600 hover:bg-slate-100 rounded-xl transition">
+          Annuler
+        </button>
+        <button onclick="confirmSaveToDossier()" class="flex-1 py-2.5 text-xs font-bold bg-red-600 hover:bg-red-700 text-white rounded-xl shadow-md shadow-red-600/20 transition">
+          Enregistrer
         </button>
       </div>
     </div>
   </div>
 
   <script>
-    // Variables globales
+    // --- VARIABLES D'ÉTAT ---
     let allEpisodes = [];
     let currentEpisodeIndex = 0;
-    let mediaMode = "audio"; // 'audio' ou 'video'
+    let mediaMode = "audio";
     let hls = null;
-    let favorites = JSON.parse(localStorage.getItem("telediario_favs") || "[]");
+    let currentHlsUrl = "";
+    let itemToSave = null;
 
-    const audioEl = document.getElementById("main-audio");
+    // Données sauvegardées dans localStorage
+    let favorites = JSON.parse(localStorage.getItem("telediario_favs") || "[]");
+    let dossiers = JSON.parse(localStorage.getItem("telediario_dossiers") || "{}");
+    let activeDossierName = "";
+
+    // Nettoyage automatique des anciens dossiers de test s'ils sont encore vides dans le navigateur
+    const oldTestKeys = [
+      "Crise du logement & Économie",
+      "Politique & Institutions (Monarquía, Leyes)",
+      "Société, Jeunesse & Inégalités",
+      "Amérique Latine"
+    ];
+    let hasCleanedOld = false;
+    oldTestKeys.forEach(k => {
+      if (dossiers[k] && dossiers[k].length === 0) {
+        delete dossiers[k];
+        hasCleanedOld = true;
+      }
+    });
+    if (hasCleanedOld) {
+      localStorage.setItem("telediario_dossiers", JSON.stringify(dossiers));
+    }
+
+    const mediaPlayer = document.getElementById("media-player");
     const playBtn = document.getElementById("play-btn");
     const playIcon = document.getElementById("play-icon");
     const progressBar = document.getElementById("progress-bar");
     const currentTimeEl = document.getElementById("current-time");
     const totalDurationEl = document.getElementById("total-duration");
 
-    // Chargement initial des données
+    // --- INITIALISATION ---
     async function initApp() {
       updateFavoritesCounter();
+      updateDossierBadge();
 
-      // 1. Priorité aux données injectées par data/telediarios.js (fonctionne en local avec simple double-clic !)
+      // 1. Priorité aux données injectées par data/telediarios.js
       if (window.TELEDIARIO_DATA && Array.isArray(window.TELEDIARIO_DATA) && window.TELEDIARIO_DATA.length > 0) {
         allEpisodes = window.TELEDIARIO_DATA;
         renderEpisodePills();
@@ -228,7 +421,7 @@
         return;
       }
 
-      // 2. Repli par requête fetch (pour déploiement serveur GitHub Pages / Vercel)
+      // 2. Repli par requête fetch
       try {
         const res = await fetch("data/telediarios.json");
         if (res.ok) {
@@ -240,13 +433,13 @@
           }
         }
       } catch (err) {
-        console.warn("Fetch distant indisponible ou bloqué :", err);
+        console.warn("Fetch distant bloqué ou indisponible :", err);
       }
 
-      showError("Aucune édition disponible pour le moment.");
+      document.getElementById("player-title").innerText = "Impossible de charger les éditions.";
     }
 
-    // Affichage des pilules d'éditions
+    // --- CARROUSEL DES ÉDITIONS ---
     function renderEpisodePills() {
       const list = document.getElementById("episodes-pill-list");
       list.innerHTML = "";
@@ -255,23 +448,23 @@
         const btn = document.createElement("button");
         btn.id = `pill-${idx}`;
         btn.onclick = () => selectEpisode(idx);
-        
+
         const isToday = idx === 0;
-        btn.className = `flex-shrink-0 px-3 py-2 rounded-xl text-left border transition text-xs flex flex-col space-y-0.5 ${
-          idx === 0
-            ? "bg-amber-500/15 border-amber-500/40 text-amber-300 font-semibold"
-            : "bg-slate-900/80 border-slate-800 text-slate-400 hover:border-slate-700"
+        btn.className = `flex-shrink-0 px-3 py-2 rounded-2xl text-left border-2 transition text-xs flex flex-col space-y-0.5 ${
+          isToday
+            ? "bg-red-600 text-white border-red-500 shadow-md shadow-red-600/20 font-bold"
+            : "bg-white border-amber-200 text-slate-700 hover:border-amber-400"
         }`;
 
         btn.innerHTML = `
-          <span class="text-[10px] uppercase tracking-wider font-mono opacity-80">${ep.date_label || ep.date}</span>
-          <span class="line-clamp-1 text-white">${ep.title.replace("Telediario ", "")}</span>
+          <span class="text-[10px] uppercase tracking-wider font-mono opacity-90">${ep.date_label || ep.date}</span>
+          <span class="line-clamp-1 font-bold">${ep.title.replace("Telediario ", "")}</span>
         `;
         list.appendChild(btn);
       });
     }
 
-    // Sélection d'une édition
+    // --- SÉLECTION D'UN ÉPISODE ---
     function selectEpisode(idx) {
       currentEpisodeIndex = idx;
       const ep = allEpisodes[idx];
@@ -281,86 +474,126 @@
         const pill = document.getElementById(`pill-${i}`);
         if (pill) {
           if (i === idx) {
-            pill.className = "flex-shrink-0 px-3 py-2 rounded-xl text-left border transition text-xs flex flex-col space-y-0.5 bg-amber-500 text-slate-950 font-bold border-amber-400 shadow-md shadow-amber-500/20";
+            pill.className = "flex-shrink-0 px-3 py-2 rounded-2xl text-left border-2 transition text-xs flex flex-col space-y-0.5 bg-red-600 text-white font-bold border-red-500 shadow-md shadow-red-600/20 scale-[1.02]";
           } else {
-            pill.className = "flex-shrink-0 px-3 py-2 rounded-xl text-left border transition text-xs flex flex-col space-y-0.5 bg-slate-900 border-slate-800 text-slate-400 hover:border-slate-700";
+            pill.className = "flex-shrink-0 px-3 py-2 rounded-2xl text-left border-2 transition text-xs flex flex-col space-y-0.5 bg-white border-amber-200 text-slate-700 hover:border-amber-400";
           }
         }
       });
 
       document.getElementById("date-indicator").innerText = `${ep.date_label || ep.date}`;
       document.getElementById("player-title").innerText = ep.title;
-      document.getElementById("player-date").innerText = `${ep.date_label || ep.date} • Durée : ${ep.duration}`;
+      document.getElementById("player-date").innerText = `RTVE en 4 minutos • ${ep.date_label || ep.date}`;
 
       // Configurer la vidéo
       const iframe = document.getElementById("video-iframe");
       iframe.src = ep.embed_url;
 
-      // Configurer l'audio (via HLS stream ou source native)
+      // Configurer l'audio robuste
       setupAudioStream(ep.hls_url);
 
-      // Remplir le résumé
-      renderSummary(ep.summary);
+      // Résumé
+      renderSummary(ep.summary, ep.title, ep.date_label || ep.date);
 
-      // Remplir le vocabulaire
+      // Vocabulaire
       renderVocabulary(ep.vocabulary);
+
+      // Transcription avec surbrillance du vocabulaire
+      renderTranscript(ep.transcript, ep.vocabulary);
     }
 
-    // Configuration du flux audio via Hls.js ou HTML5 natif (Safari iOS)
+    // --- LECTEUR AUDIO HLS ANTI-COUPURE ---
     function setupAudioStream(hlsUrl) {
-      audioEl.pause();
-      playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+      currentHlsUrl = hlsUrl;
+      mediaPlayer.pause();
+      playIcon.className = "ph-fill ph-play text-3xl ml-1";
       progressBar.style.width = "0%";
       currentTimeEl.innerText = "0:00";
 
-      if (audioEl.canPlayType("application/vnd.apple.mpegurl")) {
+      if (mediaPlayer.canPlayType("application/vnd.apple.mpegurl")) {
         // Safari iOS natif
-        audioEl.src = hlsUrl;
+        mediaPlayer.src = hlsUrl;
       } else if (Hls.isSupported()) {
         if (hls) {
           hls.destroy();
         }
-        hls = new Hls();
+        hls = new Hls({
+          enableWorker: true,
+          lowLatencyMode: false,
+          backBufferLength: 90
+        });
         hls.loadSource(hlsUrl);
-        hls.attachMedia(audioEl);
+        hls.attachMedia(mediaPlayer);
+
+        // Gestionnaire d'erreurs pour reprise automatique sans arrêt
+        hls.on(Hls.Events.ERROR, function (event, data) {
+          if (data.fatal) {
+            switch (data.type) {
+              case Hls.ErrorTypes.NETWORK_ERROR:
+                console.warn("Erreur réseau HLS, relance du flux...");
+                hls.startLoad();
+                break;
+              case Hls.ErrorTypes.MEDIA_ERROR:
+                console.warn("Erreur média HLS, récupération du tampon...");
+                hls.recoverMediaError();
+                break;
+              default:
+                console.warn("Erreur irrécupérable, réinitialisation...");
+                hls.destroy();
+                setupAudioStream(currentHlsUrl);
+                break;
+            }
+          }
+        });
       }
     }
 
-    // Gestion du Play / Pause
     function togglePlay() {
-      if (audioEl.paused) {
-        audioEl.play().then(() => {
-          playIcon.className = "ph-fill ph-pause text-2xl";
-        }).catch(err => console.log("Play error:", err));
+      if (mediaPlayer.paused) {
+        mediaPlayer.play().then(() => {
+          playIcon.className = "ph-fill ph-pause text-3xl";
+        }).catch(err => {
+          console.log("Erreur lecture:", err);
+          forceReloadAudio();
+        });
       } else {
-        audioEl.pause();
-        playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+        mediaPlayer.pause();
+        playIcon.className = "ph-fill ph-play text-3xl ml-1";
       }
     }
 
-    audioEl.addEventListener("timeupdate", () => {
-      if (audioEl.duration) {
-        const pct = (audioEl.currentTime / audioEl.duration) * 100;
+    function forceReloadAudio() {
+      if (currentHlsUrl) {
+        setupAudioStream(currentHlsUrl);
+        mediaPlayer.play().then(() => {
+          playIcon.className = "ph-fill ph-pause text-3xl";
+        }).catch(e => console.log(e));
+      }
+    }
+
+    mediaPlayer.addEventListener("timeupdate", () => {
+      if (mediaPlayer.duration) {
+        const pct = (mediaPlayer.currentTime / mediaPlayer.duration) * 100;
         progressBar.style.width = `${pct}%`;
-        currentTimeEl.innerText = formatTime(audioEl.currentTime);
-        totalDurationEl.innerText = formatTime(audioEl.duration);
+        currentTimeEl.innerText = formatTime(mediaPlayer.currentTime);
+        totalDurationEl.innerText = formatTime(mediaPlayer.duration);
       }
     });
 
-    audioEl.addEventListener("ended", () => {
-      playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+    mediaPlayer.addEventListener("ended", () => {
+      playIcon.className = "ph-fill ph-play text-3xl ml-1";
       progressBar.style.width = "0%";
     });
 
     function seekAudio(seconds) {
-      audioEl.currentTime = Math.max(0, Math.min(audioEl.currentTime + seconds, audioEl.duration || 240));
+      mediaPlayer.currentTime = Math.max(0, Math.min(mediaPlayer.currentTime + seconds, mediaPlayer.duration || 240));
     }
 
     function seekClick(e) {
       const rect = e.currentTarget.getBoundingClientRect();
       const clickPos = (e.clientX - rect.left) / rect.width;
-      if (audioEl.duration) {
-        audioEl.currentTime = clickPos * audioEl.duration;
+      if (mediaPlayer.duration) {
+        mediaPlayer.currentTime = clickPos * mediaPlayer.duration;
       }
     }
 
@@ -370,7 +603,7 @@
       return `${m}:${s < 10 ? '0' : ''}${s}`;
     }
 
-    // Basculer entre Audio seul et Vidéo
+    // Basculer Audio / Vidéo
     function setMediaType(type) {
       mediaMode = type;
       const tabAudio = document.getElementById("tab-audio");
@@ -379,72 +612,334 @@
       const videoContainer = document.getElementById("video-container");
 
       if (type === "audio") {
-        tabAudio.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 bg-amber-500 text-slate-950 shadow";
-        tabVideo.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 text-slate-400 hover:text-white";
+        tabAudio.className = "flex-1 py-2 text-xs font-bold rounded-xl transition flex items-center justify-center gap-1.5 bg-red-600 text-white shadow-md shadow-red-600/20";
+        tabVideo.className = "flex-1 py-2 text-xs font-bold rounded-xl transition flex items-center justify-center gap-1.5 text-amber-900 hover:text-red-700";
         audioContainer.classList.remove("hidden");
         videoContainer.classList.add("hidden");
       } else {
-        tabVideo.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 bg-amber-500 text-slate-950 shadow";
-        tabAudio.className = "flex-1 py-1.5 text-xs font-semibold rounded-lg transition flex items-center justify-center gap-1.5 text-slate-400 hover:text-white";
+        tabVideo.className = "flex-1 py-2 text-xs font-bold rounded-xl transition flex items-center justify-center gap-1.5 bg-red-600 text-white shadow-md shadow-red-600/20";
+        tabAudio.className = "flex-1 py-2 text-xs font-bold rounded-xl transition flex items-center justify-center gap-1.5 text-amber-900 hover:text-red-700";
         videoContainer.classList.remove("hidden");
         audioContainer.classList.add("hidden");
-        audioEl.pause();
-        playIcon.className = "ph-fill ph-play text-2xl ml-0.5";
+        mediaPlayer.pause();
+        playIcon.className = "ph-fill ph-play text-3xl ml-1";
       }
     }
 
-    // Affichage du résumé
-    function renderSummary(summaryList) {
+    // --- AFFICHAGE RÉSUMÉ & BOUTON CLASSER ---
+    function renderSummary(summaryList, epTitle, epDate) {
       const container = document.getElementById("summary-list");
       container.innerHTML = "";
       if (!summaryList || summaryList.length === 0) {
-        container.innerHTML = `<li class="text-slate-500 italic">Résumé non disponible pour cette édition.</li>`;
+        container.innerHTML = `<li class="text-slate-500 italic text-xs">Résumé non disponible pour cette édition.</li>`;
         return;
       }
-      summaryList.forEach(item => {
+
+      summaryList.forEach((item, i) => {
         const li = document.createElement("li");
-        li.className = "flex items-start gap-2 bg-slate-950/40 p-2.5 rounded-xl border border-slate-800/80";
+        li.className = "flex items-start justify-between gap-3 bg-amber-50/50 p-3 rounded-2xl border border-amber-200/70 shadow-sm";
+        
         li.innerHTML = `
-          <i class="ph-bold ph-check-circle text-amber-400 text-sm mt-0.5 flex-shrink-0"></i>
-          <span>${item}</span>
+          <div class="flex items-start gap-2.5">
+            <span class="w-6 h-6 rounded-lg bg-red-100 text-red-700 flex items-center justify-center text-xs font-black flex-shrink-0 mt-0.5 border border-red-200">
+              ${i + 1}
+            </span>
+            <p class="text-xs text-slate-800 leading-relaxed font-medium">${item}</p>
+          </div>
+          <button onclick="promptSaveToDossier('${escapeQuotes(item)}', '${escapeQuotes(epTitle)}', '${escapeQuotes(epDate)}')" class="flex-shrink-0 flex items-center gap-1 bg-white hover:bg-amber-100 active:scale-95 text-amber-900 border border-amber-300 px-2 py-1.5 rounded-xl text-[11px] font-bold shadow-sm transition" title="Classer dans un dossier thématique">
+            <i class="ph-bold ph-folder-plus text-amber-700 text-sm"></i>
+            <span class="hidden sm:inline">Classer</span>
+          </button>
         `;
         container.appendChild(li);
       });
     }
 
-    // Affichage du vocabulaire
+    // --- AFFICHAGE VOCABULAIRE ---
     function renderVocabulary(vocabList) {
       const container = document.getElementById("vocab-list");
       container.innerHTML = "";
       if (!vocabList || vocabList.length === 0) {
-        container.innerHTML = `<p class="text-slate-500 text-xs italic">Aucun vocabulaire extrait pour cette édition.</p>`;
+        container.innerHTML = `<p class="text-slate-500 text-xs italic">Aucun mot extrait pour cette édition.</p>`;
         return;
       }
 
       vocabList.forEach(item => {
         const isFav = isFavorite(item.term);
         const card = document.createElement("div");
-        card.className = "bg-slate-950/60 p-3 rounded-xl border border-slate-800 flex items-start justify-between gap-3";
+        card.className = "bg-amber-50/40 p-3 rounded-2xl border border-amber-200 flex items-start justify-between gap-3 shadow-sm";
         card.innerHTML = `
           <div class="space-y-1">
-            <div class="flex items-center gap-2">
-              <span class="text-xs font-bold text-amber-300 font-mono">${item.term}</span>
-              <span class="text-slate-500 text-[10px]">→</span>
-              <span class="text-xs font-medium text-slate-200">${item.translation}</span>
+            <div class="flex items-center gap-2 flex-wrap">
+              <span class="text-xs font-black text-red-700 font-mono bg-red-100/60 px-2 py-0.5 rounded-md border border-red-200">${item.term}</span>
+              <span class="text-amber-800 text-xs font-bold">→</span>
+              <span class="text-xs font-bold text-slate-900">${item.translation}</span>
             </div>
-            ${item.context ? `<p class="text-[11px] text-slate-400 italic">« ${item.context} »</p>` : ''}
+            ${item.context ? `<p class="text-[11px] text-slate-600 italic">« ${item.context} »</p>` : ''}
           </div>
-          <button onclick="toggleFavoriteWord('${escapeQuotes(item.term)}', '${escapeQuotes(item.translation)}', '${escapeQuotes(item.context || '')}')" class="p-1.5 rounded-lg transition ${
-            isFav ? 'text-amber-400 bg-amber-400/10' : 'text-slate-500 hover:text-white hover:bg-slate-800'
+          <button onclick="toggleFavoriteWord('${escapeQuotes(item.term)}', '${escapeQuotes(item.translation)}', '${escapeQuotes(item.context || '')}')" class="p-2 rounded-xl transition ${
+            isFav ? 'text-amber-500 bg-amber-100 border border-amber-300' : 'text-slate-400 hover:text-amber-600 hover:bg-white border border-transparent'
           }">
-            <i class="${isFav ? 'ph-fill ph-star' : 'ph-bold ph-star'} text-base"></i>
+            <i class="${isFav ? 'ph-fill ph-star' : 'ph-bold ph-star'} text-lg"></i>
           </button>
         `;
         container.appendChild(card);
       });
     }
 
-    // Gestion des Favoris (localStorage)
+    // --- AFFICHAGE TRANSCRIPTION AVEC VOCABULAIRE EN GRAS ---
+    function renderTranscript(transcriptText, vocabList) {
+      const textEl = document.getElementById("transcript-text");
+      if (!transcriptText || transcriptText.length < 50) {
+        textEl.innerHTML = "<span class='italic text-slate-500'>La transcription complète n'est pas encore disponible pour cette édition.</span>";
+        return;
+      }
+
+      let formattedText = transcriptText;
+
+      // Mettre en gras et en surbrillance dorée les mots du lexique à l'endroit exact où ils apparaissent
+      if (vocabList && Array.isArray(vocabList)) {
+        vocabList.forEach(item => {
+          if (!item.term) return;
+          const term = item.term.trim();
+          if (term.length < 3) return;
+
+          try {
+            // Échapper les caractères spéciaux regex
+            const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            // Recherche du mot ou de l'expression (insensible à la casse)
+            const regex = new RegExp(`(\\b${escaped}\\b|${escaped})`, 'gi');
+            formattedText = formattedText.replace(regex, (match) => {
+              return `<strong class="bg-amber-300/90 text-slate-950 font-black px-1.5 py-0.5 rounded shadow-sm border border-amber-400 inline-block my-0.5" title="Vocabulaire clé : ${escapeQuotes(item.translation)}">${match}</strong>`;
+            });
+          } catch (e) {
+            console.warn("Erreur surbrillance regex :", e);
+          }
+        });
+      }
+
+      textEl.innerHTML = formattedText;
+    }
+
+    function copyTranscript() {
+      const text = document.getElementById("transcript-text").innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        alert("Transcription complète copiée dans le presse-papier !");
+      });
+    }
+
+    // --- GESTION DES DOSSIERS THÉMATIQUES D'ACTUALITÉ ---
+    function promptSaveToDossier(summaryText, epTitle, epDate) {
+      itemToSave = { text: summaryText, source: epTitle, date: epDate };
+      document.getElementById("save-item-preview").innerText = `« ${summaryText} »`;
+
+      const existingGroup = document.getElementById("existing-dossier-group");
+      const newLabel = document.getElementById("new-dossier-label");
+      const select = document.getElementById("dossier-select");
+      select.innerHTML = "";
+
+      const dossierKeys = Object.keys(dossiers);
+
+      if (dossierKeys.length === 0) {
+        existingGroup.classList.add("hidden");
+        newLabel.innerText = "Nommez votre premier dossier thématique :";
+      } else {
+        existingGroup.classList.remove("hidden");
+        newLabel.innerText = "Ou créer un nouveau dossier personnalisé :";
+        
+        const defaultOpt = document.createElement("option");
+        defaultOpt.value = "";
+        defaultOpt.innerText = "-- Sélectionnez un dossier existant --";
+        select.appendChild(defaultOpt);
+
+        dossierKeys.forEach(k => {
+          const opt = document.createElement("option");
+          opt.value = k;
+          opt.innerText = `${k} (${dossiers[k].length} élément${dossiers[k].length > 1 ? 's' : ''})`;
+          select.appendChild(opt);
+        });
+      }
+
+      document.getElementById("new-dossier-input").value = "";
+      document.getElementById("save-item-modal").classList.remove("hidden");
+      
+      // Focus automatique sur l'entrée de texte si aucun dossier n'existe
+      if (dossierKeys.length === 0) {
+        setTimeout(() => document.getElementById("new-dossier-input").focus(), 100);
+      }
+    }
+
+    function closeSaveItemModal() {
+      document.getElementById("save-item-modal").classList.add("hidden");
+      itemToSave = null;
+    }
+
+    function confirmSaveToDossier() {
+      if (!itemToSave) return;
+      const newDossierName = document.getElementById("new-dossier-input").value.trim();
+      const selectedDossier = document.getElementById("dossier-select").value;
+
+      const targetDossier = newDossierName || selectedDossier;
+      if (!targetDossier) {
+        alert("Veuillez choisir ou saisir un nom de dossier.");
+        return;
+      }
+
+      if (!dossiers[targetDossier]) {
+        dossiers[targetDossier] = [];
+      }
+
+      // Éviter les doublons exacts dans le même dossier
+      const alreadyIn = dossiers[targetDossier].some(it => it.text === itemToSave.text);
+      if (!alreadyIn) {
+        dossiers[targetDossier].unshift(itemToSave);
+        localStorage.setItem("telediario_dossiers", JSON.stringify(dossiers));
+        updateDossierBadge();
+        alert(`Point enregistré avec succès dans : "${targetDossier}" !`);
+      } else {
+        alert(`Ce point est déjà présent dans le dossier "${targetDossier}".`);
+      }
+
+      closeSaveItemModal();
+    }
+
+    function openThematicModal() {
+      const keys = Object.keys(dossiers);
+      if (keys.length > 0 && (!activeDossierName || !dossiers[activeDossierName])) {
+        activeDossierName = keys[0];
+      }
+      renderDossierTabs();
+      renderDossierItems();
+      document.getElementById("thematic-modal").classList.remove("hidden");
+    }
+
+    function closeThematicModal() {
+      document.getElementById("thematic-modal").classList.add("hidden");
+    }
+
+    function renderDossierTabs() {
+      const container = document.getElementById("dossier-tabs-list");
+      container.innerHTML = "";
+
+      const keys = Object.keys(dossiers);
+      if (keys.length === 0) {
+        container.innerHTML = `<span class="text-xs text-amber-900/80 italic px-2 py-1">Aucun dossier créé pour le moment.</span>`;
+        return;
+      }
+
+      keys.forEach(name => {
+        const count = dossiers[name].length;
+        const btn = document.createElement("button");
+        const isActive = name === activeDossierName;
+        btn.onclick = () => {
+          activeDossierName = name;
+          renderDossierTabs();
+          renderDossierItems();
+        };
+
+        btn.className = `flex-shrink-0 px-3 py-1.5 rounded-xl text-xs font-bold border transition flex items-center gap-1.5 ${
+          isActive
+            ? 'bg-red-600 text-white border-red-500 shadow-sm'
+            : 'bg-white text-slate-700 border-amber-200 hover:border-amber-400'
+        }`;
+
+        btn.innerHTML = `
+          <span>${name}</span>
+          <span class="text-[10px] px-1.5 py-0.2 rounded-full ${isActive ? 'bg-amber-400 text-red-950 font-black' : 'bg-slate-100 text-slate-600 font-bold'}">${count}</span>
+        `;
+        container.appendChild(btn);
+      });
+    }
+
+    function renderDossierItems() {
+      const container = document.getElementById("dossier-items-container");
+      container.innerHTML = "";
+
+      const keys = Object.keys(dossiers);
+      if (keys.length === 0) {
+        container.innerHTML = `
+          <div class="text-center py-10 text-slate-500 space-y-2.5">
+            <i class="ph-bold ph-folder-dashed text-4xl text-amber-500/70"></i>
+            <p class="text-xs font-bold text-slate-800">Vous n'avez pas encore créé de dossier thématique.</p>
+            <p class="text-[11px] text-slate-500 max-w-sm mx-auto leading-relaxed">Sur chaque fait marquant du Telediario, cliquez sur le bouton <strong>« Classer »</strong> pour créer vos dossiers personnalisés (ex: <em>Crise du logement</em>, <em>Monarchie & Institutions</em>, etc.).</p>
+          </div>
+        `;
+        return;
+      }
+
+      if (!activeDossierName || !dossiers[activeDossierName] || dossiers[activeDossierName].length === 0) {
+        container.innerHTML = `
+          <div class="text-center py-8 text-slate-500 space-y-2">
+            <i class="ph-bold ph-folder-open text-4xl text-amber-500/50"></i>
+            <p class="text-xs font-medium">Aucun fait d'actualité classé dans ce dossier pour le moment.</p>
+            <p class="text-[11px] text-slate-400">Cliquez sur « Classer » à côté des faits marquants du Telediario pour alimenter cette fiche.</p>
+          </div>
+        `;
+        return;
+      }
+
+      dossiers[activeDossierName].forEach((it, idx) => {
+        const card = document.createElement("div");
+        card.className = "bg-white p-3 rounded-2xl border border-amber-200 shadow-sm flex items-start justify-between gap-3";
+        card.innerHTML = `
+          <div class="space-y-1">
+            <div class="flex items-center gap-1.5 text-[10px] text-amber-800 font-bold uppercase tracking-wider">
+              <i class="ph-bold ph-calendar"></i>
+              <span>${it.date}</span>
+              <span>•</span>
+              <span class="line-clamp-1">${it.source}</span>
+            </div>
+            <p class="text-xs text-slate-800 leading-relaxed font-medium">${it.text}</p>
+          </div>
+          <button onclick="removeDossierItem(${idx})" class="text-slate-400 hover:text-red-600 p-1" title="Supprimer">
+            <i class="ph-bold ph-trash text-sm"></i>
+          </button>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function removeDossierItem(idx) {
+      if (activeDossierName && dossiers[activeDossierName]) {
+        dossiers[activeDossierName].splice(idx, 1);
+        localStorage.setItem("telediario_dossiers", JSON.stringify(dossiers));
+        updateDossierBadge();
+        renderDossierTabs();
+        renderDossierItems();
+      }
+    }
+
+    function deleteCurrentDossier() {
+      if (!activeDossierName) return;
+      if (confirm(`Voulez-vous vraiment supprimer le dossier "${activeDossierName}" et tous ses éléments ?`)) {
+        delete dossiers[activeDossierName];
+        localStorage.setItem("telediario_dossiers", JSON.stringify(dossiers));
+        activeDossierName = Object.keys(dossiers)[0] || "";
+        updateDossierBadge();
+        renderDossierTabs();
+        renderDossierItems();
+      }
+    }
+
+    function copyCurrentDossier() {
+      if (!activeDossierName || !dossiers[activeDossierName] || dossiers[activeDossierName].length === 0) return;
+      const lines = [
+        `FICHE D'ACTUALITÉ CPGE : ${activeDossierName.toUpperCase()}`,
+        "=".repeat(40),
+        ...dossiers[activeDossierName].map(it => `• [${it.date}] : ${it.text}`)
+      ];
+      navigator.clipboard.writeText(lines.join("\n\n")).then(() => {
+        alert(`Fiche thématique "${activeDossierName}" copiée pour vos révisions !`);
+      });
+    }
+
+    function updateDossierBadge() {
+      let total = 0;
+      Object.values(dossiers).forEach(arr => total += arr.length);
+      document.getElementById("dossier-badge").innerText = total;
+    }
+
+    // --- FAVORIS (VOCABULAIRE) ---
     function isFavorite(term) {
       return favorites.some(f => f.term.toLowerCase() === term.toLowerCase());
     }
@@ -464,12 +959,7 @@
 
     function updateFavoritesCounter() {
       const countEl = document.getElementById("fav-counter");
-      if (favorites.length > 0) {
-        countEl.innerText = favorites.length;
-        countEl.classList.remove("hidden");
-      } else {
-        countEl.classList.add("hidden");
-      }
+      countEl.innerText = favorites.length;
     }
 
     function toggleFavoritesModal() {
@@ -488,9 +978,9 @@
       if (favorites.length === 0) {
         container.innerHTML = `
           <div class="text-center py-8 text-slate-500 space-y-2">
-            <i class="ph-bold ph-star text-3xl opacity-40"></i>
-            <p class="text-xs">Aucun mot favori enregistré pour le moment.</p>
-            <p class="text-[11px] text-slate-600">Cliquez sur l'étoile à côté des mots du Telediario pour les ajouter à votre carnet de révision.</p>
+            <i class="ph-bold ph-star text-3xl text-amber-400"></i>
+            <p class="text-xs font-medium">Aucun mot favori enregistré pour le moment.</p>
+            <p class="text-[11px] text-slate-400">Cliquez sur l'étoile à côté des termes du Telediario pour les ajouter.</p>
           </div>
         `;
         return;
@@ -498,17 +988,17 @@
 
       favorites.forEach((fav, i) => {
         const item = document.createElement("div");
-        item.className = "bg-slate-950 p-2.5 rounded-xl border border-slate-800 flex items-start justify-between gap-2";
+        item.className = "bg-amber-50/60 p-3 rounded-2xl border border-amber-200 flex items-start justify-between gap-2";
         item.innerHTML = `
           <div class="space-y-0.5">
             <div class="flex items-center gap-1.5 text-xs">
-              <span class="font-bold text-amber-300 font-mono">${fav.term}</span>
-              <span class="text-slate-500">→</span>
-              <span class="text-slate-200 font-medium">${fav.translation}</span>
+              <span class="font-black text-red-700 font-mono">${fav.term}</span>
+              <span class="text-amber-800 font-bold">→</span>
+              <span class="text-slate-900 font-bold">${fav.translation}</span>
             </div>
-            ${fav.context ? `<p class="text-[10px] text-slate-400 italic">« ${fav.context} »</p>` : ''}
+            ${fav.context ? `<p class="text-[10px] text-slate-600 italic">« ${fav.context} »</p>` : ''}
           </div>
-          <button onclick="removeFavorite(${i})" class="text-slate-500 hover:text-red-400 p-1">
+          <button onclick="removeFavorite(${i})" class="text-slate-400 hover:text-red-600 p-1">
             <i class="ph-bold ph-trash text-sm"></i>
           </button>
         `;
@@ -542,24 +1032,21 @@
       });
     }
 
+    // --- ACCORDÉONS ---
     function toggleSection(contentId, chevronId) {
       const content = document.getElementById(contentId);
       const chevron = document.getElementById(chevronId);
       if (content.classList.contains("hidden")) {
         content.classList.remove("hidden");
-        chevron.className = "ph-bold ph-caret-up text-slate-400 transition-transform";
+        chevron.className = "ph-bold ph-caret-up text-lg transition-transform";
       } else {
         content.classList.add("hidden");
-        chevron.className = "ph-bold ph-caret-down text-slate-400 transition-transform";
+        chevron.className = "ph-bold ph-caret-down text-lg transition-transform";
       }
     }
 
     function escapeQuotes(str) {
       return (str || "").replace(/'/g, "\\'").replace(/"/g, '&quot;');
-    }
-
-    function showError(msg) {
-      document.getElementById("player-title").innerText = msg;
     }
 
     window.onload = initApp;

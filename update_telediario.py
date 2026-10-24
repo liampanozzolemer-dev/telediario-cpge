@@ -217,6 +217,7 @@ def main():
         transcript = fetch_transcription(ep_id)
         
         if transcript:
+            ep["transcript"] = transcript
             print(f"    - Transcription extraite ({len(transcript)} car.). Envoi à Gemini...")
             try:
                 ai_data = generate_ai_analysis(transcript, ep["title"], ep["date"])
@@ -229,6 +230,7 @@ def main():
                 ep["summary"] = ["Résumé en cours de traitement."]
                 ep["vocabulary"] = []
         else:
+            ep["transcript"] = ""
             print("    - Aucune transcription disponible pour l'instant.")
             ep["summary"] = ["Journal très récent : transcription en attente."]
             ep["vocabulary"] = []
@@ -236,6 +238,10 @@ def main():
         updated_list.append(ep)
         # Petite pause pour respecter les quotas
         time.sleep(1)
+
+    # Conservation d'une fenêtre glissante de 10 à 12 éditions (la semaine active)
+    # (Les classements et favoris des étudiants sont conservés indépendamment dans le localStorage de leur téléphone)
+    updated_list = updated_list[:12]
 
     # Sauvegarde dans le fichier JSON et dans le fichier JS (pour double-clic local sans serveur)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
