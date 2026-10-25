@@ -1,5 +1,55 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17282800",
+    "title": "Telediario 2 en 4' - 25/10/26",
+    "date": "2026-10-25",
+    "date_label": "25.10.2026",
+    "duration": "03.37 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-25-10-26/17282800/",
+    "image": "https://img.rtve.es/v/17282800?w=800&amp;preview=01792958943151.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17282800.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17282800",
+    "transcript": "(MÚSICA) Al menos 83 heridos, siete de ellos hospitalizados, en un accidente de autobús de línea en Fogars de Montclus, Barcelona, tras precipitarse por un barranco de de  unos 20 metros. Algunos pasajeros del autocar han salido por su propio pie y han podido llegar a la carretera. Los equipos de emergencias, decenas de ambulancias y dotaciones de bomberos atienden a las víctimas sobre el terreno. Buenas noches. Se investigan las causas de este siniestro. Enseguida estamos en directo en Barcelona. Y un nombre propio. La líder opositora Maria Corina Machado ha vuelto a su país, Venezuela. Así ha sido recibida por sus seguidores antes de dirigirse a Caracas. Machado llevaba 10 meses fuera de Venezuela, desde que salió para recoger el Nobel de la paz, y había intentado volver, sin éxito, en varias ocasiones. Washington atribuye su vuelta a la mediación de la administración Trump. Brasil decide en una segunda vuelta muy reñida si otorga un cuarto mandato al izquierdista Lula da Silva, o si vuelve al bolsonarismo, de la mano del hijo del exmandatario. A esta hora está previsto que cierren los colegios en todo el país, aunque Lula pide que se amplíe el horario en varios estados por incidencias en el transporte de votantes. Enseguida estaremos en directo con nuestras enviadas especiales en Río de Janeiro y en Sao Paulo. En Barcelona se hace balance de daños y se investiga quién está detrás de la convocatoria que movilizó por redes a medio millar de jóvenes y que acabó con graves disturbios. Así han quedado algunos de los escaparates de comercios del centro de la ciudad. El episodio de vandalismo deja 128 detenidos, la mitad menores de edad. Hay 14 mossos heridos. Los disturbios se han colado en la precampaña. Illa habla de \"violencia gratuita\", Feijóo aprovecha el silencio de Sánchez y señala a los \"discípulos del muro\" que se resisten, ha dicho, \"a abandonar el poder con violencia\" y desde ERC creen que puede ser una operación que busca evitar la reedición de la coalición progresista. La víspera de que se oficialicen las candidaturas de los partidos al Congreso y Senado, el delegado de Gobierno en Madrid, Francisco Martín, dimite tras quedarse fuera de las listas socialistas. Es una de las personas que apoyó desde sus comienzos a Pedro Sánchez y de los dirigentes socialistas que más se ha enfrentado a Isabel Díaz Ayuso. Manifestación por Ceuta en Madrid. 30 000 personas, según fuentes oficiales han exigido soluciones por las crisis migratoria de Ceuta. Convocadas por la plataforma de mujeres caballas, la marcha ha contado con la presencia del presidente de la ciudad autónoma. Miles de personas acuden en Madrid a la llamada de las 'caballas' para apoyar a Ceuta Madrid. Seguimos de celebraciones por nuestro 70 cumpleaños es el miércoles. Hoy les pedimos que nos ayuden a soplar la velas Porque Televisión Española no hubiera sido posible sin sus telespectadores. Hoy nuestro homenaje es para ustedes, pero especialmente, para los de la quinta de esta tele. Los de 1956.",
+    "summary": [
+      "Un grave accidente de autobús en Fogars de Montclus (Barcelona), saldado con decenas de heridos tras precipitarse por un barranco, pone de relieve los recurrentes desafíos en materia de seguridad vial y gestión de emergencias en las infraestructuras catalanas.",
+      "La inesperada vuelta de la líder opositora venezolana María Corina Machado a su país, tras diez meses de exilio y respaldada según Washington por la mediación estadounidense, abre un nuevo capítulo de alta tensión política frente al régimen chavista.",
+      "Brasil celebra una reñida segunda vuelta electoral para decidir entre la continuidad del izquierdista Lula da Silva y el retorno del bolsonarismo, en unos comicios marcados por tensiones logísticas y una fuerte polarización ideológica.",
+      "Los graves disturbios protagonizados por medio millar de jóvenes en Barcelona, que se saldaron con más de un centenar de detenidos y cuantiosos destrozos, han desencadenado un cruce de reproches entre el PSC y la oposición en plena precampaña electoral."
+    ],
+    "vocabulary": [
+      {
+        "term": "precipitarse por un barranco",
+        "translation": "dévaler un ravin / tomber au fond d'un ravin",
+        "context": "Un accidente de autobús de línea en Fogars de Montclus, tras precipitarse por un barranco de unos 20 metros."
+      },
+      {
+        "term": "la líder opositora",
+        "translation": "la cheffe de l'opposition",
+        "context": "La líder opositora Maria Corina Machado ha vuelto a su país, Venezuela."
+      },
+      {
+        "term": "una segunda vuelta muy reñida",
+        "translation": "un second tour très serré / disputé",
+        "context": "Brasil decide en una segunda vuelta muy reñida si otorga un cuarto mandato al izquierdista Lula da Silva."
+      },
+      {
+        "term": "hacer balance de daños",
+        "translation": "dresser le bilan des dégâts",
+        "context": "En Barcelona se hace balance de daños y se investiga quién está detrás de la convocatoria."
+      },
+      {
+        "term": "violencia gratuita",
+        "translation": "violence gratuite",
+        "context": "Illa habla de 'violencia gratuita', Feijóo aprovecha el silencio de Sánchez."
+      },
+      {
+        "term": "la crisis migratoria",
+        "translation": "la crise migratoire",
+        "context": "30 000 personas han exigido soluciones por la crisis migratoria de Ceuta."
+      }
+    ]
+  },
+  {
     "id": "17282579",
     "title": "Telediario 1 en 4' - 25/10/26",
     "date": "2026-10-25",
@@ -438,55 +488,5 @@ window.TELEDIARIO_DATA = [
       }
     ],
     "transcript": "Buenos días, los partidos siguen inmersos en la precampaña con el plazo para inscribir las listas aún abierto y redoblando su presencia en medios con citas como la de Pedro Sánchez anoche en La Revuelta. Sánchez reconocía así la decepción que sintió con quien fuera de su máxima confianza. También admitió que la crisis de Ceuta pudo gestionarse mejor y defendió a su mujer y su hermano. Una charla informal y también personal por momentos. El PP busca ampliar nicho de votantes con Álvarez de Toledo y Sémper escoltando a Feijóo en la lista al Congreso. La visita de Milei les ha abierto un frente con Vox, con quienes negocian para concurrir al Senado. Desde el Frente Amplio, Ada Colau lanza una pregunta a Irene Montero: que elija entre \"Juego de Tronos\" o \"Friends\". Francia se quiere blindar ante nuevas protestas este fin de semana y solo autorizará manifestaciones convocadas por sindicatos. En París el toque de queda se extiende hasta el lunes. En Italia, la huelga de camioneros en el sur ha vaciado estantes de supermercados y desabastecido gasolineras. En el tiempo, pendientes de la borrasca Austin que se nota un poco más en el norte. Sobre todo viendo que ha dejado rachas de más de 100 km/h. Precipitaciones no tantas. Donde seguiré lloviendo es en el Cantábrico oriental, y cara norte del Pirineo. En el resto del país bandas de nubes altas. En general tiempo tranquilo y temperaturas 15° por el norte, pero superando los 25 en el suroeste mediterráneo. Conectamos con la DGT para conocer cómo se circula a esta hora, Marta Miguez, buenos días. Pendientes de un accidente que complique Castellón, en sentido Valencia por lo que les pedimos precaución. Tráfico habitual por los accesos a Madrid. En Barcelona dificultades en el acceso por la C58 en Moncada. Y en el acceso a Sevilla. Todo listo en Oviedo para la entrega de los premios Princesa de Asturias esta tarde. Anoche los reyes y sus hijas presidieron el tradicional concierto previo a la gala. Los premiados también se han dejado ver: Patti Smith cantando junto a coros venidos de toda España y Messi ante 6000 escolares. Y en Deportes, Real Sociedad y Celta cumplieron anoche en Europa. Así es, dos victorias para los equipos españoles que juegan la Europa League y que suman sus primeras victorias en la competición. La Real Sociedad fabricó una goleada en su visita al Lillestrom noruego por 0 a 6 y el Celta venció en Glasgow con una remontada por 1 a 2 al Celtic con dos goles de Javi Rodríguez. Y en la Conference League, dura derrota del Getafe por 2 a 5 ante el Lugano. Los de Bordalás empezaron adelantándose, pero la noche en el Coliseum iba a torcerse hasta encajar una goleada del conjunto suizo."
-  },
-  {
-    "id": "17279389",
-    "title": "Telediario 2 en 4' -22/10/26",
-    "date": "2026-10-22",
-    "date_label": "22.10.2026",
-    "duration": "03.28 min",
-    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-22-10-26/17279389/",
-    "image": "https://img.rtve.es/v/17279389?w=800&amp;preview=1792697094506.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17279389.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17279389",
-    "summary": [
-      "El Partido Popular ha configurado sus listas para Madrid situando a Cayetana Álvarez de Toledo y Borja Sémper en los puestos número 2 y 3 respectivamente, lo que suscita interrogantes sobre la cohesión interna y las distintas sensibilidades ideológicas de la formación conservadora de cara a las próximas elecciones.",
-      "La precampaña electoral se ha visto salpicada por una polémica agria a raíz de un vídeo propagandístico generado mediante inteligencia artificial por el PP, en el que se suplanta la identidad de altos cargos socialistas y de Begoña Gómez simulando la confesión de delitos, una maniobra que el PSOE evalúa llevar ante los tribunales.",
-      "En el ámbito autonómico, los docentes madrileños han cumplido su novena jornada de huelga y su tercera gran manifestación ante la Consejería de Educación, exigiendo una mesa de negociación para reducir las ratios de alumnos y mitigar la pérdida de poder adquisitivo frente al elevado coste de la vida en la capital.",
-      "A escala internacional, el gobierno italiano de Giorgia Meloni ha aprobado un paquete de ayudas urgentes valorado en 550 millones de euros para sofocar una huelga de transportistas y camioneros que está estrangulando el abastecimiento de los supermercados en el sur del país debido al encarecimiento del combustible."
-    ],
-    "vocabulary": [
-      {
-        "term": "el plazo para inscribir",
-        "translation": "le délai pour inscrire / enregistrer",
-        "context": "El lunes acaba el plazo para inscribir las candidaturas electorales."
-      },
-      {
-        "term": "suplantar la identidad",
-        "translation": "usurper l'identité",
-        "context": "un vídeo precisamente del PP, hecho con inteligencia artificial en el que se suplanta la identidad de distintos dirigentes."
-      },
-      {
-        "term": "la bajada de ratios",
-        "translation": "la baisse des effectifs par classe / des ratios encadrants-élèves",
-        "context": "Exigen abrir una mesa de negociación para mejorar sus condiciones laborales; entre ellas, la bajada de ratios."
-      },
-      {
-        "term": "un paquete de ayudas",
-        "translation": "un train / plan d'aides",
-        "context": "Meloni trata de terminar con la huelga y ha aprobado hoy un paquete de ayudas al sector de 550 millones de euros."
-      },
-      {
-        "term": "una grieta de seguridad",
-        "translation": "une faille de sécurité",
-        "context": "la IA ha conseguido detectar una grieta de seguridad muy grave en el sistema del que dependen el 70 % de las webs."
-      },
-      {
-        "term": "un cambio de tendencia",
-        "translation": "un changement de tendance",
-        "context": "Cambios de tendencia en los menús del día en los restaurantes."
-      }
-    ],
-    "transcript": "¿Qué tal?, buenas noches. El lunes acaba el plazo para inscribir las candidaturas electorales y hoy el PP ha anunciado que Cayetana Alvarez de Toledo y Borja Sémper acompañarán como número 2 y 3 de la lista por Madrid a Núñez Feijoo. Y así respondía Semper cuando hoy le preguntaban si representan dos almas distintas del Partido Popular. Todos los partidos tienen de plazo hasta el lunes para presentar candidaturas. Y la polémica de la campaña hoy es un vídeo precisamente del PP, hecho con inteligencia artificial en el que se suplanta la identidad de distintos dirigentes del PSOE y de Begoña Gómez en el que con su imagen y su voz fabricadas en un ordenador, incluso admiten delitos. El PSOE estudia acudir a los tribunales. Y sigue sin haber negociaciones entre la Comunidad de Madrid y los docentes que cumplen su noveno día de huelga. Esta tarde se han manifestado ante la Consejería de Educación en la capital de España. Aquí en la consejería de educación es donde está llegando a su fin la tercera manifestación de los profesores madrileños en menos de dos semanas. No hay negociaciones y el mensaje de los docentes es absolutamente claro, no piensan parar hasta que las haya. Exigen abrir una mesa de negociación para mejorar sus condiciones laborales; entre ellas, la bajada de ratios y una mejora del salario que, dicen, no es suficiente para afrontar la vida en la capital. En Italia, una huelga de camioneros está dejando estanterías casi vacías en los supermercados del sur de país Los transportistas protestan por el alto precio del combustible. Meloni trata de terminar con la huelga y ha aprobado hoy un paquete de ayudas al sector de 550 millones de euros. Se multiplican las noticias inquietantes sobre la inteligencia artificial. Bancos americanos detectan movimientos en cuentas de sus clientes sin poder distinguir si lo hace un humano o una IA. Y a la vez, la IA ha conseguido detectar una grieta de seguridad muy grave en el sistema del que dependen el 70 % de las webs del mundo. Cambios de tendencia en los menús del día en los restaurantes. Cada vez más clientes piden medio menú o menú para llevar, que suele ser algo más barato que consumido en el establecimiento. \"Sobre todo por la prisa, por: 'quiero comer rápido, quiero comer algo casero, pero no tengo mucho tiempo'\". La familia real ya está en Oviedo para la entrega de los Premios Princesa de Asturias. Esta tarde los recibían así en el tradicional concierto previo a la ceremonia en el teatro Campoamor que mañana podrán ver en esta casa, en TVE. Y quien llegaba horas antes a Oviedo es él, Leo Messi, que mañana recibirá el Premio Princesa de Asturias de los Deportes recibido con entusiasmo en las calles de la capital asturiana."
   }
 ];
