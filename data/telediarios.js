@@ -1,5 +1,158 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17282284",
+    "title": "Telediario matinal en 4' - 25/10/26",
+    "date": "2026-10-25",
+    "date_label": "25.10.2026",
+    "duration": "04.25 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-25-10-26/17282284/",
+    "image": "https://img.rtve.es/v/17282284?w=800&amp;preview=01792910312704.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17282284.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17282284",
+    "transcript": "Barcelona amanece tras una noche de graves disturbios en el centro de la ciudad. La policía ha detenido hasta 100 personas, entre ellas unos 25 menores. días Estos altercados han dejado contenedores quemados, escaparates rotos y también tiendas saqueadas Así comenzamos las noticias de este domingo. Todo empezaba con una convocatoria anónima en redes sociales Estaba inspirada en esas protestas que estamos viendo estas últimas semanas en otras capitales de Europa. Y hay reacciones, las primeras, la alcaldía y la Generalitat que condenan los hechos. Som un país democrático, somos una democracia madura, consolidada, que respecta el derecho a la protesta, que respecta el derecho a la manifestación y la libertad de expresión El que ha pasado hoy a Barcelona no es eso. El que ha pasado hoy a Barcelona es violencia gratuita y vandalismo Y eso no lo permiten. Puede tener conexión, o tiene conexión, o puede tener conexión con convocatorias que están haciendo algunas capitals europeas. A partir de las 6 han comenzado a los aldarullos, unas 500 personas no organizadas, ni siguiendo manifestaciones ni defendiendo el derecho habitual. Han dedicado a vandalizar toda una serie de el presidente de la Generalitat ha condenado estos actos de violencia en establecimientos, un total de 14. caso, A la otra banda, hemos hecho un total de aproximadamente un centenar de detenciones redes sociales Salvador Illa ha agradecido el trabajo de los Mossos para defender a los ciudadanos y a los comercios Bueno, es parte de ese descontento social que vemos cómo se va extendiendo por Europa. Francia ha vivido otra jornada de protestas y enfrentamientos con la policía En este caso hay al menos mil detenidos, cientos de miles de personas han vuelto a salir a la calle. Lo han hecho pese al enorme despliegue policial y las restricciones para las manifestaciones En Italia también hemos visto enfrentamientos en varias ciudades La policía lanza gases lacrimógenos contra un grupo de manifestantes Son imágenes de Lyon, pero ha ocurrido también en Estrasburgo Marsella o Grenoble. En Lille, París y otras ciudades, los agentes han empleado cañones de agua. Con todos los disturbios han sido menos graves que el pasado fin de semana, cuando cerca de 3.000 comercios acabaron dañados o saqueados El ministro del Interior acusa a grupos de extrema izquierda de instigar la violencia y defiende el refuerzo de la seguridad. Esta vez han desplegado 70.000 efectivos, un 20% más que en la convocatoria anterior. También han limitado recorridos y prohibido concentraciones. Medidas muy criticadas por sindicatos, partidos de izquierda y otras organizaciones civiles. Es difícil saber si esto va a tener un efecto de contener las protestas, un efecto de contención, o si por el contrario va a ser más gasolina en el fuego y genera un mayor descontento. A pesar de las restricciones, muchos franceses han salido de nuevo a las calles Unas 110.000 personas solo en París, según la Prefectura. Nueva demostración del profundo malestar social que sacude Francia. Las encuestas siempre muestran que es un país especialmente pesimista respecto al devenir, respecto al futuro y en los últimos 10 años, bajo la presidencia de Macron, solo se ha agravado esa tendencia A seis meses de las elecciones presidenciales crece la polarización política, mientras en Orleans el partido ultraderechista de le Pen reelegía a Joan bardela como presidente en la calle miles de personas coreaban consignas contra el fascismo Jornada de manifestaciones y protestas en alguna de las principales ciudades de Italia que ha aumentado las medidas de seguridad y ha blindado algunos de los más importantes centros turísticos, comerciales y también sus plazas. Enfrentamientos a última hora en Roma después de esas concentraciones en las que la policía ha identificado a más de 200 jóvenes, de ellos unos 60 han sido interceptados según la policía con pasamontañas o con máscaras. Entre las medidas recientemente aprobadas por el gobierno está la posibilidad de retener preventivamente a menores de edad. En Milán, despliegue de unos 1.400 agentes para evitar los disturbios de la semana pasada allí han detenido al presunto ideólogo del llamado Movimiento 17 de Octubre que incitaba a volver a la acción a través de las redes sociales. Y tensión en Bolonia Florencia o Turín, con duros enfrentamientos entre antidisturbios y manifestantes",
+    "summary": [
+      "Barcelona ha sido escenario de graves disturbios urbanos tras una convocatoria anónima en redes sociales inspirada en las protestas europeas, dejando un balance de un centenar de detenidos y numerosos daños materiales, lo que ha provocado una firme condena institucional por parte del alcalde y del presidente de la Generalitat.",
+      "Francia registra una nueva jornada de masivas protestas y enfrentamientos con la policía a pesar de un despliegue sin precedentes de 70.000 efectivos y de las restricciones gubernamentales, evidenciando un profundo malestar social a seis meses de unas elecciones presidenciales marcadas por la polarización.",
+      "Italia endurece las medidas de seguridad y blinda sus principales centros urbanos e históricos frente a una oleada de altercados y detenciones preventivas de manifestantes, mientras el gobierno aplica nuevas normativas para atajar la violencia juvenil y los conatos de desorden público."
+    ],
+    "vocabulary": [
+      {
+        "term": "los aldarullos",
+        "translation": "les altercations, les émeutes",
+        "context": "A partir de las 6 han comenzado los aldarullos, unas 500 personas no organizadas."
+      },
+      {
+        "term": "la violencia gratuita",
+        "translation": "la violence gratuite",
+        "context": "El que ha pasado hoy a Barcelona es violencia gratuita y vandalismo."
+      },
+      {
+        "term": "el despliegue policial",
+        "translation": "le déploiement policier",
+        "context": "Lo han hecho pese al enorme despliegue policial y las restricciones para las manifestaciones."
+      },
+      {
+        "term": "el malestar social",
+        "translation": "le malaise social",
+        "context": "Nueva demostración del profundo malestar social que sacude Francia."
+      },
+      {
+        "term": "la polarización política",
+        "translation": "la polarisation politique",
+        "context": "A seis meses de las elecciones presidenciales crece la polarización política."
+      },
+      {
+        "term": "retener preventivamente",
+        "translation": "retenir à titre préventif",
+        "context": "Entre las medidas recientemente aprobadas por el gobierno está la posibilidad de retener preventivamente a menores de edad."
+      }
+    ]
+  },
+  {
+    "id": "17282138",
+    "title": "Telediario 2 en 4' - 24/10/26",
+    "date": "2026-10-24",
+    "date_label": "24.10.2026",
+    "duration": "01.42 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-24-10-26/17282138/",
+    "image": "https://img.rtve.es/v/17282138?w=800&amp;preview=01792867039502.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17282138.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17282138",
+    "transcript": "Enfrentamientos con la policía tras las protestas en Francia, donde hay al menos 1.000 detenidos. Horas antes, cientos de miles de personas se han manifestado pacíficamente, pese al despliegue policial inédito y la prohibición o el cambio de recorrido de algunas protestas para evitar disturbios. En Italia también ha habido choques en varias ciudades. Buenas tardes, el descontento social sigue recorriendo Europa. En Barcelona una manifestación de estudiantes convocada por redes sociales deriva en incidentes. Grupos de jóvenes se han enfrentado a Mossos y Guardia Urbana en el centro de Barcelona. Se han quemado contenedores, se han lanzado piedras y se han roto escaparates. Varios comercios han cerrado las puertas y se han cortado varias calles. Miles de personas han defendido en Madrid el sistema público de pensiones, piden igualar la pensión mínima al salario mínimo y revalorizarlas por el elevado coste de la vida. Pedro Sánchez confronta su proyecto político con el de PP y Vox y se compromete a blindar el derecho al aborto. Mientras, Feijóo ha acusado a la izquierda de agitar la violencia en la calle. Rufián y Montero han criticado el pacto de Frente Amplio con el PSOE para el Senado. Esta madrugada cambia la hora. A las 3 serán las 2 y en Canarias a las 2 será la 1. Dormiremos una hora más pero a partir de mañana anochecerá antes.",
+    "summary": [
+      "Las protestas sociales se intensifican en Europa, destacando enfrentamientos violentos con las fuerzas del orden y un elevado número de detenidos en Francia e incidentes similares en Italia, lo que evidencia un profundo descontento ciudadano en el continente.",
+      "En España, la tensión social se manifiesta tanto en las calles de Barcelona, donde una protesta estudiantil degeneró en altercados con los Mossos d'Esquadra, como en Madrid, con una masiva movilización en defensa del sistema público de pensiones y su revalorización frente al coste de la vida.",
+      "El panorama político nacional se crispas ante el enfrentamiento directo entre el presidente Pedro Sánchez —quien aboga por blindar el derecho al aborto— y el líder de la oposición Alberto Núñez Feijóo, quien acusa a la izquierda de alentar la violencia callejera, a lo que se suman las críticas de formaciones como ERC y Podemos hacia los pactos en el Senado."
+    ],
+    "vocabulary": [
+      {
+        "term": "el descontento social",
+        "translation": "le mécontentement social / la contestation sociale",
+        "context": "El descontento social sigue recorriendo Europa."
+      },
+      {
+        "term": "los altercados",
+        "translation": "les heurts / les échauffourées / les incidents",
+        "context": "Una manifestación de estudiantes deriva en incidentes y altercados en el centro de Barcelona."
+      },
+      {
+        "term": "quemar contenedores",
+        "translation": "incendier des conteneurs poubelles",
+        "context": "Se han quemado contenedores, se han lanzado piedras y se han roto escaparates."
+      },
+      {
+        "term": "revalorizar las pensiones",
+        "translation": "revaloriser les pensions",
+        "context": "Piden igualar la pensión mínima al salario mínimo y revalorizarlas por el elevado coste de la vida."
+      },
+      {
+        "term": "blindar un derecho",
+        "translation": "garantir constitutionnellement / sanctuariser un droit",
+        "context": "Pedro Sánchez confronta su proyecto político y se compromete a blindar el derecho al aborto."
+      },
+      {
+        "term": "agitar la violencia",
+        "translation": "envenenar le climat / fomenter la violence",
+        "context": "Feijóo ha acusado a la izquierda de agitar la violencia en la calle."
+      }
+    ]
+  },
+  {
+    "id": "17281899",
+    "title": "Telediario 1 en 4' - 24/10/26",
+    "date": "2026-10-24",
+    "date_label": "24.10.2026",
+    "duration": "03.12 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-24-10-26-1-cuatro-minutos-241026/17281899/",
+    "image": "https://img.rtve.es/v/17281899?w=800&amp;preview=01792846904902.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17281899.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17281899",
+    "transcript": "Miles de personas se han manifestado en Madrid en defensa del sistema público de pensiones. Los organizadores rechazan cualquier tipo de privatización, piden igualar la pensión mínima al salario mínimo y revalorizarlas un 6 por ciento por el elevado coste de la vida. Buenas tardes. Es uno de los temas de confrontación esta precampaña. Pedro Sánchez hoy está en Granada, Alberto Núñez Feijóo, en Vigo. El líder de los populares ha acusado al presidente del Gobierno de agitar la violencia en las calles y el líder socialista ha reivindicado la España de García Lorca. Feijó es el envoltorio y la vasca del regalo. Pertenecen al mismo club de la motosierra. -Buscan agitar una calle que les da la espalda. Yo os pido que el 29 de noviembre derribemos el muro de Sánchez, ese muro que alimenta a los extremistas y que nos destruye como país. Barcelona a acogido el primer acto conjunto de Irene Montero y Gabriel Rufián al que ha acudido toda la cúpula de Esquerra Republicana. En el acto han atacado al Frente Amplio por su coalición con el PSOE en el Senado. Francia e Italia se blindan ante otro sábado de protestas, tras los graves disturbios del pasado fin de semana. En París, se ha obligado a los manifestantes a cambiar su recorrido por seguridad. Otras protestas se han prohibido. Dispositivo inédito en Francia, con 70 000 agentes desplegados y comercios blindados. Hay más de un centenar de detenidos, pero hasta ahora, sin apenas incidentes. Brasil vota mañana con los dos candidatos empatados según los últimos sondeos. Este es su último cara a cara electoral. Lula da Silva y Flávio Bolsonaro han confrontado sobre el coste de la vida y la seguridad, principal problema de los brasileños. Un equipo de RTVE ha estado en una favela de Río de Janeiro. Ya está aquí el horario de invierno. Esta madrugada los relojes se retrasan, a las 3 serán las 2 y en Canarias a las 2 será la 1. Una hora más de sueño sí, pero este cambio altera nuestras rutinas y que puede afectar a la salud. Llanes se ha volcado con la Familia Real, los reyes, la princesa Leonor y la infanta Sofía han estado con la Cofradia de pescadores de Santa Ana que ha recibido el premio del Pueblo Ejemplar. Una de las anécdotas ha llegado cuando la reina Letizia se ha resbalado en la cubierto del pesquero en elque se había subido la familia real.",
+    "summary": [
+      "Miles de ciudadanos se han manifestado en Madrid para exigir la defensa del sistema público de pensiones, reclamando la equiparación de la pensión mínima al salario mínimo y una revalorización del 6% frente al encarecimiento del coste de la vida.",
+      "En plena precampaña electoral, el enfrentamiento político se intensifica con acusaciones cruzadas entre Pedro Sánchez y Alberto Núñez Feijóo, quien reprocha al jefe del Ejecutivo atizar la confrontación social.",
+      "Francia e Italia adoptan medidas de seguridad sin precedentes, desplegando decenas de miles de agentes y blindando comercios ante el temor a nuevos disturbios durante las protestas del fin de semana.",
+      "Brasil afronta unas elecciones presidenciales extremadamente reñidas, con un empate técnico en los sondeos entre Lula da Silva y Flávio Bolsonaro, centrando el debate en la seguridad y la carestía de la vida."
+    ],
+    "vocabulary": [
+      {
+        "term": "revalorizar",
+        "translation": "revaloriser / revalorisation",
+        "context": "peden revalorizarlas un 6 por ciento por el elevado coste de la vida"
+      },
+      {
+        "term": "la precampaña",
+        "translation": "la précampagne électorale",
+        "context": "Es uno de los temas de confrontación esta precampaña."
+      },
+      {
+        "term": "agitar",
+        "translation": "agiter / solcar / exacerber (les tensions)",
+        "context": "El líder de los populares ha acusado al presidente del Gobierno de agitar la violencia en las calles"
+      },
+      {
+        "term": "blindarse",
+        "translation": "se blinder / prendre des mesures de sécurité drastiques",
+        "context": "Francia e Italia se blindan ante otro sábado de protestas"
+      },
+      {
+        "term": "un dispositivo inédito",
+        "translation": "un dispositif inédit / sans précédent",
+        "context": "Dispositivo inédito en Francia, con 70 000 agentes desplegados"
+      },
+      {
+        "term": "un cara a cara",
+        "translation": "un face-à-face (débat politique)",
+        "context": "Este es su último cara a cara electoral."
+      },
+      {
+        "term": "volcarse con",
+        "translation": "se mobiliser massivement pour / manifester son total soutien",
+        "context": "Llanes se ha volcado con la Familia Real"
+      }
+    ]
+  },
+  {
     "id": "17281589",
     "title": "Telediario matinal en 4' - 24/10/26",
     "date": "2026-10-24",
@@ -330,142 +483,5 @@ window.TELEDIARIO_DATA = [
       }
     ],
     "transcript": "Hola, buenas tardes. El Gobierno y el PSOE aprovechan la visita del presidente argentino para reivindicar las políticas progresistas y defender la gestión del Ejecutivo. Sánchez contrapone los datos económicos de España con los de Argentina: \"Si en el pasado hemos tenido diferencias, hoy tenemos unidad, y si en el futuro hay diferencias también lo diremos. No pasa nada, normalicemos que la vida y los partidos políticos no somos sectas\". \"Los que somos futboleros diríamos que han reforzado el extremo derecho y están abandonando el centro del campo\". Y aún dura la resaca política por el polémico viaje relámpago de Milei a Madrid, en el que insultó a Pedro Sánchez y solo tuvo un encuentro institucional. Fue este, con Díaz Ayuso, que la presidenta madrileña ha vuelto a defender. El gobierno cree que la visita da muchas pistas sobre los planes de PP y Vox si llegan al Gobierno. \"El señor Milei no ha salido de una narco taberna o de una casa okupa, como sus socios. El señor Milei ha salido de las urnas, de la voluntad del pueblo de Argentina. Respétenlo\". \"Agradecemos mucho a la derecha que no engañe, que sea tan clara, que le diga tan claro a la gente cuál es su plan\". Italia y España levantan el bloqueo mutuo de sus fronteras. El gobierno de Meloni comenzó con los controles a pasajeros españoles hace dos meses, tras la entrada masiva de inmigrantes a Ceuta. Y España respondió equiparando la medida. La Corte Penal Internacional, premio Sájarov 2026. El parlamento europeo reconoce la defensa del derecho internacional y la justicia que hace este tribunal al que Donald Trump ha sancionado y vetado sistemáticamente. La corte ordenó la detención de Netanyahu por crímenes de guerra en Gaza. Alerta internacional después de que la IA haya descubierto fallos críticos que afectan al 75 % de las webs mundiales. Muchas han cerrado, sobre todo las gubernamentales, para protegerse de los ciberataques. Y Leo Messi ha desatado la locura en Oviedo, donde mañana recibirá el Premio Princesa de Asturias de los Deportes. Cientos de personas se agolpaban desde primera hora para recibir a la estrella del fútbol. Cientos de personas se han reunido aquí en las puertas del Hotel La Reconquista. Ya lo escuchan, los gritos de la gente pone muy difícil oír el sonido de las gaitas que les dan la bienvenida. Oviedo está volcado por completo para dar la bienvenida a la estrella del fútbol Leo Messi. -Conseguí la firma de Messi, fue todo un honor y un sueño cumplido. -Firmó Leo la bota de mi hijo Enzo. -No tengo un solo tatuaje en el cuerpo, va a ser el primero."
-  },
-  {
-    "id": "17277770",
-    "title": "Telediario matinal en 4' - 22/10/2026",
-    "date": "2026-10-22",
-    "date_label": "22.10.2026",
-    "duration": "03.14 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-22-10-2026/17277770/",
-    "image": "https://img.rtve.es/v/17277770?w=800&amp;preview=01792642091849.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17277770.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17277770",
-    "summary": [
-      "La visita relámpago de Javier Milei a España ha convulsionado el tablero político preelectoral, combinando ataques verbales frontales contra el Ejecutivo de Pedro Sánchez con un respaldo explícito a los líderes de la oposición conservadora y ultraderechista.",
-      "El Tribunal Constitucional ha desestimado el recurso del Defensor del Pueblo sobre el voto de los nacionalizados en el marco de la ley de nietos, devolviendo la presión jurídica al Tribunal Supremo de cara a las próximas citas electorales.",
-      "En el plano internacional, la diplomacia estadounidense insiste en la proximidad de un fin del conflicto en Ucrania tras los contactos mantenidos con Moscú, a pesar de la persistencia de los bombardeos nocturnos entre Kiev y Rusia."
-    ],
-    "vocabulary": [
-      {
-        "term": "sacudir el panorama",
-        "translation": "bouleverser le paysage / secouer la scène",
-        "context": "El panorama preelectoral español se ha visto sacudido las últimas 24 horas por la visita de Javier Milei."
-      },
-      {
-        "term": "una actitud beligerante",
-        "translation": "une attitude belliqueuse / agressive",
-        "context": "El presidente argentino ha llegado con mensajes de apoyo a la derecha y con una actitud beligerante."
-      },
-      {
-        "term": "la pelota vuelve al tejado",
-        "translation": "la balle est dans le camp de quelqu'un",
-        "context": "La pelota vuelve al tejado del Supremo, que aún debe decidir sobre la cuestión de fondo."
-      },
-      {
-        "term": "una ciclogénesis explosiva",
-        "translation": "une cyclogenèse explosive (tempête violente)",
-        "context": "Sí, será una ciclogénesis explosiva, aunque no llegará hasta el final del día."
-      },
-      {
-        "term": "estrenar su casillero",
-        "translation": "ouvrir son compteur (de buts/points)",
-        "context": "Mbappé anotó otro tanto y asistió a Guller y estrenó su casillero Bernardo Silva."
-      }
-    ],
-    "transcript": "El panorama preelectoral español se ha visto sacudido las últimas 24 horas por la visita de Javier Milei El presidente argentino ha llegado con mensajes de apoyo a la derecha y con una actitud beligerante e insultos contra el gobierno A Pedro Sánchez le ha llamado impresentable dictador. El propio Sánchez y el PSOE le han respondido con carteles, música y eslóganes de campaña. Milei ha defendido expresamente las candidaturas de Feijo y Abascal Con este último ha realizado una videollamada. Con la única que se ha visto en una recepción en persona ha sido Ayuso. El Constitucional rechaza por mayoría con Isabel Díaz el recurso del Defensor del Pueblo por el voto de los nacionalizados por la ley de nietos La pelota vuelve al tejado del Supremo, que aún debe decidir sobre la cuestión de fondo Si unas 163.000 personas pueden votar el 29N Continúan, Gabriel, las lluvias en Canarias y además se acerca una borrasca a la Península Sí, será una ciclogénesis explosiva, aunque no llegará hasta el final del canal! día. De momento lo más importante en Canarias, con avisos incluso de nivel naranja en La Gomera, El Hierro y La Palma, hasta 100 litros por metro cuadrado todavía en las próximas horas... ...las islas occidentales recibirán bastante lluvia... ...en la península más sol, ese frente llegando al final de la jornada a Galicia y, como decimos, sobre todo la lluvia más destacada en Canarias todo con temperaturas de otoño en el centro y en el norte pero cálidas en el sur y en el Mediterráneo El Papa no necesitará más tratamiento tras la operación por el cáncer de pulmón. Lo anunció a última hora de ayer el Vaticano, después de que León XIV retomara sus audiencias y volviera a subirse al Papa Móvil para recorrer la Plaza de San Pedro Donald Trump afirma que el fin de la guerra de Ucrania está más cerca que nunca Una frase que ya ha dicho en otras ocasiones, que esta vez llega después de una reunión entre su enviado especial y Putin Apenas unas horas después del encuentro, de madrugada Kiev y Moscú volvían a intercambiar rondas de ataques Betis y Real Madrid suman de tres golear en casa 4-1 al Leipzig Volvió a marcar Diomandé, esta vez con una espectacular volea Mbappé anotó otro tanto y asistió a Guller y estrenó su casillero Bernardo Silva, una goleada que les lanza hacia el Clásico Y el Betis sigue subiendo de 3 en 3 en la Champions. Isco de penalti consiguió la victoria para los verdiblancos que se impusieron 1 a 0 al Feyenoord. Los de Pellegrini son quintos en esta fase Liga de la competición europea"
-  },
-  {
-    "id": "17277609",
-    "title": "Telediario 2 en 4' -21/10/26",
-    "date": "2026-10-21",
-    "date_label": "21.10.2026",
-    "duration": "03.39 min",
-    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-21-10-26/17277609/",
-    "image": "https://img.rtve.es/v/17277609?w=800&amp;preview=1792609331992.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17277609.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17277609",
-    "summary": [
-      "La visita de Javier Milei a Madrid desata una fuerte polémica en la precampaña electoral española tras proferir duras invectivas contra Pedro Sánchez, evidenciando las tensiones y los estratégicos silencios y encuentros entre los líderes de la derecha y de la ultraderecha.",
-      "El Tribunal Constitucional desestima por prematuro el recurso relativo al voto de los españoles nacionalizados al amparo de la Ley de Nietos, dejando en suspenso un electorado clave mientras las vías de reclamación siguen abiertas.",
-      "En el ámbito internacional, Volodímir Zelenski se muestra abierto a un alto el fuego congelando las líneas actuales del frente, en paralelo a la disposición de Vladímir Putin para reanudar negociaciones tras reunirse con el enviado de Donald Trump."
-    ],
-    "vocabulary": [
-      {
-        "term": "proferir graves insultos",
-        "translation": "proférer de graves insultes",
-        "context": "El presidente de Argentina protagoniza hoy en Madrid la precampaña electoral profiriendo graves insultos al presidente del gobierno."
-      },
-      {
-        "term": "sacar a patadas",
-        "translation": "chasser à coup de pied / expulser brutalement",
-        "context": "Sacar a los socialistas a patadas porque ustedes son la cuna del liberalismo."
-      },
-      {
-        "term": "quedar en el limbo",
-        "translation": "rester dans l'incertitude / en suspens",
-        "context": "El voto de los españoles nacionalizados por la llamada Ley de Nietos sigue en el limbo."
-      },
-      {
-        "term": "rechazar por prematuro",
-        "translation": "rejeter comme prématuré",
-        "context": "El Tribunal Constitucional ha rechazado por prematuro el recurso del Defensor del Pueblo."
-      },
-      {
-        "term": "pasar al mercado libre",
-        "translation": "passer au secteur libre (en parlant des prix de l'immobilier)",
-        "context": "El gobierno vasco compra a un fondo de inversión más de 500 pisos que estaban a punto de pasar al mercado libre."
-      },
-      {
-        "term": "congelar las líneas del frente",
-        "translation": "geler les lignes de front",
-        "context": "Zelenski está dispuesto a un alto el fuego congelando las actuales líneas del frente."
-      }
-    ],
-    "transcript": "Qué tal, buenas noches. El presidente de Argentina, Javier Mile,i protagoniza hoy en Madrid la precampaña electoral española profiriendo graves insultos al presidente del gobierno ante un público formado, entre otros, por el presidente del Senado español, otros dirigentes de PP y VOX y directivos de grandes empresas españolas. \"El impresentable, dictador de Pedro Sánchez, sacar a los socialistas a patadas porque ustedes son la cuna del liberalismo\" Aunque Milei ha defendido expresamente las candidaturas de Feijoo y Abascal, esta vez ninguno se ha visto con él. Abascal lo ha llamado desde A Coruña donde tenía un acto. Y esta tarde sí lo ha recibido Ayuso en un encuentro sin medios de la que solo han distribuido estas imágenes. Y el presidente del gobierno acaba de responder a Milei contrastando los datos de la economía española con la argentina y acusando a Feijoo y Abascal de esconderlo en campaña. No sé dónde meterse ni dónde meterlo. Los socialistas han aprovechado para apropiarse de la palabra zurdo que Milei utiliza como insulto a la izquierda ante la incomodidad de la derecha por recibir en campaña al presidente de la motosierra. El voto de los españoles nacionalizados por la llamada Ley de Nietos sigue en el limbo. -El Tribunal Constitucional ha rechazado por prematuro el recurso del Defensor del Pueblo. Considera el tribunal de garantías que los afectados aún están en plazo para reclamar su derecho a votar ante el Supremo. Satisfecho. el gobierno vasco compra a un fondo de inversión más de 500 pisos de alquiler limitado que estaban a punto de pasar al mercado libre en San Sebastián. La operación evita que se multiplique por 2 la renta que pagan sus inquilinos cada mes. Algo se mueve en la guerra en Ucrania. Zelenski está dispuesto a un alto el fuego congelando las actuales líneas del frente Ahora mismo, controla el 75% del territorio y Rusia el resto. Putin, después de reunirse hoy con el enviado de Trump, está dispuesto a reanudar las negociaciones. Y coincidiendo con el encuentro, ha liberado a un preso estadounidense. ¿Hartos de escuchar conversaciones ajenas, vídeos o música en el autobús o en el tren? Pues en Reino Unido han decidido expulsar o multar con 120 euros a quien moleste con su teléfono móvil a los demás en el transporte público Ha sido gladiador, héroe de la saga star wars pero lo más difícil para el actor Pedro Pascal es lo último: aparentar que toca el violonchelo. El actor de origen chileno interpreta a un músico que regresa a casa tras 20 años de giras. Luego escuchamos cómo se preparó para el papel."
-  },
-  {
-    "id": "17276985",
-    "title": "Telediario 1 en 4' -  21/10/26",
-    "date": "2026-10-21",
-    "date_label": "21.10.2026",
-    "duration": "03.13 min",
-    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-21-10-26/17276985/",
-    "image": "https://img.rtve.es/v/17276985?w=800&amp;preview=1792587845229.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17276985.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17276985",
-    "summary": [
-      "La visita relámpago de Javier Milei a España y su retórica incendiaria contra el presidente Pedro Sánchez han exacerbado la confrontación política nacional, obligando al Partido Socialista a instrumentalizar el viaje para galvanizar a su electorado frente a la derecha y la ultraderecha.",
-      "El Tribunal Constitucional ha decidido inadmitir el recurso del Defensor del Pueblo contra la suspensión del voto de miles de ciudadanos nacionalizados a través de la Ley de Nietos, al estimar que la vía judicial en el Tribunal Supremo debe agotarse previamente.",
-      "En el plano internacional y social, la actualidad destaca la recepción en el Kremlin del enviado estadounidense para abordar el conflicto en Ucrania, así como las tensiones urbanas en A Coruña tras un acto de Vox y las nuevas medidas restrictivas en el transporte público británico contra el ruido ambiental."
-    ],
-    "vocabulary": [
-      {
-        "term": "irrumpir en la precampaña",
-        "translation": "faire une entrée inattendue ou fracassante dans la précampagne",
-        "context": "Milei irrumpe en la precampaña y dice que con su visita quiere apoyar a Feijóo, Ayuso y Abascal."
-      },
-      {
-        "term": "reivindicar las políticas progresistas",
-        "translation": "revendiquer et défendre les politiques progressistes",
-        "context": "El Gobierno y el PSOE aprovechan la visita del presidente argentino para reivindicar las políticas progresistas."
-      },
-      {
-        "term": "inadmitir a trámite",
-        "translation": "rejeter (un recours) sans l'examiner sur le fond / irrecevabilité",
-        "context": "El Constitucional ha decidido no admitir a trámite el recurso del Defensor del Pueblo."
-      },
-      {
-        "term": "cargas de los Antidisturbios",
-        "translation": "charges des forces mobiles de maintien de l'ordre (compagnies républicaines de sécurité)",
-        "context": "Incidentes tras el acto de Abascal en A Coruña con cargas de los Antidisturbios contra centenares de manifestantes."
-      },
-      {
-        "term": "viviendas protegidas",
-        "translation": "logements sociaux ou à loyer modéré (HLM)",
-        "context": "Acuerdo entre el Gobierno vasco y el fondo Blackstone para comprar 510 viviendas protegidas en San Sebastián."
-      }
-    ],
-    "transcript": "Milei irrumpe en la precampaña Dice que con su visita a España quiere apoyar a Feijóo, Ayuso y Abascal. aunque esta vez, no se va reunir con el líder de Vox Sí lo hará con la presidenta madrileña pero sin presencia de los medios Sus primeras palabras han sido contra Pedro Sánchez. Hay que sacarle, ha dicho, a patadas: No voy a ir a ver a un delincuente, ladrón, como Pedro Sánchez, impresentable, dictador, de Pedro Sánchez. Hola, buenas tardes. El Gobierno y el PSOE aprovechan la visita del presidente argentino para reivindicar las políticas progresistas y defender la gestión del Ejecutivo. Sánchez contrapone los datos económicos de España con los de Argentina: El PSOE ha desplegado en la fachada de Ferraz una lona El PSOE ha desplegado en la fachada de Ferraz una lona con el mensaje \"Hola, Milei. Los zurdos y las zurdas te dan la bienvenida\". El PP critica que Sánchez hable más de Milei que de España. El PSOE asegura que PP y Vox ya no quieren recibir al presidente argentino. \"Que ya está Ayuso para recibir a Milei; y se reunirá hoy Ayuso con Milei, porque Ayuso es muy de visitar a tipos y recibir a lunáticos\". \"Pero que Pedro Sánchez será el primero que esté muy feliz por la propaganda que le ha dado Javier Milei hoy, estoy seguro\". El Constitucional rechaza el recurso del Defensor del Pueblo Rompe la mayoría progresista, y ha decidido no admitir a trámite es el recurso del defensor del Pueblo. Dice que es pronto, que es prematuro, ya que esperar a que se acabe el proceso en el supremo. y mantiene la suspensión del voto a miles de nacionalizados por la ley de Nietos, Cristina Blach. Y estos han sido los incidentes tras el acto de Abascal en A Coruña. con cargas de los Antidisturbios contra centenares de manifestantes que han intentado romper el cordón de seguridad durante la protesta contra el líder de Vox, y que han acabado lanzando piedras y material urbano a la Policía. Putin ha recibido hoy al enviado de Estados Unidos, que se ha ofrecido para mediar en las negociaciones con Ucrania El Kremlin exige a Kiev que haga concesiones El presidente ruso quiere retomar la cooperación con Washington, y como gesto, ha liberado a un preso estadounidense Acuerdo entre el Gobierno vasco y el fondo Blackstone para comprar 510 viviendas protegidas en San Sebastián. Los inquilinos mantendrán los contratos de alquiler que vencían en 2028. La operación costará 100 millones de euros. Es habitual viajar en transporte público y que al lado alguien vaya viendo vídeos o escuchando música a todo volumen a quienes lo hagan Reino Unido, se les podrá expulsar del vehículo o poner una multa de 120 euros. Después de 11 victorias consecutivas, el Barça perdió su primer partido de la temporada, en casa del PSG. Los de Luis Enrique demostraron el porqué son los actuales campeones. Su poder ofensivo acabó en goleada y frenando la reacción del Barcelona"
   }
 ];
