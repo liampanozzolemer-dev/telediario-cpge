@@ -1,0 +1,39 @@
+name: Mise à jour Telediario (3x par jour)
+
+on:
+  schedule:
+    # 07h00 UTC = 08h00 Paris (Telediario Matinal)
+    # 11h00 UTC = 12h00 Paris (Édition de midi)
+    # 15h00 UTC = 16h00 Paris (Capture le Telediario 1 espagnol diffusé à 15h)
+    # 20h30 UTC = 21h30 Paris (Telediario 2 du soir)
+    - cron: '0 7,11,15 * * *'
+    - cron: '30 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-telediarios:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Configuration de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Exécution du script de mise à jour
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python update_telediario.py
+
+      - name: Sauvegarde et publication automatique
+        run: |
+          git config --global user.name "Telediario Bot"
+          git config --global user.email "bot@telediario.local"
+          git add data/telediarios.json data/telediarios.js
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique Telediario [skip ci]" && git push)
