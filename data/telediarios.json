@@ -1,5 +1,54 @@
 [
   {
+    "id": "17282579",
+    "title": "Telediario 1 en 4' - 25/10/26",
+    "date": "2026-10-25",
+    "date_label": "25.10.2026",
+    "duration": "03.40 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-25-10-26-1-cuatro-minutos-251026/17282579/",
+    "image": "https://img.rtve.es/v/17282579?w=800&amp;preview=01792937030303.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17282579.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17282579",
+    "transcript": "Al menos 128 detenidos, la mitad menores, tras los graves disturbios de ayer en Barcelona. Medio millar de jóvenes convocados por redes sociales provocaron altercados en el centro de la ciudad causando importantes daños materiales Así están muchos escaparates de los establecimientos vandalizados y saqueados. Barcelona hace balance de daños. Al menos hay 23 comercios afectados. Buenas tardes. Se investiga el por qué de lo ocurrido, que recuerda a Francia, y quién está detrás de esta convocatoria que ha acabado en este grave episodio de violencia. Hoy ha marcado hoy parte de los actos de precampaña. \"Respondemos como siempre hemos hecho en Cataluña: con serenidad, con la ley en la mano, aplicando la ley y avanzando\" \"Los discípulos del muro no quieren la paz en las calles. Están sembrando el odio, porque saben que van a perder. Se están resistiendo a abandonar el poder con violencia\" 30 000 personas, según delegación del Gobierno, se han manifestado en Madrid para exigir soluciones por las crisis migratoria de Ceuta. Convocadas por la plataforma de mujeres caballas, la marcha ha contado con la presencia del presidente de la ciudad autónoma. En Brasil, los dos candidatos a presidir el país más extenso de latinoamerica ya han votado. El actual presidente, Lula da Silva, y el senador Flávio Bolsonaro llegan casi empatados. Brasil vota a quien será su próximo presidente para los siguientes 4 años. 160 millones de brasileños están llamados a las urnas y tendrán que elegir entre dos modelos muy opuestos. Por un lado el que representa el izquierdista Lula da Silva, el actual presidente de Brasil, y, por otro lado, el modelo que propone el ultraliberal Flavio Bolsonaro, que aspira por primera vez a la presidencia de este país. El rey, operado con éxito de cataratas en su ojo izquierdo ayer en Oviedo, así salía esta mañana de la clínica tras recibir el alta. La intervención duró media hora y según el equipo médico, ha servido también para corregirle otros problemas de visión en el mismo ojo. Su agenda no sufrirá alteraciones. Y hoy en el Telediario analizaremos la evolución de las ventas de coches y sus precios, porque según la oficina estadística de la Unión Europea, cada vez hay más españoles que no pueden permitirse comprar un coche. Aunque sus ventas no han dejado de crecer. Ha muerto el director, productor y guionista José Luis García Sánchez a los 85 años. Ganó el Oso de Oro de Berlín por 'Las Truchas' y dos Goyas. Está detrás de películas como 'La corte del faraón' o 'Divinas palabras'. Su trayectoria está ligada a los Trueba o Rafael Azcona. Llega el primer clásico de la Liga. El Barça intentará aumentar a 9 puntos su ventaja sobre el Real Madrid en el Camp Nou mientras que Mourinho, en su regreso al campo azulgrana 13 años después, busca acercarse al líder invicto. Sin Courtois en la portería, baja de última hora por gripe, aunque aún no está descartado al 100 por 100.",
+    "summary": [
+      "Los graves disturbios acontecidos en Barcelona, saldados con al menos 128 detenciones —la mitad menores de edad— y daños en 23 establecimientos, han reavivado el debate político en plena precampaña sobre el orden público y la polarización social, evocando disturbios análogos en el país vecino.",
+      "En Madrid, unas 30.000 personas convocadas por la plataforma 'Mujeres Caballas' se han manifestado para exigir soluciones urgentes ante la crisis migratoria que afecta a Ceuta, evidenciando la tensión territorial y humanitaria en la agenda política nacional.",
+      "Brasil celebra unas elecciones presidenciales cruciales con 160 millones de ciudadanos llamados a las urnas en un contexto de máxima igualdad entre el actual mandatario izquierdista, Lula da Silva, y el aspirante ultraliberal Flávio Bolsonaro."
+    ],
+    "vocabulary": [
+      {
+        "term": "los disturbios",
+        "translation": "les émeutes / les troubles",
+        "context": "tras los graves disturbios de ayer en Barcelona"
+      },
+      {
+        "term": "los escaparates vandalizados y saqueados",
+        "translation": "les vitrines vandalisées et pillées",
+        "context": "Así están muchos escaparates de los establecimientos vandalizados y saqueados"
+      },
+      {
+        "term": "la precampaña",
+        "translation": "la précampagne électorale",
+        "context": "Hoy ha marcado hoy parte de los actos de precampaña"
+      },
+      {
+        "term": "estar llamado a las urnas",
+        "translation": "être appelé aux urnes",
+        "context": "160 millones de brasileños están llamados a las urnas"
+      },
+      {
+        "term": "recibir el alta",
+        "translation": "sortir de l'hôpital (recevoir son bon de sortie)",
+        "context": "así salía esta mañana de la clínica tras recibir el alta"
+      },
+      {
+        "term": "no poder permitirse",
+        "translation": "ne pas pouvoir se permettre (financièrement)",
+        "context": "cada vez hay más españoles que no pueden permitirse comprar un coche"
+      }
+    ]
+  },
+  {
     "id": "17282284",
     "title": "Telediario matinal en 4' - 25/10/26",
     "date": "2026-10-25",
@@ -439,49 +488,5 @@
       }
     ],
     "transcript": "¿Qué tal?, buenas noches. El lunes acaba el plazo para inscribir las candidaturas electorales y hoy el PP ha anunciado que Cayetana Alvarez de Toledo y Borja Sémper acompañarán como número 2 y 3 de la lista por Madrid a Núñez Feijoo. Y así respondía Semper cuando hoy le preguntaban si representan dos almas distintas del Partido Popular. Todos los partidos tienen de plazo hasta el lunes para presentar candidaturas. Y la polémica de la campaña hoy es un vídeo precisamente del PP, hecho con inteligencia artificial en el que se suplanta la identidad de distintos dirigentes del PSOE y de Begoña Gómez en el que con su imagen y su voz fabricadas en un ordenador, incluso admiten delitos. El PSOE estudia acudir a los tribunales. Y sigue sin haber negociaciones entre la Comunidad de Madrid y los docentes que cumplen su noveno día de huelga. Esta tarde se han manifestado ante la Consejería de Educación en la capital de España. Aquí en la consejería de educación es donde está llegando a su fin la tercera manifestación de los profesores madrileños en menos de dos semanas. No hay negociaciones y el mensaje de los docentes es absolutamente claro, no piensan parar hasta que las haya. Exigen abrir una mesa de negociación para mejorar sus condiciones laborales; entre ellas, la bajada de ratios y una mejora del salario que, dicen, no es suficiente para afrontar la vida en la capital. En Italia, una huelga de camioneros está dejando estanterías casi vacías en los supermercados del sur de país Los transportistas protestan por el alto precio del combustible. Meloni trata de terminar con la huelga y ha aprobado hoy un paquete de ayudas al sector de 550 millones de euros. Se multiplican las noticias inquietantes sobre la inteligencia artificial. Bancos americanos detectan movimientos en cuentas de sus clientes sin poder distinguir si lo hace un humano o una IA. Y a la vez, la IA ha conseguido detectar una grieta de seguridad muy grave en el sistema del que dependen el 70 % de las webs del mundo. Cambios de tendencia en los menús del día en los restaurantes. Cada vez más clientes piden medio menú o menú para llevar, que suele ser algo más barato que consumido en el establecimiento. \"Sobre todo por la prisa, por: 'quiero comer rápido, quiero comer algo casero, pero no tengo mucho tiempo'\". La familia real ya está en Oviedo para la entrega de los Premios Princesa de Asturias. Esta tarde los recibían así en el tradicional concierto previo a la ceremonia en el teatro Campoamor que mañana podrán ver en esta casa, en TVE. Y quien llegaba horas antes a Oviedo es él, Leo Messi, que mañana recibirá el Premio Princesa de Asturias de los Deportes recibido con entusiasmo en las calles de la capital asturiana."
-  },
-  {
-    "id": "17278788",
-    "title": "Telediario 1 en 4' -  22/10/26",
-    "date": "2026-10-22",
-    "date_label": "22.10.2026",
-    "duration": "02.55 min",
-    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-22-10-26/17278788/",
-    "image": "https://img.rtve.es/v/17278788?w=800&amp;preview=1792675077884.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17278788.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17278788",
-    "summary": [
-      "La visita del presidente argentino a Madrid ha provocado un intenso cruce de reproches políticos, permitiendo al Ejecutivo de Pedro Sánchez reivindicar las políticas progresistas y contraponer los datos económicos de España frente a la gestión ultraliberal de Buenos Aires.",
-      "El Parlamento Europeo ha concedido el prestigioso premio Sájarov 2026 a la Corte Penal Internacional, ensalzando su defensa del derecho internacional a pesar de las sanciones y el veto sistemático impuestos por la administración de Donald Trump.",
-      "Una grave crisis de ciberseguridad ha obligado a numerosas páginas web gubernamentales de todo el mundo a suspender temporalmente sus servicios tras detectarse fallos críticos explotados por la inteligencia artificial."
-    ],
-    "vocabulary": [
-      {
-        "term": "la resaca política",
-        "translation": "la contestation / les remous politiques",
-        "context": "Y aún dura la resaca política por el polémico viaje relámpago de Milei a Madrid."
-      },
-      {
-        "term": "equiparar la medida",
-        "translation": "prendre des mesures de rétorsion / aligner sa décision",
-        "context": "España respondió equiparando la medida tras los controles impuestos en la frontera."
-      },
-      {
-        "term": "el bloqueo mutuo",
-        "translation": "le blocus mutuel / la fermeture croisée",
-        "context": "Italia y España levantan el bloqueo mutuo de sus fronteras."
-      },
-      {
-        "term": "vetar sistemáticamente",
-        "translation": "mettre systématiquement son véto",
-        "context": "La corte a la que Donald Trump ha sancionado y vetado sistemáticamente."
-      },
-      {
-        "term": "estar volcado por completo",
-        "translation": "se mobiliser corps et âme / être tout entier tourné vers",
-        "context": "Oviedo está volcado por completo para dar la bienvenida a la estrella del fútbol."
-      }
-    ],
-    "transcript": "Hola, buenas tardes. El Gobierno y el PSOE aprovechan la visita del presidente argentino para reivindicar las políticas progresistas y defender la gestión del Ejecutivo. Sánchez contrapone los datos económicos de España con los de Argentina: \"Si en el pasado hemos tenido diferencias, hoy tenemos unidad, y si en el futuro hay diferencias también lo diremos. No pasa nada, normalicemos que la vida y los partidos políticos no somos sectas\". \"Los que somos futboleros diríamos que han reforzado el extremo derecho y están abandonando el centro del campo\". Y aún dura la resaca política por el polémico viaje relámpago de Milei a Madrid, en el que insultó a Pedro Sánchez y solo tuvo un encuentro institucional. Fue este, con Díaz Ayuso, que la presidenta madrileña ha vuelto a defender. El gobierno cree que la visita da muchas pistas sobre los planes de PP y Vox si llegan al Gobierno. \"El señor Milei no ha salido de una narco taberna o de una casa okupa, como sus socios. El señor Milei ha salido de las urnas, de la voluntad del pueblo de Argentina. Respétenlo\". \"Agradecemos mucho a la derecha que no engañe, que sea tan clara, que le diga tan claro a la gente cuál es su plan\". Italia y España levantan el bloqueo mutuo de sus fronteras. El gobierno de Meloni comenzó con los controles a pasajeros españoles hace dos meses, tras la entrada masiva de inmigrantes a Ceuta. Y España respondió equiparando la medida. La Corte Penal Internacional, premio Sájarov 2026. El parlamento europeo reconoce la defensa del derecho internacional y la justicia que hace este tribunal al que Donald Trump ha sancionado y vetado sistemáticamente. La corte ordenó la detención de Netanyahu por crímenes de guerra en Gaza. Alerta internacional después de que la IA haya descubierto fallos críticos que afectan al 75 % de las webs mundiales. Muchas han cerrado, sobre todo las gubernamentales, para protegerse de los ciberataques. Y Leo Messi ha desatado la locura en Oviedo, donde mañana recibirá el Premio Princesa de Asturias de los Deportes. Cientos de personas se agolpaban desde primera hora para recibir a la estrella del fútbol. Cientos de personas se han reunido aquí en las puertas del Hotel La Reconquista. Ya lo escuchan, los gritos de la gente pone muy difícil oír el sonido de las gaitas que les dan la bienvenida. Oviedo está volcado por completo para dar la bienvenida a la estrella del fútbol Leo Messi. -Conseguí la firma de Messi, fue todo un honor y un sueño cumplido. -Firmó Leo la bota de mi hijo Enzo. -No tengo un solo tatuaje en el cuerpo, va a ser el primero."
   }
 ]
