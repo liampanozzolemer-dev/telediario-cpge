@@ -1,5 +1,54 @@
 [
   {
+    "id": "17282922",
+    "title": "Telediario matinal en 4' - 26/10/2026",
+    "date": "2026-10-26",
+    "date_label": "26.10.2026",
+    "duration": "03.33 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/26-10-2026/17282922/",
+    "image": "https://img.rtve.es/v/17282922?w=800&amp;preview=01792991221720.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17282922.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17282922",
+    "transcript": "Esta madrugada se ha dado por finalizado la búsqueda de afectados en el entorno del accidente de autobús en Fogars de Monclus, en Barcelona Al lugar se desplazará una grúa para remolcar el autocar ya por la mañana y ver si alguien ha quedado atrapado De los 83 heridos, 7 están graves. El conductor habría perdido el control en una curva. ¿Qué tal están? Muy buenos días. Y en Brasil, remontada inédita de Lula Da Silva en las elecciones Logra que la izquierda retenga al gobierno con cerca del 52% de los votos, 4 millones más de papeletas que su rival Flavio Bolsonaro que había vencido en primera vuelta Lula a sus 81 años logra su cuarto mandato no consecutivo En su primer discurso ha dicho que es una derrota del negacionismo y de la mentira. También que Brasil.. no es el patio trasero de nadie. Trump había apoyado a su rival, a Bolsonaro, que no acepta los resultados y pide anular la votación Y en Caracas, Venezuela, miles de seguidores han recibido a la líder opositora Maria Corina Machado tras 10 meses fuera del país Salió para recoger el Nobel de la Paz y había intentado regresar en al menos siete ocasiones. El gobierno chavista y el de Estados Unidos dicen que su vuelta es síntoma de la fortaleza de la transición que vive Venezuela Cuenta atrás para presentar las candidaturas electorales aquí en nuestro país. Acaba esta medianoche el plazo. Los pactos a izquierda y derecha se ultiman para el Senado Tras quedar fuera de las listas socialistas del 29N, ha dimitido el delegado del gobierno en Madrid Y la precampaña también se ha visto marcada por los graves disturbios de este fin de semana en Barcelona. Los Mossos monitorizan las redes y colaboran con otros cuerpos europeos para identificar a los convocantes. De los 128 detenidos, la mitad son menores Hoy el ayuntamiento se reúne con comerciantes afectados Y en Deportes, el Real Madrid se lleva el Clásico en el Camp Nou. Joaquín, buenos días Buenos días, Mireia. Así es. Los de Mourinho se han impuesto a domicilio 1-2 y aprieta la Liga. Con el Barça ya a solo tres puntos del Real Madrid. Kylian Mbappé hizo doblete primero en un rebote tras un mal despeje de la defensa El segundo tanto llegó tras una buena jugada de Camavinga. Para los azulgrana, Marco Rafinha.. ha asistido por Pedri Y también este domingo goleada lee el Athletic al Getafe por 4-0 para José Bordalás los azulones han tocado fondo. Por otra parte, victoria de la Real Sociedad por 2-1 ante el Levante quintos a los blanqueazules y empate sin goles entre Celta y Betis, con los béticos manteniéndose en puestos Champions. Tiempo tranquilo, Gabriel, para empezar la semana y hablamos incluso de temperaturas altas para la época del año. Así es, buenos días, Mireia. Podemos decir incluso que estamos en Veroño porque las temperaturas van a ser bastante más altas de lo que sería habitual para esta época del año con temperaturas moviéndose en torno a los 23-25 grados en la mayor parte del país Destacan esos 26 de Bilbao-Zaragoza, pero fíjense en el suroeste, Valle del Guadalquivir, pasando de 30 grados En una jornada en general de sol, algunas nieblas en Castilla y León al amanecer, nubes altas en el este, sin lluvias, salvo en Canarias, La Palma y Tenerife, donde pueden ser algo más abundantes",
+    "summary": [
+      "En Brasil, la histórica e inédita remontada electoral de Lula da Silva culmina con su elección para un cuarto mandato presidencial con el 52% de los votos. Esta victoria representa un revés para el bolsonarismo y el negacionismo político, si bien Flávio Bolsonaro se niega a reconocer los resultados e insta a anular la votación con el respaldo de Donald Trump.",
+      "El escenario geopolítico latinoamericano registra asimismo un giro significativo con el regreso a Venezuela de la líder opositora María Corina Machado tras diez meses en el extranjero; un acontecimiento interpretado de forma convergente por Caracas y Washington como evidencia del afianzamiento del proceso de transición democrática.",
+      "En el plano nacional español, la escena política se encuentra condicionada por el cierre inminente de las listas electorales para las generales del 29N, la dimisión del delegado del Gobierno en Madrid tras ser excluido de las candidaturas socialistas, y el clima de crispación acentuado por los graves disturbios urbanos registrados en Barcelona."
+    ],
+    "vocabulary": [
+      {
+        "term": "remontada inédita",
+        "translation": "une remontée inédite / un revirement histórico e insólito",
+        "context": "En Brasil, remontada inédita de Lula Da Silva en las elecciones."
+      },
+      {
+        "term": "el patio trasero",
+        "translation": "le pré carré / la chasse gardée (zone d'influence exclusiva)",
+        "context": "Lula ha dicho que Brasil no es el patio trasero de nadie."
+      },
+      {
+        "term": "ultimar pactos",
+        "translation": "finaliser / parachever des accords políticos",
+        "context": "Los pactos a izquierda y derecha se ultiman para el Senado."
+      },
+      {
+        "term": "quedar fuera de las listas",
+        "translation": "être écarté / exclu des listes électorales",
+        "context": "Tras quedar fuera de las listas socialistas del 29N, ha dimitido el delegado del Gobierno."
+      },
+      {
+        "term": "monitorizar las redes",
+        "translation": "surveiller / scruter les réseaux sociaux",
+        "context": "Los Mossos monitorizan las redes para identificar a los convocantes de los disturbios."
+      },
+      {
+        "term": "tocar fondo",
+        "translation": "toucher le fond / atteindre el nivel más bajo",
+        "context": "Para el entrenador José Bordalás, los azulones han tocado fondo tras la goleada."
+      }
+    ]
+  },
+  {
     "id": "17282800",
     "title": "Telediario 2 en 4' - 25/10/26",
     "date": "2026-10-25",
@@ -434,59 +483,5 @@
       }
     ],
     "transcript": "Hola, buenas tardes. Feijóo intentará gobernar aunque el PP no sea la lista más votada el 29 de noviembre. El líder del PP no descarta pactar con Vox porque su objetivo, dice, es que Sánchez se vaya. Feijóo no ha desvelado que fórmula negocia con Abascal para concurrir al Senado, pero sí ha adelantado otros temas. Que Igualdad no tendrá ministerio propio, que reabrirá el debate sobre el aborto de menores y promete que el salario mínimo no tribute. El Gobierno le recuerda que eso ya ocurre ahora. Pedro Sánchez alerta del riesgo que, asegura, supone Vox. El presidente estuvo anoche en La Revuelta. Dijo que aspira a gobernar 4 años más, reconoció que la crisis de Ceuta se podía haber gestionado mejor y que fue un error confiar en Ábalos. Su entrevista batió récord de audiencia. La vieron casi 4.400.000 personas, un 33,9 % de cuota de pantalla. La Fiscalía pide imputar al expresidente Rodríguez Zapatero por malversación en el caso de las joyas encontradas en su despacho. Y el juez Calama reclama la lista de regalos que entregó a Patrimonio durante su Gobierno. La Audiencia Nacional amnistía a los 12 CDR acusados de planear atentados contra instituciones en Cataluña. Aplica así la Ley de Amnistía, después de que la Justicia europea declarara que la medida de gracia no choca con la normativa comunitaria. En Ceuta, la policía nacional se ha desplegado en El Príncipe para intentar localizar a decenas de inmigrantes que duermen en las calles tras la entrada masiva. En esa barriada los agentes localizaron una casa patera en la que malvivían 74 personas. El dueño ya está en prisión. En Francia, un hombre ha disparado desde su coche y ha matado a una persona y ha herido de gravedad a otras 4, entre ellas, una niña de 12 años. La fiscalía antiterrorista investiga si hubo motivación racista. El detenido vive en la zona del suroeste de París donde ha tenido lugar el ataque. Y Leonor ha debutado, en solitario, en la recepción a los galardonados con el Premio Princesa de Asturias. Por primera vez les ha entregado las insignias, sola, sin sus padres, ni su hermana, que se han unido después para recibir a los patronos de la Fundación. Esta tarde, llegará el momento más esperado, Ana Roldán. Ese momento es la ceremonia de entrega de los galardones en el Teatro Campoamor a las 18;30. Ahora todos los premiados y la familia real están aquí en el hotel de la reconquista. Acaban de terminar de comer junto a unos 700 invitados y enseguida tendrán que prepararse para la ceremonia en la que escuchamos los discursos de 4 premiados, del rey y de la princesa de Asturias."
-  },
-  {
-    "id": "17279598",
-    "title": "Telediario Matinal en 4' - 23/10/2026",
-    "date": "2026-10-23",
-    "date_label": "23.10.2026",
-    "duration": "03.50 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-23-10-2026/17279598/",
-    "image": "https://img.rtve.es/v/17279598?w=800&amp;preview=01792732080748.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17279598.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17279598",
-    "summary": [
-      "Los principales partidos intensifican la precampaña electoral combinando actos tradicionales con apariciones en formatos de entretenimiento, como la intervención televisiva de Pedro Sánchez, quien abordó flancos delicados relativos a su gestión y a su entorno personal. Por su parte, el Partido Popular reconfigura sus listas al Congreso con perfiles como Álvarez de Toledo y Sémper para ensanchar su base electoral, al tiempo que afronta tensiones tácticas con Vox de cara a posibles alianzas en el Senado.",
-      "El escenario internacional y europeo viene marcado por la respuesta institucional ante la conflictividad social en Francia, donde París prolonga el toque de queda y restringe el droit de manifestación, y por el impacto económico en Italia de una huelga de camioneros que ha tensionado el abastecimiento en el sur del país.",
-      "El ámbito cultural e institucional asturiano centra los prolegómenos de la ceremonia de entrega de los Premios Princesa de Asturias, un acontecimiento que congrega a figuras internacionales como Patti Smith y Lionel Messi y que pone de relieve la proyección mediática de estos galardones."
-    ],
-    "vocabulary": [
-      {
-        "term": "estar inmerso en",
-        "translation": "être plongé dans, être en plein...",
-        "context": "los partidos siguen inmersos en la precampaña con el plazo para inscribir las listas aún abierto"
-      },
-      {
-        "term": "redoblar la presencia",
-        "translation": "intensifier, doubler la présence",
-        "context": "redoblando su presencia en medios con citas como la de Pedro Sánchez anoche en La Revuelta"
-      },
-      {
-        "term": "ampliar nicho de votantes",
-        "translation": "élargir le bassin d'électeurs / la niche électorale",
-        "context": "El PP busca ampliar nicho de votantes con Álvarez de Toledo y Sémper escoltando a Feijóo"
-      },
-      {
-        "term": "abrir un frente",
-        "translation": "ouvrir un nouveau front (politique/conflictuel)",
-        "context": "La visita de Milei les ha abierto un frente con Vox, con quienes negocian para concurrir al Senado"
-      },
-      {
-        "term": "blindarse ante",
-        "translation": "se prémunir contre, se blinder face à",
-        "context": "Francia se quiere blindar ante nuevas protestas este fin de semana y solo autorizará manifestaciones convocadas por sindicatos"
-      },
-      {
-        "term": "desabastecer",
-        "translation": "provoquer une pénurie, rompre l'approvisionnement",
-        "context": "la huelga de camioneros en el sur ha vaciado estantes de supermercados y desabastecido gasolineras"
-      },
-      {
-        "term": "encajar una goleada",
-        "translation": "encaisser une lourde défaite (un score fleuve)",
-        "context": "la noche en el Coliseum iba a torcerse hasta encajar una goleada del conjunto suizo"
-      }
-    ],
-    "transcript": "Buenos días, los partidos siguen inmersos en la precampaña con el plazo para inscribir las listas aún abierto y redoblando su presencia en medios con citas como la de Pedro Sánchez anoche en La Revuelta. Sánchez reconocía así la decepción que sintió con quien fuera de su máxima confianza. También admitió que la crisis de Ceuta pudo gestionarse mejor y defendió a su mujer y su hermano. Una charla informal y también personal por momentos. El PP busca ampliar nicho de votantes con Álvarez de Toledo y Sémper escoltando a Feijóo en la lista al Congreso. La visita de Milei les ha abierto un frente con Vox, con quienes negocian para concurrir al Senado. Desde el Frente Amplio, Ada Colau lanza una pregunta a Irene Montero: que elija entre \"Juego de Tronos\" o \"Friends\". Francia se quiere blindar ante nuevas protestas este fin de semana y solo autorizará manifestaciones convocadas por sindicatos. En París el toque de queda se extiende hasta el lunes. En Italia, la huelga de camioneros en el sur ha vaciado estantes de supermercados y desabastecido gasolineras. En el tiempo, pendientes de la borrasca Austin que se nota un poco más en el norte. Sobre todo viendo que ha dejado rachas de más de 100 km/h. Precipitaciones no tantas. Donde seguiré lloviendo es en el Cantábrico oriental, y cara norte del Pirineo. En el resto del país bandas de nubes altas. En general tiempo tranquilo y temperaturas 15° por el norte, pero superando los 25 en el suroeste mediterráneo. Conectamos con la DGT para conocer cómo se circula a esta hora, Marta Miguez, buenos días. Pendientes de un accidente que complique Castellón, en sentido Valencia por lo que les pedimos precaución. Tráfico habitual por los accesos a Madrid. En Barcelona dificultades en el acceso por la C58 en Moncada. Y en el acceso a Sevilla. Todo listo en Oviedo para la entrega de los premios Princesa de Asturias esta tarde. Anoche los reyes y sus hijas presidieron el tradicional concierto previo a la gala. Los premiados también se han dejado ver: Patti Smith cantando junto a coros venidos de toda España y Messi ante 6000 escolares. Y en Deportes, Real Sociedad y Celta cumplieron anoche en Europa. Así es, dos victorias para los equipos españoles que juegan la Europa League y que suman sus primeras victorias en la competición. La Real Sociedad fabricó una goleada en su visita al Lillestrom noruego por 0 a 6 y el Celta venció en Glasgow con una remontada por 1 a 2 al Celtic con dos goles de Javi Rodríguez. Y en la Conference League, dura derrota del Getafe por 2 a 5 ante el Lugano. Los de Bordalás empezaron adelantándose, pero la noche en el Coliseum iba a torcerse hasta encajar una goleada del conjunto suizo."
   }
 ]
