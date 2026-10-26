@@ -1,5 +1,54 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17283893",
+    "title": "Telediario 1 en 4' -  26/10/26",
+    "date": "2026-10-26",
+    "date_label": "26.10.2026",
+    "duration": "03.37 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-26-10-26/17283893/",
+    "image": "https://img.rtve.es/v/17283893?w=800&amp;preview=1793024012181.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17283893.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17283893",
+    "transcript": "Remontada histórica de Lula Da Silva, que ha ganado las elecciones presidenciales de Brasil. El veterano dirigente de izquierdas, que perdió en la primera vuelta, le sacó anoche 4 puntos al candidato ultraconservador Flavio Bolsonaro. Tiene 80 años y éste será su cuarto mandato. Hola, buenas tardes. Feijóo intentará gobernar aunque el PP no sea la lista más votada el 29 de noviembre. El líder del PP no descarta pactar con Vox porque su objetivo, dice, Sí, el candidato derrotado, Flavio Bolsonaro, dijo anoche que no puede reconocer los resultados de estas elecciones después de la decisión del Tribunal Supremo. Y, que por tanto, va a pedir la anulación de estos comicios. Flavio Bolsonaro no tiene nada en la agenda de hoy. A si que vamos a ver qué decisiones toman. Desde luego es algo inédito. Nunca antes en la historia reciente de este país el candidato que ganó en la primera vuelta ha perdido la segunda ronda, como le ha pasado a Flavio Bolsonaro. En España, los partidos de izquierdas aplauden el resultado electoral en Brasil. La remontada del progresismo global, ha escrito Pedro Sánchez en redes, acaba de comenzar. El PP ironiza y recuerda al presidente del Gobierno que Lula fue condenado por corrupción. Una condena que después fue anulada. Pacto de PP y Vox para conseguir controlar el Senado. Los de Feijóo renuncian a presentar candidatos en tres provincias y los de Abascal en seis. La idea es concentrar el voto y contrarrestar el acuerdo que sellaron PSOE y Frente Amplio, Jara Laliena. El acuerdo se ha cerrado esta misma mañana. Tiene un solo objetivo, frenar a la extrema izquierda dicen, en el Senado. Vox se retira de seis circunscripciones, a cambio el PP se compromete a incluir un candidato independiente, a petición de los Abascal. El PP renuncia a presentarse en Gerona, Tarragona y Guipúzcoa. En Barcelona, hoy toca reparar los desperfectos provocados por los violentos altercados del sábado Los Mossos investigan las redes sociales para saber quien organizó los disturbios. Hay 128 detenidos, 72 de ellos menores para 6, la Fiscalía ha pedido su internamiento. Maria Corina Machado sigue sin desvelar cuáles son sus planes en Venezuela Al parecer, entró desde Colombia, con el conocimiento de EEUU y el gobierno chavista aunque la presidenta encargada, Delcy Rodríguez, no se ha pronunciado sobre su regreso. Los bomberos de la Generalitat rastrean con drones y cámaras térmicas la zona por la que se despeñó un autobús de pasajeros aunque en principio, descartan que haya más víctimas. El siniestro dejó 87 heridos, algunos graves, Begoña Fuentes. Así es. Ocho personas están ingresa esta estado grave. Muchas familias habían subido para disfrutar de un domingo la naturaleza. Todos esfuerzos están centrados en la retirada de ese vehículo accidentado, aunque las tareas eran complicadas. Por empinado el precipicio. La cantidad de accesos muy estrecha y con fuertes curvas.",
+    "summary": [
+      "Brasil experimenta un giro político histórico con la victoria de Luiz Inácio Lula da Silva en la segunda vuelta frente al candidato ultraconservador Flavio Bolsonaro, un resultado inédito en el que el veterano dirigente remontó cuatro puntos tras haber perdido la primera vuelta, desafiando la contestación de los resultados por parte de su rival.",
+      "En el panorama político español, el Partido Popular y Vox anuncian un pacto estratégico de no agresión en varias circunscripciones para las próximas elecciones con el fin de maximizar su representación y arrebatar el control del Senado al bloque de izquierdas.",
+      " Cataluña recupera la calma tras una jornada de graves altercados urbanos que se saldaron con 128 detenidos, entre ellos un elevado número de menores, mientras los Mossos d'Esquadra investigan la autoría digital de los disturbios en Barcelona."
+    ],
+    "vocabulary": [
+      {
+        "term": "la remontada",
+        "translation": "le retournement de situation, la remontée",
+        "context": "Remontada histórica de Lula Da Silva, que ha ganado las elecciones presidenciales de Brasil."
+      },
+      {
+        "term": "pactar",
+        "translation": "conclure un pacte, s'allier",
+        "context": "El líder del PP no descarta pactar con Vox porque su objetivo, dice, es gobernar."
+      },
+      {
+        "term": "la anulación",
+        "translation": "l'annulation, l'invalidation",
+        "context": "Va a pedir la anulación de estos comicios tras la decisión del Tribunal Supremo."
+      },
+      {
+        "term": "concentrar el voto",
+        "translation": "concentrer le vote (stratégie électorale)",
+        "context": "La idea es concentrar el voto y contrarrestar el acuerdo que sellaron PSOE y Frente Amplio."
+      },
+      {
+        "term": "los altercados",
+        "translation": "les échauffourées, les troubles à l'ordre public",
+        "context": "En Barcelona, hoy toca reparar los desperfectos provocados por los violentos altercados del sábado."
+      },
+      {
+        "term": "despeñarse",
+        "translation": "faire une chute dans un ravin, dévaler une pente",
+        "context": "La zona por la que se despeñó un autobús de pasajeros."
+      }
+    ]
+  },
+  {
     "id": "17282922",
     "title": "Telediario matinal en 4' - 26/10/2026",
     "date": "2026-10-26",
@@ -430,56 +479,6 @@ window.TELEDIARIO_DATA = [
         "term": "galardonados",
         "translation": "lauréats",
         "context": "Y Leonor ha debutado, en solitario, en la recepción a los galardonados con el Premio Princesa de Asturias."
-      }
-    ],
-    "transcript": "Hola, buenas tardes. Feijóo intentará gobernar aunque el PP no sea la lista más votada el 29 de noviembre. El líder del PP no descarta pactar con Vox porque su objetivo, dice, es que Sánchez se vaya. Feijóo no ha desvelado que fórmula negocia con Abascal para concurrir al Senado, pero sí ha adelantado otros temas. Que Igualdad no tendrá ministerio propio, que reabrirá el debate sobre el aborto de menores y promete que el salario mínimo no tribute. El Gobierno le recuerda que eso ya ocurre ahora. Pedro Sánchez alerta del riesgo que, asegura, supone Vox. El presidente estuvo anoche en La Revuelta. Dijo que aspira a gobernar 4 años más, reconoció que la crisis de Ceuta se podía haber gestionado mejor y que fue un error confiar en Ábalos. Su entrevista batió récord de audiencia. La vieron casi 4.400.000 personas, un 33,9 % de cuota de pantalla. La Fiscalía pide imputar al expresidente Rodríguez Zapatero por malversación en el caso de las joyas encontradas en su despacho. Y el juez Calama reclama la lista de regalos que entregó a Patrimonio durante su Gobierno. La Audiencia Nacional amnistía a los 12 CDR acusados de planear atentados contra instituciones en Cataluña. Aplica así la Ley de Amnistía, después de que la Justicia europea declarara que la medida de gracia no choca con la normativa comunitaria. En Ceuta, la policía nacional se ha desplegado en El Príncipe para intentar localizar a decenas de inmigrantes que duermen en las calles tras la entrada masiva. En esa barriada los agentes localizaron una casa patera en la que malvivían 74 personas. El dueño ya está en prisión. En Francia, un hombre ha disparado desde su coche y ha matado a una persona y ha herido de gravedad a otras 4, entre ellas, una niña de 12 años. La fiscalía antiterrorista investiga si hubo motivación racista. El detenido vive en la zona del suroeste de París donde ha tenido lugar el ataque. Y Leonor ha debutado, en solitario, en la recepción a los galardonados con el Premio Princesa de Asturias. Por primera vez les ha entregado las insignias, sola, sin sus padres, ni su hermana, que se han unido después para recibir a los patronos de la Fundación. Esta tarde, llegará el momento más esperado, Ana Roldán. Ese momento es la ceremonia de entrega de los galardones en el Teatro Campoamor a las 18;30. Ahora todos los premiados y la familia real están aquí en el hotel de la reconquista. Acaban de terminar de comer junto a unos 700 invitados y enseguida tendrán que prepararse para la ceremonia en la que escuchamos los discursos de 4 premiados, del rey y de la princesa de Asturias."
-  },
-  {
-    "id": "17280650",
-    "title": "Telediario 1 en 4' - 23/10/2026",
-    "date": "2026-10-23",
-    "date_label": "23.10.2026",
-    "duration": "03.37 min",
-    "url": "https://www.rtve.es/play/videos/telediario-1/telediario-1-cuatro-minutos-23-10-2026-1-4-minutos-23102026/17280650/",
-    "image": "https://img.rtve.es/v/17280650?w=800&amp;preview=01792760633989.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17280650.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17280650",
-    "summary": [
-      "Alberto Núñez Feijóo ha anunciado su firme intención de gobernar tras las elecciones del 29 de noviembre a pesar de no ser la lista más votada, sin descartar un pacto con Vox y perfilando medidas económicas y sociales como la exención fiscal del salario mínimo.",
-      "El presidente Pedro Sánchez, tras su masiva y recordada intervención en el programa televisivo La Revuelta, ha advertido sobre el peligro que representa la ultraderecha y ha entonado un mea culpa respecto a la crisis de Ceuta y el caso Ábalos.",
-      "La Audiencia Nacional ha aplicado la Ley de Amnistía a doce miembros de los CDR procesados por terrorismo, amparándose en el aval de la justicia europea que descarta la incompatibilidad de la medida con el derecho comunitario.",
-      "La princesa Leonor ha protagonizado su primer acto en solitario al recibir a los galardonados con los Premios Princesa de Asturias en el Hotel de la Reconquista, antes de presidir la solemne ceremonia en el Teatro Campoamor."
-    ],
-    "vocabulary": [
-      {
-        "term": "la cuota de pantalla",
-        "translation": "la part d'audience (audimat)",
-        "context": "Su entrevista batió récord de audiencia, un 33,9 % de cuota de pantalla."
-      },
-      {
-        "term": "la medida de gracia",
-        "translation": "la mesure de grâce / l'amnistie",
-        "context": "La Justicia europea declaró que la medida de gracia no choca con la normativa comunitaria."
-      },
-      {
-        "term": "la malversación",
-        "translation": "le détournement de fonds publics",
-        "context": "La Fiscalía pide imputar al expresidente Rodríguez Zapatero por malversación."
-      },
-      {
-        "term": "la entrada masiva",
-        "translation": "l'afflux massif / l'arrivée massive de migrants",
-        "context": "Decenas de inmigrantes duermen en las calles tras la entrada masiva."
-      },
-      {
-        "term": "los galardonados",
-        "translation": "les lauréats",
-        "context": "La recepción a los galardonados con el Premio Princesa de Asturias."
-      },
-      {
-        "term": "pactar",
-        "translation": "conclure un pacte / s'allier",
-        "context": "El líder del PP no descarta pactar con Vox."
       }
     ],
     "transcript": "Hola, buenas tardes. Feijóo intentará gobernar aunque el PP no sea la lista más votada el 29 de noviembre. El líder del PP no descarta pactar con Vox porque su objetivo, dice, es que Sánchez se vaya. Feijóo no ha desvelado que fórmula negocia con Abascal para concurrir al Senado, pero sí ha adelantado otros temas. Que Igualdad no tendrá ministerio propio, que reabrirá el debate sobre el aborto de menores y promete que el salario mínimo no tribute. El Gobierno le recuerda que eso ya ocurre ahora. Pedro Sánchez alerta del riesgo que, asegura, supone Vox. El presidente estuvo anoche en La Revuelta. Dijo que aspira a gobernar 4 años más, reconoció que la crisis de Ceuta se podía haber gestionado mejor y que fue un error confiar en Ábalos. Su entrevista batió récord de audiencia. La vieron casi 4.400.000 personas, un 33,9 % de cuota de pantalla. La Fiscalía pide imputar al expresidente Rodríguez Zapatero por malversación en el caso de las joyas encontradas en su despacho. Y el juez Calama reclama la lista de regalos que entregó a Patrimonio durante su Gobierno. La Audiencia Nacional amnistía a los 12 CDR acusados de planear atentados contra instituciones en Cataluña. Aplica así la Ley de Amnistía, después de que la Justicia europea declarara que la medida de gracia no choca con la normativa comunitaria. En Ceuta, la policía nacional se ha desplegado en El Príncipe para intentar localizar a decenas de inmigrantes que duermen en las calles tras la entrada masiva. En esa barriada los agentes localizaron una casa patera en la que malvivían 74 personas. El dueño ya está en prisión. En Francia, un hombre ha disparado desde su coche y ha matado a una persona y ha herido de gravedad a otras 4, entre ellas, una niña de 12 años. La fiscalía antiterrorista investiga si hubo motivación racista. El detenido vive en la zona del suroeste de París donde ha tenido lugar el ataque. Y Leonor ha debutado, en solitario, en la recepción a los galardonados con el Premio Princesa de Asturias. Por primera vez les ha entregado las insignias, sola, sin sus padres, ni su hermana, que se han unido después para recibir a los patronos de la Fundación. Esta tarde, llegará el momento más esperado, Ana Roldán. Ese momento es la ceremonia de entrega de los galardones en el Teatro Campoamor a las 18;30. Ahora todos los premiados y la familia real están aquí en el hotel de la reconquista. Acaban de terminar de comer junto a unos 700 invitados y enseguida tendrán que prepararse para la ceremonia en la que escuchamos los discursos de 4 premiados, del rey y de la princesa de Asturias."
