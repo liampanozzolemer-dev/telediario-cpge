@@ -1,5 +1,54 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17284470",
+    "title": "Telediario 2 en 4' -26/10/26",
+    "date": "2026-10-26",
+    "date_label": "26.10.2026",
+    "duration": "04.10 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-26-10-26/17284470/",
+    "image": "https://img.rtve.es/v/17284470?w=800&amp;preview=1793045404989.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17284470.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17284470",
+    "transcript": "¿Qué tal?, buenas noches. PP y VOX pactan una estrategia común para concentrar su voto en las elecciones al Senado y tratar de retener la mayoría absoluta de la Cámara Alta, tras el acuerdo de PSOE y Frente Amplio. Esta noche a las doce termina el plazo para inscribir las candidaturas y el PP renuncia a presentarse en 3 provincias, Vox no se presentará en 14 circunscripciones, y han acordado otras fórmulas para ir coordinados en 31 territorios en total. \"El entendimiento entre los 2 partidos tiene el objetivo de proteger la mayoría del centro - derecha en el Senado, frente a los movimientos de la izquierda radical, para arrebatársela\". \"No es ningún secreto que coincidimos en la necesidad de expulsar a la organización criminal de Sánchez, de todas las instituciones\". Y dirigentes de todo el mundo felicitan a Lula da Silva por su histórica remontada en las elecciones de ayer en Brasil. - Solo no lo han felicitado, de momento, Milei y Trump-. Lula perdió la primera vuelta de las presidenciales, partió con desventaja en la segunda pero la impresionante movilización de la izquierda le permitió sacar cuatro puntos de ventaja al ultraderechista Flavio Bolsanaro, que, por cierto, no reconoce el resultado. Y esta tarde en un mitin, Pedro Sánchez decía lo siguiente. Vamos a hacer... lo mismo que Lula ha hecho en Brasil. El mundo nos mira... si Brasil pudo España puede. El equipo de VerificaRTVE le siguió la pista desde el primer momento a los mensajes en redes que llamaban a acudir a Barcelona para desembocar en los disturbios que vimos el fin de semana. Les vamos a mostrar esos mensajes que marcaban incluso cómo ir vestido. Los Mossos investigan quien está detrás de este intento de desestabilización. Hay nuevas convocatorias para el próximo sábado en España y otros paises europeos. Los jueces acaban de acordar internamiento para 3 de los menores detenidos. No hay más víctimas atrapadas bajo el autobús siniestrado en Barcelona. Lo hemos sabido esta tarde cuando los bomberos han logrado sacar el vehículo del lugar del accidente. Han tenido que usar tres grúas de gran tonelaje en una operación que ha durado horas. El autobús tenía capacidad para 65 personas, pero viajaban al menos 87. Las lluvias de este otoño que han provocado dolor y destrucción en Levante. Cayeron de otra manera en Jaén por ejemplo. Esa agua despues de meses secos ha recuperado el olivar de secano, que ahora aspira a la tercera mejor producción de aceite de la historia. \"¿Qué sucede? Qué los últimos 10, 15 o 20 días, ha habido un incremento de lluvias, una ayuda para cuanto menos garantizar la cosecha que se esperaba\" Y en media hora va a comenzar en Londres la Gala del Balón de Oro, con mucha presencia española. Lamine Yamal, Alexia Putellas y Luis de la Fuente están entre los favoritos en sus categorías, Diego Arizpeleta. Si, como decías, va a comenzar con media hora de retraso, habrá que esperar un poquito más, para saber si finalmente Luis de la Fuente, se hace con el balón de oro, el mejor entrenador, podría ser otro español, Luis Enrique, el éxito español estaría completo, con los mejores futbolistas,",
+    "summary": [
+      "El Partido Popular y Vox han sellado una estrategia conjunta para las elecciones al Senado, renunciando a presentar candidaturas en varias provincias con el fin de blindar la mayoría absoluta del centro-derecha frente a la izquierda.",
+      "En el ámbito internacional, Luiz Inácio Lula da Silva ha logrado una remontada histórica en las elecciones presidenciales de Brasil frente a Flavio Bolsonaro, un resultado que ha generado reacciones cruzadas a nivel global y ha inspirado el discurso del presidente del Gobierno español, Pedro Sánchez.",
+      "Las autoridades y los cuerpos de seguridad investigan los llamamientos en redes sociales que alentaron los disturbios del fin de semana en Barcelona, mientras continúan las labores de retirada del autobús siniestrado y se gestionan las consecuencias de las recientes precipitaciones."
+    ],
+    "vocabulary": [
+      {
+        "term": "la Cámara Alta",
+        "translation": "la Chambre haute / le Sénat",
+        "context": "PP y VOX pactan una estrategia común para concentrar su voto en las elecciones al Senado y tratar de retener la mayoría absoluta de la Cámara Alta."
+      },
+      {
+        "term": "una remontada",
+        "translation": "une remontée / un retournement de situation",
+        "context": "Dirigentes de todo el mundo felicitan a Lula da Silva por su histórica remontada en las elecciones de ayer en Brasil."
+      },
+      {
+        "term": "desembocar en",
+        "translation": "aboutir à / mener à",
+        "context": "El equipo de VerificaRTVE le siguió la pista a los mensajes en redes que llamaban a acudir a Barcelona para desembocar en los disturbios."
+      },
+      {
+        "term": "un intento de desestabilización",
+        "translation": "une tentative déstabilisation",
+        "context": "Los Mossos investigan quien está detrás de este intento de desestabilización."
+      },
+      {
+        "term": "el olivar de secano",
+        "translation": "l'oliveraie en culture non irriguée (culture de secano)",
+        "context": "Esa agua después de meses secos ha recuperado el olivar de secano, que ahora aspira a la tercera mejor producción de aceite de la historia."
+      },
+      {
+        "term": "garantizar la cosecha",
+        "translation": "garantir la récolte",
+        "context": "Ha habido un incremento de lluvias, una ayuda para cuanto menos garantizar la cosecha que se esperaba."
+      }
+    ]
+  },
+  {
     "id": "17283893",
     "title": "Telediario 1 en 4' -  26/10/26",
     "date": "2026-10-26",
@@ -437,50 +486,5 @@ window.TELEDIARIO_DATA = [
       }
     ],
     "transcript": "(Vítores) (Música de gaita) (Aplausos) Qué tal están, muy buenas noches desde Oviedo. Un año más, los premios Princesa de Asturias traen a la capital del principado talento, trayectorias brillantes, ciencia, cultura, humanismo. Estamos a punto de entrar al hotel Reconquista, donde se va a celebrar el cóctel posterior a la ceremonia de entrega de esos premios, que ha sido, como siempre, en el teatro Campoamor. Allí, la princesa Leonor, se ha referido en su discurso a los retos y a la complejidad del mundo que enfrenta su generación. \"Los jóvenes nos hacemos preguntas. Cómo mantener el entusiasmo en estos tiempos de desencanto social profundo, de descreimiento y desigualdades, de conflictos, extremismos, populismos, guerras tecnológicas, híbridas, realidades líquidas, realpolitik, amenazas, incertidumbre, todo amplificado en las redes\""
-  },
-  {
-    "id": "17280696",
-    "title": "Telediario 1 en 4' - 23/10/2026",
-    "date": "2026-10-23",
-    "date_label": "23.10.2026",
-    "duration": "03.37 min",
-    "url": "https://www.rtve.es/play/videos/telediario-1/telediario-1-cuatro-minutos-23-10-2026-1-4-minutos-23102026/17280696/",
-    "image": "https://img.rtve.es/v/17280696?w=800&amp;preview=01792761607309.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17280696.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17280696",
-    "summary": [
-      "El líder del Partido Popular, Alberto Núñez Feijóo, ha anunciado su firme intención de gobernar tras las elecciones del 29 de noviembre a pesar de no ser la fuerza más votada, sin descartar una coalición con Vox. Entre sus propuestas figuran la supresión del Ministerio de Igualdad, la reapertura del debate sobre el aborto en menores y una reforma fiscal para eximir de tributación al salario mínimo interprofesional.",
-      "El presidente del Gobierno, Pedro Sánchez, ha protagonizado una intervención inédita en el programa televisivo La Revuelta, batiendo récords de audiencia con un 33,9 % de cuota de pantalla. Durante la entrevista, Sánchez ha defendido su gestión, ha admitido errores políticos del pasado como la confianza depositada en José Luis Ábalos y ha advertido sobre los riesgos de un eventual pacto entre la derecha y la extrema derecha.",
-      "La Audiencia Nacional ha aplicado la Ley de Amnistía a doce miembros de los Comités de Defensa de la República (CDR) acusados de planificar atentados contra instituciones catalanas. Esta decisión judicial se produce tras el aval de la justicia europea, que ha determinado que dicha medida de gracia no infringe la normativa comunitaria vigente.",
-      "La princesa Leonor ha asumido un destacado protagonismo institucional al presidir en solitario la recepción y entrega de insignias a los galardonados con los Premios Princesa de Asturias en el Hotel de la Reconquista. Este paso adelante en su agenda oficial precede a la solemne ceremonia de entrega en el Teatro Campoamor."
-    ],
-    "vocabulary": [
-      {
-        "term": "no descarta pactar",
-        "translation": "n'écarte pas de passer un accord / de s'allier",
-        "context": "El líder del PP no descarta pactar con Vox porque su objetivo, dice, es que Sánchez se vaya."
-      },
-      {
-        "term": "cuota de pantalla",
-        "translation": "part d'audience (audimat)",
-        "context": "La vieron casi 4.400.000 personas, un 33,9 % de cuota de pantalla."
-      },
-      {
-        "term": "medida de gracia",
-        "translation": "mesure de clémence / amnistie",
-        "context": "La Audiencia Nacional amnistía a los 12 CDR... después de que la Justicia europea declarara que la medida de gracia no choca con la normativa comunitaria."
-      },
-      {
-        "term": "entrada masiva",
-        "translation": "flux migratoire massif / arrivée massive",
-        "context": "...intentar localizar a decenas de inmigrantes que duermen en las calles tras la entrada masiva."
-      },
-      {
-        "term": "galardonados",
-        "translation": "lauréats",
-        "context": "Y Leonor ha debutado, en solitario, en la recepción a los galardonados con el Premio Princesa de Asturias."
-      }
-    ],
-    "transcript": "Hola, buenas tardes. Feijóo intentará gobernar aunque el PP no sea la lista más votada el 29 de noviembre. El líder del PP no descarta pactar con Vox porque su objetivo, dice, es que Sánchez se vaya. Feijóo no ha desvelado que fórmula negocia con Abascal para concurrir al Senado, pero sí ha adelantado otros temas. Que Igualdad no tendrá ministerio propio, que reabrirá el debate sobre el aborto de menores y promete que el salario mínimo no tribute. El Gobierno le recuerda que eso ya ocurre ahora. Pedro Sánchez alerta del riesgo que, asegura, supone Vox. El presidente estuvo anoche en La Revuelta. Dijo que aspira a gobernar 4 años más, reconoció que la crisis de Ceuta se podía haber gestionado mejor y que fue un error confiar en Ábalos. Su entrevista batió récord de audiencia. La vieron casi 4.400.000 personas, un 33,9 % de cuota de pantalla. La Fiscalía pide imputar al expresidente Rodríguez Zapatero por malversación en el caso de las joyas encontradas en su despacho. Y el juez Calama reclama la lista de regalos que entregó a Patrimonio durante su Gobierno. La Audiencia Nacional amnistía a los 12 CDR acusados de planear atentados contra instituciones en Cataluña. Aplica así la Ley de Amnistía, después de que la Justicia europea declarara que la medida de gracia no choca con la normativa comunitaria. En Ceuta, la policía nacional se ha desplegado en El Príncipe para intentar localizar a decenas de inmigrantes que duermen en las calles tras la entrada masiva. En esa barriada los agentes localizaron una casa patera en la que malvivían 74 personas. El dueño ya está en prisión. En Francia, un hombre ha disparado desde su coche y ha matado a una persona y ha herido de gravedad a otras 4, entre ellas, una niña de 12 años. La fiscalía antiterrorista investiga si hubo motivación racista. El detenido vive en la zona del suroeste de París donde ha tenido lugar el ataque. Y Leonor ha debutado, en solitario, en la recepción a los galardonados con el Premio Princesa de Asturias. Por primera vez les ha entregado las insignias, sola, sin sus padres, ni su hermana, que se han unido después para recibir a los patronos de la Fundación. Esta tarde, llegará el momento más esperado, Ana Roldán. Ese momento es la ceremonia de entrega de los galardones en el Teatro Campoamor a las 18;30. Ahora todos los premiados y la familia real están aquí en el hotel de la reconquista. Acaban de terminar de comer junto a unos 700 invitados y enseguida tendrán que prepararse para la ceremonia en la que escuchamos los discursos de 4 premiados, del rey y de la princesa de Asturias."
   }
 ];
