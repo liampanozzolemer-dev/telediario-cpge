@@ -1,5 +1,49 @@
 [
   {
+    "id": "17286396",
+    "title": "Telediario 2 en 4' -27/10/26",
+    "date": "2026-10-27",
+    "date_label": "27.10.2026",
+    "duration": "04.44 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-27-10-26/17286396/",
+    "image": "https://img.rtve.es/v/17286396?w=800&amp;preview=1793132175125.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17286396.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17286396",
+    "transcript": "¿Qué tal?, buenas noches. Ayer quería ser presidente de Brasil y hoy se ha fugado de su pais. Flavio Bolsonaro vuela ya camino de Estados Unidos. Son fuentes del gobierno Trump las que confirman el viaje y algunos colaboradores del ultraderechista. Huye con el pasaporte que hace solo unas horas prometió entregar como le había pedido el Tribunal Supremo. No lo ha hecho. Bolsonaro, derrotado el domingo en las urnas por Lula, tiene una investigación abierta en su país por su presunta implicación en una trama de blanqueo de dinero con apuestas digitales. Ahora busca refugio, Cristina Olea, en los Estados Unidos de Trump. si lo proporcionaron cuentan con la simpatía de Trump y no sería el primero la familia que escapa a Estados Unidos. su hermano Eduardo vive aquí la exigencia de noticias Reuter pública que hoy Fabre evolucionado buena ya rubio rumbo a Estados Unidos. Después de horas de confusión con los después de negarse a reconocer su derrota y después de esa orden judicial que lo obliga a entregar sus pasaportes. En Israel, los colegios electorales están a punto de cerrar con una participación histórica, la más alta registrada nunca en el país, y Marc Campdelacreu con Netanyahu sembrando dudas sobre el proceso electoral. La junta electoral ignorado. proque muestra su nerviosismo. La participación ha sido altísima y él ha intentado movilizar al electorado de derechas porque sabe que puede perder estos comicios. Aquí, la precampaña electoral acaba de perfilar los dos bloques entre los que se juegan las elecciones del 29 de noviembre. Lo último es el pacto entre el PSC y los Comunes para que Frente Amplio no presente candidaturas al Senado en Girona, Lleida y Tarragona y concentrar así el voto en los socialistas. Del otro lado PP/VOX. Hoy Feijoo ha vuelto a defender su pacto con Abascal para la cámara alta como una reacción a los acuerdos del PSOE. El barrio de Deusto, en Bilbao, ha vuelto a la normalidad después de los disturbios de ayer. Los operarios municipales han pasado el día limpiando los restos de los vehículos y el mobiliario urbano calcinado. Diez de los detenidos eran menores. Esta tarde han quedado en libertad. El mercado laboral cerró el verano con más desempleados, la tasa de paro ha vuelto a superar el 10 %, y también con récord de personas trabajando, ya hay más de 22 700 000. Según la encuesta de Población Activa, entre julio y septiembre dos de cada tres nuevos contratos Ya tengo mi contrato. el profesor de inglés. los firmaron mujeres. Creo que tener algo asegúrese de su propiedad. es importante. Una puja muchísimo. Hoy salen a subasta cientos de objetos del Pazo de Meirás, que le regalaron a Franco y ha pertenecido a la familia durante más de 80 años. El Estado recuperó el inmueble, pero no reclamó su contenido. Por eso, el dinero de la venta irá a parar a los herederos del dictador. Tanto el presidente de la Liga, Javier Tebas, como el propio Mbappe, han pedido disculpas a China después de que el jugador bromeara sobre un meme suyo calificando de dictador a Mao. La reacción china al comentario de Mbappe ha sido inmediata pérdida de patrocinios y suspensión de retransmisiones de los partidos en la tele del gigante asiático. Y luego escucharemos la respuesta de Salvador Dalí a esta pregunta de Jesús Hermida. Seguro que les sorprende. Es una de las perlas de nuestro Archivo que recuperamos en este Día Mundial del Patrimonio Audiovisual.",
+    "summary": [
+      "Flavio Bolsonaro, derrotado en las urnas por Lula en Brasil, ha huido hacia Estados Unidos eludiendo una orden del Tribunal Supremo que le exigía la entrega de su pasaporte, en el contexto de una investigación por blanqueo de capitales.",
+      "En el ámbito de la política nacional española, el pacto entre el PSC y los Comuns frente a la coalición de PP y Vox consolida la polarización de bloques de cara a las próximas elecciones del 29 de noviembre.",
+      "El mercado laboral español registra un aumento estival del paro por encima del 10 %, coexistiendo no obstante con un récord histórico de ocupación que supera los 22,7 millones de trabajadores."
+    ],
+    "vocabulary": [
+      {
+        "term": "fugarse",
+        "translation": "s'enfuir, prendre la fuite",
+        "context": "Ayer quería ser presidente de Brasil y hoy se ha fugado de su pais."
+      },
+      {
+        "term": "una trama de blanqueo de dinero",
+        "translation": "un réseau de blanchiment d'argent",
+        "context": "tiene una investigación abierta en su país por su presunta implicación en una trama de blanqueo de dinero con apuestas digitales."
+      },
+      {
+        "term": "las urnas",
+        "translation": "les urnes, les élections",
+        "context": "Bolsonaro, derrotado el domingo en las urnas por Lula..."
+      },
+      {
+        "term": "la tasa de paro",
+        "translation": "le taux de chômage",
+        "context": "El mercado laboral cerró el verano con más desempleados, la tasa de paro ha vuelto a superar el 10 %."
+      },
+      {
+        "term": "mobiliario urbano calcinado",
+        "translation": "du mobilier urbain incendié",
+        "context": "Los operarios municipales han pasado el día limpiando los restos de los vehículos y el mobiliario urbano calcinado."
+      }
+    ]
+  },
+  {
     "id": "17284616",
     "title": "Telediario matinal en 4' - 27/10/2026",
     "date": "2026-10-27",
@@ -447,50 +491,5 @@
         "context": "Llanes se ha volcado con la Familia Real"
       }
     ]
-  },
-  {
-    "id": "17281589",
-    "title": "Telediario matinal en 4' - 24/10/26",
-    "date": "2026-10-24",
-    "date_label": "24.10.2026",
-    "duration": "03.41 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-24-10-26/17281589/",
-    "image": "https://img.rtve.es/v/17281589?w=800&amp;preview=01792819999054.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17281589.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17281589",
-    "summary": [
-      "Los Premios Princesa de Asturias han estado marcados por el llamamiento del rey Felipe VI y de la princesa Leonor a la defensa activa de la democracia, incidiendo en la necesidad de preservar las instituciones frente al auge de los extremismos y el desencanto juvenil.",
-      "El Tribunal Supremo español ha exigido a los ministerios de Exteriores y de Justicia la entrega urgente del listado de nacionalizados bajo la llamada 'ley de nietos', bajo la amenaza de posibles sanciones penales a los ministros competentes.",
-      "En Brasil, la recta final hacia las elecciones presidenciales ha vivido un último cara a cara entre Lula da Silva y Flávio Bolsonaro, caracterizado por la tensión en torno a la economía y la seguridad, con las encuestas augurando un empate técnico.",
-      "Francia afronta una nueva jornada de movilizaciones sociales con un fuerte dispositivo policial, tras el fracaso de las negociaciones entre los colectivos estudiantiles y el presidente Emmanuel Macron para desconvocar las protestas."
-    ],
-    "vocabulary": [
-      {
-        "term": "descreimiento",
-        "translation": "scepticisme, perte de foi (politique ou sociale)",
-        "context": "¿Cómo mantener el entusiasmo en estos tiempos de desencento social profundo, de descreimiento y desigualdades?"
-      },
-      {
-        "term": "empate técnico",
-        "translation": "égalité technique (dans les sondages)",
-        "context": "Las últimas encuestas apuntan a un empate técnico."
-      },
-      {
-        "term": "despliegue policial",
-        "translation": "déploiement policier",
-        "context": "Las calles tienen un fortísimo despliegue policial."
-      },
-      {
-        "term": "tregua",
-        "translation": "trêve",
-        "context": "Rusia y Ucrania confirman una tregua solo en la ciudad ucraniana de Oleski."
-      },
-      {
-        "term": "responsabilidades penales",
-        "translation": "responsabilités pénales",
-        "context": "Y advierte a los ministros Álvarez y Bolaños de posibles responsabilidades penales y multas."
-      }
-    ],
-    "transcript": "democracia requiere compromiso diario, cívico y exigente. De un cuidado de sus formas e instituciones para seguir esa ya lo han escuchado. Esa defensa de la democracia ha sido uno de los mensajes centrales del rey en los Premios Princesa de Asturias. Y Felipe Sesto también ha insistido en que no basta con votar, que hay que cuidar las instituciones. Oviedo ha reunido un año más a grandes figuras de la ciencia, la cultura, el deporte. La princesa Leonor ha dedicado buena parte de su discurso a los jóvenes y a sus incertidumbres ante el futuro Los jóvenes nos hacemos preguntas. ¿Cómo mantener el entusiasmo en estos tiempos de desencanto social profundo, de descreimiento y desigualdades, de conflictos, extremismos populismos, guerras tecnológicas, híbridas, realidades líquidas? Bueno, esto no ha terminado. En cinco horas veremos a los reyes entregando el premio al pueblo ejemplar en una cofradía de Llanes. Estaremos ahí en directo. Enseguida vemos lo que dio de sí, la gala de ayer. Tenemos que mirar también a la Justicia. El Supremo da cinco días de plazo a los Ministerios de Exteriores y de justicia para que entreguen la lista de los 163.000 nacionalizados por la ley de nietos con el voto suspendido. Y advierte a los ministros Álvarez y Bolaños de posibles responsabilidades penales y multas si no lo hacen. Último cara a cara entre Lula y Flávio, Bolsonaro, antes de las elecciones de este domingo, en Brasil la economía, la seguridad, la corrupción han marcado un debate con duros reproches, aunque menos bronco que el anterior. Bolsonaro fue el más votado en la primera vuelta, ha prometido futuro y prosperidad Lula reivindica sus orígenes obreros. Las últimas encuestas apuntan a un empate técnico Y hoy sábado Francia se prepara para otra jornada de protestas convocadas por todo el país. Las calles tienen un fortísimo despliegue policial. Los estudiantes han mantenido una reunión con el presidente Macron, pero no renuncian a las movilizaciones Rusia y Ucrania confirman una tregua solo en la ciudad ucraniana de Oleski, en la región de Gersona Allí unas 2.000 personas están aisladas, sin luz, sin alimentos. Un acuerdo que ha contado con la mediación de Melania Trump Nos ocuparemos de Cuba, la vuelta de Irán, haremos una pequeña escala. Palabras de Trump en un mítin en Florida. En cuanto a Irán, dice que no descarta otra pequeña operación del tipo Furia Épica. Miramos al tiempo Arrancamos este sábado todavía con viento fuerte en el nordeste peninsular y algunas lluvias que pueden afectar fundamentalmente a Cataluña y al norte del archipiélago Balearme Menorca y Mallorca. También esperamos precipitaciones débiles en el Pirineo Occidental o en el Cantábrico Oriental En el resto va a ser una jornada de sol con algunas nubes altas y también podría llover un poco en puntos del oeste y norte del archipiélago canario. Mañana domingo el tiempo seguirá muy estable en conjunto, aunque tendremos algunas precipitaciones débiles al final del día en el Cantábrico Oriental y en el Pirineo Ostense y también estará nublado y esperamos algo de precipitación en puntos del oeste de Galicia. Las temperaturas hoy se mantienen con pocos cambios, serán suaves por la tarde y mañana suben un poquito más con máximas alcanzando los 24 a 25 en muchas capitales de provincia"
   }
 ]
