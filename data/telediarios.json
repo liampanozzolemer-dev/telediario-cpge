@@ -1,5 +1,49 @@
 [
   {
+    "id": "17287313",
+    "title": "Telediario 1 en 4' -  28/10/26",
+    "date": "2026-10-28",
+    "date_label": "28.10.2026",
+    "duration": "00.46 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-28-10-26/17287313/",
+    "image": "https://img.rtve.es/v/17287313?w=800&amp;preview=1793197465834.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17287313.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17287313",
+    "transcript": "Al menos 64 personas han muerto y más de 80 están heridas tras el choque de dos trenes de alta velocidad en la provincia de Toledo. Los servicios de emergencia siguen a esta hora con las labores de rescate. Se teme que el número de víctimas pueda aumentar. Los supervivientes cuentan que ha sido un golpe muy violento. El accidente se ha producido en la línea Madrid - Andalucía, la misma línea en la que hace solo 9 meses tuvo lugar la tragedia de Adamuz.",
+    "summary": [
+      "Un trágico accidente ferroviario de alta velocidad en la provincia de Toledo ha dejado al menos 64 víctimas mortales y más de 80 heridos, movilizando de urgencia a los servicios de rescate.",
+      "El siniestro, calificado de fortísimo impacto por los supervivientes, pone de relieve la vulnerabilidad de las infraestructuras de transporte en el eje neurálgico que conecta Madrid con Andalucía.",
+      "Este nuevo siniestro adquiere especial gravedad institucional al producirse en la misma línea ferroviaria donde, hace apenas nueve meses, tuvo lugar la catástrofe de Adamuz, reavivando el debate sobre la seguridad viaria."
+    ],
+    "vocabulary": [
+      {
+        "term": "el choque de trenes",
+        "translation": "la collision de trains / le choc frontal",
+        "context": "tras el choque de dos trenes de alta velocidad en la provincia de Toledo."
+      },
+      {
+        "term": "los servicios de emergencia",
+        "translation": "les services de secours / les urgences",
+        "context": "Los servicios de emergencia siguen a esta hora con las labores de rescate."
+      },
+      {
+        "term": "las labores de rescate",
+        "translation": "les opérations de sauvetage / les recherches",
+        "context": "Los servicios de emergencia siguen a esta hora con las labores de rescate."
+      },
+      {
+        "term": "temerse que",
+        "translation": "craindre que",
+        "context": "Se teme que el número de víctimas pueda aumentar."
+      },
+      {
+        "term": "tener lugar",
+        "translation": "avoir lieu / se produire",
+        "context": "la misma línea en la que hace solo 9 meses tuvo lugar la tragedia de Adamuz."
+      }
+    ]
+  },
+  {
     "id": "17286539",
     "title": "Telediario matinal en 4' - 28/10/2026",
     "date": "2026-10-28",
@@ -434,55 +478,6 @@
         "term": "retener preventivamente",
         "translation": "retenir à titre préventif",
         "context": "Entre las medidas recientemente aprobadas por el gobierno está la posibilidad de retener preventivamente a menores de edad."
-      }
-    ]
-  },
-  {
-    "id": "17282138",
-    "title": "Telediario 2 en 4' - 24/10/26",
-    "date": "2026-10-24",
-    "date_label": "24.10.2026",
-    "duration": "01.42 min",
-    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-24-10-26/17282138/",
-    "image": "https://img.rtve.es/v/17282138?w=800&amp;preview=01792867039502.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17282138.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17282138",
-    "transcript": "Enfrentamientos con la policía tras las protestas en Francia, donde hay al menos 1.000 detenidos. Horas antes, cientos de miles de personas se han manifestado pacíficamente, pese al despliegue policial inédito y la prohibición o el cambio de recorrido de algunas protestas para evitar disturbios. En Italia también ha habido choques en varias ciudades. Buenas tardes, el descontento social sigue recorriendo Europa. En Barcelona una manifestación de estudiantes convocada por redes sociales deriva en incidentes. Grupos de jóvenes se han enfrentado a Mossos y Guardia Urbana en el centro de Barcelona. Se han quemado contenedores, se han lanzado piedras y se han roto escaparates. Varios comercios han cerrado las puertas y se han cortado varias calles. Miles de personas han defendido en Madrid el sistema público de pensiones, piden igualar la pensión mínima al salario mínimo y revalorizarlas por el elevado coste de la vida. Pedro Sánchez confronta su proyecto político con el de PP y Vox y se compromete a blindar el derecho al aborto. Mientras, Feijóo ha acusado a la izquierda de agitar la violencia en la calle. Rufián y Montero han criticado el pacto de Frente Amplio con el PSOE para el Senado. Esta madrugada cambia la hora. A las 3 serán las 2 y en Canarias a las 2 será la 1. Dormiremos una hora más pero a partir de mañana anochecerá antes.",
-    "summary": [
-      "Las protestas sociales se intensifican en Europa, destacando enfrentamientos violentos con las fuerzas del orden y un elevado número de detenidos en Francia e incidentes similares en Italia, lo que evidencia un profundo descontento ciudadano en el continente.",
-      "En España, la tensión social se manifiesta tanto en las calles de Barcelona, donde una protesta estudiantil degeneró en altercados con los Mossos d'Esquadra, como en Madrid, con una masiva movilización en defensa del sistema público de pensiones y su revalorización frente al coste de la vida.",
-      "El panorama político nacional se crispas ante el enfrentamiento directo entre el presidente Pedro Sánchez —quien aboga por blindar el derecho al aborto— y el líder de la oposición Alberto Núñez Feijóo, quien acusa a la izquierda de alentar la violencia callejera, a lo que se suman las críticas de formaciones como ERC y Podemos hacia los pactos en el Senado."
-    ],
-    "vocabulary": [
-      {
-        "term": "el descontento social",
-        "translation": "le mécontentement social / la contestation sociale",
-        "context": "El descontento social sigue recorriendo Europa."
-      },
-      {
-        "term": "los altercados",
-        "translation": "les heurts / les échauffourées / les incidents",
-        "context": "Una manifestación de estudiantes deriva en incidentes y altercados en el centro de Barcelona."
-      },
-      {
-        "term": "quemar contenedores",
-        "translation": "incendier des conteneurs poubelles",
-        "context": "Se han quemado contenedores, se han lanzado piedras y se han roto escaparates."
-      },
-      {
-        "term": "revalorizar las pensiones",
-        "translation": "revaloriser les pensions",
-        "context": "Piden igualar la pensión mínima al salario mínimo y revalorizarlas por el elevado coste de la vida."
-      },
-      {
-        "term": "blindar un derecho",
-        "translation": "garantir constitutionnellement / sanctuariser un droit",
-        "context": "Pedro Sánchez confronta su proyecto político y se compromete a blindar el derecho al aborto."
-      },
-      {
-        "term": "agitar la violencia",
-        "translation": "envenenar le climat / fomenter la violence",
-        "context": "Feijóo ha acusado a la izquierda de agitar la violencia en la calle."
       }
     ]
   }
