@@ -1,5 +1,54 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17286539",
+    "title": "Telediario matinal en 4' - 28/10/2026",
+    "date": "2026-10-28",
+    "date_label": "28.10.2026",
+    "duration": "03.48 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-28-10-2026/17286539/",
+    "image": "https://img.rtve.es/v/17286539?w=800&amp;preview=01793100894360.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17286539.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17286539",
+    "transcript": "Buenos días. Netanyahu lograría ser el candidato con más votos pero sin mayoría absoluta. El bloque opositor no quiere pactar con él. La llave, en manos de los partidos árabes, con su mejor resultado histórico. Y contra ellos, precisamente, se ha pronunciado Netanyahu. Pide dejarlos fuera de cualquier formación del ejecutivo. El recuento aún sigue en marcha, pero las proyecciones dejan al país hebreo en una encrucijada que no es nueva: la repetición electoral si no hay acuerdo. Estados Unidos acoge a Flavio Bolsonaro y su familia tras haber huído de Brasil apenas horas después de perder las elecciones. LA administración Trump ha confirmado que les proporcionará visados. Bolsonaro está investigado en su país por presunto blanqueo. Lula da Silva habla de vergüenza. Hoy España vive movilizaciones del campo, de médicos, de trabajadores del metal, de profesores que se suman a los altercados violentos que otras movilizaciones recientes han dejado en Barcelona y Bilbao. Un clima de protestas en plena precampaña. El BOE publica hoy las listas electorales, cuyos pactos reflejan claramente los dos grandes bloques. El último anuncio: PSC y Frente Amplio concentrarán el voto en tres de las cuatro provincias catalanas en el Senado. Y esos acuerdo para la cámara alta, son, según Irene Montero, el motivo de que no se lograse un pacto global de izquierdas. La líder de Podemos ha visitado junto a Gabriel Rufián el programa La Revuelta. Radio Televisión Española ha accedido a documentación enviada por la policía nacional a la jueza Tardón, que investiga la entrada a Ceuta. Señalan a presuntos gendarmes marroquíes, dicen impasibles e incluso, que indicaban por dónde ir. Incluyen también testimonios de tres migrantes que cruzaron a la ciudad autónoma e identifican a mandos marroquíes en la frontera: la jueza escuchará hoy sus testimonios. Y en Deportes, primera eliminatoria de Copa del Rey y primer caído importante. Así es Mireia, porque el Espanyol se ha despedido tras caer por 4 a 3 con el Sestao. Una victoria en la prórroga del equipo de la Segunda REFF que ha supuesto el despido del técnico perico. De los equipos de Primera que jugaban este martes, Málaga, Elche, Rayo y Villarreal pasan de ronda tras imponerse en sus eliminatorias. Y Mbappé está en el ojo de la tormenta tras calificar a Mao Tse Tung de Dictador. El delantero lo hizo mientras hablaba de un meme, pero en China sus palabras han tenido muy mala repercusión, hasta el punto de influir en la retransmisión de partidos del Real Madrid en el país asiático. Mbappé ya ha pedido disculpas en una polémica que sigue abierta. En general tiempo muy estable, nieblas en la meseta norte, nubosidad que se va despejando. Aumento de nubes en el Mediterráneo. Continuarán algunos chubascos en La Palma y Tenerife. Temperaturas que suben en el oeste.",
+    "summary": [
+      "Las elecciones en Israel sitúan al país ante un bloqueo institucional crónico; a pesar de ser el candidato más votado, Netanyahu carece de mayoría absoluta y el rechazo de los partidos árabes aboca previsiblemente al Estado hebreo a una nueva repetición electoral.",
+      "La crispación social se intensifica en España con una huelga multisectorial que agrupa a agricultores, sanitarios, metalúrgicos y docentes, coincidiendo con un clima de alta tensión política en plena precampaña de cara a las próximas elecciones.",
+      "En el ámbito internacional y deportivo, la controversia salpica al delantero Kylian Mbappé tras sus declaraciones sobre Mao Zedong, lo que ha provocado un boicot indirecto a las retransmisiones del Real Madrid en China y ha obligado al jugador a disculparse públicamente."
+    ],
+    "vocabulary": [
+      {
+        "term": "la llave",
+        "translation": "la clé (ici, le rôle d'arbitre ou décisif)",
+        "context": "La llave, en manos de los partidos árabes, con su mejor resultado histórico."
+      },
+      {
+        "term": "estar en la picota / en el ojo de la tormenta",
+        "translation": "être dans l'œil du cyclone / au centre de la polémique",
+        "context": "Mbappé está en el ojo de la tormenta tras calificar a Mao Tse Tung de Dictador."
+      },
+      {
+        "term": "el recuento",
+        "translation": "le dépouillement (des votes)",
+        "context": "El recuento aún sigue en marcha, pero las proyecciones dejan al país hebreo en una encrucijada."
+      },
+      {
+        "term": "la encrucijada",
+        "translation": "le carrefour, l'impasse / la situation critique",
+        "context": "Las proyecciones dejan al país hebreo en una encrucijada que no es nueva."
+      },
+      {
+        "term": "las movilizaciones",
+        "translation": "les mobilisations, les manifestations",
+        "context": "Hoy España vive movilizaciones del campo, de médicos, de trabajadores del metal."
+      },
+      {
+        "term": "despedir a alguien / el despido",
+        "translation": "licencier quelqu'un / le renvoi, le licenciement",
+        "context": "Una victoria en la prórroga... que ha supuesto el despido del técnico perico."
+      }
+    ]
+  },
+  {
     "id": "17286396",
     "title": "Telediario 2 en 4' -27/10/26",
     "date": "2026-10-27",
@@ -434,61 +483,6 @@ window.TELEDIARIO_DATA = [
         "term": "agitar la violencia",
         "translation": "envenenar le climat / fomenter la violence",
         "context": "Feijóo ha acusado a la izquierda de agitar la violencia en la calle."
-      }
-    ]
-  },
-  {
-    "id": "17281899",
-    "title": "Telediario 1 en 4' - 24/10/26",
-    "date": "2026-10-24",
-    "date_label": "24.10.2026",
-    "duration": "03.12 min",
-    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-24-10-26-1-cuatro-minutos-241026/17281899/",
-    "image": "https://img.rtve.es/v/17281899?w=800&amp;preview=01792846904902.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17281899.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17281899",
-    "transcript": "Miles de personas se han manifestado en Madrid en defensa del sistema público de pensiones. Los organizadores rechazan cualquier tipo de privatización, piden igualar la pensión mínima al salario mínimo y revalorizarlas un 6 por ciento por el elevado coste de la vida. Buenas tardes. Es uno de los temas de confrontación esta precampaña. Pedro Sánchez hoy está en Granada, Alberto Núñez Feijóo, en Vigo. El líder de los populares ha acusado al presidente del Gobierno de agitar la violencia en las calles y el líder socialista ha reivindicado la España de García Lorca. Feijó es el envoltorio y la vasca del regalo. Pertenecen al mismo club de la motosierra. -Buscan agitar una calle que les da la espalda. Yo os pido que el 29 de noviembre derribemos el muro de Sánchez, ese muro que alimenta a los extremistas y que nos destruye como país. Barcelona a acogido el primer acto conjunto de Irene Montero y Gabriel Rufián al que ha acudido toda la cúpula de Esquerra Republicana. En el acto han atacado al Frente Amplio por su coalición con el PSOE en el Senado. Francia e Italia se blindan ante otro sábado de protestas, tras los graves disturbios del pasado fin de semana. En París, se ha obligado a los manifestantes a cambiar su recorrido por seguridad. Otras protestas se han prohibido. Dispositivo inédito en Francia, con 70 000 agentes desplegados y comercios blindados. Hay más de un centenar de detenidos, pero hasta ahora, sin apenas incidentes. Brasil vota mañana con los dos candidatos empatados según los últimos sondeos. Este es su último cara a cara electoral. Lula da Silva y Flávio Bolsonaro han confrontado sobre el coste de la vida y la seguridad, principal problema de los brasileños. Un equipo de RTVE ha estado en una favela de Río de Janeiro. Ya está aquí el horario de invierno. Esta madrugada los relojes se retrasan, a las 3 serán las 2 y en Canarias a las 2 será la 1. Una hora más de sueño sí, pero este cambio altera nuestras rutinas y que puede afectar a la salud. Llanes se ha volcado con la Familia Real, los reyes, la princesa Leonor y la infanta Sofía han estado con la Cofradia de pescadores de Santa Ana que ha recibido el premio del Pueblo Ejemplar. Una de las anécdotas ha llegado cuando la reina Letizia se ha resbalado en la cubierto del pesquero en elque se había subido la familia real.",
-    "summary": [
-      "Miles de ciudadanos se han manifestado en Madrid para exigir la defensa del sistema público de pensiones, reclamando la equiparación de la pensión mínima al salario mínimo y una revalorización del 6% frente al encarecimiento del coste de la vida.",
-      "En plena precampaña electoral, el enfrentamiento político se intensifica con acusaciones cruzadas entre Pedro Sánchez y Alberto Núñez Feijóo, quien reprocha al jefe del Ejecutivo atizar la confrontación social.",
-      "Francia e Italia adoptan medidas de seguridad sin precedentes, desplegando decenas de miles de agentes y blindando comercios ante el temor a nuevos disturbios durante las protestas del fin de semana.",
-      "Brasil afronta unas elecciones presidenciales extremadamente reñidas, con un empate técnico en los sondeos entre Lula da Silva y Flávio Bolsonaro, centrando el debate en la seguridad y la carestía de la vida."
-    ],
-    "vocabulary": [
-      {
-        "term": "revalorizar",
-        "translation": "revaloriser / revalorisation",
-        "context": "peden revalorizarlas un 6 por ciento por el elevado coste de la vida"
-      },
-      {
-        "term": "la precampaña",
-        "translation": "la précampagne électorale",
-        "context": "Es uno de los temas de confrontación esta precampaña."
-      },
-      {
-        "term": "agitar",
-        "translation": "agiter / solcar / exacerber (les tensions)",
-        "context": "El líder de los populares ha acusado al presidente del Gobierno de agitar la violencia en las calles"
-      },
-      {
-        "term": "blindarse",
-        "translation": "se blinder / prendre des mesures de sécurité drastiques",
-        "context": "Francia e Italia se blindan ante otro sábado de protestas"
-      },
-      {
-        "term": "un dispositivo inédito",
-        "translation": "un dispositif inédit / sans précédent",
-        "context": "Dispositivo inédito en Francia, con 70 000 agentes desplegados"
-      },
-      {
-        "term": "un cara a cara",
-        "translation": "un face-à-face (débat politique)",
-        "context": "Este es su último cara a cara electoral."
-      },
-      {
-        "term": "volcarse con",
-        "translation": "se mobiliser massivement pour / manifester son total soutien",
-        "context": "Llanes se ha volcado con la Familia Real"
       }
     ]
   }
