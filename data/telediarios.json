@@ -1,5 +1,49 @@
 [
   {
+    "id": "17288730",
+    "title": "Telediario 1 en 4' -  29/10/26",
+    "date": "2026-10-29",
+    "date_label": "29.10.2026",
+    "duration": "01.09 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/45051-1-4-minutos-29-10-26/17288730/",
+    "image": "https://img.rtve.es/v/17288730?w=800&amp;preview=1793282690601.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17288730.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17288730",
+    "transcript": "Continúa la búsqueda de posibles víctimas Silencio y emoción contenida en la estación de Atocha y también en Santa Justa. Las estaciones de origen y destino de los dos trenes siniestrados. También silencio en el Congreso en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses. Silencio y emoción contenida en la estación de Atocha y también en Santa Justa. Las estaciones de origen y destino de los dos trenes siniestrados. También silencio en el Congreso en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses.",
+    "summary": [
+      "Un trágico accidente ferroviario, el segundo registrado en un lapso de nueve meses, ha conmocionado al país, provocando una profunda emoción en puntos clave como las estaciones de Atocha y Santa Justa.",
+      "Las principales instituciones del Estado, incluidas las cámaras parlamentarias, han guardado rigurosos minutos de silencio en memoria de las víctimas mortales de este siniestro que enluta a las ciudades de origen y destino de los convoyes.",
+      "Este nuevo revés para la seguridad en el transporte ferroviario plantea interrogantes acuciantes sobre la fiabilidad de las infraestructuras y la gestión de las redes de alta velocidad por parte de las autoridades competentes."
+    ],
+    "vocabulary": [
+      {
+        "term": "la emoción contenida",
+        "translation": "l'émotion contenue / retenue",
+        "context": "Silencio y emoción contenida en la estación de Atocha y también en Santa Justa."
+      },
+      {
+        "term": "un tren siniestrado",
+        "translation": "un train accidenté / impliqué dans une catastrophe",
+        "context": "Las estaciones de origen y destino de los dos trenes siniestrados."
+      },
+      {
+        "term": "en memoria de",
+        "translation": "en mémoire de / en hommage à",
+        "context": "También silencio en el Congreso en memoria de las víctimas..."
+      },
+      {
+        "term": "una tragedia ferroviaria",
+        "translation": "une tragédie ferroviaire",
+        "context": "...en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses."
+      },
+      {
+        "term": "la búsqueda de posibles víctimas",
+        "translation": "la recherche d'éventuelles victimes",
+        "context": "Continúa la búsqueda de posibles víctimas en el lugar de los hechos."
+      }
+    ]
+  },
+  {
     "id": "17287903",
     "title": "Telediario matinal en 4' - 29/10/2026",
     "date": "2026-10-29",
@@ -11,9 +55,42 @@
     "embed_url": "https://www.rtve.es/drmn/embed/video/17287903",
     "transcript": "Buenos días, durante toda la madrugada, sin descanso, han seguido trabajando sobre los restos de los trenes en Urda, Toledo. La linea de alta velocidad Madrid- Sevilla vuelve a ser foco de una tragedia ferroviaria. Esta deja al menos 68 muertos y 180 heridos. Entre los restos se busca a más posibles víctimas. Se hace con drones térmicos y esperan que durante el día se incorporen los guías caninos. También ir avanzando en la investigación: saber qué pasó después de que el frenado automático dejase de funcionar. Para el ministro de Transportes, el accidente es inexplicable. Audios como este, a los que ha accedido RTVE, serán clave en esclarecer los hechos. Registran las conversaciones del centro de control de Atocha con los maquinistas. Al del convoy de Renfe, le dan la orden de reanudar el viaje a velocidad normal. La Guardia Civil ya ha hablado con los operarios de ADIF Ahora lo más importante es la identificación de los cuerpos, que comienza hoy, para poder dar respuesta a las familias. La Guardia Civil recoge sus muestras para cotejarlas. Además, hospitales de Castilla La Mancha y Madrid atienden a los heridos: una veintena están graves. Los más leves, algunos que salieron por su propio pie del tren, han recibido el alta. La tragedia ha frenado en seco la precampaña. La de todos los partidos excepto Vox. El presidente del Gobierno, que hoy vuelve a visitar la zona, dice que es inasumible tener dos accidentes de alta velocidad en un año. El PP le pide una investigación independiente.",
     "summary": [
-      "Résumé en cours de traitement."
+      "Une grave catastrofe ferroviaria en Urda (Toledo) ha sacudido la línea de alta velocidad Madrid-Sevilla, dejando al menos 68 muertos y 180 heridos, lo que relanza el debate sobre la seguridad de las infraestructuras ferroviarias en España.",
+      "Las labores de rescate e investigación se centran en el uso de tecnología avanzada y en el análisis de las grabaciones del centro de control de Atocha para esclarecer por qué falló el sistema de frenado automático y determinar las responsabilidades de ADIF y Renfe.",
+      "El impacto político de la tragedia ha provocado la suspensión general de la precampaña electoral, con la excepción de Vox, mientras el Gobierno califica lo ocurrido de inaceptable ante las exigencias del Partido Popular de abrir una investigación independiente."
     ],
-    "vocabulary": []
+    "vocabulary": [
+      {
+        "term": "frenado automático",
+        "translation": "freinage automatique",
+        "context": "saber qué pasó después de que el frenado automático dejase de funcionar"
+      },
+      {
+        "term": "esclarecer los hechos",
+        "translation": "faire toute la lumière sur les faits",
+        "context": "Audios como este... serán clave en esclarecer los hechos"
+      },
+      {
+        "term": "dar luz verde",
+        "translation": "donner le feu vert (ordre donné au maquiniste)",
+        "context": "Al del convoy de Renfe, le dan la orden de reanudar el viaje"
+      },
+      {
+        "term": "frenar en seco",
+        "translation": "mettre un coup d'arrêt / stopper net",
+        "context": "La tragedia ha frenado en seco la precampaña"
+      },
+      {
+        "term": "cotejar muestras",
+        "translation": "comparer / croiser des échantillons (ADN)",
+        "context": "La Guardia Civil recoge sus muestras para cotejarlas"
+      },
+      {
+        "term": "recibir el alta",
+        "translation": "sortir de l'hôpital / recevoir son congé médical",
+        "context": "Los más leves... han recibido el alta"
+      }
+    ]
   },
   {
     "id": "17287762",
@@ -390,56 +467,6 @@
         "term": "tocar fondo",
         "translation": "toucher le fond / atteindre el nivel más bajo",
         "context": "Para el entrenador José Bordalás, los azulones han tocado fondo tras la goleada."
-      }
-    ]
-  },
-  {
-    "id": "17282800",
-    "title": "Telediario 2 en 4' - 25/10/26",
-    "date": "2026-10-25",
-    "date_label": "25.10.2026",
-    "duration": "03.37 min",
-    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-25-10-26/17282800/",
-    "image": "https://img.rtve.es/v/17282800?w=800&amp;preview=01792958943151.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17282800.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17282800",
-    "transcript": "(MÚSICA) Al menos 83 heridos, siete de ellos hospitalizados, en un accidente de autobús de línea en Fogars de Montclus, Barcelona, tras precipitarse por un barranco de de  unos 20 metros. Algunos pasajeros del autocar han salido por su propio pie y han podido llegar a la carretera. Los equipos de emergencias, decenas de ambulancias y dotaciones de bomberos atienden a las víctimas sobre el terreno. Buenas noches. Se investigan las causas de este siniestro. Enseguida estamos en directo en Barcelona. Y un nombre propio. La líder opositora Maria Corina Machado ha vuelto a su país, Venezuela. Así ha sido recibida por sus seguidores antes de dirigirse a Caracas. Machado llevaba 10 meses fuera de Venezuela, desde que salió para recoger el Nobel de la paz, y había intentado volver, sin éxito, en varias ocasiones. Washington atribuye su vuelta a la mediación de la administración Trump. Brasil decide en una segunda vuelta muy reñida si otorga un cuarto mandato al izquierdista Lula da Silva, o si vuelve al bolsonarismo, de la mano del hijo del exmandatario. A esta hora está previsto que cierren los colegios en todo el país, aunque Lula pide que se amplíe el horario en varios estados por incidencias en el transporte de votantes. Enseguida estaremos en directo con nuestras enviadas especiales en Río de Janeiro y en Sao Paulo. En Barcelona se hace balance de daños y se investiga quién está detrás de la convocatoria que movilizó por redes a medio millar de jóvenes y que acabó con graves disturbios. Así han quedado algunos de los escaparates de comercios del centro de la ciudad. El episodio de vandalismo deja 128 detenidos, la mitad menores de edad. Hay 14 mossos heridos. Los disturbios se han colado en la precampaña. Illa habla de \"violencia gratuita\", Feijóo aprovecha el silencio de Sánchez y señala a los \"discípulos del muro\" que se resisten, ha dicho, \"a abandonar el poder con violencia\" y desde ERC creen que puede ser una operación que busca evitar la reedición de la coalición progresista. La víspera de que se oficialicen las candidaturas de los partidos al Congreso y Senado, el delegado de Gobierno en Madrid, Francisco Martín, dimite tras quedarse fuera de las listas socialistas. Es una de las personas que apoyó desde sus comienzos a Pedro Sánchez y de los dirigentes socialistas que más se ha enfrentado a Isabel Díaz Ayuso. Manifestación por Ceuta en Madrid. 30 000 personas, según fuentes oficiales han exigido soluciones por las crisis migratoria de Ceuta. Convocadas por la plataforma de mujeres caballas, la marcha ha contado con la presencia del presidente de la ciudad autónoma. Miles de personas acuden en Madrid a la llamada de las 'caballas' para apoyar a Ceuta Madrid. Seguimos de celebraciones por nuestro 70 cumpleaños es el miércoles. Hoy les pedimos que nos ayuden a soplar la velas Porque Televisión Española no hubiera sido posible sin sus telespectadores. Hoy nuestro homenaje es para ustedes, pero especialmente, para los de la quinta de esta tele. Los de 1956.",
-    "summary": [
-      "Un grave accidente de autobús en Fogars de Montclus (Barcelona), saldado con decenas de heridos tras precipitarse por un barranco, pone de relieve los recurrentes desafíos en materia de seguridad vial y gestión de emergencias en las infraestructuras catalanas.",
-      "La inesperada vuelta de la líder opositora venezolana María Corina Machado a su país, tras diez meses de exilio y respaldada según Washington por la mediación estadounidense, abre un nuevo capítulo de alta tensión política frente al régimen chavista.",
-      "Brasil celebra una reñida segunda vuelta electoral para decidir entre la continuidad del izquierdista Lula da Silva y el retorno del bolsonarismo, en unos comicios marcados por tensiones logísticas y una fuerte polarización ideológica.",
-      "Los graves disturbios protagonizados por medio millar de jóvenes en Barcelona, que se saldaron con más de un centenar de detenidos y cuantiosos destrozos, han desencadenado un cruce de reproches entre el PSC y la oposición en plena precampaña electoral."
-    ],
-    "vocabulary": [
-      {
-        "term": "precipitarse por un barranco",
-        "translation": "dévaler un ravin / tomber au fond d'un ravin",
-        "context": "Un accidente de autobús de línea en Fogars de Montclus, tras precipitarse por un barranco de unos 20 metros."
-      },
-      {
-        "term": "la líder opositora",
-        "translation": "la cheffe de l'opposition",
-        "context": "La líder opositora Maria Corina Machado ha vuelto a su país, Venezuela."
-      },
-      {
-        "term": "una segunda vuelta muy reñida",
-        "translation": "un second tour très serré / disputé",
-        "context": "Brasil decide en una segunda vuelta muy reñida si otorga un cuarto mandato al izquierdista Lula da Silva."
-      },
-      {
-        "term": "hacer balance de daños",
-        "translation": "dresser le bilan des dégâts",
-        "context": "En Barcelona se hace balance de daños y se investiga quién está detrás de la convocatoria."
-      },
-      {
-        "term": "violencia gratuita",
-        "translation": "violence gratuite",
-        "context": "Illa habla de 'violencia gratuita', Feijóo aprovecha el silencio de Sánchez."
-      },
-      {
-        "term": "la crisis migratoria",
-        "translation": "la crise migratoire",
-        "context": "30 000 personas han exigido soluciones por la crisis migratoria de Ceuta."
       }
     ]
   }
