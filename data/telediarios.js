@@ -1,5 +1,49 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17287762",
+    "title": "Telediario 2 en 4' - 28/10/26",
+    "date": "2026-10-28",
+    "date_label": "28.10.2026",
+    "duration": "02.27 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-28-10-26/17287762/",
+    "image": "https://img.rtve.es/v/17287762?w=800&amp;preview=1793218276991.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17287762.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17287762",
+    "transcript": "Hay muchas personas que rodaron por el vagón. El golpe fue duro. Sentíamos que nos habían chocado. Unas personas fueron los primeros que nos ocurrieron, que estaban en una camioneta. Fue bastante duro. -Es la cabeza del Renfe. Es un accidente muy grave. Qué tal, buenas noches. Nueve meses después, España vuelve a sufrir una tragedia ferroviaria en la misma línea de la red de alta velocidad. A esta hora, el balance, trágico balance, habla de, al menos, 68 muertos, un centenar de heridos y una enorme conmoción en toda España. Esta vez, el accidente ha ocurrido aquí en la provincia de Toledo, muy cerca del municipio de Urda. Y la que van a ver ahora es la señal en directo. Del punto exacto del accidente, donde continúan trabajando los servicios de emergencia hasta levantar los vagones siniestrados. Y el accidente ha ocurrido así: Un tren ave de Renfe que circulaba rumbo a Sevilla ha chocado por detrás con un tren Iryo detenido en la misma vía. La investigación apunta a dos fallos: el primero... la caída del sistema informático de seguridad, y a continuación una orden errónea según el gobierno, del equipo humano de ADIF que tomó el control de la circulación.",
+    "summary": [
+      "Un trágico accidente ferroviario en la provincia de Toledo ha segado la vida de al menos 68 personas y ha dejado un centenar de heridos, reviviendo el fantasma de la vulnerabilidad en la red de alta velocidad española.",
+      "La colisión por alcance entre un tren de Renfe con destino a Sevilla y un convoy de la compañía privada Iryo detenido en la misma vía evidencia una concatenación fatal de fallos técnicos y humanos.",
+      "Las primeras investigaciones apuntan a una disfunción del sistema informático de seguridad combinada con una directriz errónea por parte del equipo de control de circulación de ADIF, lo que pone en entredicho los protocolos de gestión ferroviaria."
+    ],
+    "vocabulary": [
+      {
+        "term": "la red de alta velocidad",
+        "translation": "le réseau à grande vitesse",
+        "context": "España vuelve a sufrir una tragedia ferroviaria en la misma línea de la red de alta velocidad."
+      },
+      {
+        "term": "un trágico balance",
+        "translation": "un bilan tragique",
+        "context": "A esta hora, el balance, trágico balance, habla de, al menos, 68 muertos."
+      },
+      {
+        "term": "los servicios de emergencia",
+        "translation": "les services de secours",
+        "context": "Continúan trabajando los servicios de emergencia hasta levantar los vagones siniestrados."
+      },
+      {
+        "term": "los vagones siniestrados",
+        "translation": "les wagons accidentés / endommagés",
+        "context": "Hasta levantar los vagones siniestrados."
+      },
+      {
+        "term": "una orden errónea",
+        "translation": "un ordre erroné",
+        "context": "A continuación una orden errónea según el gobierno, del equipo humano de ADIF."
+      }
+    ]
+  },
+  {
     "id": "17287313",
     "title": "Telediario 1 en 4' -  28/10/26",
     "date": "2026-10-28",
@@ -429,55 +473,6 @@ window.TELEDIARIO_DATA = [
         "term": "no poder permitirse",
         "translation": "ne pas pouvoir se permettre (financièrement)",
         "context": "cada vez hay más españoles que no pueden permitirse comprar un coche"
-      }
-    ]
-  },
-  {
-    "id": "17282284",
-    "title": "Telediario matinal en 4' - 25/10/26",
-    "date": "2026-10-25",
-    "date_label": "25.10.2026",
-    "duration": "04.25 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-25-10-26/17282284/",
-    "image": "https://img.rtve.es/v/17282284?w=800&amp;preview=01792910312704.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17282284.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17282284",
-    "transcript": "Barcelona amanece tras una noche de graves disturbios en el centro de la ciudad. La policía ha detenido hasta 100 personas, entre ellas unos 25 menores. días Estos altercados han dejado contenedores quemados, escaparates rotos y también tiendas saqueadas Así comenzamos las noticias de este domingo. Todo empezaba con una convocatoria anónima en redes sociales Estaba inspirada en esas protestas que estamos viendo estas últimas semanas en otras capitales de Europa. Y hay reacciones, las primeras, la alcaldía y la Generalitat que condenan los hechos. Som un país democrático, somos una democracia madura, consolidada, que respecta el derecho a la protesta, que respecta el derecho a la manifestación y la libertad de expresión El que ha pasado hoy a Barcelona no es eso. El que ha pasado hoy a Barcelona es violencia gratuita y vandalismo Y eso no lo permiten. Puede tener conexión, o tiene conexión, o puede tener conexión con convocatorias que están haciendo algunas capitals europeas. A partir de las 6 han comenzado a los aldarullos, unas 500 personas no organizadas, ni siguiendo manifestaciones ni defendiendo el derecho habitual. Han dedicado a vandalizar toda una serie de el presidente de la Generalitat ha condenado estos actos de violencia en establecimientos, un total de 14. caso, A la otra banda, hemos hecho un total de aproximadamente un centenar de detenciones redes sociales Salvador Illa ha agradecido el trabajo de los Mossos para defender a los ciudadanos y a los comercios Bueno, es parte de ese descontento social que vemos cómo se va extendiendo por Europa. Francia ha vivido otra jornada de protestas y enfrentamientos con la policía En este caso hay al menos mil detenidos, cientos de miles de personas han vuelto a salir a la calle. Lo han hecho pese al enorme despliegue policial y las restricciones para las manifestaciones En Italia también hemos visto enfrentamientos en varias ciudades La policía lanza gases lacrimógenos contra un grupo de manifestantes Son imágenes de Lyon, pero ha ocurrido también en Estrasburgo Marsella o Grenoble. En Lille, París y otras ciudades, los agentes han empleado cañones de agua. Con todos los disturbios han sido menos graves que el pasado fin de semana, cuando cerca de 3.000 comercios acabaron dañados o saqueados El ministro del Interior acusa a grupos de extrema izquierda de instigar la violencia y defiende el refuerzo de la seguridad. Esta vez han desplegado 70.000 efectivos, un 20% más que en la convocatoria anterior. También han limitado recorridos y prohibido concentraciones. Medidas muy criticadas por sindicatos, partidos de izquierda y otras organizaciones civiles. Es difícil saber si esto va a tener un efecto de contener las protestas, un efecto de contención, o si por el contrario va a ser más gasolina en el fuego y genera un mayor descontento. A pesar de las restricciones, muchos franceses han salido de nuevo a las calles Unas 110.000 personas solo en París, según la Prefectura. Nueva demostración del profundo malestar social que sacude Francia. Las encuestas siempre muestran que es un país especialmente pesimista respecto al devenir, respecto al futuro y en los últimos 10 años, bajo la presidencia de Macron, solo se ha agravado esa tendencia A seis meses de las elecciones presidenciales crece la polarización política, mientras en Orleans el partido ultraderechista de le Pen reelegía a Joan bardela como presidente en la calle miles de personas coreaban consignas contra el fascismo Jornada de manifestaciones y protestas en alguna de las principales ciudades de Italia que ha aumentado las medidas de seguridad y ha blindado algunos de los más importantes centros turísticos, comerciales y también sus plazas. Enfrentamientos a última hora en Roma después de esas concentraciones en las que la policía ha identificado a más de 200 jóvenes, de ellos unos 60 han sido interceptados según la policía con pasamontañas o con máscaras. Entre las medidas recientemente aprobadas por el gobierno está la posibilidad de retener preventivamente a menores de edad. En Milán, despliegue de unos 1.400 agentes para evitar los disturbios de la semana pasada allí han detenido al presunto ideólogo del llamado Movimiento 17 de Octubre que incitaba a volver a la acción a través de las redes sociales. Y tensión en Bolonia Florencia o Turín, con duros enfrentamientos entre antidisturbios y manifestantes",
-    "summary": [
-      "Barcelona ha sido escenario de graves disturbios urbanos tras una convocatoria anónima en redes sociales inspirada en las protestas europeas, dejando un balance de un centenar de detenidos y numerosos daños materiales, lo que ha provocado una firme condena institucional por parte del alcalde y del presidente de la Generalitat.",
-      "Francia registra una nueva jornada de masivas protestas y enfrentamientos con la policía a pesar de un despliegue sin precedentes de 70.000 efectivos y de las restricciones gubernamentales, evidenciando un profundo malestar social a seis meses de unas elecciones presidenciales marcadas por la polarización.",
-      "Italia endurece las medidas de seguridad y blinda sus principales centros urbanos e históricos frente a una oleada de altercados y detenciones preventivas de manifestantes, mientras el gobierno aplica nuevas normativas para atajar la violencia juvenil y los conatos de desorden público."
-    ],
-    "vocabulary": [
-      {
-        "term": "los aldarullos",
-        "translation": "les altercations, les émeutes",
-        "context": "A partir de las 6 han comenzado los aldarullos, unas 500 personas no organizadas."
-      },
-      {
-        "term": "la violencia gratuita",
-        "translation": "la violence gratuite",
-        "context": "El que ha pasado hoy a Barcelona es violencia gratuita y vandalismo."
-      },
-      {
-        "term": "el despliegue policial",
-        "translation": "le déploiement policier",
-        "context": "Lo han hecho pese al enorme despliegue policial y las restricciones para las manifestaciones."
-      },
-      {
-        "term": "el malestar social",
-        "translation": "le malaise social",
-        "context": "Nueva demostración del profundo malestar social que sacude Francia."
-      },
-      {
-        "term": "la polarización política",
-        "translation": "la polarisation politique",
-        "context": "A seis meses de las elecciones presidenciales crece la polarización política."
-      },
-      {
-        "term": "retener preventivamente",
-        "translation": "retenir à titre préventif",
-        "context": "Entre las medidas recientemente aprobadas por el gobierno está la posibilidad de retener preventivamente a menores de edad."
       }
     ]
   }
