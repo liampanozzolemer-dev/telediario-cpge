@@ -1,5 +1,60 @@
 [
   {
+    "id": "17294549",
+    "title": "Telediario 2 en 4' - 30/10/26",
+    "date": "2026-10-30",
+    "date_label": "30.10.2026",
+    "duration": "04.01 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-30-10-26/17294549/",
+    "image": "https://img.rtve.es/v/17294549?w=800&amp;preview=1793391111735.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17294549.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17294549",
+    "transcript": "Y en el puesto de mando de la emergencia, el presidente del Gobierno ha dicho hoy que la confianza en el sistema de alta velocidad está quebrada y que no solo hay que diagnosticar lo ocurrido sino ofrecer soluciones. La presión sobre el ministro de Transportes es muy alta alta desde casi todos los partidos políticos. Pero el PP hoy ya va más allá y apunta al presidente del Gobierno. \"Quien lo ha nombrado y lo ha mantenido, con más motivo. Si no dimiten ellos, los dimitiremos en las urnas\" -\"Lo que sí hemos trasladado a Moncloa es, que esa dimisión se tiene que producir lo antes posible\". Esta tarde han encontrado nuevos restos biológicos en la zona del accidente, así que los rastreos van a continuar. Alicia Velilla. Van a continuar porque todavía quedan vagones por retirar. y ahora mismo es de noche. los trabajos se han causado. continuará mañana por la mañana. \"Todavía no se han podido levantar todos los vagones que estaban accidentados. Hay que esperar que sigan levantando vagones, por si se siguen encontrando restos. No se sabe si van a aparecer más o no\". La cifra confirmada de fallecidos se mantiene en 69 personas aunque no se descarta que haya más. Hoy, cinco familias han recibido la mejor noticia, los seres queridos que buscaban están vivos. Pero, Loreto Barbón, muchos otros siguen buscando. La toma de huellas dactilares, proceso que toma su tiempo, y la espera se hace cada vez más complicadas, que no tienen noticia de sus seres queridos. Y hoy ya desfilan ante nuestro ojos las vidas truncadas en los trenes, la imagen y la biografía de quienes han perdido la vida en esta catástrofe. 71 personas han recibido ya el alta médica y 43 están ingresadas en diferentes hospitales. Marta Lobera, los sanitarios cuentan que la situación empieza a normalizarse en las Urgencias. Nos cuentan además, que precisamente se está empezando a notar la presión en la unidad de cuidados intensivos, aquí en el hospital universitario de Toledo. hay personas ingresadas como hay ocho de ellas permanecen en la UCI la Policía ha detenido en Valencia al presunto líder de Blocus, el grupo que convoca saqueos y provoca disturbios en España. Ya hay, en total, diez detenidos. Los establecimientos en las calles más comerciales de Barcelona o Madrid se protegen, como ven, con grandes tablones de madera delante las cristaleras de sus escaparates. Sólo quedan 4 días para las elecciones de medio mandato y Trump trata de remontar las encuestas, que apuntan a una derrota de su partido en la Cámara de Representantes. Quien ya ha votado por correo es el papa, que es estadounidense.",
+    "summary": [
+      "El presidente del Gobierno ha reconocido la quiebra de la confianza ciudadana en el sistema de alta velocidad tras un trágico accidente ferroviario, lo que ha desatado una intensa presión política por parte de la oposición que exige dimisiones inmediatas al Ejecutivo.",
+      "Las labores de rescate e identificación continúan en el lugar del siniestro tras el hallazgo de nuevos restos biológicos, mientras las autoridades sanitarias gestionan la atención a los heridos y el difícil proceso de duelo y localización para las familias afectadas.",
+      "Las autoridades policiales han detenido en Valencia al presunto líder del grupo Blocus, vinculado a la convocatoria de saqueos y disturbios, en un contexto de creciente tensión que lleva a los comercios de grandes ciudades como Madrid y Barcelona a blindar sus escaparates.",
+      "A pocos días de las elecciones de mitad de mandato en Estados Unidos, Donald Trump intensifica sus esfuerzos para revertir unos sondeos desfavorables en la Cámara de Representantes, mientras trasciende que el papa, de nacionalidad estadounidense, ya ha ejercido su derecho al voto por correo."
+    ],
+    "vocabulary": [
+      {
+        "term": "la quiebra de la confianza",
+        "translation": "la rupture / l'effondrement de la confiance",
+        "context": "la confianza en el sistema de alta velocidad está quebrada"
+      },
+      {
+        "term": "exigir la dimisión",
+        "translation": "exiger la démission",
+        "context": "esa dimisión se tiene que producir lo antes posible"
+      },
+      {
+        "term": "vidas truncadas",
+        "translation": "des vies brisées / fauchées",
+        "context": "desfilan ante nuestro ojos las vidas truncadas en los trenes"
+      },
+      {
+        "term": "la toma de huellas dactilares",
+        "translation": "le relevé des empreintes digitales",
+        "context": "La toma de huellas dactilares, proceso que toma su tiempo"
+      },
+      {
+        "term": "el alta médica",
+        "translation": "la sortie de l'hôpital / l'autorisation de sortie médicale",
+        "context": "71 personas han recibido ya el alta médica"
+      },
+      {
+        "term": "los disturbios",
+        "translation": "les émeutes / les troubles à l'ordre public",
+        "context": "el grupo que convoca saqueos y provoca disturbios en España"
+      },
+      {
+        "term": "las elecciones de medio mandato",
+        "translation": "les élections de mi-mandat (midterms)",
+        "context": "Sólo quedan 4 días para las elecciones de medio mandato"
+      }
+    ]
+  },
+  {
     "id": "17293794",
     "title": "Telediario 1 en 4' - 30/10/26",
     "date": "2026-10-30",
@@ -412,56 +467,6 @@
         "term": "mobiliario urbano calcinado",
         "translation": "du mobilier urbain incendié",
         "context": "Los operarios municipales han pasado el día limpiando los restos de los vehículos y el mobiliario urbano calcinado."
-      }
-    ]
-  },
-  {
-    "id": "17284616",
-    "title": "Telediario matinal en 4' - 27/10/2026",
-    "date": "2026-10-27",
-    "date_label": "27.10.2026",
-    "duration": "03.21 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-27-10-2026/17284616/",
-    "image": "https://img.rtve.es/v/17284616?w=800&amp;preview=01793043515645.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17284616.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17284616",
-    "transcript": "Buenos días, PP y Vox logran un acuerdo histórico para sus listas al Senado, con cesiones mutuas. Los populares no concurren en tres provincias y los de Abascal, en seis. Además, en otras 14 Vox solo presentará un candidato. El objetivo, contrarrestar el acuerdo alcanzado por socialistas y Frente Amplio para la cámara alta. Los populares hablan de generosidad y altura de miras en el acuerdo. Para el PSOE se demuestra que PP y Vox son lo mismo. Al menos 19 detenidos en Bilbao por unos violentos disturbios que han acabado con contenedores y varios vehículos incendiados. Entre los arrestados, siete son menores de edad. Los hechos ocurrían tras una manifestacion contra un acto de Vito Quiles, que se suspendió. En otros incidentes, los de Barcelona, se sigue investigando el papel de las redes en la convocatoria. Donald Trump cuestiona el resultado electoral en Brasil. Sin aportar pruebas habla de \"fraude\". Flávio Bolsonaro sigue sin aceptar su derrota de forma clara. Sí que lo han admitido desde su partido. Lula ha agradecido las felicitaciones recibidas: entre ellas la de Pedro Sánchez, \"aliado en el progresismo global\", ha dicho. A esta hora, abren las urnas en israel. Unas elecciones decisivas e inciertas, que podrían marcar el fin del poder para Netanyahu, que llega segundo en las encuestas. Tampoco la oposición lograría mayoría: la clave la tienen partidos árabes. Y en Deportes, acaba de celebrarse la ceremonia de entrega del Balón de Oro. Así es Mireia y entre los premiados, la española Alexia Putellas suma su tercer balón de oro y Harry Kane, mejor futbolista de este año. El delantero británico se corona en casa El delantero británico se corona en casa y lo hace anteponiéndose a Mbappé y Lamine, que se llevó de nuevo el de joven talento. En el caso de Alexia, uno de los iconos del fútbol femenino suma su tercer trofeo, tras superar una lesión de rodilla. En total, ocho balones de oro a españoles. Luis de la Fuente, mejor entrenador alzando la Copa del Mundo. Pere Romeu, mejor entrenador femenino con el triplete del Barça, que también se lleva el de mejor club femenino. Bajo los palos, Unai Simón y Cata Coll, mejores guardametas y el galardón al joven talento femenino, Vicky López.",
-    "summary": [
-      "El Partido Popular y Vox han sellado un pacto estratégico en sus listas al Senado que contempla cesiones mutuas en diversas provincias, con el fin de neutralizar la alianza conformada por los socialistas y el Frente Amplio en la cámara alta.",
-      "Unos graves disturbios acaecidos en Bilbao tras una manifestación suspendida contra un acto de Vito Quiles se han saldado con al menos 19 detenidos, entre ellos varios menores, lo que reabre el debate sobre la seguridad y el papel de las convocatorias en redes sociales.",
-      "En el ámbito internacional, Donald Trump cuestiona sin pruebas los resultados electorales en Brasil, mientras que Lula recibe felicitaciones internacionales y se inician unas elecciones cruciales en Israel que podrían desalojar del poder a Netanyahu.",
-      "La ceremonia del Balón de Oro ha consagrado de nuevo el dominio del fútbol español con el tercer galardón de Alexia Putellas, el reconocimiento a Lamine como joven talento y los premios a Luis de la Fuente y Pere Romeu como mejores entrenadores."
-    ],
-    "vocabulary": [
-      {
-        "term": "altura de miras",
-        "translation": "hauteur de vue / sens des responsabilités",
-        "context": "Los populares hablan de generosidad y altura de miras en el acuerdo."
-      },
-      {
-        "term": "cesiones mutuas",
-        "translation": "concessions mutuelles",
-        "context": "PP y Vox logran un acuerdo histórico para sus listas al Senado, con cesiones mutuas."
-      },
-      {
-        "term": "disturbios",
-        "translation": "troubles à l'ordre public / émeutes",
-        "context": "Al menos 19 detenidos en Bilbao por unos violentos disturbios que han acabado con contenedores incendiados."
-      },
-      {
-        "term": "cuestionar el resultado",
-        "translation": "contester le résultat",
-        "context": "Donald Trump cuestiona el resultado electoral en Brasil."
-      },
-      {
-        "term": "elecciones decisivas e inciertas",
-        "translation": "élections décisives et incertaines",
-        "context": "Unas elecciones decisivas e inciertas, que podrían marcar el fin del poder para Netanyahu."
-      },
-      {
-        "term": "anteponerse",
-        "translation": "devancer / l'emporter sur",
-        "context": "El delantero británico se corona en casa y lo hace anteponiéndose a Mbappé y Lamine."
       }
     ]
   }
