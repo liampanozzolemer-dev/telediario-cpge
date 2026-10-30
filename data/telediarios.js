@@ -1,5 +1,54 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17293794",
+    "title": "Telediario 1 en 4' - 30/10/26",
+    "date": "2026-10-30",
+    "date_label": "30.10.2026",
+    "duration": "04.02 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-30-10-26-1-cuatro-minutos-301026/17293794/",
+    "image": "https://img.rtve.es/v/17293794?w=800&amp;preview=01793369463282.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17293794.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17293794",
+    "transcript": "\"Los indicios apuntan a que lo ocurrido, No era mi deber estar en el centro de mando aquel martes. Pero ahora sí que es mi deber estar al mando\". Hola, buenas tardes Óscar Puente descarta dimitir Dice que el presidente del Gobierno no se lo ha pedido y que confía en él para devolver la confianza en el sistema ferroviario español Moncloa y Ferraz cierran filas con el ministro aunque hay dirigentes que consideran que su situación es insostenible, Almudena Guerrero \"Hay una confianza quebrada en el sistema de alta velocidad Hay voces dentro del partido que d que consideran que debe asumir los consolida, hay voces en contrario, Sánchez ha insistido en que no es asumible, dos accidentes de este tipo en menos de un año. \"Hay una confianza quebrada en el sistema de alta velocidad en nuestro país. La labor del gobierno no es solamente hacer el diagnóstico, conocer cuáles son las causas, sino ofrecer soluciones\". Frente Amplio da un paso más y pide la dimisión de Puente. También lo hace el líder del Partido Popular, Núñez Feijóo, que acusa al Gobierno del accidente por no renovar un sistema de seguridad que, dicen, está obsoleto. \"Quien lo ha nombrado y lo ha mantenido con más motivo. Si no dimiten ellos, les dimitiremos en las urnas\". El operador que autorizó al AVE a retomar la marcha a una velocidad normal, se ha acogido a su derecho a no declarar ante la Guardia Civil. Puente ha explicado que había 16 controladores en la sala en el momento del accidente y que llevaban sólo dos horas trabajando. Y defiende que el Gobierno ha incrementado la plantilla. En la zona cero del siniestro, los investigadores judiciales y los técnicos siguen recogiendo pruebas, Raúl Rivera. Si y ya han sido retirados los de los coches, que cayeron por el terraplén, falta retirar el tercero, ha sido retirado el balcón número ocho de la B, en cada momento entran las patrullas caninas. Los forenses ya han realizado casi medio centenar de autopsias y hay 13 cuerpos identificados. Pero todavía son muchas las familias de desaparecidos que no tienen noticias de los suyos. Les han dicho que se preparen para lo peor, Lucía Jiménez. Si en la casa sacerdotal Toledo, la guardia civil comunicaba los familiares, que las posturas de supervivencia serían mínimas, porque el número de cuerpos de víctimas mortales, en la de Toledo coincidía con el de las denuncias registradas. \"Ayer había alguna remota posibilidad de que no estuviera identificado. Pero ahora son tan bajas las probabilidades que no merece la pena ni entenderlo\". Hay 70 denuncias de desaparecidos y 69 fallecidos confirmados. Aunque el presidente de Castilla-La Mancha no descarta que pueda aumentar el número de muertos. Las muestras de ADN están siendo cruciales para algunas de las identificaciones. 43 personas siguen ingresadas en los hospitales, 17 de ellas en unidades de cuidados intensivos. La mayoría está evolucionando de forma positiva.",
+    "summary": [
+      "El ministro de Transportes, Óscar Puente, descarta rotundamente dimitir tras el grave accidente ferroviario que ha conmocionado al país, a pesar de las crecientes presiones de la oposición y de sectores críticos dentro de su propio partido.",
+      "El Partido Popular y la coalición Frente Amplio exigen responsabilidades políticas directas al Ejecutivo, acusándole de negligencia por mantener obsoleto el sistema de seguridad de la red de alta velocidad.",
+      "Las labores de identificación de las víctimas continúan en la zona cero del siniestro y en la delegación forense, mientras las autoridades manejan una cifra de 69 fallecidos confirmados y decenas de heridos hospitalizados."
+    ],
+    "vocabulary": [
+      {
+        "term": "descartar dimitir",
+        "translation": "écarter toute démission",
+        "context": "Óscar Puente descarta dimitir dice que el presidente del Gobierno no se lo ha pedido."
+      },
+      {
+        "term": "cerrar filas",
+        "translation": "faire bloc / resserrer les rangs",
+        "context": "Moncloa y Ferraz cierran filas con el ministro aunque hay dirigentes que consideran insostenible su situación."
+      },
+      {
+        "term": "confianza quebrada",
+        "translation": "confiance brisée / ébranlée",
+        "context": "Hay una confianza quebrada en el sistema de alta velocidad en nuestro país."
+      },
+      {
+        "term": "acogerse a su derecho a no declarar",
+        "translation": "faire valoir son droit au silence",
+        "context": "El operador que autorizó al AVE se ha acogido a su derecho a no declarar ante la Guardia Civil."
+      },
+      {
+        "term": "incrementar la plantilla",
+        "translation": "augmenter les effectifs",
+        "context": "Puente ha explicado que había dieciséis controladores y defiende que el Gobierno ha incrementado la plantilla."
+      },
+      {
+        "term": "posturas de supervivencia",
+        "translation": "chances de survie",
+        "context": "La Guardia Civil comunicaba a los familiares que las posturas de supervivencia serían mínimas."
+      }
+    ]
+  },
+  {
     "id": "17289432",
     "title": "Telediario matinal en 4' - 30/10/2026",
     "date": "2026-10-30",
@@ -413,55 +462,6 @@ window.TELEDIARIO_DATA = [
         "term": "anteponerse",
         "translation": "devancer / l'emporter sur",
         "context": "El delantero británico se corona en casa y lo hace anteponiéndose a Mbappé y Lamine."
-      }
-    ]
-  },
-  {
-    "id": "17284470",
-    "title": "Telediario 2 en 4' -26/10/26",
-    "date": "2026-10-26",
-    "date_label": "26.10.2026",
-    "duration": "04.10 min",
-    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-26-10-26/17284470/",
-    "image": "https://img.rtve.es/v/17284470?w=800&amp;preview=1793045404989.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17284470.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17284470",
-    "transcript": "¿Qué tal?, buenas noches. PP y VOX pactan una estrategia común para concentrar su voto en las elecciones al Senado y tratar de retener la mayoría absoluta de la Cámara Alta, tras el acuerdo de PSOE y Frente Amplio. Esta noche a las doce termina el plazo para inscribir las candidaturas y el PP renuncia a presentarse en 3 provincias, Vox no se presentará en 14 circunscripciones, y han acordado otras fórmulas para ir coordinados en 31 territorios en total. \"El entendimiento entre los 2 partidos tiene el objetivo de proteger la mayoría del centro - derecha en el Senado, frente a los movimientos de la izquierda radical, para arrebatársela\". \"No es ningún secreto que coincidimos en la necesidad de expulsar a la organización criminal de Sánchez, de todas las instituciones\". Y dirigentes de todo el mundo felicitan a Lula da Silva por su histórica remontada en las elecciones de ayer en Brasil. - Solo no lo han felicitado, de momento, Milei y Trump-. Lula perdió la primera vuelta de las presidenciales, partió con desventaja en la segunda pero la impresionante movilización de la izquierda le permitió sacar cuatro puntos de ventaja al ultraderechista Flavio Bolsanaro, que, por cierto, no reconoce el resultado. Y esta tarde en un mitin, Pedro Sánchez decía lo siguiente. Vamos a hacer... lo mismo que Lula ha hecho en Brasil. El mundo nos mira... si Brasil pudo España puede. El equipo de VerificaRTVE le siguió la pista desde el primer momento a los mensajes en redes que llamaban a acudir a Barcelona para desembocar en los disturbios que vimos el fin de semana. Les vamos a mostrar esos mensajes que marcaban incluso cómo ir vestido. Los Mossos investigan quien está detrás de este intento de desestabilización. Hay nuevas convocatorias para el próximo sábado en España y otros paises europeos. Los jueces acaban de acordar internamiento para 3 de los menores detenidos. No hay más víctimas atrapadas bajo el autobús siniestrado en Barcelona. Lo hemos sabido esta tarde cuando los bomberos han logrado sacar el vehículo del lugar del accidente. Han tenido que usar tres grúas de gran tonelaje en una operación que ha durado horas. El autobús tenía capacidad para 65 personas, pero viajaban al menos 87. Las lluvias de este otoño que han provocado dolor y destrucción en Levante. Cayeron de otra manera en Jaén por ejemplo. Esa agua despues de meses secos ha recuperado el olivar de secano, que ahora aspira a la tercera mejor producción de aceite de la historia. \"¿Qué sucede? Qué los últimos 10, 15 o 20 días, ha habido un incremento de lluvias, una ayuda para cuanto menos garantizar la cosecha que se esperaba\" Y en media hora va a comenzar en Londres la Gala del Balón de Oro, con mucha presencia española. Lamine Yamal, Alexia Putellas y Luis de la Fuente están entre los favoritos en sus categorías, Diego Arizpeleta. Si, como decías, va a comenzar con media hora de retraso, habrá que esperar un poquito más, para saber si finalmente Luis de la Fuente, se hace con el balón de oro, el mejor entrenador, podría ser otro español, Luis Enrique, el éxito español estaría completo, con los mejores futbolistas,",
-    "summary": [
-      "El Partido Popular y Vox han sellado una estrategia conjunta para las elecciones al Senado, renunciando a presentar candidaturas en varias provincias con el fin de blindar la mayoría absoluta del centro-derecha frente a la izquierda.",
-      "En el ámbito internacional, Luiz Inácio Lula da Silva ha logrado una remontada histórica en las elecciones presidenciales de Brasil frente a Flavio Bolsonaro, un resultado que ha generado reacciones cruzadas a nivel global y ha inspirado el discurso del presidente del Gobierno español, Pedro Sánchez.",
-      "Las autoridades y los cuerpos de seguridad investigan los llamamientos en redes sociales que alentaron los disturbios del fin de semana en Barcelona, mientras continúan las labores de retirada del autobús siniestrado y se gestionan las consecuencias de las recientes precipitaciones."
-    ],
-    "vocabulary": [
-      {
-        "term": "la Cámara Alta",
-        "translation": "la Chambre haute / le Sénat",
-        "context": "PP y VOX pactan una estrategia común para concentrar su voto en las elecciones al Senado y tratar de retener la mayoría absoluta de la Cámara Alta."
-      },
-      {
-        "term": "una remontada",
-        "translation": "une remontée / un retournement de situation",
-        "context": "Dirigentes de todo el mundo felicitan a Lula da Silva por su histórica remontada en las elecciones de ayer en Brasil."
-      },
-      {
-        "term": "desembocar en",
-        "translation": "aboutir à / mener à",
-        "context": "El equipo de VerificaRTVE le siguió la pista a los mensajes en redes que llamaban a acudir a Barcelona para desembocar en los disturbios."
-      },
-      {
-        "term": "un intento de desestabilización",
-        "translation": "une tentative déstabilisation",
-        "context": "Los Mossos investigan quien está detrás de este intento de desestabilización."
-      },
-      {
-        "term": "el olivar de secano",
-        "translation": "l'oliveraie en culture non irriguée (culture de secano)",
-        "context": "Esa agua después de meses secos ha recuperado el olivar de secano, que ahora aspira a la tercera mejor producción de aceite de la historia."
-      },
-      {
-        "term": "garantizar la cosecha",
-        "translation": "garantir la récolte",
-        "context": "Ha habido un incremento de lluvias, una ayuda para cuanto menos garantizar la cosecha que se esperaba."
       }
     ]
   }
