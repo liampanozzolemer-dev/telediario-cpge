@@ -1,5 +1,54 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17294970",
+    "title": "Telediario 1 en 4' - 31/10/26",
+    "date": "2026-10-31",
+    "date_label": "31.10.2026",
+    "duration": "02.06 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-31-10-26-1-cuatro-minutos-311026/17294970/",
+    "image": "https://img.rtve.es/v/17294970?w=800&amp;preview=01793455383220.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17294970.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17294970",
+    "transcript": "Emoción y dolor en la misa funeral celebrada este mediodía en la Iglesia de Urda en recuerdo por los 69 fallecidos en la tragedia ferroviaria. Los vecinos se han volcado un día más con los afectados por la tragedia, han llenado el templo; los que no cabían lo han seguido por altavoces instalados fuera. El duelo se acentúa para los que todavía no han recibido la confirmación oficial de la muerte de los suyos. Buenas tardes. Tercer y último día de luto oficial en España conmocionada por la tragedia. Continúa el duelo y avanza la investigación. En la zona cero siguen los trabajos de la Guardia Civil. Esta mañana se han levantado algunos de los vagones de los trenes buscando más restos de algunas de las 69 víctimas mortales y se han empezado a recuperar enseres de los viajeros. Mientras, siguen ingresadas 34 personas en hospitales de Castilla-La Mancha y 7 en Madrid. Los centros de varias ciudades se blindan ante el riesgo de altercados esta tarde por la convocatorias de Blocus. Así se protegen los comercios para evitar saqueos como los de la semana pasada en Barcelona. Anoche se vivieron momento de tensión en la convocatoria que se organizó en Palma. Prisión provisional sin fianza para el supuesto fundador e impulsor de Blocus España, detenido ayer en Valencia. Francia blindada de nuevo ante el temor a otro fin de semana de violentas protestas. Hay 70 000 agentes desplegados y comercios protegidos. Dispositivo especial también en Alemania. Allí jóvenes de la generación Z llaman a movilizarse por el deterioro educativo o el alto coste de la vida. Vísperas de todos los santos, un fin de semana largo en muchas comunidades para hacer una escapada o para sumarse a una tradición que va a más en España. Halloween mueve cada vez más dinero.",
+    "summary": [
+      "España vive su tercer y último día de luto oficial marcado por la profunda emoción de la misa funeral celebrada en Urda en memoria de las 69 víctimas mortales de la catástrofe ferroviaria, mientras prosiguen las labores de rescate de enseres y la difícil identificación de los desaparecidos.",
+      "Varias ciudades españolas blindan sus centros comerciales ante el temor a disturbios y saqueos impulsados por convocatorias del movimiento radical Blocus, cuya presunta cúpula ya ha sido arrestada por las autoridades judiciales.",
+      "El contexto internacional refleja una creciente tensión social en vísperas del fin de semana, con un despliegue policial sin precedentes en Francia y protestas juveniles de la generación Z en Alemania contra el deterioro educativo y la carestía de la vida."
+    ],
+    "vocabulary": [
+      {
+        "term": "luto oficial",
+        "translation": "deuil national / officiel",
+        "context": "Tercer y último día de luto oficial en España conmocionada por la tragedia."
+      },
+      {
+        "term": "prisión provisional sin fianza",
+        "translation": "détention provisoire sans caution",
+        "context": "Prisión provisional sin fianza para el supuesto fundador e impulsor de Blocus España."
+      },
+      {
+        "term": "altercados",
+        "translation": "incidents / heurts / troubles",
+        "context": "Los centros de varias ciudades se blindan ante el riesgo de altercados esta tarde."
+      },
+      {
+        "term": "saqueos",
+        "translation": "pillages / saccages",
+        "context": "Para evitar saqueos como los de la semana pasada en Barcelona."
+      },
+      {
+        "term": "carencia de la vida / alto coste de la vida",
+        "translation": "coût de la vie élevé / cherté de la vie",
+        "context": "Jóvenes de la generación Z llaman a movilizarse por el deterioro educativo o el alto coste de la vida."
+      },
+      {
+        "term": "desplegados",
+        "translation": "déployés",
+        "context": "Hay 70 000 agentes desplegados y comercios protegidos."
+      }
+    ]
+  },
+  {
     "id": "17294686",
     "title": "Telediario matinal en 4'  - 31/10/26",
     "date": "2026-10-31",
@@ -429,55 +478,6 @@ window.TELEDIARIO_DATA = [
         "term": "tener lugar",
         "translation": "avoir lieu / se produire",
         "context": "la misma línea en la que hace solo 9 meses tuvo lugar la tragedia de Adamuz."
-      }
-    ]
-  },
-  {
-    "id": "17286539",
-    "title": "Telediario matinal en 4' - 28/10/2026",
-    "date": "2026-10-28",
-    "date_label": "28.10.2026",
-    "duration": "03.48 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-28-10-2026/17286539/",
-    "image": "https://img.rtve.es/v/17286539?w=800&amp;preview=01793100894360.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17286539.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17286539",
-    "transcript": "Buenos días. Netanyahu lograría ser el candidato con más votos pero sin mayoría absoluta. El bloque opositor no quiere pactar con él. La llave, en manos de los partidos árabes, con su mejor resultado histórico. Y contra ellos, precisamente, se ha pronunciado Netanyahu. Pide dejarlos fuera de cualquier formación del ejecutivo. El recuento aún sigue en marcha, pero las proyecciones dejan al país hebreo en una encrucijada que no es nueva: la repetición electoral si no hay acuerdo. Estados Unidos acoge a Flavio Bolsonaro y su familia tras haber huído de Brasil apenas horas después de perder las elecciones. LA administración Trump ha confirmado que les proporcionará visados. Bolsonaro está investigado en su país por presunto blanqueo. Lula da Silva habla de vergüenza. Hoy España vive movilizaciones del campo, de médicos, de trabajadores del metal, de profesores que se suman a los altercados violentos que otras movilizaciones recientes han dejado en Barcelona y Bilbao. Un clima de protestas en plena precampaña. El BOE publica hoy las listas electorales, cuyos pactos reflejan claramente los dos grandes bloques. El último anuncio: PSC y Frente Amplio concentrarán el voto en tres de las cuatro provincias catalanas en el Senado. Y esos acuerdo para la cámara alta, son, según Irene Montero, el motivo de que no se lograse un pacto global de izquierdas. La líder de Podemos ha visitado junto a Gabriel Rufián el programa La Revuelta. Radio Televisión Española ha accedido a documentación enviada por la policía nacional a la jueza Tardón, que investiga la entrada a Ceuta. Señalan a presuntos gendarmes marroquíes, dicen impasibles e incluso, que indicaban por dónde ir. Incluyen también testimonios de tres migrantes que cruzaron a la ciudad autónoma e identifican a mandos marroquíes en la frontera: la jueza escuchará hoy sus testimonios. Y en Deportes, primera eliminatoria de Copa del Rey y primer caído importante. Así es Mireia, porque el Espanyol se ha despedido tras caer por 4 a 3 con el Sestao. Una victoria en la prórroga del equipo de la Segunda REFF que ha supuesto el despido del técnico perico. De los equipos de Primera que jugaban este martes, Málaga, Elche, Rayo y Villarreal pasan de ronda tras imponerse en sus eliminatorias. Y Mbappé está en el ojo de la tormenta tras calificar a Mao Tse Tung de Dictador. El delantero lo hizo mientras hablaba de un meme, pero en China sus palabras han tenido muy mala repercusión, hasta el punto de influir en la retransmisión de partidos del Real Madrid en el país asiático. Mbappé ya ha pedido disculpas en una polémica que sigue abierta. En general tiempo muy estable, nieblas en la meseta norte, nubosidad que se va despejando. Aumento de nubes en el Mediterráneo. Continuarán algunos chubascos en La Palma y Tenerife. Temperaturas que suben en el oeste.",
-    "summary": [
-      "Las elecciones en Israel sitúan al país ante un bloqueo institucional crónico; a pesar de ser el candidato más votado, Netanyahu carece de mayoría absoluta y el rechazo de los partidos árabes aboca previsiblemente al Estado hebreo a una nueva repetición electoral.",
-      "La crispación social se intensifica en España con una huelga multisectorial que agrupa a agricultores, sanitarios, metalúrgicos y docentes, coincidiendo con un clima de alta tensión política en plena precampaña de cara a las próximas elecciones.",
-      "En el ámbito internacional y deportivo, la controversia salpica al delantero Kylian Mbappé tras sus declaraciones sobre Mao Zedong, lo que ha provocado un boicot indirecto a las retransmisiones del Real Madrid en China y ha obligado al jugador a disculparse públicamente."
-    ],
-    "vocabulary": [
-      {
-        "term": "la llave",
-        "translation": "la clé (ici, le rôle d'arbitre ou décisif)",
-        "context": "La llave, en manos de los partidos árabes, con su mejor resultado histórico."
-      },
-      {
-        "term": "estar en la picota / en el ojo de la tormenta",
-        "translation": "être dans l'œil du cyclone / au centre de la polémique",
-        "context": "Mbappé está en el ojo de la tormenta tras calificar a Mao Tse Tung de Dictador."
-      },
-      {
-        "term": "el recuento",
-        "translation": "le dépouillement (des votes)",
-        "context": "El recuento aún sigue en marcha, pero las proyecciones dejan al país hebreo en una encrucijada."
-      },
-      {
-        "term": "la encrucijada",
-        "translation": "le carrefour, l'impasse / la situation critique",
-        "context": "Las proyecciones dejan al país hebreo en una encrucijada que no es nueva."
-      },
-      {
-        "term": "las movilizaciones",
-        "translation": "les mobilisations, les manifestations",
-        "context": "Hoy España vive movilizaciones del campo, de médicos, de trabajadores del metal."
-      },
-      {
-        "term": "despedir a alguien / el despido",
-        "translation": "licencier quelqu'un / le renvoi, le licenciement",
-        "context": "Una victoria en la prórroga... que ha supuesto el despido del técnico perico."
       }
     ]
   }
