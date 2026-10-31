@@ -1,5 +1,60 @@
 [
   {
+    "id": "17294686",
+    "title": "Telediario matinal en 4'  - 31/10/26",
+    "date": "2026-10-31",
+    "date_label": "31.10.2026",
+    "duration": "02.01 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-31-10-26/17294686/",
+    "image": "https://img.rtve.es/v/17294686?w=800&amp;preview=01793428351016.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17294686.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17294686",
+    "transcript": "¿Qué tal? Muy buenos días. Ya han finalizado todas las autopsias de los fallecidos en el accidente ferroviario de Urda y se han identificado a 36 cuerpos. Este viernes han encontrado nuevos restos biológicos en la zona del choque, así que los rastreos en los vagones van a continuar hoy El número de víctimas mortales se mantiene de momento en 69, aunque no se descarta que haya más más los indicios apuntan a que lo ocurrido se debe a un fallo en el centro de indicios apuntan a que lo ocurrido se debe a un fallo en el centro de control control de mando de Adif. No era mi deber estar en el centro de mando aquel martes, pero ahora sí es mi deber estar al mando La carta a dimitir asegura que el presidente del gobierno no se lo ha pedido, aunque hay dirigentes del Partido Socialista que consideran que su situación es insostenible PP, Vox y los socios del gobierno exigen su renuncia Quien lo ha nombrado y lo ha mantenido con más motivo. Si no dimiten ellos, les dimitiremos en las urnas. Lo que sí hemos trasladado a Moncloa es que esa dimisión se tiene que producir lo antes posible. Glocus, el grupo que llama en redes sociales a disturbios y saqueos en España, ha convocado para hoy protestas en diferentes ciudades donde algunos comercios han blindado sus escaparates hay 10 detenidos en todo el país entre ellos el presunto líder de este movimiento estaba en Valencia león 14 ha votado por correo en las elecciones de su país... ...Estados Unidos del próximo martes... ...es el primer pontífice en 2000 años.. que ejerce su derecho al voto. Según varios medios, le enviaron la papeleta a casa de su hermano John, en Chicago y se la llevó en mano a Roma Rusia ha vetado la resolución presentada por Estados Unidos para renovar la misión de la ONU en el Sáhara. Según el Kremlin, el texto presentado por Washington no respetaba la neutralidad de la ONU al favorecer los intereses de Marruecos",
+    "summary": [
+      "La catástrofe ferroviaria de Urda ha dejado un trágico balance de 69 víctimas mortales, mientras los indicios apuntan a un fallo humano o técnico en el centro de control de mando de Adif, generando una fuerte presión sobre el Ejecutivo.",
+      "El clima político se crispa tras la dimisión de un alto cargo y las exigencias de renuncia por parte de la oposición (PP, Vox) y de los socios parlamentarios del gobierno, quienes amenazan con sanciones en las urnas si no se depuran responsabilidades con celeridad.",
+      "Las autoridades han detenido en Valencia al presunto líder del grupo radical Glocus, una organización que instrumentaliza las redes sociales para incitar al saqueo y convocar altercados urbanos, obligando a los comercios a blindar sus escaparates.",
+      "En el ámbito internacional, un hecho sin precedentes ha tenido lugar cuando el Papa León XIV ha ejercido su derecho al voto por correo en las elecciones estadounidenses, mientras que Rusia ha vetado en la ONU una resolución sobre el Sáhara por considerarla parcial."
+    ],
+    "vocabulary": [
+      {
+        "term": "no se descarta que",
+        "translation": "on n'exclut pas que",
+        "context": "No se descarta que haya más víctimas mortales."
+      },
+      {
+        "term": "apuntar a que",
+        "translation": "laisser supposer que / indiquer que",
+        "context": "Los indicios apuntan a que lo ocurrido se debe a un fallo."
+      },
+      {
+        "term": "situación insostenible",
+        "translation": "situation intenable",
+        "context": "Hay dirigentes que consideran que su situación es insostenible."
+      },
+      {
+        "term": "exigir la renuncia",
+        "translation": "exiger la démission",
+        "context": "PP, Vox y los socios del gobierno exigen su renuncia."
+      },
+      {
+        "term": "blindar sus escaparates",
+        "translation": "protéger/blinder leurs vitrines",
+        "context": "Algunos comercios han blindado sus escaparates ante las protestas."
+      },
+      {
+        "term": "ejercer su derecho al voto",
+        "translation": "exercer son droit de vote",
+        "context": "Es el primer pontífice que ejerce su derecho al voto."
+      },
+      {
+        "term": "vetar una resolución",
+        "translation": "opposer son véto à une résolution",
+        "context": "Rusia ha vetado la resolución presentada por Estados Unidos."
+      }
+    ]
+  },
+  {
     "id": "17294549",
     "title": "Telediario 2 en 4' - 30/10/26",
     "date": "2026-10-30",
@@ -423,50 +478,6 @@
         "term": "despedir a alguien / el despido",
         "translation": "licencier quelqu'un / le renvoi, le licenciement",
         "context": "Una victoria en la prórroga... que ha supuesto el despido del técnico perico."
-      }
-    ]
-  },
-  {
-    "id": "17286396",
-    "title": "Telediario 2 en 4' -27/10/26",
-    "date": "2026-10-27",
-    "date_label": "27.10.2026",
-    "duration": "04.44 min",
-    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-27-10-26/17286396/",
-    "image": "https://img.rtve.es/v/17286396?w=800&amp;preview=1793132175125.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17286396.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17286396",
-    "transcript": "¿Qué tal?, buenas noches. Ayer quería ser presidente de Brasil y hoy se ha fugado de su pais. Flavio Bolsonaro vuela ya camino de Estados Unidos. Son fuentes del gobierno Trump las que confirman el viaje y algunos colaboradores del ultraderechista. Huye con el pasaporte que hace solo unas horas prometió entregar como le había pedido el Tribunal Supremo. No lo ha hecho. Bolsonaro, derrotado el domingo en las urnas por Lula, tiene una investigación abierta en su país por su presunta implicación en una trama de blanqueo de dinero con apuestas digitales. Ahora busca refugio, Cristina Olea, en los Estados Unidos de Trump. si lo proporcionaron cuentan con la simpatía de Trump y no sería el primero la familia que escapa a Estados Unidos. su hermano Eduardo vive aquí la exigencia de noticias Reuter pública que hoy Fabre evolucionado buena ya rubio rumbo a Estados Unidos. Después de horas de confusión con los después de negarse a reconocer su derrota y después de esa orden judicial que lo obliga a entregar sus pasaportes. En Israel, los colegios electorales están a punto de cerrar con una participación histórica, la más alta registrada nunca en el país, y Marc Campdelacreu con Netanyahu sembrando dudas sobre el proceso electoral. La junta electoral ignorado. proque muestra su nerviosismo. La participación ha sido altísima y él ha intentado movilizar al electorado de derechas porque sabe que puede perder estos comicios. Aquí, la precampaña electoral acaba de perfilar los dos bloques entre los que se juegan las elecciones del 29 de noviembre. Lo último es el pacto entre el PSC y los Comunes para que Frente Amplio no presente candidaturas al Senado en Girona, Lleida y Tarragona y concentrar así el voto en los socialistas. Del otro lado PP/VOX. Hoy Feijoo ha vuelto a defender su pacto con Abascal para la cámara alta como una reacción a los acuerdos del PSOE. El barrio de Deusto, en Bilbao, ha vuelto a la normalidad después de los disturbios de ayer. Los operarios municipales han pasado el día limpiando los restos de los vehículos y el mobiliario urbano calcinado. Diez de los detenidos eran menores. Esta tarde han quedado en libertad. El mercado laboral cerró el verano con más desempleados, la tasa de paro ha vuelto a superar el 10 %, y también con récord de personas trabajando, ya hay más de 22 700 000. Según la encuesta de Población Activa, entre julio y septiembre dos de cada tres nuevos contratos Ya tengo mi contrato. el profesor de inglés. los firmaron mujeres. Creo que tener algo asegúrese de su propiedad. es importante. Una puja muchísimo. Hoy salen a subasta cientos de objetos del Pazo de Meirás, que le regalaron a Franco y ha pertenecido a la familia durante más de 80 años. El Estado recuperó el inmueble, pero no reclamó su contenido. Por eso, el dinero de la venta irá a parar a los herederos del dictador. Tanto el presidente de la Liga, Javier Tebas, como el propio Mbappe, han pedido disculpas a China después de que el jugador bromeara sobre un meme suyo calificando de dictador a Mao. La reacción china al comentario de Mbappe ha sido inmediata pérdida de patrocinios y suspensión de retransmisiones de los partidos en la tele del gigante asiático. Y luego escucharemos la respuesta de Salvador Dalí a esta pregunta de Jesús Hermida. Seguro que les sorprende. Es una de las perlas de nuestro Archivo que recuperamos en este Día Mundial del Patrimonio Audiovisual.",
-    "summary": [
-      "Flavio Bolsonaro, derrotado en las urnas por Lula en Brasil, ha huido hacia Estados Unidos eludiendo una orden del Tribunal Supremo que le exigía la entrega de su pasaporte, en el contexto de una investigación por blanqueo de capitales.",
-      "En el ámbito de la política nacional española, el pacto entre el PSC y los Comuns frente a la coalición de PP y Vox consolida la polarización de bloques de cara a las próximas elecciones del 29 de noviembre.",
-      "El mercado laboral español registra un aumento estival del paro por encima del 10 %, coexistiendo no obstante con un récord histórico de ocupación que supera los 22,7 millones de trabajadores."
-    ],
-    "vocabulary": [
-      {
-        "term": "fugarse",
-        "translation": "s'enfuir, prendre la fuite",
-        "context": "Ayer quería ser presidente de Brasil y hoy se ha fugado de su pais."
-      },
-      {
-        "term": "una trama de blanqueo de dinero",
-        "translation": "un réseau de blanchiment d'argent",
-        "context": "tiene una investigación abierta en su país por su presunta implicación en una trama de blanqueo de dinero con apuestas digitales."
-      },
-      {
-        "term": "las urnas",
-        "translation": "les urnes, les élections",
-        "context": "Bolsonaro, derrotado el domingo en las urnas por Lula..."
-      },
-      {
-        "term": "la tasa de paro",
-        "translation": "le taux de chômage",
-        "context": "El mercado laboral cerró el verano con más desempleados, la tasa de paro ha vuelto a superar el 10 %."
-      },
-      {
-        "term": "mobiliario urbano calcinado",
-        "translation": "du mobilier urbain incendié",
-        "context": "Los operarios municipales han pasado el día limpiando los restos de los vehículos y el mobiliario urbano calcinado."
       }
     ]
   }
