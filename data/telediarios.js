@@ -1,5 +1,50 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17295201",
+    "title": "Telediario 2 en 4' - 31/10/26",
+    "date": "2026-10-31",
+    "date_label": "31.10.2026",
+    "duration": "01.04 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-31-10-26/17295201/",
+    "image": "https://img.rtve.es/v/17295201?w=800&amp;preview=01793477211149.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17295201.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17295201",
+    "transcript": "Las grúas han levantado hoy 5 vagones en homenaje a las 69 víctimas. Hay todavía 41 heridos hospitalizados. Disturbios en París y otras ciudades de Francia, pese al fuerte despliegue policial, en el tercer sábado consecutivo de protestas. Hay al menos 400 detenidos. En Alemania, enfrentamientos en Hamburgo o Frankfurt tras las manifestaciones de la generación Z por el coste de la vida y contra el servicio militar. Amplio despliegue policial y comercios blindados en algunas ciudades antes las convocatorias del movimiento radical Blocus. En Barcelona los Mossos y Guardia Urbana han identificado a mil personas. Y la justicia ha decretado prisión provisional al presunto cabezilla de la trama en España.",
+    "summary": [
+      "Un homenaje solemne con el izado de cinco vagones conmemora a las 69 víctimas de una catástrofe ferroviaria, mientras que 41 personas continúan ingresadas, evidenciando la magnitud todavía palpable de la tragedia.",
+      "Francia registra su tercer sábado consecutivo de disturbios con un balance de al menos 400 detenidos, reflejando la persistencia de una contestación social agudizada a pesar del masivo dispositivo policial desplegado.",
+      "Alemania experimenta enfrentamientos urbanos en ciudades como Hamburgo y Fráncfort a raíz de protestas de la generación Z contra el coste de la vida y el servicio militar, en un contexto de tensiones marcadas por la acción de movimientos radicales.",
+      "En el ámbito de la seguridad interior, Barcelona despliega un control exhaustivo con un millar de identificaciones conjuntas de los Mozos de Escuadra y la Guardia Urbana, mientras la justicia endurece su respuesta dictando prisión provisional contra el presunto cabecilla de una trama en España."
+    ],
+    "vocabulary": [
+      {
+        "term": "un fuerte despliegue policial",
+        "translation": "un important dispositif de police",
+        "context": "Disturbios en París y otras ciudades de Francia, pese al fuerte despliegue policial."
+      },
+      {
+        "term": "el coste de la vida",
+        "translation": "le coût de la vie",
+        "context": "En Alemania, enfrentamientos en Hamburgo o Frankfurt tras las manifestaciones por el coste de la vida."
+      },
+      {
+        "term": "comercios blindados",
+        "translation": "commerces aux vitrines protégées / barricadés",
+        "context": "Amplio despliegue policial y comercios blindados en algunas ciudades."
+      },
+      {
+        "term": "prisión provisional",
+        "translation": "détention provisoire",
+        "context": "Y la justicia ha decretado prisión provisional al presunto cabecilla."
+      },
+      {
+        "term": "el presunto cabecilla",
+        "translation": "le presumé chef de file / meneur",
+        "context": "Y la justicia ha decretado prisión provisional al presunto cabecilla de la trama en España."
+      }
+    ]
+  },
+  {
     "id": "17294970",
     "title": "Telediario 1 en 4' - 31/10/26",
     "date": "2026-10-31",
@@ -434,50 +479,6 @@ window.TELEDIARIO_DATA = [
         "term": "una orden errónea",
         "translation": "un ordre erroné",
         "context": "A continuación una orden errónea según el gobierno, del equipo humano de ADIF."
-      }
-    ]
-  },
-  {
-    "id": "17287313",
-    "title": "Telediario 1 en 4' -  28/10/26",
-    "date": "2026-10-28",
-    "date_label": "28.10.2026",
-    "duration": "00.46 min",
-    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-28-10-26/17287313/",
-    "image": "https://img.rtve.es/v/17287313?w=800&amp;preview=1793197465834.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17287313.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17287313",
-    "transcript": "Al menos 64 personas han muerto y más de 80 están heridas tras el choque de dos trenes de alta velocidad en la provincia de Toledo. Los servicios de emergencia siguen a esta hora con las labores de rescate. Se teme que el número de víctimas pueda aumentar. Los supervivientes cuentan que ha sido un golpe muy violento. El accidente se ha producido en la línea Madrid - Andalucía, la misma línea en la que hace solo 9 meses tuvo lugar la tragedia de Adamuz.",
-    "summary": [
-      "Un trágico accidente ferroviario de alta velocidad en la provincia de Toledo ha dejado al menos 64 víctimas mortales y más de 80 heridos, movilizando de urgencia a los servicios de rescate.",
-      "El siniestro, calificado de fortísimo impacto por los supervivientes, pone de relieve la vulnerabilidad de las infraestructuras de transporte en el eje neurálgico que conecta Madrid con Andalucía.",
-      "Este nuevo siniestro adquiere especial gravedad institucional al producirse en la misma línea ferroviaria donde, hace apenas nueve meses, tuvo lugar la catástrofe de Adamuz, reavivando el debate sobre la seguridad viaria."
-    ],
-    "vocabulary": [
-      {
-        "term": "el choque de trenes",
-        "translation": "la collision de trains / le choc frontal",
-        "context": "tras el choque de dos trenes de alta velocidad en la provincia de Toledo."
-      },
-      {
-        "term": "los servicios de emergencia",
-        "translation": "les services de secours / les urgences",
-        "context": "Los servicios de emergencia siguen a esta hora con las labores de rescate."
-      },
-      {
-        "term": "las labores de rescate",
-        "translation": "les opérations de sauvetage / les recherches",
-        "context": "Los servicios de emergencia siguen a esta hora con las labores de rescate."
-      },
-      {
-        "term": "temerse que",
-        "translation": "craindre que",
-        "context": "Se teme que el número de víctimas pueda aumentar."
-      },
-      {
-        "term": "tener lugar",
-        "translation": "avoir lieu / se produire",
-        "context": "la misma línea en la que hace solo 9 meses tuvo lugar la tragedia de Adamuz."
       }
     ]
   }
