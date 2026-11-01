@@ -1,5 +1,54 @@
 [
   {
+    "id": "17295285",
+    "title": "Telediario matinal en 4' - 1/11/26",
+    "date": "2026-11-01",
+    "date_label": "01.11.2026",
+    "duration": "04.30 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-1-11-26/17295285/",
+    "image": "https://img.rtve.es/v/17295285?w=800&amp;preview=01793514481923.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17295285.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17295285",
+    "transcript": "Buenos días, ya se han identificado a 56 de las 69 víctimas mortales del trágico accidente ferroviario de Urda y se espera que las otras 13 se completen en las próximas horas. 54 de las víctimas identificadas son españolas y dos extranjeras, una portuguesa y otra francesa. La mayoría de las identificaciones se han realizado por medio de huella dactilar y las otras cuatro por ADN. Mientras, aún hay 41 personas ingresadas en hospitales de Castilla-La Mancha y Madrid. Hoy van a continuar las labores de retirada de los vagones de los trenes accidentados el miércoles. La juez que lleva el caso está siguiendo en el lugar de los hechos estos trabajos y decidiendo qué material se necesita para la investigación Con tierra rellenan el camino que separa las vías de la carretera. Quieren facilitar el acceso a los camiones que se van a llevar el resto de vagones. Allí siguen trabajando las unidades caninas Están coordinados con las grúas para que una vez se están moviendo el amasijo de hierros, el perro y su guía entre con seguridad y puedan hallar algún tipo de resto biológico. Sobre el terreno la jueza revisa personalmente las pruebas.. que se almacenan en una finca cercana. La Guardia Civil ha detectado al menos dos nuevos drones grabando sin autorización. Hoy también ha sido el primer día en el que han recogido enseres personales. Entre ellos es probable que estén los de Almudena, única superviviente del vagón 8 de Lirio Agarramos la mano, ya nos la soltamos y empezamos a hacer turnos para extraer todo lo que podíamos de encima de ella Así recuerda su rescate el agente Salvador Correa. Ha hablado con su pareja y sabe que ella es una de los 41 heridos que siguen ingresados. 34 en hospitales de Castilla-La Mancha. Bajan también los pacientes en la UCI. La cantante Clara Montes ya ha salido Está en Neurocirugía, pero todo son buenas noticias. Mientras sigue la identificación de los cuerpos. Ya son 36 de los 69 fallecidos, entre ellos el de la compositora Marisa Machado. Otras familias siguen sin noticias Nos encontramos trabajando el inicio de un proceso de duelo con las personas, familiares que todavía continúan desaparecidos. En Urda.. esta mañana han celebrado una misa por todas las víctimas. Acompañar a las familias. Estamos con ellos. La Catedral de Toledo acogerá un funeral oficial en los próximos días La línea de alta velocidad Madrid-Andalucía es la única que sigue funcionando con el sistema LZB, pero está a punto de pasar al sistema unificado europeo que ya se utiliza en el resto de la red ferroviaria de nuestro país Los expertos insisten en que todos los sistemas son igual de fiables, aunque recomiendan revisar los protocolos Los expertos reconocen que en el sistema ferroviario español hay aspectos a mejorar. El mantenimiento por kilómetro de vía en España debería de llegar prácticamente a duplicarse. O revisar, dicen desde la Asociación de Ingenieros de Caminos... ...algunos de los protocolos que se aplican Mejorar sustancialmente los protocolos de actuación en situación degradada, es decir, cuando han fallado, que todo puede ocurrir en un momento determinado, los sistemas de control automático. Pero defienden la fiabilidad de los mecanismos de seguridad en sí. En el mundo existen diferentes sistemas para la alta velocidad. El de Japón es considerado todo un referente Pero Europa, recalca a los analistas, no se queda atrás. Aquí la normativa obliga a instalar el conocido como ERTMS. La vocación fue tener un sistema único, muy sofisticado, de gran calidad, para toda la red europea, de forma que un tren alemán pudiese circular por España un tren español pudiese circular por Francia cambiar los sistemas que tiene cada país por el rtms es caro y lleva tiempo. Francia o Alemania van más retrasados, pero en España, como refleja el mapa, solo queda una línea por actualizar. Las únicas líneas de alta velocidad que quedan por migrada es precisamente el corredor Sur, el Madrid-Sevilla, que es el primero que se abrió. Aún así, los expertos inciden en que el otro sistema, el LZB, también es seguro. Ha habido un fallo importante, pero no es un problema ni de la liberalización ni de los sistemas de diseño de los sistemas de seguridad. Encontrar dónde está ese fallo es ahora.. el reto de la investigación investigación",
+    "summary": [
+      "Un trágico accidente ferroviario en Urda, que ha dejado 69 víctimas mortales, mobiliza a los servicios de rescate y a la justicia para identificar los cuerpos restantes y esclarecer las causas del siniestro.",
+      "La investigación judicial cuenta con el apoyo de unidades caninas y avanza en la retirada de los vagones afectados, mientras la Guardia Civil vigila el perímetro y detecta el vuelo no autorizado de drones.",
+      "El debate sobre la seguridad ferroviaria pone el foco en la modernización de las infraestructuras, señalando que la línea Madrid-Andalucía es la última pendiente de migrar al sistema unificado europeo ERTMS."
+    ],
+    "vocabulary": [
+      {
+        "term": "huella dactilar",
+        "translation": "empreinte digitale",
+        "context": "La mayoría de las identificaciones se han realizado por medio de huella dactilar y las otras cuatro por ADN."
+      },
+      {
+        "term": "amasijo de hierros",
+        "translation": "amas de ferraille",
+        "context": "Están coordinados con las grúas para que una vez se estén moviendo el amasijo de hierros, el perro y su guía entre con seguridad."
+      },
+      {
+        "term": "enseres personales",
+        "translation": "effets personnels",
+        "context": "Hoy también ha sido el primer día en el que han recogido enseres personales."
+      },
+      {
+        "term": "situación degradada",
+        "translation": "situation dégradée",
+        "context": "Mejorar sustancialmente los protocolos de actuación en situación degradada, es decir, cuando han fallado los sistemas de control automático."
+      },
+      {
+        "term": "migrar",
+        "translation": "migrer / passer (technologiquement)",
+        "context": "Las únicas líneas de alta velocidad que quedan por migrar es precisamente el corredor Sur."
+      },
+      {
+        "term": "liberalización",
+        "translation": "libéralisation (économique)",
+        "context": "Ha habido un fallo importante, pero no es un problema ni de la liberalización ni de los sistemas de diseño."
+      }
+    ]
+  },
+  {
     "id": "17295201",
     "title": "Telediario 2 en 4' - 31/10/26",
     "date": "2026-10-31",
@@ -435,50 +484,6 @@
         "term": "recibir el alta",
         "translation": "sortir de l'hôpital / recevoir son congé médical",
         "context": "Los más leves... han recibido el alta"
-      }
-    ]
-  },
-  {
-    "id": "17287762",
-    "title": "Telediario 2 en 4' - 28/10/26",
-    "date": "2026-10-28",
-    "date_label": "28.10.2026",
-    "duration": "02.27 min",
-    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-28-10-26/17287762/",
-    "image": "https://img.rtve.es/v/17287762?w=800&amp;preview=1793218276991.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17287762.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17287762",
-    "transcript": "Hay muchas personas que rodaron por el vagón. El golpe fue duro. Sentíamos que nos habían chocado. Unas personas fueron los primeros que nos ocurrieron, que estaban en una camioneta. Fue bastante duro. -Es la cabeza del Renfe. Es un accidente muy grave. Qué tal, buenas noches. Nueve meses después, España vuelve a sufrir una tragedia ferroviaria en la misma línea de la red de alta velocidad. A esta hora, el balance, trágico balance, habla de, al menos, 68 muertos, un centenar de heridos y una enorme conmoción en toda España. Esta vez, el accidente ha ocurrido aquí en la provincia de Toledo, muy cerca del municipio de Urda. Y la que van a ver ahora es la señal en directo. Del punto exacto del accidente, donde continúan trabajando los servicios de emergencia hasta levantar los vagones siniestrados. Y el accidente ha ocurrido así: Un tren ave de Renfe que circulaba rumbo a Sevilla ha chocado por detrás con un tren Iryo detenido en la misma vía. La investigación apunta a dos fallos: el primero... la caída del sistema informático de seguridad, y a continuación una orden errónea según el gobierno, del equipo humano de ADIF que tomó el control de la circulación.",
-    "summary": [
-      "Un trágico accidente ferroviario en la provincia de Toledo ha segado la vida de al menos 68 personas y ha dejado un centenar de heridos, reviviendo el fantasma de la vulnerabilidad en la red de alta velocidad española.",
-      "La colisión por alcance entre un tren de Renfe con destino a Sevilla y un convoy de la compañía privada Iryo detenido en la misma vía evidencia una concatenación fatal de fallos técnicos y humanos.",
-      "Las primeras investigaciones apuntan a una disfunción del sistema informático de seguridad combinada con una directriz errónea por parte del equipo de control de circulación de ADIF, lo que pone en entredicho los protocolos de gestión ferroviaria."
-    ],
-    "vocabulary": [
-      {
-        "term": "la red de alta velocidad",
-        "translation": "le réseau à grande vitesse",
-        "context": "España vuelve a sufrir una tragedia ferroviaria en la misma línea de la red de alta velocidad."
-      },
-      {
-        "term": "un trágico balance",
-        "translation": "un bilan tragique",
-        "context": "A esta hora, el balance, trágico balance, habla de, al menos, 68 muertos."
-      },
-      {
-        "term": "los servicios de emergencia",
-        "translation": "les services de secours",
-        "context": "Continúan trabajando los servicios de emergencia hasta levantar los vagones siniestrados."
-      },
-      {
-        "term": "los vagones siniestrados",
-        "translation": "les wagons accidentés / endommagés",
-        "context": "Hasta levantar los vagones siniestrados."
-      },
-      {
-        "term": "una orden errónea",
-        "translation": "un ordre erroné",
-        "context": "A continuación una orden errónea según el gobierno, del equipo humano de ADIF."
       }
     ]
   }
