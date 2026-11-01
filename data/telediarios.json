@@ -1,5 +1,55 @@
 [
   {
+    "id": "17295588",
+    "title": "Telediario 1 en 4' - 01/11/26",
+    "date": "2026-11-01",
+    "date_label": "01.11.2026",
+    "duration": "02.55 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-01-11-26-1-cuatro-minutos-011126/17295588/",
+    "image": "https://img.rtve.es/v/17295588?w=800&amp;preview=01793541927521.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17295588.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17295588",
+    "transcript": "Siguen los trabajos en el lugar del accidente de tren. mientras los equipos de la Guardia Civil buscan restos de las víctimas mortales. Ya se han identificado 59 de los 69 fallecidos y en los hospitales de Madrid y Castilla-La Mancha siguen ingresados 41 heridos aunque ha bajado la cifra que sigue en la UCI. Buenas tardes. La juez del caso acaba de pedir a Adif y Renfe más recursos para agilizar la investigación. Cuatro días después nos siguen emocionando historias de supervivencia y de humanidad como la de José Luis. empezaron a caerse maletas y oír gritos. José Luis se rompe al recordar. Este policía nacional viajaba en uno de los trenes siniestrados. Salió de su vagón tras ayudar a evacuarlo y consiguió llegar hasta los coches más afectados, allí atendió a todos los heridos que pudo. El Consejo de Ministros aprobará el martes las ayudas para las víctimas del accidente. Por la tarde, Oscar Puente comparecerá en el Congreso y podría anunciar medidas para aumentar la seguridad en la alta velocidad. PP y Vox han anunciado que se personará en la causa que investiga el choque de trenes. Cerco a Blocus, el gran despliegue policial ha frustrado las convocatorias de ayer en varias ciudades. En Cataluña hay diez detenidos y más de 2.200 identificados. En Valencia también se han identificado 440 personas. En una semana se han detenido al menos a una docena de jóvenes relacionados con este movimiento radical. En Polonia se agrava el choque entre el presidente ultraconservador y el primer ministro liberal, Tusk, a cuenta del control del Tribunal Constitucional. La suspensión de su cúpula judicial, que se niega a reconocer a los nuevos jueces nombrados por el parlamento, genera protestas de seguidores del presidente. 1 de noviembre, Día de todos los Santos. España cumple con la tradición de recordar a sus seres queridos. Así lucen hoy los cementerios en el día del año con más visitas. Peregrinaje con flores a los camposantos. En el Telediario conoceremos a quienes voluntariamente cuidan de las tumbas olvidadas. Líderes, en octubre. Ha sido el mejor broche del 70 cumpleaños de TVE La 1, es la primera cadena del país. Imparables en información, deporte y entretenimiento, en todas las franjas de la parrilla. Este hito no sería posible sin su confianza. Gracias por estar al otro lado.",
+    "summary": [
+      "Cuatro días después del trágico accidente ferroviario que ha costado la vida a 69 personas, los equipos de emergencia prosigen con las labores de identificación de los fallecidos y la atención a los heridos, mientras la judicatura exige a Adif y Renfe mayores medios técnicos para esclarecer las causas del siniestro.",
+      "El Ejecutivo afronta una semana clave marcada por la inminente aprobación de ayudas económicas para los afectados y la comparecencia parlamentaria del ministro de Transportes, Óscar Puente, bajo la presión de los partidos de la oposición personados ya en la causa judicial.",
+      "Las fuerzas de seguridad han desarticulado con un amplio despliegue policial las movilizaciones del movimiento radical Blocus en Cataluña y Valencia, saldándose con una decena de detenciones y miles de identificaciones en el marco de la ofensiva contra los disturbios.",
+      "Polonia vive una escalada de tensión institucional entre el presidente ultraconservador y el primer ministro liberal Donald Tusk, centrada en el control del Tribunal Constitucional y la suspensión de su cúpula judicial, lo que augura una profunda crisis democrática."
+    ],
+    "vocabulary": [
+      {
+        "term": "agilizar la investigación",
+        "translation": "accélérer l'enquête",
+        "context": "La juez del caso acaba de pedir a Adif y Renfe más recursos para agilizar la investigación."
+      },
+      {
+        "term": "comparecer en el Congreso",
+        "translation": "comparaître devant le Congrès",
+        "context": "Por la tarde, Oscar Puente comparecerá en el Congreso y podría anunciar medidas."
+      },
+      {
+        "term": "personarse en la causa",
+        "translation": "se porter partie civile",
+        "context": "PP y Vox han anunciado que se personarán en la causa que investiga el choque de trenes."
+      },
+      {
+        "term": "despliegue policial",
+        "translation": "déploiement policier / dispositif de sécurité",
+        "context": "El gran despliegue policial ha frustrado las convocatorias de ayer en varias ciudades."
+      },
+      {
+        "term": "cúpula judicial",
+        "translation": "cépiale judiciaire / plus hautes instances de la justice",
+        "context": "La suspensión de su cúpula judicial genera protestas de seguidores del presidente."
+      },
+      {
+        "term": "cumplir con la tradición",
+        "translation": "respecter la tradition",
+        "context": "España cumple con la tradición de recordar a sus seres queridos."
+      }
+    ]
+  },
+  {
     "id": "17295285",
     "title": "Telediario matinal en 4' - 1/11/26",
     "date": "2026-11-01",
@@ -435,55 +485,6 @@
         "term": "la búsqueda de posibles víctimas",
         "translation": "la recherche d'éventuelles victimes",
         "context": "Continúa la búsqueda de posibles víctimas en el lugar de los hechos."
-      }
-    ]
-  },
-  {
-    "id": "17287903",
-    "title": "Telediario matinal en 4' - 29/10/2026",
-    "date": "2026-10-29",
-    "date_label": "29.10.2026",
-    "duration": "01.58 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-29-10-2026/17287903/",
-    "image": "https://img.rtve.es/v/17287903?w=800&amp;preview=01793217308665.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17287903.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17287903",
-    "transcript": "Buenos días, durante toda la madrugada, sin descanso, han seguido trabajando sobre los restos de los trenes en Urda, Toledo. La linea de alta velocidad Madrid- Sevilla vuelve a ser foco de una tragedia ferroviaria. Esta deja al menos 68 muertos y 180 heridos. Entre los restos se busca a más posibles víctimas. Se hace con drones térmicos y esperan que durante el día se incorporen los guías caninos. También ir avanzando en la investigación: saber qué pasó después de que el frenado automático dejase de funcionar. Para el ministro de Transportes, el accidente es inexplicable. Audios como este, a los que ha accedido RTVE, serán clave en esclarecer los hechos. Registran las conversaciones del centro de control de Atocha con los maquinistas. Al del convoy de Renfe, le dan la orden de reanudar el viaje a velocidad normal. La Guardia Civil ya ha hablado con los operarios de ADIF Ahora lo más importante es la identificación de los cuerpos, que comienza hoy, para poder dar respuesta a las familias. La Guardia Civil recoge sus muestras para cotejarlas. Además, hospitales de Castilla La Mancha y Madrid atienden a los heridos: una veintena están graves. Los más leves, algunos que salieron por su propio pie del tren, han recibido el alta. La tragedia ha frenado en seco la precampaña. La de todos los partidos excepto Vox. El presidente del Gobierno, que hoy vuelve a visitar la zona, dice que es inasumible tener dos accidentes de alta velocidad en un año. El PP le pide una investigación independiente.",
-    "summary": [
-      "Une grave catastrofe ferroviaria en Urda (Toledo) ha sacudido la línea de alta velocidad Madrid-Sevilla, dejando al menos 68 muertos y 180 heridos, lo que relanza el debate sobre la seguridad de las infraestructuras ferroviarias en España.",
-      "Las labores de rescate e investigación se centran en el uso de tecnología avanzada y en el análisis de las grabaciones del centro de control de Atocha para esclarecer por qué falló el sistema de frenado automático y determinar las responsabilidades de ADIF y Renfe.",
-      "El impacto político de la tragedia ha provocado la suspensión general de la precampaña electoral, con la excepción de Vox, mientras el Gobierno califica lo ocurrido de inaceptable ante las exigencias del Partido Popular de abrir una investigación independiente."
-    ],
-    "vocabulary": [
-      {
-        "term": "frenado automático",
-        "translation": "freinage automatique",
-        "context": "saber qué pasó después de que el frenado automático dejase de funcionar"
-      },
-      {
-        "term": "esclarecer los hechos",
-        "translation": "faire toute la lumière sur les faits",
-        "context": "Audios como este... serán clave en esclarecer los hechos"
-      },
-      {
-        "term": "dar luz verde",
-        "translation": "donner le feu vert (ordre donné au maquiniste)",
-        "context": "Al del convoy de Renfe, le dan la orden de reanudar el viaje"
-      },
-      {
-        "term": "frenar en seco",
-        "translation": "mettre un coup d'arrêt / stopper net",
-        "context": "La tragedia ha frenado en seco la precampaña"
-      },
-      {
-        "term": "cotejar muestras",
-        "translation": "comparer / croiser des échantillons (ADN)",
-        "context": "La Guardia Civil recoge sus muestras para cotejarlas"
-      },
-      {
-        "term": "recibir el alta",
-        "translation": "sortir de l'hôpital / recevoir son congé médical",
-        "context": "Los más leves... han recibido el alta"
       }
     ]
   }
