@@ -1,5 +1,54 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17295784",
+    "title": "Telediario 2 en 4' - 01/11/26",
+    "date": "2026-11-01",
+    "date_label": "01.11.2026",
+    "duration": "03.13 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-2-cuatro-minutos-01-11-26-2-cuatro-minutos-011126/17295784/",
+    "image": "https://img.rtve.es/v/17295784?w=800&amp;preview=01793563490089.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17295784.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17295784",
+    "transcript": "de los trenes siniestrados. Esta tarde se han levantado otros dos vagones. Mientras sigue el rastreo en busca de pruebas. La jueza del caso verifica sobre el terreno si se han reforzado los medios que solicitó para agilizar la investigación. Buenas noches. Urge tomar decisiones. El Consejo de Ministros aprobará este martes ayudas para los afectados. También el martes, Oscar Puente, comparecerá en el Congreso donde podría anunciar nuevas medidas de seguridad para la alta velocidad. Quien ya está tomando decisiones es Renfe. Según ha podido saber RTVE, la compañía ha enviado una instrucción a sus maquinistas recordándoles que ante un fallo de seguridad como el de Urda se debe retomar la marcha a una velocidad máxima de 40 kilómetros hora. Así, visiblemente emocionado, describe José Luis lo que se encontró después de conseguir salir de unos los trenes siniestrados en el que viajaba. Es agente de la policía nacional y ayudó a sacar y a atender a heridos de los vagones más afectados. Trágico accidente en Zamora. Cuatro miembros de una misma familia, un hombre, su hija y sus dos nietos menores han muerto al salirse de la vía el vehículo en el que viajaban. Se investigan las causas del suceso. En Serbia, las consecuencias de la tragedia han llegado a nuestros días. Recuerdan hoy a los 16 fallecidos en el derrumbe de la marquesina de una estación de tren hace ahora 2 años. Una tragedia que desencadenó protestas masivas contra la corrupción y la derrota en las urnas del gobierno de Vucic. Ahora la Lista de Estudiantes detrás de esas protestas debe formar Gobierno. Recta final de la campaña por las elecciones legislativas en EE.UU. Tras haber cancelado dos mitines este domingo, Trump da marcha atrás y viaja a Iowa y Kansas, estados clave para definir el control del Congreso. Los republicanos podrían perder ambas cámaras, según sondeos. Día de todos los Santos con los cementerios llenos: En ciudades y pueblos de toda España se ha recordado a los seres queridos con flores. Así han lucido hoy los Camposantos El resto del año, hay quien voluntariamente limpian y cuidan de las tumbas olvidadas. Otra manera de recordar a los que nos han dejado es dando vida a sus viejas fotografías. La inteligencia artificial permite darles calidad, color e incluso movimiento. La 1 se convierte este mes de octubre en la cadena líder el mejor regalo para el mes de nuestro 70 cumpleaños. Siete décadas que han alimentado un archivo único, premiado esta semana con una antena de oro. Uno de nuestros mayores tesoros en el que hoy nos perdemos para hablar con los que hicieron grande esta casa.",
+    "summary": [
+      "El trágico accidente ferroviario en Zamora y el posterior análisis de los protocolos de seguridad centran la actualidad nacional, obligando al Gobierno a aprobar ayudas urgentes y al ministro Óscar Puente a comparecer en el Congreso para anunciar nuevas medidas para la alta velocidad.",
+      "En el ámbito internacional, la crisis política en Serbia experimenta un giro histórico, ya que el movimiento estudiantil surgido tras las protestas contra la corrupción por el derrumbe de una estación de tren se encamina ahora a formar gobierno.",
+      "A pocos días de las elecciones legislativas en Estados Unidos, la campaña entra en su recta final con los republicanos en riesgo de perder el control de ambas cámaras según los sondeos, lo que ha obligado a Donald Trump a retomar sus mítines en estados clave."
+    ],
+    "vocabulary": [
+      {
+        "term": "siniestrado",
+        "translation": "accidenté / victime d'un sinistre",
+        "context": "El levantamiento de los vagones de los trenes siniestrados y el rastreo en busca de pruebas continúan bajo la supervisión judicial."
+      },
+      {
+        "term": "dar marcha atrás",
+        "translation": "faire marche arrière / se dédire",
+        "context": "Tras haber cancelado dos mitines este domingo, Trump da marcha atrás y viaja a Iowa y Kansas."
+      },
+      {
+        "term": "derrumbe",
+        "translation": "effondrement",
+        "context": "Recuerdan hoy a los 16 fallecidos en el derrumbe de la marquesina de una estación de tren."
+      },
+      {
+        "term": "derrota en las urnas",
+        "translation": "défaite électorale / dans les urnes",
+        "context": "Una tragedia que desencadenó protestas masivas contra la corrupción y la derrota en las urnas del gobierno de Vucic."
+      },
+      {
+        "term": "agilizar la investigación",
+        "translation": "accélérer l'enquête",
+        "context": "La jueza del caso verifica sobre el terreno si se han reforzado los medios que solicitó para agilizar la investigación."
+      },
+      {
+        "term": "sondeos",
+        "translation": "sondages",
+        "context": "Los republicanos podrían perder ambas cámaras, según sondeos."
+      }
+    ]
+  },
+  {
     "id": "17295588",
     "title": "Telediario 1 en 4' - 01/11/26",
     "date": "2026-11-01",
@@ -441,50 +490,6 @@ window.TELEDIARIO_DATA = [
         "term": "Diputación Permanente",
         "translation": "Commission permanente (organe du Congrès en période d'intersession)",
         "context": "El ministro de Transportes, Oscar Puente, comparecerá el martes en la Diputación Permanente del Congreso."
-      }
-    ]
-  },
-  {
-    "id": "17288730",
-    "title": "Telediario 1 en 4' -  29/10/26",
-    "date": "2026-10-29",
-    "date_label": "29.10.2026",
-    "duration": "01.09 min",
-    "url": "https://www.rtve.es/play/videos/telediario-1/45051-1-4-minutos-29-10-26/17288730/",
-    "image": "https://img.rtve.es/v/17288730?w=800&amp;preview=1793282690601.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17288730.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17288730",
-    "transcript": "Continúa la búsqueda de posibles víctimas Silencio y emoción contenida en la estación de Atocha y también en Santa Justa. Las estaciones de origen y destino de los dos trenes siniestrados. También silencio en el Congreso en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses. Silencio y emoción contenida en la estación de Atocha y también en Santa Justa. Las estaciones de origen y destino de los dos trenes siniestrados. También silencio en el Congreso en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses.",
-    "summary": [
-      "Un trágico accidente ferroviario, el segundo registrado en un lapso de nueve meses, ha conmocionado al país, provocando una profunda emoción en puntos clave como las estaciones de Atocha y Santa Justa.",
-      "Las principales instituciones del Estado, incluidas las cámaras parlamentarias, han guardado rigurosos minutos de silencio en memoria de las víctimas mortales de este siniestro que enluta a las ciudades de origen y destino de los convoyes.",
-      "Este nuevo revés para la seguridad en el transporte ferroviario plantea interrogantes acuciantes sobre la fiabilidad de las infraestructuras y la gestión de las redes de alta velocidad por parte de las autoridades competentes."
-    ],
-    "vocabulary": [
-      {
-        "term": "la emoción contenida",
-        "translation": "l'émotion contenue / retenue",
-        "context": "Silencio y emoción contenida en la estación de Atocha y también en Santa Justa."
-      },
-      {
-        "term": "un tren siniestrado",
-        "translation": "un train accidenté / impliqué dans une catastrophe",
-        "context": "Las estaciones de origen y destino de los dos trenes siniestrados."
-      },
-      {
-        "term": "en memoria de",
-        "translation": "en mémoire de / en hommage à",
-        "context": "También silencio en el Congreso en memoria de las víctimas..."
-      },
-      {
-        "term": "una tragedia ferroviaria",
-        "translation": "une tragédie ferroviaire",
-        "context": "...en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses."
-      },
-      {
-        "term": "la búsqueda de posibles víctimas",
-        "translation": "la recherche d'éventuelles victimes",
-        "context": "Continúa la búsqueda de posibles víctimas en el lugar de los hechos."
       }
     ]
   }
