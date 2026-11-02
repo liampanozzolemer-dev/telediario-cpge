@@ -1,5 +1,104 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17296531",
+    "title": "Telediario 1 en 4' - 02/11/26",
+    "date": "2026-11-02",
+    "date_label": "02.11.2026",
+    "duration": "03.30 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/cuatro-minutos-02-11-26/17296531/",
+    "image": "https://img.rtve.es/v/17296531?w=800&amp;preview=01793634136183.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17296531.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17296531",
+    "transcript": "Los trabajos seguirán sin descanso día y noche. Buenas tardes. El Gobierno aprobará mañana un paquete de ayudas para las víctimas que incluye el adelanto de indemnizaciones y bajas específicas. Pedro Sánchez promete una investigación rigurosa \"caiga quien caiga\", ha dicho. Feijóo culpa al Gobierno de una negligencia continuada. \"Nuestra principal obligación como gobierno de España es recuperar esa confianza quebrada por parte de los ciudadanos en la alta velocidad, cuanto antes y cueste lo que cueste\". \"No es que sea evidente que no son buenos gestores, es que dudo de que también sean buena gente, porque esta actitud es infame\". 66 de las 69 víctimas ya han podido ser identificadas. Los tres fallecidos que faltan son personas extranjeras y la identificación se hará cuando lleguen a España sus familiares. En los hospitales quedan 39 heridos, 11 de ellos están en la UCI. La alta velocidad con Andalucía sigue suspendida y eso se nota en las carreteras, sobre todo hoy en la vuelta del puente. Hoy es festivo en nueve comunidades y son muchos los que cogen el coche a esta hora para regresar. Veamos si hay problemas y dónde. DGT, Marina Ortueta. En estos momentos traje fijo complicado en las carreteras de la de sala, de Madrid. son muchos los viajeros que están optando por regresar a estas horas de comer y esto se nota la densidad del tráfico. hasta ahora especial atención altura de Rivas donde un accidente está generando varios kilómetros de retención. que ha sufrido un apagón total de madrugada y parte de la mañana tras una noche con una gran tormenta eléctrica. La Palma ha sufrido un apagón de casi 4 horas, desde las 06:40 de la mañana hasta las 10:30, tras una noche de fuertes tormentas. El primer corte de suministro parcial se producía las 04:00 de la madrugada, pero después ya fue generalizado afectando a 50.500 usuarios. Toda la isla\". Siete migrantes mueren en una embarcación rescatada en Lanzarote, solo dos han sido recuperados, los otros cinco cuerpos habrían sido arrojados en circunstancias que se están investigando. A bordo viajaban unas 130 personas. Solo hoy han llegado unas 300 personas migrantes a esa isla. Y hoy, parte de este Telediario lo hacemos desde Washington, donde mañana tendrá lugar una votación crucial, para este país, Estados Unidos, y para el resto del mundo. En este edificio, en el Capitolio, está la sede del Congreso que ahora mismo controlan los republicanos. Todas las encuestas pronostican una ola azul demócrata mañana, en las elecciones de medio mandato, y eso le puede complicar, y mucho, la vida a Trump en los dos años que le quedan de gobierno. Enseguida lo analizamos. Sobre las vías, ya solo quedan dos vagones del tren Iryo",
+    "summary": [
+      "El Gobierno español anuncia un paquete urgente de ayudas económicas y laborales para los afectados, mientras se intensifica el enfrentamiento político entre el Ejecutivo de Pedro Sánchez y el líder de la oposición Alberto Núñez Feijóo a raíz de la crisis de la alta velocidad y la gestión de las infraestructuras.",
+      "La crisis migratoria vuelve a situarse en el centro de la actualidad tras el trágico rescate de una patera en Lanzarote con un balance de siete muertos, en una jornada en la que cerca de trescientos migrantes han alcanzado las costas insulares, evidenciando la presión continuada en las fronteras exteriores.",
+      "A nivel internacional, la atención se desplaza hacia Estados Unidos ante unas elecciones de mitad de mandato (midterms) cruciales en el Capitolio, donde los sondeos apuntan a un posible avance demócrata que condicionaría profundamente los dos años restantes del mandato de Donald Trump."
+    ],
+    "vocabulary": [
+      {
+        "term": "un paquete de ayudas",
+        "translation": "un train de mesures / un plan d'aide",
+        "context": "El Gobierno aprobará mañana un paquete de ayudas para las víctimas."
+      },
+      {
+        "term": "caiga quien caiga",
+        "translation": "quoi qu'il en coûte / n'en déplaise à qui que ce soit",
+        "context": "Pedro Sánchez promete una investigación rigurosa \"caiga quien caiga\"."
+      },
+      {
+        "term": "una negligencia continuada",
+        "translation": "une incurie persistante / une négligence répétée",
+        "context": "Feijóo culpa al Gobierno de una negligencia continuada."
+      },
+      {
+        "term": "la vuelta del puente",
+        "translation": "le retour de pont (week-end prolongé)",
+        "context": "Eso se nota en las carreteras, sobre todo hoy en la vuelta del puente."
+      },
+      {
+        "term": "un corte de suministro",
+        "translation": "une coupure d'électricité / d'approvisionnement",
+        "context": "El primer corte de suministro parcial se producía las 04:00 de la madrugada."
+      },
+      {
+        "term": "las elecciones de medio mandato",
+        "translation": "les élections de mi-mandat (midterms)",
+        "context": "Todas las encuestas pronostican una ola azul demócrata mañana, en las elecciones de medio mandato."
+      }
+    ]
+  },
+  {
+    "id": "17295901",
+    "title": "Telediario matinal en 4' - 02/11/2026",
+    "date": "2026-11-02",
+    "date_label": "02.11.2026",
+    "duration": "03.28 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-02-11-2026/17295901/",
+    "image": "https://img.rtve.es/v/17295901?w=800&amp;preview=01793561723897.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17295901.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17295901",
+    "transcript": "(MÚSICA) Muy buenos días, ¿qué tal? Durante toda la madrugada los equipos de rescate han seguido con la retirada de los vagones de la zona cero del accidente de Urda. La jueza ha revisado el refuerzo de medios que solicitó. Se rastrea en busca de cualquier resto biológico. También siguen las labores forenses. Se han identificado 66 de los 69 fallecidos. Quedan los extranjeros. Primera decisión ya de Renfe tras la tragedia. Han enviado una instrucción a sus maquinistas para que han de cualquier fallo de seguridad, retomen la marcha a 40 kilómetros por hora. Los partidos retoman su agenda de precampaña. El Partido Popular reúne a su cúpula para redirigir la campaña. En el PSOE, Pedro Sánchez mantiene un perfil más institucional. La cita clave es mañana. Óscar Puente comparece en el Congreso. Oposición y socios siguen pidiendo su dimisión. En clave internacional, recta final de la campaña de las elecciones de Estados Unidos. Donald Trump ha estado en Iowa y Kansas, dos estados clave. Las encuestas vaticinan que pierde en la Cámara baja. Va a bloquear las iniciativas de la oposición para obligarles a negociar. El Real Madrid mantiene el pulso por LaLiga tras vencer en el Sardinero. -Sí, con un 0-3 en Santander. Siguen en su lucha. Abrió la cuenta Mbappé de penalti. Luego sumó al marcador Bellingham. Remató la fiesta madridista Diomande con este zapatazo. El Athletic se impuso en casa y ganó a la Real Sociedad. Marcó Iñaki Williams y Berenguer. También primera victoria del Valencia que venció 0-1 al Elche CF. Remontó el Getafe por tres a uno sobre el Sevilla. -En el tiempo, Mónica, buenos días. Estamos pendientes de Canarias. -Sí, se ha activado el aviso rojo. En algunos puntos, tenemos lluvias que han alcanzado 95 litros por metro cuadrado. Seguiremos pendientes de las islas más occidentales. En el caso de la península, todo está más estable. Se podrían activar chubascos en Cataluña.",
+    "summary": [
+      "La tragedia ferroviaria de Urda centra la atención informativa tras confirmarse la identificación de 66 de las 69 víctimas mortales, mientras Renfe endurece los protocolos de seguridad obligando a los maquinistas a limitar la velocidad a 40 km/h ante cualquier incidencia técnica.",
+      "En el ámbito político, los partidos reanudan una precampaña marcada por la inminente comparecencia del ministro Óscar Puente en el Congreso, donde la oposición y los socios parlamentarios intensifican las exigencias de dimisión.",
+      "A nivel internacional, la recta final de las elecciones en Estados Unidos acapara los titulares con Donald Trump recorriendo estados clave, en un contexto donde las encuestas anticipan un bloqueo legislativo en la Cámara baja.",
+      "La jornada deportiva destaca el pulso mantenido por el Real Madrid en LaLiga tras su victoria frente al Racing de Santander, consolidando su lucha en lo alto de la clasificación junto a los resultados destacados del Athletic y el Valencia."
+    ],
+    "vocabulary": [
+      {
+        "term": "la zona cero",
+        "translation": "l'épicentre / le ground zero",
+        "context": "los equipos de rescate han seguido con la retirada de los vagones de la zona cero del accidente"
+      },
+      {
+        "term": "la cúpula",
+        "translation": "la direction / l'état-major",
+        "context": "el Partido Popular reúne a su cúpula para redirigir la campaña"
+      },
+      {
+        "term": "perfilar un perfil institucional",
+        "translation": "adopter un profil institutionnel",
+        "context": "en el PSOE, Pedro Sánchez mantiene un perfil más institucional"
+      },
+      {
+        "term": "vaticinar",
+        "translation": "prédire / augurer",
+        "context": "las encuestas vaticinan que pierde en la Cámara baja"
+      },
+      {
+        "term": "mantener el pulso",
+        "translation": "maintenir le bras de fer / rester dans la course",
+        "context": "el Real Madrid mantiene el pulso por LaLiga tras vencer en el Sardinero"
+      },
+      {
+        "term": "un aviso rojo",
+        "translation": "une alerte rouge / une vigilance rouge",
+        "context": "se ha activado el aviso rojo debido a las fuertes lluvias en Canarias"
+      }
+    ]
+  },
+  {
     "id": "17295784",
     "title": "Telediario 2 en 4' - 01/11/26",
     "date": "2026-11-01",
@@ -397,99 +496,6 @@ window.TELEDIARIO_DATA = [
         "term": "posturas de supervivencia",
         "translation": "chances de survie",
         "context": "La Guardia Civil comunicaba a los familiares que las posturas de supervivencia serían mínimas."
-      }
-    ]
-  },
-  {
-    "id": "17289432",
-    "title": "Telediario matinal en 4' - 30/10/2026",
-    "date": "2026-10-30",
-    "date_label": "30.10.2026",
-    "duration": "02.12 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-30-10-2026/17289432/",
-    "image": "https://img.rtve.es/v/17289432?w=800&amp;preview=01793296688693.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17289432.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17289432",
-    "transcript": "Buenos días, casi 48 horas después del trágico accidente de Urda, decenas de personas siguen esperando encontrar a familiares y amigos que viajaban en alguno de los trenes siniestrados. Los forenses han realizado ya 48 autopsias. A cinco se les ha identificado. mientras se trabaja para sean más, los allegados reciben apoyo y atención en la casa sacerdotal de Toledo. Allí y en el hospital universitario de la ciudad han estado los reyes para mostrar su cariño y apoyo a las víctimas. \"Nuestro respeto, nuestro pesar, hacia las personas que han perdido la vida y hacia sus familias. Tendrá que estudiarse medidas que hay que adoptar para que esto, no vuelva a suceder\" Las grúas siguen levantando los restos de los vagones accidentados. En la zona cero hasta 800 efectivos de distintos cuerpos han trabajado sin descanso. Entre los 69 fallecidos confirmados está la exministra Fátima Bañez, la joven atleta Julieta Gallego o el inspector de Hacienda Antonio Montero. El AVE que impactó contra el Iryo circulaba entre los 160 y los 200 kilómetros por hora. Es uno de los datos que arroja la primera nota oficial de la autoridad independiente de investigación, cuyos técnicos seguirán hoy sobre el terreno. La velocidad concreta se sabrá tras analizar las cajas negras, que ya están en manos de la Guardia Civil. Sus agentes participan en la otra investigación en marcha: la judicial. Los partidos políticos centran su mirada en el ministro de Transportes, Óscar Puente. Hoy está previsto que ofrezca una rueda de prensa, la primera desde su comparecencia posterior al accidente. El Martes acudirá al Congreso. Según fuentes de Moncloa, Puente cuenta con el apoyo del presidente. Tanto sus socios de Sumar como el PP, piden asunción de responsabilidades",
-    "summary": [
-      "Un trágico accidente ferroviario en Urda, provocado por la colisión entre un tren de alta velocidad AVE y un convoy de Iryo, ha dejado al menos 69 víctimas mortales, entre ellas figuras públicas como la exministra Fátima Bañez, lo que ha movilizado a los reyes y a cerca de 800 efectivos de emergencia.",
-      "La investigación técnica, dirigida por la autoridad independiente y apoyada por el análisis de las cajas negras ya en poder de la Guardia Civil, apunta a que el tren circulaba a una velocidad de entre 160 y 200 km/h en el momento del impacto, mientras continúan las labores de identificación de los cuerpos.",
-      "La gestión de la crisis sitúa en el centro de la polémica política al ministro de Transportes, Óscar Puente, quien afronta una creciente presión por parte de los partidos de la oposición y de sus socios de gobierno de Sumar que exigen la asunción de responsabilidades políticas."
-    ],
-    "vocabulary": [
-      {
-        "term": "los allegados",
-        "translation": "les proches / les membres de l'entourage",
-        "context": "los allegados reciben apoyo y atención en la casa sacerdotal de Toledo."
-      },
-      {
-        "term": "la zona cero",
-        "translation": "l'épicentre / le site du drame",
-        "context": "En la zona cero hasta 800 efectivos de distintos cuerpos han trabajado sin descanso."
-      },
-      {
-        "term": "arrojar datos",
-        "translation": "fournir des données / révéler des éléments",
-        "context": "Es uno de los datos que arroja la primera nota oficial de la autoridad independiente..."
-      },
-      {
-        "term": "estar sobre el terreno",
-        "translation": "être sur le terrain",
-        "context": "...cuyos técnicos seguirán hoy sobre el terreno."
-      },
-      {
-        "term": "la asunción de responsabilidades",
-        "translation": "l'exercice de reddition de comptes / l'assumation des responsabilités politiques",
-        "context": "Tanto sus socios de Sumar como el PP, piden asunción de responsabilidades."
-      }
-    ]
-  },
-  {
-    "id": "17289287",
-    "title": "Telediario 2 en 4' - 29/10/26",
-    "date": "2026-10-29",
-    "date_label": "29.10.2026",
-    "duration": "03.39 min",
-    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-29-10-26/17289287/",
-    "image": "https://img.rtve.es/v/17289287?w=800&amp;preview=1793304501940.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17289287.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17289287",
-    "transcript": "Hay 50 heridos hospitalizados, 18 de ellos en la UCI. Sobre el terreno trabajan tres grúas tratando de recuperar los vagones siniestrados y tomando todo tipo de muestras. Entre los fallecidos confirmados está la exministra Fátima Bañez, el guardia civil Jose Manuel Chacón, la joven atleta Julieta Gallego, o el inspector de Hacienda, Antonio Montero. Han pasado 36 horas desde el accidente y las familias que aún esperan noticias de sus seres queridos reciben atención en la casa sacerdotal de Toledo, Loreto Barbón. -Buenas noches si, decenas de personas están esperando noticias de sus seres queridos, en esta casa ejercicio Toledo, aquí donde se ha constituido la atención a los familiares, personales profesional está atendiendo, aquí familiares de personas desaparecidas, Los Reyes han visitado esta tarde a los heridos ingresados en el Hospital Universitario de Toledo. A la salida, don Felipe ha tenido palabras de cariño para todas las familias afectadas. \"Nuestro respeto, nuestro pesar, hacia las personas que han perdido la vida y hacia sus familias. Tendrá que estudiarse medidas que hay que adoptar para que esto, no vuelva a suceder\" El ministro de Transportes, Oscar Puente, comparecerá el martes en la Diputación Permanente del Congreso. Tanto sus socios de Sumar como Feijóo, que ha visitado la zona, han pedido explicaciones y asunción de responsabilidades. A Puente le hemos visto hoy con Sanchez en el CECOPI, fuentes de Moncloa aseguran que cuenta con el apoyo del presidente. Y hoy precisamente hay huelga en RENFE convocada por el sindicato de maquinistas, SEMAF. La convocatoria era anterior al accidente y se ha mantenido. Según el sindicato ha tenido un seguimiento del 100% y según la empresa del 26 %. SEMAF ha convocado otros dos días de paro: el 10 y 12 de noviembre. Y los minutos de silencio se han multiplicado hoy por toda España y en todas las actividades. Así, han comenzado todos los partidos Así, han comenzado todos los partidos de esta tarde noche en la Copa del Rey. Tras la suspensión de los partidos ayer hoy todos han comenzado con esta muestra de respeto por las víctimas. Como en Lebrija o Calatayud. 500 efectivos de distintos cuerpos trabajan en la zona cero de la tragedia. Muchas horas y mucha dureza acumulan estos profesionales con los que hoy hemos estado. \"Te sientas, ves la televisión y te das cuenta de lo que ha sucedido\" -\"Detras del uniforme esta la persona y cuando nos quitamos el uniforme, todo aquello que nos ha impactado lo volvemos a revivir si no cuidamos nuestra salud mental\"",
-    "summary": [
-      "Un grave accidente ferroviario ocurrido en Toledo deja al menos 50 heridos hospitalizados y varias víctimas mortales confirmadas, entre ellas figuras públicas como la exministra Fátima Báñez, desatando una profunda conmoción nacional y movilizando a los servicios de emergencia.",
-      "La gestión de la crisis por parte del ministro de Transportes, Óscar Puente, es fuertemente cuestionada por la oposición y sus socios de gobierno, quienes exigen responsabilidades políticas y su comparecencia urgente en el Congreso.",
-      "La huelga convocada por el sindicato de maquinistas SEMAF en RENFE, con un seguimiento muy dispar según las fuentes, coincide en el tiempo con la tragedia y añade tensión social, mientras se multiplican los minutos de silencio en todo el país."
-    ],
-    "vocabulary": [
-      {
-        "term": "asunción de responsabilidades",
-        "translation": "imputation ou prise de responsabilités (politiques)",
-        "context": "Tanto sus socios de Sumar como Feijóo han pedido explicaciones y asunción de responsabilidades."
-      },
-      {
-        "term": "paro",
-        "translation": "grève, arrêt de travail",
-        "context": "SEMAF ha convocado otros dos días de paro: el 10 y 12 de noviembre."
-      },
-      {
-        "term": "zona cero",
-        "translation": "épicentre d'une catastrophe, zone zéro",
-        "context": "500 efectivos de distintos cuerpos trabajan en la zona cero de la tragedia."
-      },
-      {
-        "term": "seguimiento",
-        "translation": "taux de participation (à une grève)",
-        "context": "Según el sindicato ha tenido un seguimiento del 100% y según la empresa del 26 %."
-      },
-      {
-        "term": "pesar",
-        "translation": "chagrin, peine, condoléances",
-        "context": "Nuestro respeto, nuestro pesar, hacia las personas que han perdido la vida."
-      },
-      {
-        "term": "Diputación Permanente",
-        "translation": "Commission permanente (organe du Congrès en période d'intersession)",
-        "context": "El ministro de Transportes, Oscar Puente, comparecerá el martes en la Diputación Permanente del Congreso."
       }
     ]
   }
