@@ -1,5 +1,60 @@
 [
   {
+    "id": "17297902",
+    "title": "Telediario 1 en 4' -  03/11/26",
+    "date": "2026-11-03",
+    "date_label": "03.11.2026",
+    "duration": "05.00 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-03-11-26/17297902/",
+    "image": "https://img.rtve.es/v/17297902?w=800&amp;preview=1793714677622.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17297902.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17297902",
+    "transcript": "las 69 víctimas del accidente ferroviario de Urda en Toledo La Guarda Civil ha realizado una nueva batida, la última, para localizar restos biológicos en la zona Las vías ya están despejadas después de que los equipos de emergencia hayan retirado ya todos los vagones de los trenes siniestrados Buenas tardes. El Gobierno ha aprobado un paquete de ayudas a las víctimas de Urda por valor de 30 millones y reforzará la seguridad: un segundo controlador supervisará las órdenes a los maquinistas y habrá menos trenes en la línea Madrid-Sevilla hasta que se instale el nuevo sistema de seguridad. El ministro Puente también ha anunciado que se blindará el descanso de los controladores y se reforzará la plantilla. En dos horas, tendrá que escuchar en el Congreso a la oposición y a los socios del gobierno exigiendo su dimisión. Almudena Guerrero \"Yo no he tomado ninguna decisión que haya contribuido a causar este daño, no he omitido la toma de ninguna decisión política que haya contribuido a causar este daño y cuando he tenido que responder estaba en mi puesto de trabajo y he respondido como estoy haciendo hoy, dando la cara, sin esconderme\" Feijóo pide a los sindicatos desconvocar la huelga del 11 de noviembre por el accidente de Urda. Antes eran comprensibles de nueve muertos después es un grave error. Los sindicatos lo rechazan. Dicen que ahora hay más razones para ir a la huelga porque se necesita invertir más en servicios públicos. El otro gran foco informativo está hoy en Estados Unidos, donde ya han abierto los centros de votaciones de unas elecciones de medio mandato cruciales para Trump. En Washington está para contárnoslo Alejandra Herranz Igualmente también el del Senado. Unas elecciones legislativas que son también de alguna manera un plebiscito a los dos primeros años del presidente. ahora mismo tiene la popularidad por los suelos. los primeros colegios electorales en este país han abierto muy temprano. Algunos a las 5:00 de la mañana estamos viendo imágenes en directo de algunos de ellos. De momento pocos votantes pero esta mañana ya había colas en algunos de ellos. Sabemos que el voto anticipado abatido ya récord. Luto en el fútbol español por la muerte de Jesús de Miguel. El delantero del Tenerife no ha podido superar las graves lesiones sufridas tras el violentísimo choque con el portero del Andorra. La conmoción es total. Melania Valencia. Homicidio imprudente contra el portero del Andorra. Se ha suspendido los partidos de liga previstos para hoy. Desalojada la acampada de la Puerta del Sol esta madrugada tras 38 días de protesta. Más de 300 personas permanecían todavía en la plaza cuando la policía ha comenzado a desmantelar las tiendas. Hay 2 detenidos. En libertad vigilada dos chicas menores detenidas por su presunta relación con los saqueos y disturbios de Blocus en Barcelona. RTVE accede al auto de prisión de otro arrestado. Tenía en su casa dos catanas y arma de fuego. El frío irrumpe con fuerza en España. una masa de aire polar nos ha metido de lleno en el invierno, con termómetros desplomados y heladas nocturnas. \"De estar antes de ayer con 25 grados a hoy bajo cero\". \"Vamos paulatinamente metiéndonos en el frío\". \"Tendrá que venir frío, hemos tenido muchos meses de calor\".",
+    "summary": [
+      "El Gobierno ha aprobado un paquete de ayudas de 30 millones de euros para las víctimas del trágico accidente ferroviario de Urda en Toledo y ha anunciado medidas estrictas de seguridad, incluyendo la duplicidad de controladores y la reducción temporal de frecuencias en la línea Madrid-Sevilla.",
+      "El ministro de Transportes, Óscar Puente, afronta una intensa presión política en el Congreso por parte de la oposición y de los socios parlamentarios que exigen su dimisión, mientras el líder del PP, Alberto Núñez Feijóo, ha solicitado sin éxito a los sindicatos la desconvocatoria de la huelga general prevista para el 11 de noviembre.",
+      "Estados Unidos celebra unas elecciones de medio mandato cruciales que se configuran como un plebiscito sobre la gestión de la administración Trump, marcada por unos índices de popularidad muy bajos y récords históricos de voto anticipado.",
+      "El fútbol español se encuentra de luto tras el fallecimiento del delantero del Tenerife Jesús de Miguel a causa de las graves lesiones sufridas en un violento choque durante un encuentro, lo que ha motivado la suspensión de los partidos de liga previstos para hoy y la apertura de diligencias por homicidio imprudente contra el guardameta del Andorra."
+    ],
+    "vocabulary": [
+      {
+        "term": "dar la cara",
+        "translation": "assumer ses responsabilités / faire face",
+        "context": "respondiendo como estoy haciendo hoy, dando la cara, sin esconderme"
+      },
+      {
+        "term": "elecciones de medio mandato",
+        "translation": "élections de mi-mandat (midterms)",
+        "context": "unos elecciones de medio mandato cruciales para Trump"
+      },
+      {
+        "term": "un plebiscito",
+        "translation": "un plébiscite / un test de légitimité",
+        "context": "Unas elecciones legislativas que son también de alguna manera un plebiscito a los dos primeros años del presidente"
+      },
+      {
+        "term": "voto anticipado",
+        "translation": "vote par anticipation",
+        "context": "Sabemos que el voto anticipado abatido ya récord"
+      },
+      {
+        "term": "homicidio imprudente",
+        "translation": "homicide involontaire",
+        "context": "Homicidio imprudente contra el portero del Andorra"
+      },
+      {
+        "term": "libertad vigilada",
+        "translation": "liberté surveillée",
+        "context": "En libertad vigilada dos chicas menores detenidas por su presunta relación con los saqueos"
+      },
+      {
+        "term": "masas de aire polar",
+        "translation": "masses d'air polaire / vague de froid",
+        "context": "una masa de aire polar nos ha metido de lleno en el invierno"
+      }
+    ]
+  },
+  {
     "id": "17296737",
     "title": "Telediario 2 en 4' - 02/11/26",
     "date": "2026-11-02",
@@ -442,61 +497,6 @@
         "term": "vetar una resolución",
         "translation": "opposer son véto à une résolution",
         "context": "Rusia ha vetado la resolución presentada por Estados Unidos."
-      }
-    ]
-  },
-  {
-    "id": "17294549",
-    "title": "Telediario 2 en 4' - 30/10/26",
-    "date": "2026-10-30",
-    "date_label": "30.10.2026",
-    "duration": "04.01 min",
-    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-30-10-26/17294549/",
-    "image": "https://img.rtve.es/v/17294549?w=800&amp;preview=1793391111735.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17294549.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17294549",
-    "transcript": "Y en el puesto de mando de la emergencia, el presidente del Gobierno ha dicho hoy que la confianza en el sistema de alta velocidad está quebrada y que no solo hay que diagnosticar lo ocurrido sino ofrecer soluciones. La presión sobre el ministro de Transportes es muy alta alta desde casi todos los partidos políticos. Pero el PP hoy ya va más allá y apunta al presidente del Gobierno. \"Quien lo ha nombrado y lo ha mantenido, con más motivo. Si no dimiten ellos, los dimitiremos en las urnas\" -\"Lo que sí hemos trasladado a Moncloa es, que esa dimisión se tiene que producir lo antes posible\". Esta tarde han encontrado nuevos restos biológicos en la zona del accidente, así que los rastreos van a continuar. Alicia Velilla. Van a continuar porque todavía quedan vagones por retirar. y ahora mismo es de noche. los trabajos se han causado. continuará mañana por la mañana. \"Todavía no se han podido levantar todos los vagones que estaban accidentados. Hay que esperar que sigan levantando vagones, por si se siguen encontrando restos. No se sabe si van a aparecer más o no\". La cifra confirmada de fallecidos se mantiene en 69 personas aunque no se descarta que haya más. Hoy, cinco familias han recibido la mejor noticia, los seres queridos que buscaban están vivos. Pero, Loreto Barbón, muchos otros siguen buscando. La toma de huellas dactilares, proceso que toma su tiempo, y la espera se hace cada vez más complicadas, que no tienen noticia de sus seres queridos. Y hoy ya desfilan ante nuestro ojos las vidas truncadas en los trenes, la imagen y la biografía de quienes han perdido la vida en esta catástrofe. 71 personas han recibido ya el alta médica y 43 están ingresadas en diferentes hospitales. Marta Lobera, los sanitarios cuentan que la situación empieza a normalizarse en las Urgencias. Nos cuentan además, que precisamente se está empezando a notar la presión en la unidad de cuidados intensivos, aquí en el hospital universitario de Toledo. hay personas ingresadas como hay ocho de ellas permanecen en la UCI la Policía ha detenido en Valencia al presunto líder de Blocus, el grupo que convoca saqueos y provoca disturbios en España. Ya hay, en total, diez detenidos. Los establecimientos en las calles más comerciales de Barcelona o Madrid se protegen, como ven, con grandes tablones de madera delante las cristaleras de sus escaparates. Sólo quedan 4 días para las elecciones de medio mandato y Trump trata de remontar las encuestas, que apuntan a una derrota de su partido en la Cámara de Representantes. Quien ya ha votado por correo es el papa, que es estadounidense.",
-    "summary": [
-      "El presidente del Gobierno ha reconocido la quiebra de la confianza ciudadana en el sistema de alta velocidad tras un trágico accidente ferroviario, lo que ha desatado una intensa presión política por parte de la oposición que exige dimisiones inmediatas al Ejecutivo.",
-      "Las labores de rescate e identificación continúan en el lugar del siniestro tras el hallazgo de nuevos restos biológicos, mientras las autoridades sanitarias gestionan la atención a los heridos y el difícil proceso de duelo y localización para las familias afectadas.",
-      "Las autoridades policiales han detenido en Valencia al presunto líder del grupo Blocus, vinculado a la convocatoria de saqueos y disturbios, en un contexto de creciente tensión que lleva a los comercios de grandes ciudades como Madrid y Barcelona a blindar sus escaparates.",
-      "A pocos días de las elecciones de mitad de mandato en Estados Unidos, Donald Trump intensifica sus esfuerzos para revertir unos sondeos desfavorables en la Cámara de Representantes, mientras trasciende que el papa, de nacionalidad estadounidense, ya ha ejercido su derecho al voto por correo."
-    ],
-    "vocabulary": [
-      {
-        "term": "la quiebra de la confianza",
-        "translation": "la rupture / l'effondrement de la confiance",
-        "context": "la confianza en el sistema de alta velocidad está quebrada"
-      },
-      {
-        "term": "exigir la dimisión",
-        "translation": "exiger la démission",
-        "context": "esa dimisión se tiene que producir lo antes posible"
-      },
-      {
-        "term": "vidas truncadas",
-        "translation": "des vies brisées / fauchées",
-        "context": "desfilan ante nuestro ojos las vidas truncadas en los trenes"
-      },
-      {
-        "term": "la toma de huellas dactilares",
-        "translation": "le relevé des empreintes digitales",
-        "context": "La toma de huellas dactilares, proceso que toma su tiempo"
-      },
-      {
-        "term": "el alta médica",
-        "translation": "la sortie de l'hôpital / l'autorisation de sortie médicale",
-        "context": "71 personas han recibido ya el alta médica"
-      },
-      {
-        "term": "los disturbios",
-        "translation": "les émeutes / les troubles à l'ordre public",
-        "context": "el grupo que convoca saqueos y provoca disturbios en España"
-      },
-      {
-        "term": "las elecciones de medio mandato",
-        "translation": "les élections de mi-mandat (midterms)",
-        "context": "Sólo quedan 4 días para las elecciones de medio mandato"
       }
     ]
   }
