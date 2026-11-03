@@ -1,5 +1,55 @@
 [
   {
+    "id": "17296737",
+    "title": "Telediario 2 en 4' - 02/11/26",
+    "date": "2026-11-02",
+    "date_label": "02.11.2026",
+    "duration": "04.06 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/cuatro-minutos-02-11-26/17296737/",
+    "image": "https://img.rtve.es/v/17296737?w=800&amp;preview=01793649957934.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17296737.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17296737",
+    "transcript": "los últimos vagones que quedaban sobre las vías en Urda. Eran los del tren Iryo que no llegaron a descarrillar. Con las vías vacías ya, se ha producido este homenaje a las víctimas. La Guardia Civil ha depositado en el tronco de una encina centenaria los ramos de flores que los vecinos han ido llevando a la zona del accidente. Hoy Iryo ha pedido a la Agencia Estatal de Seguridad Ferroviaria que sea de aplicación para todas las compañías que operan en España, el protocolo que RENFE ha hecho llegar a sus maquinistas: que si falla el sistema informático de seguridad se circule siempre a un máximo de 40 kms/hora, independientemente de que el control del tráfico lo asuma el centro de ADIF. Mañana el consejo de ministros aprobará un primer paquete de ayudas para los más de 500 afectados por el accidente Serán ayudas directas por un lado y un anticipo de las indemnizaciones que puedan recibir después de los procesos judiciales y las que corresponden al seguro de viajeros. \"La respuesta a esta tragedia nunca puede ser menos servicios públicos. Tiene que ser muchas más inversión y más cuidado de lo que es de todos\" Feijoo ha reunido hoy a los suyos ofreciéndose, como ejemplo, asegura, de gestión, rigor y experiencia. Y al criticar que no dimita Puente... decía esto. \"Ya no es que sea evidente que no son buenos gestores, es que dudo de que también sean buena gente\" Ya se ha identificado a 66 de los 69 fallecidos. Queda por conocer la identidad de tres personas, todas extranjeras. Mientras sigue ese trabajo, la mayoría de los heridos se recuperan en el hospital. Como Rafael, que viajaba en el vagón 8 del AVE, uno de los más afectados. Su hija Carmen no se mueve de su lado. \"De momento esta evoluciona a pasos agigantados. está todavia en la UCI es verdad que yo, no quiero cantar victoria tan rápido pero su evolución es inmensa\" Más de un centenar de supermercados de Bélgica, Suecia o Irlanda sufren una nueva oleada de ataques informáticos contra sus frigoríficos y congeladores. Los atacantes elevaron su temperatura por encima de los 50 grados y toda la comida se estropeó. La Unión Europea alerta de que este tipo de ciberataques pueden interrumpir servicios y afectar a empresas de todo el continente. Trump apura las últimas horas antes de que mañana se examine su gestión en las elecciones de medio mandato. Con la popularidad del presidente en mínimos y los precios disparados, los demócratas podrían hacerse con el control de la Cámara de Representantes y el Senado. Eso limitaría mucho a Trump, que se convertiría en lo que allí llaman un pato cojo. En cuanto al tiempo llegan cambios importantes. Mañana volverán las lluvias a buena parte del mediterráneo. Las nevadas a partir de los 1 500 metros de altitud, y van a seguir las precipitaciones en Canarias. Todo esto con un desplome térmico importante en buena parte del país. Y al final del Telediario volaremos con Pedro Almodóvar para hablar de su primera novela: \"El hombre que sólo escribía en aviones\". Son algunas de las palabras que su protagonista colecciona para no olvidar.",
+    "summary": [
+      "La operadora ferroviaria Iryo ha solicitado a la Agencia Estatal de Seguridad la generalización de un protocolo restrictivo de velocidad en caso de fallo informático, a raíz del trágico accidente de Urda que ha segado la vida de 69 personas y dejado más de quinientos afectados.",
+      "El líder de la oposición, Alberto Núñez Feijoo, ha reprochado con dureza la gestión gubernamental y la negativa del ministro Óscar Puente a dimitir, mientras el Consejo de Ministros se dispone a aprobar un primer paquete de ayudas directas y anticipos de indemnización.",
+      "En el plano internacional, la Unión Europea ha emitido una alerta tras una oleada de ciberataques contra sistemas de refrigeración en supermercados de varios países europeos, evidenciando la vulnerabilidad de las infraestructuras frente a sabotajes informáticos.",
+      "Estados Unidos afronta unas elecciones de mitad de mandato cruciales para la administración Trump, marcada por la caída de su popularidad y la carestía de la vida, con el riesgo inminente de que los demócratas controlen ambas cámaras y le reduzcan a la condición de 'pato cojo'."
+    ],
+    "vocabulary": [
+      {
+        "term": "descarrilar",
+        "translation": "dérailler",
+        "context": "Eran los del tren Iryo que no llegaron a descarrilar."
+      },
+      {
+        "term": "ayudas directas",
+        "translation": "aides directes",
+        "context": "Serán ayudas directas por un lado y un anticipo de las indemnizaciones..."
+      },
+      {
+        "term": "cantar victoria",
+        "translation": "chanter victooire / crier victoir (vendre la peau de l'ours)",
+        "context": "no quiero cantar victoria tan rápido pero su evolución es inmensa"
+      },
+      {
+        "term": "oleada de ataques",
+        "translation": "vague d'attaques",
+        "context": "...sufren una nueva oleada de ataques informáticos contra sus frigoríficos..."
+      },
+      {
+        "term": "pato cojo",
+        "translation": "canard boiteux (expression politique pour un président affaibli en fin de mandat ou sans majorité)",
+        "context": "Eso limitaría mucho a Trump, que se convertiría en lo que allí llaman un pato cojo."
+      },
+      {
+        "term": "desplome térmico",
+        "translation": "chute brutale des températures",
+        "context": "Todo esto con un desplome térmico importante en buena parte del país."
+      }
+    ]
+  },
+  {
     "id": "17296531",
     "title": "Telediario 1 en 4' - 02/11/26",
     "date": "2026-11-02",
@@ -447,55 +497,6 @@
         "term": "las elecciones de medio mandato",
         "translation": "les élections de mi-mandat (midterms)",
         "context": "Sólo quedan 4 días para las elecciones de medio mandato"
-      }
-    ]
-  },
-  {
-    "id": "17293794",
-    "title": "Telediario 1 en 4' - 30/10/26",
-    "date": "2026-10-30",
-    "date_label": "30.10.2026",
-    "duration": "04.02 min",
-    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-30-10-26-1-cuatro-minutos-301026/17293794/",
-    "image": "https://img.rtve.es/v/17293794?w=800&amp;preview=01793369463282.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17293794.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17293794",
-    "transcript": "\"Los indicios apuntan a que lo ocurrido, No era mi deber estar en el centro de mando aquel martes. Pero ahora sí que es mi deber estar al mando\". Hola, buenas tardes Óscar Puente descarta dimitir Dice que el presidente del Gobierno no se lo ha pedido y que confía en él para devolver la confianza en el sistema ferroviario español Moncloa y Ferraz cierran filas con el ministro aunque hay dirigentes que consideran que su situación es insostenible, Almudena Guerrero \"Hay una confianza quebrada en el sistema de alta velocidad Hay voces dentro del partido que d que consideran que debe asumir los consolida, hay voces en contrario, Sánchez ha insistido en que no es asumible, dos accidentes de este tipo en menos de un año. \"Hay una confianza quebrada en el sistema de alta velocidad en nuestro país. La labor del gobierno no es solamente hacer el diagnóstico, conocer cuáles son las causas, sino ofrecer soluciones\". Frente Amplio da un paso más y pide la dimisión de Puente. También lo hace el líder del Partido Popular, Núñez Feijóo, que acusa al Gobierno del accidente por no renovar un sistema de seguridad que, dicen, está obsoleto. \"Quien lo ha nombrado y lo ha mantenido con más motivo. Si no dimiten ellos, les dimitiremos en las urnas\". El operador que autorizó al AVE a retomar la marcha a una velocidad normal, se ha acogido a su derecho a no declarar ante la Guardia Civil. Puente ha explicado que había 16 controladores en la sala en el momento del accidente y que llevaban sólo dos horas trabajando. Y defiende que el Gobierno ha incrementado la plantilla. En la zona cero del siniestro, los investigadores judiciales y los técnicos siguen recogiendo pruebas, Raúl Rivera. Si y ya han sido retirados los de los coches, que cayeron por el terraplén, falta retirar el tercero, ha sido retirado el balcón número ocho de la B, en cada momento entran las patrullas caninas. Los forenses ya han realizado casi medio centenar de autopsias y hay 13 cuerpos identificados. Pero todavía son muchas las familias de desaparecidos que no tienen noticias de los suyos. Les han dicho que se preparen para lo peor, Lucía Jiménez. Si en la casa sacerdotal Toledo, la guardia civil comunicaba los familiares, que las posturas de supervivencia serían mínimas, porque el número de cuerpos de víctimas mortales, en la de Toledo coincidía con el de las denuncias registradas. \"Ayer había alguna remota posibilidad de que no estuviera identificado. Pero ahora son tan bajas las probabilidades que no merece la pena ni entenderlo\". Hay 70 denuncias de desaparecidos y 69 fallecidos confirmados. Aunque el presidente de Castilla-La Mancha no descarta que pueda aumentar el número de muertos. Las muestras de ADN están siendo cruciales para algunas de las identificaciones. 43 personas siguen ingresadas en los hospitales, 17 de ellas en unidades de cuidados intensivos. La mayoría está evolucionando de forma positiva.",
-    "summary": [
-      "El ministro de Transportes, Óscar Puente, descarta rotundamente dimitir tras el grave accidente ferroviario que ha conmocionado al país, a pesar de las crecientes presiones de la oposición y de sectores críticos dentro de su propio partido.",
-      "El Partido Popular y la coalición Frente Amplio exigen responsabilidades políticas directas al Ejecutivo, acusándole de negligencia por mantener obsoleto el sistema de seguridad de la red de alta velocidad.",
-      "Las labores de identificación de las víctimas continúan en la zona cero del siniestro y en la delegación forense, mientras las autoridades manejan una cifra de 69 fallecidos confirmados y decenas de heridos hospitalizados."
-    ],
-    "vocabulary": [
-      {
-        "term": "descartar dimitir",
-        "translation": "écarter toute démission",
-        "context": "Óscar Puente descarta dimitir dice que el presidente del Gobierno no se lo ha pedido."
-      },
-      {
-        "term": "cerrar filas",
-        "translation": "faire bloc / resserrer les rangs",
-        "context": "Moncloa y Ferraz cierran filas con el ministro aunque hay dirigentes que consideran insostenible su situación."
-      },
-      {
-        "term": "confianza quebrada",
-        "translation": "confiance brisée / ébranlée",
-        "context": "Hay una confianza quebrada en el sistema de alta velocidad en nuestro país."
-      },
-      {
-        "term": "acogerse a su derecho a no declarar",
-        "translation": "faire valoir son droit au silence",
-        "context": "El operador que autorizó al AVE se ha acogido a su derecho a no declarar ante la Guardia Civil."
-      },
-      {
-        "term": "incrementar la plantilla",
-        "translation": "augmenter les effectifs",
-        "context": "Puente ha explicado que había dieciséis controladores y defiende que el Gobierno ha incrementado la plantilla."
-      },
-      {
-        "term": "posturas de supervivencia",
-        "translation": "chances de survie",
-        "context": "La Guardia Civil comunicaba a los familiares que las posturas de supervivencia serían mínimas."
       }
     ]
   }
