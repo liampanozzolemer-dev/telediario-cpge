@@ -1,5 +1,54 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17299811",
+    "title": "Telediario 1 en 4' -  04/11/26",
+    "date": "2026-11-04",
+    "date_label": "04.11.2026",
+    "duration": "04.47 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-04-11-26/17299811/",
+    "image": "https://img.rtve.es/v/17299811?w=800&amp;preview=1793801143508.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17299811.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17299811",
+    "transcript": "Una semana después de la tragedia ferroviaria de Urda, en la zona cero han empezado a llevarse los primeros vagones, que seguirán bajo custodia judicial. El funeral por los 69 fallecidos será el día 12 en la catedral de Toledo. Los reyes han confirmado que asistirán. El presidente del Gobierno pone a Carlos Cuerpo al frente de Transportes tras la dimisión de Óscar Puente. Lo ha elegido, dice, por su enorme capacidad de gestión y talante. Sánchez también ha alabado la gestión del ya exministro. No todos los servidores públicos somos iguales, con su renuncia, Óscar ayuda a que España recupere le confianza, no sólo en nuestro sistema ferroviario, sino también en la dignidad política Buenas tardes. No habrá traspaso de cartera sino solo una delegación de funciones. Pedro Sánchez ha elegido un perfil técnico y mucho menos político que el de Puente para un relevo que se produce en plena precampaña. Un ministro de transportes de España, no puede continuar con dos accidentes de esta gravedad, en menos de un año. Puente sorprendió anoche al anunciar su dimisión tras comparecer en el Congreso. Su entorno insiste en que se lo comunicó minutos antes a Sánchez por Whatsapp. La oposición y los socios exigían su dimisión. Hoy Feijóo dice que Sánchez debería hacer lo mismo. Sánchez se queda. -Es un gesto de dignidad. -Lo mínimo que tenía que ocurrir. Apabullante victoria de los demócratas en las elecciones de mitad de mandato de EE. UU.. Las encuestas se quedaron cortas. Ha sido un resultado tan incontestable que el propio Trump, Alejandra Herranz, se ha rendido a la evidencia. Ha recibido un durísimo castigo en estas elecciones, ha aceptado su derrota. el hemos escuchado esta mañana, y los demócratas arrasan y lo hacen también en bastiones republicanos. Controlarán las dos cámaras legislativas en el Capitolio. Se pueden hacer muy difícil la vida a Trump. Le vamos a analizar con nuestra corresponsal en Washington, la ola azul demócrata, con victorias históricas. América ha vuelto. Así celebraba su victoria Hakeem Jeffries, que previsiblemente será el primer presidente afroamericano de la Cámara de Representantes. Y las elecciones de anoche nos dejan otros nombres muy simbólicos de congresistas y senadores o senadoras. Todos tienen en común que de una forma u otra, hacen historia, -Han sido unas elecciones que han roto varias barreras históricas. Por primera vez como un musulmán será senador. También habrá una mujer negra al frente de un Estado, un senador abiertamente homosexual y son sólo algunas de las victorias, que reflejan una diversidad inédita, en algunos de los cargos políticos, más importantes del país. El mercado laboral marca nuevo récord con más de 22 600 000 afiliados a la Seguridad Social. Pero octubre cerró con 43 000 parados más, la mayor subida para este mes desde 2020. Los expertos de Trabajo recomiendan subir el salario mínimo hasta los 1281 euros. Son 60 euros más al mes. Esta propuesta ya se ha empezado a negociar hoy con los agentes sociales para intentar llegar a un acuerdo. Y esta tarde comienza en Madrid la Cumbre Iberoamericana. Asisten diez jefes de Estado, entre ellos los presidentes de Argentina o Chile. Entre las grandes ausencias, los líderes de la izquierda latinoamericana, el brasileño Lula Da Silva o la mexicana Claudia Sheinbaum. El tiempo empieza a adecuarse al calendario. El frío aprieta y además de las temperaturas a la baja, la estampa es cada vez más invernal en buena de parte de España, la nieve ha llegado ya a algunas comunidades como Cantabria, donde hoy el termómetro ha caído a los tres bajo cero En Picos de Europa marcaban esta madrugada ocho bajo ceo.",
+    "summary": [
+      "La dimisión de Óscar Puente como ministro de Transportes, a raíz de la grave tragedia ferroviaria de Urda que costó la vida a 69 personas, ha obligado al presidente Pedro Sánchez a nombrar a Carlos Cuerpo. Este relevo de perfil eminentemente técnico busca aplacar las exigencias de la oposición y de los socios parlamentarios, devolviendo la confianza institucional en plena precampaña electoral.",
+      "Las elecciones de mitad de mandato (midterms) en Estados Unidos han supuesto una severa derrota para Donald Trump frente a una abrumadora 'ola azul' demócrata. El partido opositor ha conquistado el control de ambas cámaras en el Capitolio y ha pulverizado barreras históricas con la elección de perfiles diversos sin precedentes, augurando una cohabitación muy compleja para el tramo final del mandato presidencial.",
+      "En el plano socioeconómico, España registra un récord histórico de afiliación a la Seguridad Social superando los 22,6 millones de cotizantes, a pesar de que el paro repuntó en octubre en 43 000 personas. Paralelamente, los expertos del Ministerio de Trabajo instan a elevar el salario mínimo interprofesional hasta los 1281 euros mensuales, una medida ya sometida a negociación con los agentes sociales."
+    ],
+    "vocabulary": [
+      {
+        "term": "la tragedia ferroviaria",
+        "translation": "la catastrophe ferroviaire",
+        "context": "Una semana después de la tragedia ferroviaria de Urda, en la zona cero han empezado a llevarse los primeros vagones."
+      },
+      {
+        "term": "la dimisión",
+        "translation": "la démission",
+        "context": "El presidente del Gobierno pone a Carlos Cuerpo al frente de Transportes tras la dimisión de Óscar Puente."
+      },
+      {
+        "term": "el relevo",
+        "translation": "le remplacement / la relève",
+        "context": "Pedro Sánchez ha elegido un perfil técnico y mucho menos político que el de Puente para un relevo que se produce en plena precampaña."
+      },
+      {
+        "term": "las elecciones de mitad de mandato",
+        "translation": "les élections de mi-mandat (midterms)",
+        "context": "Apabullante victoria de los demócratas en las elecciones de mitad de mandato de EE. UU."
+      },
+      {
+        "term": "la precampaña",
+        "translation": "la précampagne (électorale)",
+        "context": "Un relevo que se produce en plena precampaña."
+      },
+      {
+        "term": "los agentes sociales",
+        "translation": "les partenaires sociaux",
+        "context": "Esta propuesta ya se ha empezado a negociar hoy con los agentes sociales para intentar llegar a un acuerdo."
+      }
+    ]
+  },
+  {
     "id": "17298541",
     "title": "Telediario 2 en 4' - 03/11/26",
     "date": "2026-11-03",
@@ -11,9 +60,43 @@ window.TELEDIARIO_DATA = [
     "embed_url": "https://www.rtve.es/drmn/embed/video/17298541",
     "transcript": "Seis días después del accidente de Urda, el Gobierno ha aprobado un plan para mejorar la seguridad ferroviaria, con doble supervisión de las órdenes a los maquinistas y más controladores. En el Congreso de los diputados sigue la comparecencia del Ministro ante la diputación permanente de la Cámara, donde se ha guardado un minuto de silencio. Casi todos los partidos, menos el PSOE, han pedido, Macarena Bartolomé, la dimisión del ministro. -No ha convencido a los grupos, la mayoría quieren que asuma responsabilidades, el único que no pide la dimisión de EH Bildu. Los dos sistemas han tenido proporcionalmente, el mismo número de incidencias, y puente ha defendido la línea de alta velocidad a Andalucía. \"Esa línea no es una infraestructura ni abandonada ni olvidada\". -\"Su responsabilidad señor Puente no es explicar accidentes mortales, su responsabilidad es evitarlos\". -\"Que a nosotros las responsabilidades políticas se nos quedan muy cortas. Hablamos de juicios\". -\"Demuéstrele al PP que usted no es como ellos, no es como el señor Feijóo en Angrois\". -\"Que alguien se tiene que hacer cargo de esto\". -\"Le toca dimitir, como manifestación de la responsabilidad política\". Mañana se iniciará el traslado de los vagones siniestrados que siguen bajo custodia judicial en la zona cero. Los van a llevar a un centro de mantenimiento de Renfe en la provincia de Toledo. Y ya se ha comunicado a los familiares la identidad de todos los fallecidos. En los hospitales siguen ingresados 37 heridos, nueve de ellos en la UCI. Después de 38 días, la Puerta del Sol ha amanecido sin la acampada que se levantó tras el desahucio de Maricarmen, fallecida poco después. Esta madrugada, la Policía ha desalojado en apenas una hora a las más de 300 personas que seguían allí. Dos han sido detenidas. En EE. UU. votan a esta hora en unas elecciones legislativas que examinan los dos años de Trump en la Casa Blanca. Angela García Romero, -Lo hace en unas elecciones, en las que la administración Trump ha desplegado miles de observadores, para vigilar posibles irregularidades, y el Partido Demócrata, hay organizaciones civiles, que han movilizado miles de voluntarios, por temor a que los observadores, puedan presionar o intimidar a los votantes. Y hay conmoción en el mundo del fútbol por la muerte de Jesús de Miguel, el delantero del Tenerife que sufrió un paro cardíaco tras el choque brutal con el portero del equipo rival. Esta tarde, Zuleima García, sus compañeros del club lo han recordado en el césped en el que jugó su último partido. -Aquí a este lugar de homenaje, no sólo ha habido declaración institucional, peñas y aficionados guardaban un minuto de silencio, las puertas del estadio, y se ha alargado hasta ahora, en un día marcado por la tristeza y la conmoción. Y ya tenemos Premio Cervantes 2026. La escritora Cristina Fernández Cubas. He recibido la noticia hace poco, y la estoy digiriendo. El jurado destaca de ella su capacidad renovadora del cuento y de la literatura fantástica. Hemos estado con ella en su casa de Barcelona donde nos ha contado su sorpresa por el galardón más importante",
     "summary": [
-      "Résumé en cours de traitement."
+      "Seis días después del trágico accidente ferroviario de Urda, el Gobierno español ha anunciado un plan de choque para reforzar la seguridad mediante la doble supervisión de órdenes y el aumento de controladores; sin embargo, la oposición parlamentaria casi en su totalidad exige la dimisión del ministro de Transportes tras su comparecencia ante la Diputación Permanente.",
+      "En el plano social, la Policía ha desalojado de madrugada la acampada de la Puerta del Sol en Madrid, levantada desde hacía 38 días tras el desahucio y posterior fallecimiento de una vecina, un operativo que concluyó con dos detenidos y el desmantelamiento total de las protestas.",
+      "En la escena internacional, Estados Unidos celebra unas elecciones legislativas decisivas sobre los dos primeros años de mandato de Donald Trump, en un ambiente caldeado por el despliegue de observadores de la administración y la movilización masiva de voluntarios demócratas frente al temor a la intimidación de los votantes.",
+      "En el ámbito cultural, el Premio Cervantes 2026 ha sido otorgado a la escritora Cristina Fernández Cubas, galardonada por su capacidad renovadora del cuento y su aportación indispensable a la literatura fantástica en lengua española."
     ],
-    "vocabulary": []
+    "vocabulary": [
+      {
+        "term": "la comparecencia",
+        "translation": "la comparution / la audition parlamentaire",
+        "context": "En el Congreso de los diputados sigue la comparecencia del Ministro ante la diputación permanente."
+      },
+      {
+        "term": "asumir responsabilidades",
+        "translation": "endosser des responsabilités (politiques)",
+        "context": "No ha convencido a los grupos, la mayoría quieren que asuma responsabilidades políticas."
+      },
+      {
+        "term": "la custodia judicial",
+        "translation": "la mise sous séquestre / sous main de justicia",
+        "context": "Mañana se iniciará el traslado de los vagones siniestrados que siguen bajo custodia judicial en la zona cero."
+      },
+      {
+        "term": "el desahucio",
+        "translation": "l'expulsion locative / la saisie immobilière",
+        "context": "La acampada que se levantó tras el desahucio de Maricarmen, fallecida poco después."
+      },
+      {
+        "term": "desalojar",
+        "translation": "déloger / évacuer de fuerza",
+        "context": "Esta madrugada, la Policía ha desalojado en apenas una hora a las más de 300 personas que seguían allí."
+      },
+      {
+        "term": "el galardón",
+        "translation": "le prix / la distinction honorifique",
+        "context": "Hemos estado con ella en su casa de Barcelona donde nos ha contado su sorpresa por el galardón más importante."
+      }
+    ]
   },
   {
     "id": "17297902",
@@ -409,55 +492,6 @@ window.TELEDIARIO_DATA = [
         "term": "el presunto cabecilla",
         "translation": "le presumé chef de file / meneur",
         "context": "Y la justicia ha decretado prisión provisional al presunto cabecilla de la trama en España."
-      }
-    ]
-  },
-  {
-    "id": "17294970",
-    "title": "Telediario 1 en 4' - 31/10/26",
-    "date": "2026-10-31",
-    "date_label": "31.10.2026",
-    "duration": "02.06 min",
-    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-31-10-26-1-cuatro-minutos-311026/17294970/",
-    "image": "https://img.rtve.es/v/17294970?w=800&amp;preview=01793455383220.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17294970.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17294970",
-    "transcript": "Emoción y dolor en la misa funeral celebrada este mediodía en la Iglesia de Urda en recuerdo por los 69 fallecidos en la tragedia ferroviaria. Los vecinos se han volcado un día más con los afectados por la tragedia, han llenado el templo; los que no cabían lo han seguido por altavoces instalados fuera. El duelo se acentúa para los que todavía no han recibido la confirmación oficial de la muerte de los suyos. Buenas tardes. Tercer y último día de luto oficial en España conmocionada por la tragedia. Continúa el duelo y avanza la investigación. En la zona cero siguen los trabajos de la Guardia Civil. Esta mañana se han levantado algunos de los vagones de los trenes buscando más restos de algunas de las 69 víctimas mortales y se han empezado a recuperar enseres de los viajeros. Mientras, siguen ingresadas 34 personas en hospitales de Castilla-La Mancha y 7 en Madrid. Los centros de varias ciudades se blindan ante el riesgo de altercados esta tarde por la convocatorias de Blocus. Así se protegen los comercios para evitar saqueos como los de la semana pasada en Barcelona. Anoche se vivieron momento de tensión en la convocatoria que se organizó en Palma. Prisión provisional sin fianza para el supuesto fundador e impulsor de Blocus España, detenido ayer en Valencia. Francia blindada de nuevo ante el temor a otro fin de semana de violentas protestas. Hay 70 000 agentes desplegados y comercios protegidos. Dispositivo especial también en Alemania. Allí jóvenes de la generación Z llaman a movilizarse por el deterioro educativo o el alto coste de la vida. Vísperas de todos los santos, un fin de semana largo en muchas comunidades para hacer una escapada o para sumarse a una tradición que va a más en España. Halloween mueve cada vez más dinero.",
-    "summary": [
-      "España vive su tercer y último día de luto oficial marcado por la profunda emoción de la misa funeral celebrada en Urda en memoria de las 69 víctimas mortales de la catástrofe ferroviaria, mientras prosiguen las labores de rescate de enseres y la difícil identificación de los desaparecidos.",
-      "Varias ciudades españolas blindan sus centros comerciales ante el temor a disturbios y saqueos impulsados por convocatorias del movimiento radical Blocus, cuya presunta cúpula ya ha sido arrestada por las autoridades judiciales.",
-      "El contexto internacional refleja una creciente tensión social en vísperas del fin de semana, con un despliegue policial sin precedentes en Francia y protestas juveniles de la generación Z en Alemania contra el deterioro educativo y la carestía de la vida."
-    ],
-    "vocabulary": [
-      {
-        "term": "luto oficial",
-        "translation": "deuil national / officiel",
-        "context": "Tercer y último día de luto oficial en España conmocionada por la tragedia."
-      },
-      {
-        "term": "prisión provisional sin fianza",
-        "translation": "détention provisoire sans caution",
-        "context": "Prisión provisional sin fianza para el supuesto fundador e impulsor de Blocus España."
-      },
-      {
-        "term": "altercados",
-        "translation": "incidents / heurts / troubles",
-        "context": "Los centros de varias ciudades se blindan ante el riesgo de altercados esta tarde."
-      },
-      {
-        "term": "saqueos",
-        "translation": "pillages / saccages",
-        "context": "Para evitar saqueos como los de la semana pasada en Barcelona."
-      },
-      {
-        "term": "carencia de la vida / alto coste de la vida",
-        "translation": "coût de la vie élevé / cherté de la vie",
-        "context": "Jóvenes de la generación Z llaman a movilizarse por el deterioro educativo o el alto coste de la vida."
-      },
-      {
-        "term": "desplegados",
-        "translation": "déployés",
-        "context": "Hay 70 000 agentes desplegados y comercios protegidos."
       }
     ]
   }
