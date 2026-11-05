@@ -1,5 +1,56 @@
 [
   {
+    "id": "17302278",
+    "title": "Telediario 2 en 4' - 05/11/26",
+    "date": "2026-11-05",
+    "date_label": "05.11.2026",
+    "duration": "04.12 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-05-11-26/17302278/",
+    "image": "https://img.rtve.es/imagenes/telediario-1-cuatro-minutos-051126/1793909157341.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17302278.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17302278",
+    "transcript": "¿Qué tal? Buenas noches. El «caso Koldo» resucita en este mes de noviembre con dos patas informativas hoy. Primera pata: la UCO ha registrado hoy de nuevo la casa de José Luis Ábalos en Valencia y dependencias de ADIF en una operación bajo secreto de sumario por presunto amaño de contratos, tráfico de influencias y blanqueo. Se ha detenido por la mañana a seis personas, pero todas han quedado en libertad por la tarde tras la operación ordenada por el juez de la Audiencia Nacional Ismael Moreno. Segunda pata: Koldo García insiste desde la cárcel en que acordó con el abogado del PP un millón de euros a cambio de información para tumbar a Pedro Sánchez, algo que el Partido Popular niega tajantemente.\n\nPedro Sánchez y el presidente argentino Javier Milei han coincidido hoy cara a cara en la Cumbre Iberoamericana que se celebra en Madrid, estrechándose la mano de forma rápida y distante tras el saludo al rey. En el ámbito laboral y económico, el Gobierno se propone aprobar una subida del salario mínimo interprofesional (SMI) del 5,3 % para 2027, por encima de lo que recomendaban los expertos: quedará en 1.286 euros brutos mensuales en 14 pagas, 65 euros más al mes. Mientras tanto, en la zona cero del accidente ferroviario de Urda continúan los trabajos para retirar los vagones siniestrados.\n\nEn el plano internacional, una jornada de huelga general en Francia ha sacado a 600.000 personas a las calles para protestar por el alto coste de la vida y de la vivienda ante un gran despliegue policial. Asimismo, el goteo de amenazas híbridas sigue creciendo en Europa: al menos 25 vuelos —tres de ellos en el aeropuerto de Barajas— han recibido falsas amenazas de bomba, obligando a aterrizajes de urgencia e inspecciones. Finalmente, centenares de personas y la plantilla al completo del Tenerife han despedido en el municipio toledano de Navahermosa al futbolista Jesús de Miguel.",
+    "summary": [
+      "El «caso Koldo» cobra un nuevo impulso judicial tras una operación de la UCO ordenada por la Audiencia Nacional que ha incluido el registro del domicilio del exministro José Luis Ábalos y de dependencias de ADIF por presunto amaño de contratos y blanqueo, mientras Koldo García asegura desde prisión haber negociado con el PP información para derribar al Ejecutivo.",
+      "En el plano socioeconómico, el Gobierno español anuncia un incremento del salario mínimo interprofesional (SMI) del 5,3 % hasta alcanzar los 1.286 euros mensuales en 2027 —superando las recomendaciones de la comisión de expertos—, al tiempo que en Francia una huelga general moviliza a 600.000 ciudadanos contra la carestía de la vida y de la vivienda.",
+      "La Cumbre Iberoamericana de Madrid deja un frío y distante saludo protocolario entre Pedro Sánchez y el mandatario argentino Javier Milei, en una jornada europea marcada por una oleada de amenazas híbridas con falsos avisos de bomba en al menos 25 vuelos comerciales."
+    ],
+    "vocabulary": [
+      {
+        "term": "el amaño de contratos",
+        "translation": "le truquage de marchés publics",
+        "context": "La UCO ha registrado hoy de nuevo la casa de José Luis Ábalos en una operación por amaño de contratos y blanqueo."
+      },
+      {
+        "term": "el blanqueo",
+        "translation": "le blanchiment d'argent",
+        "context": "en una operación por amaño de contratos y blanqueo."
+      },
+      {
+        "term": "bajo secreto de sumario",
+        "translation": "sous le secret de l'instruction",
+        "context": "Esta nueva operación, bajo secreto de sumario, la ha ordenado el juez de la Audiencia Nacional."
+      },
+      {
+        "term": "tumbar a",
+        "translation": "faire tomber / renverser (un gouvernement)",
+        "context": "información a cambio de un millón de euros para tumbar a Sánchez."
+      },
+      {
+        "term": "el goteo de amenazas híbridas",
+        "translation": "la succession / le goutte-à-goutte de menaces hybrides",
+        "context": "Y el goteo de amenazas híbridas sigue creciendo en Europa."
+      },
+      {
+        "term": "el descalabro electoral",
+        "translation": "la débâcle / le revers électoral",
+        "context": "En Estados Unidos, el partido republicano busca culpables del descalabro electoral en las midterms."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17301584",
     "title": "Telediario 1 en 4' -  05/11/26",
     "date": "2026-11-05",
@@ -9,11 +60,46 @@
     "image": "https://img.rtve.es/v/17301584?w=800&amp;preview=01793887745556.jpg",
     "hls_url": "https://ztnr.rtve.es/ztnr/17301584.m3u8",
     "embed_url": "https://www.rtve.es/drmn/embed/video/17301584",
-    "transcript": "Nueva operación policial por el caso Koldo. para requerir información y detiene a seis personas. y un exmilitante del PSOE que hizo de conductor de Sánchez Buenas tardes. Esta nueva operación, bajo secreto de sumario, después de recibir un nuevo informe de la Guardia Civil, Aitor Lourido. -Tráfico de influencias lo que ha hecho es ver los pagos a terceros, o de crédito moneda. en lo que estarían alojadas esas presuntas comisiones, en un cortijo de la corrupción. Koldo García insiste desde la cárcel en que acordó con el abogado del PP El PP lo niega y acusa de mentir al exasesor de Ábalos. Pedro Sánchez y el argentino Javier Milei han coincidido hoy tras el saludo al rey, los dos se han estrechado la mano, de forma ráipida y distante, En su última visita a España, En la zona cero del accidente de Urda En una hora, el ministro Cuerpo, que acaba de asumir Transportes, que ha convocado una huelga para el próximo día 10. El salario mínimo subirá un 5,3 %, hasta los 1.286 euros, en 2027. Son 65 euros más al mes, En Estados Unidos, el partido republicano Trump no se responsabiliza de los resultados. Cree que la guerra de Irán les ha pasado factura. Al menos 25 vuelos en toda Europa han recibido amenazas de bomba, hasta ahora todas falsas, Hoy es la dolorosa despedida a Jesús de Miguel, El mundo del fútbol ha arropado a familiares y amigos del futbolista -como podéis ver imagen en directo, acaba de llegar a esta iglesia parroquial, el coche con el cuerpo delantero Jesús de Miguel, el funeral estaba previsto para las 3:00 de la tarde, hasta aquí se han desplazado numerosos representantes del fútbol, para mostrar el cariño y apoyo a la familia.",
+    "transcript": "Buenas tardes. Nueva operación policial por el caso Koldo: la UCO registra la casa del exministro José Luis Ábalos, acude a dependencias de ADIF para requerir información y detiene a seis personas, entre ellas un exmilitante del PSOE que hizo de conductor de Pedro Sánchez. Esta nueva operación, bajo secreto de sumario, la ha ordenado el juez de la Audiencia Nacional Ismael Moreno después de recibir un nuevo informe de la Guardia Civil sobre presunto tráfico de influencias, pagos a terceros y el uso de criptomonedas en las que estarían alojadas esas presuntas comisiones. Por su parte, Koldo García insiste desde la cárcel en que acordó con el abogado del PP un pacto, algo que el Partido Popular niega tajantemente acusando de mentir al exasesor de Ábalos.\n\nEn el ámbito diplomático, Pedro Sánchez y el presidente argentino Javier Milei han coincidido hoy en la Cumbre Iberoamericana que se celebra en Madrid; tras el saludo al rey, los dos se han estrechado la mano de forma rápida y distante. Mientras tanto, en la zona cero del accidente de Urda siguen los trabajos para retirar los vagones, y el nuevo ministro Carlos Cuerpo, que acaba de asumir la cartera de Transportes, afronta la huelga convocada para el próximo día 10.\n\nEn clave económica, el salario mínimo interprofesional subirá un 5,3 %, hasta los 1.286 euros mensuales en 2027, lo que supone 65 euros más al mes. En Estados Unidos, el Partido Republicano busca culpables del descalabro electoral en las midterms; Donald Trump no se responsabiliza de los resultados y cree que la guerra de Irán les ha pasado factura. Además, al menos 25 vuelos en toda Europa han recibido amenazas de bomba, hasta ahora todas falsas, obligando a aterrizajes de urgencia. Finalmente, hoy tiene lugar la dolorosa despedida al futbolista del Tenerife Jesús de Miguel, cuyo funeral reúne a numerosos representantes del mundo del fútbol para arropar a su familia.",
     "summary": [
-      "Résumé en cours de traitement."
+      "La Unidad Central Operativa (UCO) de la Guardia Civil despliega una nueva operación bajo secreto de sumario por el «caso Koldo», registrando el domicilio del exministro José Luis Ábalos y sedes de ADIF, además de practicar seis detenciones vinculadas al presunto cobro de comisiones mediante pagos a terceros y criptomonedas.",
+      "El Ejecutivo anuncia una subida del salario mínimo interprofesional (SMI) del 5,3 % para 2027 hasta situarlo en 1.286 euros mensuales (+65 euros), mientras el nuevo titular de Transportes, Carlos Cuerpo, asume la gestión de la crisis ferroviaria de Urda ante una convocatoria de huelga para el día 10.",
+      "En el terreno internacional, el encuentro entre Pedro Sánchez y Javier Milei en la Cumbre Iberoamericana de Madrid se salda con un saludo frío y distante, al tiempo que en Estados Unidos Donald Trump atribuye al conflicto con Irán el severo revés republicano en las elecciones de medio mandato."
     ],
-    "vocabulary": []
+    "vocabulary": [
+      {
+        "term": "bajo secreto de sumario",
+        "translation": "sous le secret de l'instruction",
+        "context": "Esta nueva operación, bajo secreto de sumario, después de recibir un nuevo informe de la Guardia Civil."
+      },
+      {
+        "term": "el tráfico de influencias",
+        "translation": "le trafic d'influence",
+        "context": "Tráfico de influencias lo que ha hecho es ver los pagos a terceros, o de criptomoneda."
+      },
+      {
+        "term": "estrecharse la mano",
+        "translation": "se serrer la main",
+        "context": "los dos se han estrechado la mano, de forma rápida y distante."
+      },
+      {
+        "term": "pasar factura",
+        "translation": "coûter cher / laisser des traces / se payer",
+        "context": "Cree que la guerra de Irán les ha pasado factura."
+      },
+      {
+        "term": "el descalabro electoral",
+        "translation": "la déroute / le naufrage électoral",
+        "context": "En Estados Unidos, el partido republicano busca culpables del descalabro electoral en las midterms."
+      },
+      {
+        "term": "arropar a",
+        "translation": "entourer / soutenir chaleureusement",
+        "context": "El mundo del fútbol ha arropado a familiares y amigos del futbolista."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Perquisitions UCO (affaire Koldo)"
   },
   {
     "id": "17300630",
@@ -62,7 +148,9 @@
         "translation": "la tête haute",
         "context": "Y el Betis cayó 2 - 1 en Dortmund con la cabeza bien alta."
       }
-    ]
+    ],
+    "importance": "important",
+    "importance_label": "Carlos Cuerpo aux Transports"
   },
   {
     "id": "17299811",
@@ -111,7 +199,9 @@
         "translation": "les partenaires sociaux",
         "context": "Esta propuesta ya se ha empezado a negociar hoy con los agentes sociales para intentar llegar a un acuerdo."
       }
-    ]
+    ],
+    "importance": "major",
+    "importance_label": "Démission d'Óscar Puente"
   },
   {
     "id": "17298541",
@@ -161,7 +251,9 @@
         "translation": "le prix / la distinction honorifique",
         "context": "Hemos estado con ella en su casa de Barcelona donde nos ha contado su sorpresa por el galardón más importante."
       }
-    ]
+    ],
+    "importance": "normal",
+    "importance_label": ""
   },
   {
     "id": "17297902",
@@ -216,7 +308,9 @@
         "translation": "masses d'air polaire / vague de froid",
         "context": "una masa de aire polar nos ha metido de lleno en el invierno"
       }
-    ]
+    ],
+    "importance": "important",
+    "importance_label": "Plan de sécurité ferroviaire"
   },
   {
     "id": "17296737",
@@ -266,7 +360,9 @@
         "translation": "chute brutale des températures",
         "context": "Todo esto con un desplome térmico importante en buena parte del país."
       }
-    ]
+    ],
+    "importance": "normal",
+    "importance_label": ""
   },
   {
     "id": "17296531",
@@ -315,7 +411,9 @@
         "translation": "les élections de mi-mandat (midterms)",
         "context": "Todas las encuestas pronostican una ola azul demócrata mañana, en las elecciones de medio mandato."
       }
-    ]
+    ],
+    "importance": "normal",
+    "importance_label": ""
   },
   {
     "id": "17295901",
@@ -365,7 +463,9 @@
         "translation": "une alerte rouge / une vigilance rouge",
         "context": "se ha activado el aviso rojo debido a las fuertes lluvias en Canarias"
       }
-    ]
+    ],
+    "importance": "normal",
+    "importance_label": ""
   },
   {
     "id": "17295784",
@@ -414,7 +514,9 @@
         "translation": "sondages",
         "context": "Los republicanos podrían perder ambas cámaras, según sondeos."
       }
-    ]
+    ],
+    "importance": "normal",
+    "importance_label": ""
   },
   {
     "id": "17295588",
@@ -464,6 +566,657 @@
         "translation": "respecter la tradition",
         "context": "España cumple con la tradición de recordar a sus seres queridos."
       }
-    ]
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17295285",
+    "title": "Telediario matinal en 4' - 1/11/26",
+    "date": "2026-11-01",
+    "date_label": "01.11.2026",
+    "duration": "04.30 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-1-11-26/17295285/",
+    "image": "https://img.rtve.es/v/17295285?w=800&amp;preview=01793514481923.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17295285.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17295285",
+    "transcript": "Buenos días, ya se han identificado a 56 de las 69 víctimas mortales del trágico accidente ferroviario de Urda y se espera que las otras 13 se completen en las próximas horas. 54 de las víctimas identificadas son españolas y dos extranjeras, una portuguesa y otra francesa. La mayoría de las identificaciones se han realizado por medio de huella dactilar y las otras cuatro por ADN. Mientras, aún hay 41 personas ingresadas en hospitales de Castilla-La Mancha y Madrid. Hoy van a continuar las labores de retirada de los vagones de los trenes accidentados el miércoles. La juez que lleva el caso está siguiendo en el lugar de los hechos estos trabajos y decidiendo qué material se necesita para la investigación Con tierra rellenan el camino que separa las vías de la carretera. Quieren facilitar el acceso a los camiones que se van a llevar el resto de vagones. Allí siguen trabajando las unidades caninas Están coordinados con las grúas para que una vez se están moviendo el amasijo de hierros, el perro y su guía entre con seguridad y puedan hallar algún tipo de resto biológico. Sobre el terreno la jueza revisa personalmente las pruebas.. que se almacenan en una finca cercana. La Guardia Civil ha detectado al menos dos nuevos drones grabando sin autorización. Hoy también ha sido el primer día en el que han recogido enseres personales. Entre ellos es probable que estén los de Almudena, única superviviente del vagón 8 de Lirio Agarramos la mano, ya nos la soltamos y empezamos a hacer turnos para extraer todo lo que podíamos de encima de ella Así recuerda su rescate el agente Salvador Correa. Ha hablado con su pareja y sabe que ella es una de los 41 heridos que siguen ingresados. 34 en hospitales de Castilla-La Mancha. Bajan también los pacientes en la UCI. La cantante Clara Montes ya ha salido Está en Neurocirugía, pero todo son buenas noticias. Mientras sigue la identificación de los cuerpos. Ya son 36 de los 69 fallecidos, entre ellos el de la compositora Marisa Machado. Otras familias siguen sin noticias Nos encontramos trabajando el inicio de un proceso de duelo con las personas, familiares que todavía continúan desaparecidos. En Urda.. esta mañana han celebrado una misa por todas las víctimas. Acompañar a las familias. Estamos con ellos. La Catedral de Toledo acogerá un funeral oficial en los próximos días La línea de alta velocidad Madrid-Andalucía es la única que sigue funcionando con el sistema LZB, pero está a punto de pasar al sistema unificado europeo que ya se utiliza en el resto de la red ferroviaria de nuestro país Los expertos insisten en que todos los sistemas son igual de fiables, aunque recomiendan revisar los protocolos Los expertos reconocen que en el sistema ferroviario español hay aspectos a mejorar. El mantenimiento por kilómetro de vía en España debería de llegar prácticamente a duplicarse. O revisar, dicen desde la Asociación de Ingenieros de Caminos... ...algunos de los protocolos que se aplican Mejorar sustancialmente los protocolos de actuación en situación degradada, es decir, cuando han fallado, que todo puede ocurrir en un momento determinado, los sistemas de control automático. Pero defienden la fiabilidad de los mecanismos de seguridad en sí. En el mundo existen diferentes sistemas para la alta velocidad. El de Japón es considerado todo un referente Pero Europa, recalca a los analistas, no se queda atrás. Aquí la normativa obliga a instalar el conocido como ERTMS. La vocación fue tener un sistema único, muy sofisticado, de gran calidad, para toda la red europea, de forma que un tren alemán pudiese circular por España un tren español pudiese circular por Francia cambiar los sistemas que tiene cada país por el rtms es caro y lleva tiempo. Francia o Alemania van más retrasados, pero en España, como refleja el mapa, solo queda una línea por actualizar. Las únicas líneas de alta velocidad que quedan por migrada es precisamente el corredor Sur, el Madrid-Sevilla, que es el primero que se abrió. Aún así, los expertos inciden en que el otro sistema, el LZB, también es seguro. Ha habido un fallo importante, pero no es un problema ni de la liberalización ni de los sistemas de diseño de los sistemas de seguridad. Encontrar dónde está ese fallo es ahora.. el reto de la investigación investigación",
+    "summary": [
+      "Los equipos forenses ya han logrado identificar a 56 de las 69 víctimas mortales del accidente ferroviario de Urda —en su mayoría mediante huella dactilar y pruebas de ADN—, mientras la jueza instructora supervisa sobre el terreno la retirada del amasijo de hierros y la recogida de pruebas con el apoyo de unidades caninas.",
+      "En el plano hospitalario, 41 heridos permanecen ingresados en centros de Castilla-La Mancha y Madrid con una evolución favorable en las unidades de cuidados intensivos, al tiempo que el municipio de Urda celebra una misa en sufragio de las víctimas antes del funeral de Estado previsto en la Catedral de Toledo.",
+      "El debate técnico se centra en la seguridad de la red de alta velocidad: la línea Madrid-Sevilla es la única pendiente de migrar del sistema alemán LZB al estándar europeo unificado ERTMS, por lo que la Asociación de Ingenieros de Caminos insta a duplicar la inversión en mantenimiento por kilómetro y a reforzar los protocolos en situación degradada."
+    ],
+    "vocabulary": [
+      {
+        "term": "la huella dactilar",
+        "translation": "l'empreinte digitale",
+        "context": "La mayoría de las identificaciones se han realizado por medio de huella dactilar y las otras cuatro por ADN."
+      },
+      {
+        "term": "el amasijo de hierros",
+        "translation": "l'enchevêtrement de ferraille / la carcasse tordue",
+        "context": "una vez se están moviendo el amasijo de hierros, el perro y su guía entre con seguridad."
+      },
+      {
+        "term": "los enseres personales",
+        "translation": "les effets personnels",
+        "context": "Hoy también ha sido el primer día en el que han recogido enseres personales."
+      },
+      {
+        "term": "el proceso de duelo",
+        "translation": "le travail / processus de deuil",
+        "context": "Nos encontramos trabajando el inicio de un proceso de duelo con las personas, familiares."
+      },
+      {
+        "term": "en situación degradada",
+        "translation": "en mode dégradé (en cas de défaillance technique)",
+        "context": "Mejorar sustancialmente los protocolos de actuación en situación degradada."
+      },
+      {
+        "term": "incidir en que",
+        "translation": "insister sur le fait que / souligner que",
+        "context": "Aún así, los expertos inciden en que el otro sistema, el LZB, también es seguro."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17295201",
+    "title": "Telediario 2 en 4' - 31/10/26",
+    "date": "2026-10-31",
+    "date_label": "31.10.2026",
+    "duration": "01.04 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-31-10-26/17295201/",
+    "image": "https://img.rtve.es/v/17295201?w=800&amp;preview=01793477211149.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17295201.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17295201",
+    "transcript": "Las grúas han levantado cinco vagones de los trenes accidentados en una operación que dirige la jueza del caso.. Urda acoge un funeral en homenaje a las 69 víctimas de la tragedia mientras 41 heridos continúan hospitalizados.. Francia registra disturbios y al menos 400 detenidos en el tercer sábado consecutivo de protestas pese al despliegue policial.. Alemania sufre enfrentamientos y un amplio despliegue policial en manifestaciones de la generación Z contra el coste de la vida.. Los Mossos d'Esquadra y la Guardia Urbana identifican a mil personas en Barcelona ante las convocatorias de movilizaciones.. La justicia decreta prisión provisional para el presunto cabezilla del movimiento radical Blocus en España.\n\nLas grúas han levantado hoy 5 vagones en homenaje a las 69 víctimas. Hay todavía 41 heridos hospitalizados. Disturbios en París y otras ciudades de Francia, pese al fuerte despliegue policial, en el tercer sábado consecutivo de protestas. Hay al menos 400 detenidos. En Alemania, enfrentamientos en Hamburgo o Frankfurt tras las manifestaciones de la generación Z por el coste de la vida y contra el servicio militar. Amplio despliegue policial y comercios blindados en algunas ciudades antes las convocatorias del movimiento radical Blocus. En Barcelona los Mossos y Guardia Urbana han identificado a mil personas. Y la justicia ha decretado prisión provisional al presunto cabezilla de la trama en España.",
+    "summary": [
+      "Las grúas continúan retirando los vagones siniestrados en Urda bajo supervisión judicial mientras el municipio rinde homenaje a las 69 víctimas mortales en un funeral y 41 heridos permanecen hospitalizados.",
+      "En el ámbito europeo, Francia vive su tercer sábado consecutivo de protestas sociales saldado con disturbios y al menos 400 detenidos pese al fuerte despliegue policial, mientras en Alemania las movilizaciones de la generación Z contra el encarecimiento de la vida y el servicio militar derivan en enfrentamientos en Hamburgo y Fráncfort.",
+      "En España, las fuerzas de seguridad blindan las zonas comerciales e identifican a un millar de personas en Barcelona ante las convocatorias del grupo radical Blocus, cuyo presunto cabecilla ha ingresado en prisión provisional."
+    ],
+    "vocabulary": [
+      {
+        "term": "el despliegue policial",
+        "translation": "le déploiement policier",
+        "context": "Disturbios en París y otras ciudades de Francia, pese al fuerte despliegue policial."
+      },
+      {
+        "term": "el coste de la vida",
+        "translation": "le coût de la vie",
+        "context": "tras las manifestaciones de la generación Z por el coste de la vida y contra el servicio militar."
+      },
+      {
+        "term": "los comercios blindados",
+        "translation": "les commerces barricadés / protégés",
+        "context": "Amplio despliegue policial y comercios blindados en algunas ciudades ante las convocatorias."
+      },
+      {
+        "term": "la prisión provisional",
+        "translation": "la détention provisoire",
+        "context": "Y la justicia ha decretado prisión provisional al presunto cabecilla de la trama en España."
+      },
+      {
+        "term": "el cabecilla",
+        "translation": "le meneur / le chef de file",
+        "context": "prisión provisional al presunto cabecilla de la trama en España."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17294970",
+    "title": "Telediario 1 en 4' - 31/10/26",
+    "date": "2026-10-31",
+    "date_label": "31.10.2026",
+    "duration": "02.06 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-31-10-26-1-cuatro-minutos-311026/17294970/",
+    "image": "https://img.rtve.es/v/17294970?w=800&amp;preview=01793455383220.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17294970.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17294970",
+    "transcript": "Emoción y dolor en la misa funeral celebrada este mediodía en la Iglesia de Urda en recuerdo por los 69 fallecidos en la tragedia ferroviaria. Los vecinos se han volcado un día más con los afectados por la tragedia, han llenado el templo; los que no cabían lo han seguido por altavoces instalados fuera. El duelo se acentúa para los que todavía no han recibido la confirmación oficial de la muerte de los suyos. Buenas tardes. Tercer y último día de luto oficial en España conmocionada por la tragedia. Continúa el duelo y avanza la investigación. En la zona cero siguen los trabajos de la Guardia Civil. Esta mañana se han levantado algunos de los vagones de los trenes buscando más restos de algunas de las 69 víctimas mortales y se han empezado a recuperar enseres de los viajeros. Mientras, siguen ingresadas 34 personas en hospitales de Castilla-La Mancha y 7 en Madrid. Los centros de varias ciudades se blindan ante el riesgo de altercados esta tarde por la convocatorias de Blocus. Así se protegen los comercios para evitar saqueos como los de la semana pasada en Barcelona. Anoche se vivieron momento de tensión en la convocatoria que se organizó en Palma. Prisión provisional sin fianza para el supuesto fundador e impulsor de Blocus España, detenido ayer en Valencia. Francia blindada de nuevo ante el temor a otro fin de semana de violentas protestas. Hay 70 000 agentes desplegados y comercios protegidos. Dispositivo especial también en Alemania. Allí jóvenes de la generación Z llaman a movilizarse por el deterioro educativo o el alto coste de la vida. Vísperas de todos los santos, un fin de semana largo en muchas comunidades para hacer una escapada o para sumarse a una tradición que va a más en España. Halloween mueve cada vez más dinero.",
+    "summary": [
+      "España cierra su tercer y último día de luto oficial por la tragedia ferroviaria de Urda con una emotiva misa funeral arropada por los vecinos, mientras la Guardia Civil prosigue el levantamiento de vagones y las pesquisas sobre el fallo en el centro de control de Atocha.",
+      "La justicia decreta prisión provisional sin fianza para el presunto fundador e impulsor en España del movimiento radical Blocus, detenido en Valencia, al tiempo que los comercios de varias capitales blindan sus escaparates para prevenir nuevos saqueos.",
+      "En Europa, Francia despliega a 70.000 agentes ante el temor a un nuevo fin de semana de protestas violentas, y en Alemania la generación Z protagoniza movilizaciones contra el deterioro educativo y la carestía de la vida."
+    ],
+    "vocabulary": [
+      {
+        "term": "volcarse con",
+        "translation": "se mobiliser pleinement pour / soutenir de tout cœur",
+        "context": "Los vecinos se han volcado un día más con los afectados por la tragedia."
+      },
+      {
+        "term": "el luto oficial",
+        "translation": "le deuil national / officiel",
+        "context": "Tercer y último día de luto oficial en España conmocionada por la tragedia."
+      },
+      {
+        "term": "las pesquisas",
+        "translation": "les investigations / l'enquête",
+        "context": "El fallo del control de Atocha sigue centrando las pesquisas de la tragedia ferroviaria."
+      },
+      {
+        "term": "prisión provisional sin fianza",
+        "translation": "détention provisoire sans caution",
+        "context": "Prisión provisional sin fianza para el supuesto fundador e impulsor de Blocus España."
+      },
+      {
+        "term": "los saqueos",
+        "translation": "les pillages",
+        "context": "Así se protegen los comercios para evitar saqueos como los de la semana pasada en Barcelona."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17294686",
+    "title": "Telediario matinal en 4'  - 31/10/26",
+    "date": "2026-10-31",
+    "date_label": "31.10.2026",
+    "duration": "02.01 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-31-10-26/17294686/",
+    "image": "https://img.rtve.es/v/17294686?w=800&amp;preview=01793428351016.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17294686.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17294686",
+    "transcript": "¿Qué tal? Muy buenos días. Ya han finalizado todas las autopsias de los fallecidos en el accidente ferroviario de Urda y se han identificado a 36 cuerpos. Este viernes han encontrado nuevos restos biológicos en la zona del choque, así que los rastreos en los vagones van a continuar hoy El número de víctimas mortales se mantiene de momento en 69, aunque no se descarta que haya más más los indicios apuntan a que lo ocurrido se debe a un fallo en el centro de indicios apuntan a que lo ocurrido se debe a un fallo en el centro de control control de mando de Adif. No era mi deber estar en el centro de mando aquel martes, pero ahora sí es mi deber estar al mando La carta a dimitir asegura que el presidente del gobierno no se lo ha pedido, aunque hay dirigentes del Partido Socialista que consideran que su situación es insostenible PP, Vox y los socios del gobierno exigen su renuncia Quien lo ha nombrado y lo ha mantenido con más motivo. Si no dimiten ellos, les dimitiremos en las urnas. Lo que sí hemos trasladado a Moncloa es que esa dimisión se tiene que producir lo antes posible. Glocus, el grupo que llama en redes sociales a disturbios y saqueos en España, ha convocado para hoy protestas en diferentes ciudades donde algunos comercios han blindado sus escaparates hay 10 detenidos en todo el país entre ellos el presunto líder de este movimiento estaba en Valencia león 14 ha votado por correo en las elecciones de su país... ...Estados Unidos del próximo martes... ...es el primer pontífice en 2000 años.. que ejerce su derecho al voto. Según varios medios, le enviaron la papeleta a casa de su hermano John, en Chicago y se la llevó en mano a Roma Rusia ha vetado la resolución presentada por Estados Unidos para renovar la misión de la ONU en el Sáhara. Según el Kremlin, el texto presentado por Washington no respetaba la neutralidad de la ONU al favorecer los intereses de Marruecos",
+    "summary": [
+      "Finalizan todas las autopsias de las 69 víctimas mortales confirmadas en el siniestro ferroviario de Urda con 36 cuerpos ya identificados, mientras la investigación apunta a un fallo en el centro de control de mando de Adif y crece la presión política de PP, Vox y los socios parlamentarios exigiendo la dimisión inmediata del ministro Óscar Puente.",
+      "La policía mantiene diez detenciones vinculadas al grupo radical Blocus —incluido su presunto líder en Valencia— ante nuevas convocatorias de disturbios y saqueos que han obligado a blindar comercios en diversas ciudades españolas.",
+      "En el ámbito internacional, el papa León XIV hace historia al convertirse en el primer pontífice en dos milenios en ejercer el derecho al voto por correo en las elecciones estadounidenses, mientras Rusia veta en la ONU la resolución promovida por Washington sobre el Sáhara Occidental."
+    ],
+    "vocabulary": [
+      {
+        "term": "los rastreos",
+        "translation": "les recherches / le ratissage",
+        "context": "han encontrado nuevos restos biológicos en la zona del choque, así que los rastreos en los vagones van a continuar hoy."
+      },
+      {
+        "term": "los indicios apuntan a",
+        "translation": "les indices laissent penser à / convergent vers",
+        "context": "los indicios apuntan a que lo ocurrido se debe a un fallo en el centro de control de mando de Adif."
+      },
+      {
+        "term": "blindar los escaparates",
+        "translation": "barricader / protéger les vitrines",
+        "context": "donde algunos comercios han blindado sus escaparates."
+      },
+      {
+        "term": "votar por correo",
+        "translation": "voter par correspondance",
+        "context": "León XIV ha votado por correo en las elecciones de su país, Estados Unidos."
+      },
+      {
+        "term": "ejercer su derecho al voto",
+        "translation": "exercer son droit de vote",
+        "context": "es el primer pontífice en 2000 años que ejerce su derecho al voto."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17294549",
+    "title": "Telediario 2 en 4' - 30/10/26",
+    "date": "2026-10-30",
+    "date_label": "30.10.2026",
+    "duration": "04.01 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-30-10-26/17294549/",
+    "image": "https://img.rtve.es/v/17294549?w=800&amp;preview=1793391111735.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17294549.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17294549",
+    "transcript": "El Ministro de Transportes no dimite porque su obligación, ha dicho, Oscar Puente, es resolver el problema. La cifra confirmada de fallecidos se mantiene en 69 personas aunque no se descarta que haya más. La policía ha detenido en Valencia al presunto líder de Blocus, el grupo que convoca saqueos y provoca disturbios en España\n\nY en el puesto de mando de la emergencia, el presidente del Gobierno ha dicho hoy que la confianza en el sistema de alta velocidad está quebrada y que no solo hay que diagnosticar lo ocurrido sino ofrecer soluciones. La presión sobre el ministro de Transportes es muy alta alta desde casi todos los partidos políticos. Pero el PP hoy ya va más allá y apunta al presidente del Gobierno. \"Quien lo ha nombrado y lo ha mantenido, con más motivo. Si no dimiten ellos, los dimitiremos en las urnas\" -\"Lo que sí hemos trasladado a Moncloa es, que esa dimisión se tiene que producir lo antes posible\". Esta tarde han encontrado nuevos restos biológicos en la zona del accidente, así que los rastreos van a continuar. Alicia Velilla. Van a continuar porque todavía quedan vagones por retirar. y ahora mismo es de noche. los trabajos se han causado. continuará mañana por la mañana. \"Todavía no se han podido levantar todos los vagones que estaban accidentados. Hay que esperar que sigan levantando vagones, por si se siguen encontrando restos. No se sabe si van a aparecer más o no\". La cifra confirmada de fallecidos se mantiene en 69 personas aunque no se descarta que haya más. Hoy, cinco familias han recibido la mejor noticia, los seres queridos que buscaban están vivos. Pero, Loreto Barbón, muchos otros siguen buscando. La toma de huellas dactilares, proceso que toma su tiempo, y la espera se hace cada vez más complicadas, que no tienen noticia de sus seres queridos. Y hoy ya desfilan ante nuestro ojos las vidas truncadas en los trenes, la imagen y la biografía de quienes han perdido la vida en esta catástrofe. 71 personas han recibido ya el alta médica y 43 están ingresadas en diferentes hospitales. Marta Lobera, los sanitarios cuentan que la situación empieza a normalizarse en las Urgencias. Nos cuentan además, que precisamente se está empezando a notar la presión en la unidad de cuidados intensivos, aquí en el hospital universitario de Toledo. hay personas ingresadas como hay ocho de ellas permanecen en la UCI la Policía ha detenido en Valencia al presunto líder de Blocus, el grupo que convoca saqueos y provoca disturbios en España. Ya hay, en total, diez detenidos. Los establecimientos en las calles más comerciales de Barcelona o Madrid se protegen, como ven, con grandes tablones de madera delante las cristaleras de sus escaparates. Sólo quedan 4 días para las elecciones de medio mandato y Trump trata de remontar las encuestas, que apuntan a una derrota de su partido en la Cámara de Representantes. Quien ya ha votado por correo es el papa, que es estadounidense.",
+    "summary": [
+      "Desde el puesto de mando de la emergencia, el presidente Pedro Sánchez admite que la confianza en la alta velocidad española está quebrada y promete soluciones, mientras el Partido Popular y los socios de investidura redoblan la presión para forzar la dimisión del ministro Óscar Puente.",
+      "El balance provisional de la catástrofe de Urda se mantiene en 69 fallecidos tras el hallazgo de nuevos restos biológicos bajo los vagones aún pendientes de retirar, al tiempo que 71 heridos han recibido el alta médica y 43 continúan hospitalizados.",
+      "La Policía Nacional detiene en Valencia al presunto líder del movimiento radical Blocus —elevando a diez el total de arrestados por instigar saqueos— mientras en Estados Unidos Donald Trump intenta revertir encuestas adversas a cuatro días de las elecciones de medio mandato."
+    ],
+    "vocabulary": [
+      {
+        "term": "la confianza está quebrada",
+        "translation": "la confiance est brisée / rompue",
+        "context": "el presidente del Gobierno ha dicho hoy que la confianza en el sistema de alta velocidad está quebrada."
+      },
+      {
+        "term": "las vidas truncadas",
+        "translation": "les vies brisées / fauchées",
+        "context": "Y hoy ya desfilan ante nuestros ojos las vidas truncadas en los trenes."
+      },
+      {
+        "term": "recibir el alta médica",
+        "translation": "sortir de l'hôpital (obtenir son autorisation de sortie)",
+        "context": "71 personas han recibido ya el alta médica y 43 están ingresadas."
+      },
+      {
+        "term": "convocar saqueos",
+        "translation": "appeler aux pillages",
+        "context": "al presunto líder de Blocus, el grupo que convoca saqueos y provoca disturbios en España."
+      },
+      {
+        "term": "remontar las encuestas",
+        "translation": "remonter dans les sondages",
+        "context": "Trump trata de remontar las encuestas, que apuntan a una derrota de su partido."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17293794",
+    "title": "Telediario 1 en 4' - 30/10/26",
+    "date": "2026-10-30",
+    "date_label": "30.10.2026",
+    "duration": "04.02 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-30-10-26-1-cuatro-minutos-301026/17293794/",
+    "image": "https://img.rtve.es/v/17293794?w=800&amp;preview=01793369463282.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17293794.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17293794",
+    "transcript": "Oscar Puente descarta dimitir.. Moncloa y Ferraz cierran filas con el ministro. – Sánchez dice que la confianza en la alta velocidad está quebrada.. Frente Amplio pide la dimisión de Puente y también lo hace el líder del Partido Popular Núñez Feijóo.. Los forenses ya han realizado casi medio centenar de autopsias y hay 13 identificados.. En los hospitales siguen ingresadas 43 personas.. El operador que autorizó al AVE a retomar la marcha se acoge a su derecho a no declarar ante la Guardia Civil. --Dos vagones del Iryo ya han sido retirados.. Horas de angustia para las familias de las víctimas.. Hay 70 denuncias de desaparecidos y 69 fallecidos confirmados. El presidente de Castilla-La Mancha no descarta que pueda aumentar el número de muertos. Las muestras de ADN están siendo cruciales para algunas de las identificaciones.\n\n\"Los indicios apuntan a que lo ocurrido, No era mi deber estar en el centro de mando aquel martes. Pero ahora sí que es mi deber estar al mando\". Hola, buenas tardes Óscar Puente descarta dimitir Dice que el presidente del Gobierno no se lo ha pedido y que confía en él para devolver la confianza en el sistema ferroviario español Moncloa y Ferraz cierran filas con el ministro aunque hay dirigentes que consideran que su situación es insostenible, Almudena Guerrero \"Hay una confianza quebrada en el sistema de alta velocidad Hay voces dentro del partido que d que consideran que debe asumir los consolida, hay voces en contrario, Sánchez ha insistido en que no es asumible, dos accidentes de este tipo en menos de un año. \"Hay una confianza quebrada en el sistema de alta velocidad en nuestro país. La labor del gobierno no es solamente hacer el diagnóstico, conocer cuáles son las causas, sino ofrecer soluciones\". Frente Amplio da un paso más y pide la dimisión de Puente. También lo hace el líder del Partido Popular, Núñez Feijóo, que acusa al Gobierno del accidente por no renovar un sistema de seguridad que, dicen, está obsoleto. \"Quien lo ha nombrado y lo ha mantenido con más motivo. Si no dimiten ellos, les dimitiremos en las urnas\". El operador que autorizó al AVE a retomar la marcha a una velocidad normal, se ha acogido a su derecho a no declarar ante la Guardia Civil. Puente ha explicado que había 16 controladores en la sala en el momento del accidente y que llevaban sólo dos horas trabajando. Y defiende que el Gobierno ha incrementado la plantilla. En la zona cero del siniestro, los investigadores judiciales y los técnicos siguen recogiendo pruebas, Raúl Rivera. Si y ya han sido retirados los de los coches, que cayeron por el terraplén, falta retirar el tercero, ha sido retirado el balcón número ocho de la B, en cada momento entran las patrullas caninas. Los forenses ya han realizado casi medio centenar de autopsias y hay 13 cuerpos identificados. Pero todavía son muchas las familias de desaparecidos que no tienen noticias de los suyos. Les han dicho que se preparen para lo peor, Lucía Jiménez. Si en la casa sacerdotal Toledo, la guardia civil comunicaba los familiares, que las posturas de supervivencia serían mínimas, porque el número de cuerpos de víctimas mortales, en la de Toledo coincidía con el de las denuncias registradas. \"Ayer había alguna remota posibilidad de que no estuviera identificado. Pero ahora son tan bajas las probabilidades que no merece la pena ni entenderlo\". Hay 70 denuncias de desaparecidos y 69 fallecidos confirmados. Aunque el presidente de Castilla-La Mancha no descarta que pueda aumentar el número de muertos. Las muestras de ADN están siendo cruciales para algunas de las identificaciones. 43 personas siguen ingresadas en los hospitales, 17 de ellas en unidades de cuidados intensivos. La mayoría está evolucionando de forma positiva.",
+    "summary": [
+      "El ministro de Transportes, Óscar Puente, descarta presentar su dimisión afirmando que su deber es permanecer al mando para esclarecer el siniestro de Urda, respaldado por Moncloa y Ferraz pese a las exigencias de renuncia formuladas por el Partido Popular y por sus socios de Frente Amplio.",
+      "En el plano judicial, el operador de Adif que autorizó al tren AVE a retomar la marcha tras el fallo informático se acoge a su derecho a no declarar ante la Guardia Civil, mientras continúan las labores de levantamiento de los vagones que cayeron por el terraplén.",
+      "Los equipos forenses han practicado ya medio centenar de autopsias con ayuda de muestras de ADN ante un balance de 69 fallecidos confirmados y 70 denuncias de desaparición, comunicando a las familias que las probabilidades de hallar supervivientes son ya nulas."
+    ],
+    "vocabulary": [
+      {
+        "term": "cerrar filas",
+        "translation": "serrer les rangs / faire bloc",
+        "context": "Moncloa y Ferraz cierran filas con el ministro aunque hay dirigentes que consideran que su situación es insostenible."
+      },
+      {
+        "term": "acogerse a su derecho a no declarar",
+        "translation": "faire valoir son droit au silence",
+        "context": "El operador que autorizó al AVE a retomar la marcha se ha acogido a su derecho a no declarar ante la Guardia Civil."
+      },
+      {
+        "term": "el terraplén",
+        "translation": "le talus / le remblai",
+        "context": "ya han sido retirados los dos coches que cayeron por el terraplén."
+      },
+      {
+        "term": "incrementar la plantilla",
+        "translation": "augmenter les effectifs",
+        "context": "Y defiende que el Gobierno ha incrementado la plantilla."
+      },
+      {
+        "term": "una remota posibilidad",
+        "translation": "une infime possibilité",
+        "context": "Ayer había alguna remota posibilidad de que no estuviera identificado."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17289432",
+    "title": "Telediario matinal en 4' - 30/10/2026",
+    "date": "2026-10-30",
+    "date_label": "30.10.2026",
+    "duration": "02.12 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-30-10-2026/17289432/",
+    "image": "https://img.rtve.es/v/17289432?w=800&amp;preview=01793296688693.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17289432.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17289432",
+    "transcript": "Buenos días, casi 48 horas después del trágico accidente de Urda, decenas de personas siguen esperando encontrar a familiares y amigos que viajaban en alguno de los trenes siniestrados. Los forenses han realizado ya 48 autopsias. A cinco se les ha identificado. mientras se trabaja para sean más, los allegados reciben apoyo y atención en la casa sacerdotal de Toledo. Allí y en el hospital universitario de la ciudad han estado los reyes para mostrar su cariño y apoyo a las víctimas. \"Nuestro respeto, nuestro pesar, hacia las personas que han perdido la vida y hacia sus familias. Tendrá que estudiarse medidas que hay que adoptar para que esto, no vuelva a suceder\" Las grúas siguen levantando los restos de los vagones accidentados. En la zona cero hasta 800 efectivos de distintos cuerpos han trabajado sin descanso. Entre los 69 fallecidos confirmados está la exministra Fátima Bañez, la joven atleta Julieta Gallego o el inspector de Hacienda Antonio Montero. El AVE que impactó contra el Iryo circulaba entre los 160 y los 200 kilómetros por hora. Es uno de los datos que arroja la primera nota oficial de la autoridad independiente de investigación, cuyos técnicos seguirán hoy sobre el terreno. La velocidad concreta se sabrá tras analizar las cajas negras, que ya están en manos de la Guardia Civil. Sus agentes participan en la otra investigación en marcha: la judicial. Los partidos políticos centran su mirada en el ministro de Transportes, Óscar Puente. Hoy está previsto que ofrezca una rueda de prensa, la primera desde su comparecencia posterior al accidente. El Martes acudirá al Congreso. Según fuentes de Moncloa, Puente cuenta con el apoyo del presidente. Tanto sus socios de Sumar como el PP, piden asunción de responsabilidades",
+    "summary": [
+      "Casi 48 horas después del siniestro ferroviario de Urda, los forenses han practicado 48 autopsias y los Reyes de España han visitado el Hospital Universitario y la Casa Sacerdotal de Toledo para trasladar su pésame y apoyo a los heridos y familiares de las 69 víctimas mortales, entre las que figura la exministra Fátima Báñez.",
+      "El primer informe preliminar de la autoridad independiente de investigación revela que el tren AVE que impactó por alcance contra el convoy de Iryo circulaba entre 160 y 200 km/h, a la espera del vaciado de las cajas negras ya en poder de la Guardia Civil.",
+      "En el terreno político, tanto el Partido Popular como los socios gubernamentales de Sumar reclaman la asunción de responsabilidades políticas al ministro Óscar Puente, quien comparecerá ante el Congreso de los Diputados."
+    ],
+    "vocabulary": [
+      {
+        "term": "los allegados",
+        "translation": "les proches (famille et amis)",
+        "context": "los allegados reciben apoyo y atención en la casa sacerdotal de Toledo."
+      },
+      {
+        "term": "mostrar su pesar",
+        "translation": "exprimer sa douleur / ses condoléances",
+        "context": "Nuestro respeto, nuestro pesar, hacia las personas que han perdido la vida."
+      },
+      {
+        "term": "las cajas negras",
+        "translation": "les boîtes noires",
+        "context": "La velocidad concreta se sabrá tras analizar las cajas negras, que ya están en manos de la Guardia Civil."
+      },
+      {
+        "term": "la asunción de responsabilidades",
+        "translation": "la prise de responsabilités",
+        "context": "Tanto sus socios de Sumar como el PP piden asunción de responsabilidades."
+      },
+      {
+        "term": "arrojar datos",
+        "translation": "fournir / révéler des données",
+        "context": "Es uno de los datos que arroja la primera nota oficial de la autoridad independiente."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17289287",
+    "title": "Telediario 2 en 4' - 29/10/26",
+    "date": "2026-10-29",
+    "date_label": "29.10.2026",
+    "duration": "03.39 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-29-10-26/17289287/",
+    "image": "https://img.rtve.es/v/17289287?w=800&amp;preview=1793304501940.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17289287.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17289287",
+    "transcript": "Hay 50 heridos hospitalizados, 18 de ellos en la UCI. Sobre el terreno trabajan tres grúas tratando de recuperar los vagones siniestrados y tomando todo tipo de muestras. Entre los fallecidos confirmados está la exministra Fátima Bañez, el guardia civil Jose Manuel Chacón, la joven atleta Julieta Gallego, o el inspector de Hacienda, Antonio Montero. Han pasado 36 horas desde el accidente y las familias que aún esperan noticias de sus seres queridos reciben atención en la casa sacerdotal de Toledo, Loreto Barbón. -Buenas noches si, decenas de personas están esperando noticias de sus seres queridos, en esta casa ejercicio Toledo, aquí donde se ha constituido la atención a los familiares, personales profesional está atendiendo, aquí familiares de personas desaparecidas, Los Reyes han visitado esta tarde a los heridos ingresados en el Hospital Universitario de Toledo. A la salida, don Felipe ha tenido palabras de cariño para todas las familias afectadas. \"Nuestro respeto, nuestro pesar, hacia las personas que han perdido la vida y hacia sus familias. Tendrá que estudiarse medidas que hay que adoptar para que esto, no vuelva a suceder\" El ministro de Transportes, Oscar Puente, comparecerá el martes en la Diputación Permanente del Congreso. Tanto sus socios de Sumar como Feijóo, que ha visitado la zona, han pedido explicaciones y asunción de responsabilidades. A Puente le hemos visto hoy con Sanchez en el CECOPI, fuentes de Moncloa aseguran que cuenta con el apoyo del presidente. Y hoy precisamente hay huelga en RENFE convocada por el sindicato de maquinistas, SEMAF. La convocatoria era anterior al accidente y se ha mantenido. Según el sindicato ha tenido un seguimiento del 100% y según la empresa del 26 %. SEMAF ha convocado otros dos días de paro: el 10 y 12 de noviembre. Y los minutos de silencio se han multiplicado hoy por toda España y en todas las actividades. Así, han comenzado todos los partidos Así, han comenzado todos los partidos de esta tarde noche en la Copa del Rey. Tras la suspensión de los partidos ayer hoy todos han comenzado con esta muestra de respeto por las víctimas. Como en Lebrija o Calatayud. 500 efectivos de distintos cuerpos trabajan en la zona cero de la tragedia. Muchas horas y mucha dureza acumulan estos profesionales con los que hoy hemos estado. \"Te sientas, ves la televisión y te das cuenta de lo que ha sucedido\" -\"Detras del uniforme esta la persona y cuando nos quitamos el uniforme, todo aquello que nos ha impactado lo volvemos a revivir si no cuidamos nuestra salud mental\"",
+    "summary": [
+      "Treinta y seis horas después de la catástrofe ferroviaria de Urda, tres grúas de gran tonelaje y 500 efectivos trabajan en la zona cero para levantar los vagones siniestrados, mientras 50 heridos permanecen hospitalizados —18 en la UCI— y se confirma el fallecimiento de personalidades como la exministra Fátima Báñez.",
+      "Los Reyes visitan a los heridos en el Hospital Universitario de Toledo instando a adoptar medidas para evitar que una tragedia similar se repita, al tiempo que el ministro Óscar Puente anuncia su comparecencia ante la Diputación Permanente del Congreso.",
+      "La jornada coincide con una huelga de maquinistas en Renfe convocada previamente por el sindicato SEMAF, que mantiene otros dos paros para los días 10 y 12 de noviembre en medio de minutos de silencio en toda España."
+    ],
+    "vocabulary": [
+      {
+        "term": "los vagones siniestrados",
+        "translation": "les wagons accidentés / endommagés",
+        "context": "Sobre el terreno trabajan tres grúas tratando de recuperar los vagones siniestrados."
+      },
+      {
+        "term": "la Diputación Permanente",
+        "translation": "la Députation permanente (organe de continuité parlementaire)",
+        "context": "El ministro de Transportes, Óscar Puente, comparecerá el martes en la Diputación Permanente del Congreso."
+      },
+      {
+        "term": "el seguimiento de la huelga",
+        "translation": "le taux de participation à la grève",
+        "context": "Según el sindicato ha tenido un seguimiento del 100% y según la empresa del 26%."
+      },
+      {
+        "term": "dos días de paro",
+        "translation": "deux jours de grève / d'arrêt de travail",
+        "context": "SEMAF ha convocado otros dos días de paro: el 10 y 12 de noviembre."
+      },
+      {
+        "term": "una muestra de respeto",
+        "translation": "une marque de respect",
+        "context": "hoy todos han comenzado con esta muestra de respeto por las víctimas."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17288730",
+    "title": "Telediario 1 en 4' -  29/10/26",
+    "date": "2026-10-29",
+    "date_label": "29.10.2026",
+    "duration": "01.09 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/45051-1-4-minutos-29-10-26/17288730/",
+    "image": "https://img.rtve.es/v/17288730?w=800&amp;preview=1793282690601.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17288730.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17288730",
+    "transcript": "El accidente ferroviario que ha costado la vida ya a 69 personas. Esa es la última cifra de fallecidos en una tragedia que ha sacudido el país. Los reyes han cancelado hoy su agenda oficial y en unos minutos van a acercarse al hospital de Toledo para visitar a los heridos que siguen ingresados. Fátima Báñez está entre los fallecidos de esta tragedia ferroviaria. Menos del 1% de los nacionalizados por la ley de nietos podrán recuperar su derecho al voto. La presidenta del Banco Central Europeo Christine Lagarde ha anunciado por sorpresa que abandona el cargo el próximo 7 de febrero\n\nContinúa la búsqueda de posibles víctimas Silencio y emoción contenida en la estación de Atocha y también en Santa Justa. Las estaciones de origen y destino de los dos trenes siniestrados. También silencio en el Congreso en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses. Silencio y emoción contenida en la estación de Atocha y también en Santa Justa. Las estaciones de origen y destino de los dos trenes siniestrados. También silencio en el Congreso en memoria de las víctimas de esta tragedia ferroviaria, la segunda en 9 meses.",
+    "summary": [
+      "El balance del trágico accidente ferroviario de Urda asciende ya a 69 víctimas mortales —entre ellas la exministra de Empleo Fátima Báñez—, sumiendo a España en el luto con emotivos minutos de silencio en las estaciones de Atocha y Santa Justa así como en el Congreso de los Diputados, en el que supone el segundo siniestro grave en la red de alta velocidad en apenas nueve meses.",
+      "Los Reyes suspenden su agenda oficial para desplazarse al hospital de Toledo y acompañar a los heridos y familiares afectados por la catástrofe.",
+      "En el plano internacional e institucional, la presidenta del Banco Central Europeo, Christine Lagarde, anuncia por sorpresa que abandonará su cargo el próximo 7 de febrero, mientras se revela que menos del 1 % de los nacionalizados por la Ley de Nietos podrá recuperar su derecho al voto."
+    ],
+    "vocabulary": [
+      {
+        "term": "sacudir el país",
+        "translation": "ébranler / bouleverser le pays",
+        "context": "Esa es la última cifra de fallecidos en una tragedia que ha sacudido el país."
+      },
+      {
+        "term": "emoción contenida",
+        "translation": "émotion retenue / palpable",
+        "context": "Silencio y emoción contenida en la estación de Atocha y también en Santa Justa."
+      },
+      {
+        "term": "cancelar la agenda oficial",
+        "translation": "annuler l'agenda officiel",
+        "context": "Los reyes han cancelado hoy su agenda oficial y van a acercarse al hospital de Toledo."
+      },
+      {
+        "term": "la ley de nietos",
+        "translation": "la loi sur la mémoire démocratique (dite loi des petits-enfants)",
+        "context": "Menos del 1% de los nacionalizados por la ley de nietos podrán recuperar su derecho al voto."
+      },
+      {
+        "term": "abandonar el cargo",
+        "translation": "quitter ses fonctions",
+        "context": "Christine Lagarde ha anunciado por sorpresa que abandona el cargo el próximo 7 de febrero."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Bilan de 69 morts à Urda"
+  },
+  {
+    "id": "17287903",
+    "title": "Telediario matinal en 4' - 29/10/2026",
+    "date": "2026-10-29",
+    "date_label": "29.10.2026",
+    "duration": "01.58 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-29-10-2026/17287903/",
+    "image": "https://img.rtve.es/v/17287903?w=800&amp;preview=01793217308665.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17287903.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17287903",
+    "transcript": "Buenos días, durante toda la madrugada, sin descanso, han seguido trabajando sobre los restos de los trenes en Urda, Toledo. La linea de alta velocidad Madrid- Sevilla vuelve a ser foco de una tragedia ferroviaria. Esta deja al menos 68 muertos y 180 heridos. Entre los restos se busca a más posibles víctimas. Se hace con drones térmicos y esperan que durante el día se incorporen los guías caninos. También ir avanzando en la investigación: saber qué pasó después de que el frenado automático dejase de funcionar. Para el ministro de Transportes, el accidente es inexplicable. Audios como este, a los que ha accedido RTVE, serán clave en esclarecer los hechos. Registran las conversaciones del centro de control de Atocha con los maquinistas. Al del convoy de Renfe, le dan la orden de reanudar el viaje a velocidad normal. La Guardia Civil ya ha hablado con los operarios de ADIF Ahora lo más importante es la identificación de los cuerpos, que comienza hoy, para poder dar respuesta a las familias. La Guardia Civil recoge sus muestras para cotejarlas. Además, hospitales de Castilla La Mancha y Madrid atienden a los heridos: una veintena están graves. Los más leves, algunos que salieron por su propio pie del tren, han recibido el alta. La tragedia ha frenado en seco la precampaña. La de todos los partidos excepto Vox. El presidente del Gobierno, que hoy vuelve a visitar la zona, dice que es inasumible tener dos accidentes de alta velocidad en un año. El PP le pide una investigación independiente.",
+    "summary": [
+      "Los equipos de rescate trabajan sin descanso durante toda la madrugada con drones térmicos sobre los restos de los trenes colisionados en Urda (Toledo), en una tragedia en la línea de alta velocidad Madrid-Sevilla que arroja ya al menos 68 muertos y 180 heridos.",
+      "La investigación judicial y policial se centra en esclarecer por qué dejó de funcionar el sistema de frenado automático y en analizar las grabaciones de audio del centro de control de Atocha, desde donde se dio orden al maquinista del AVE de reanudar la marcha a velocidad normal.",
+      "La magnitud de la catástrofe paraliza en seco la precampaña electoral española de todos los partidos —salvo Vox—, mientras el presidente Pedro Sánchez califica de inasumible sufrir dos accidentes de alta velocidad en menos de un año y el PP exige una auditoría independiente."
+    ],
+    "vocabulary": [
+      {
+        "term": "trabajar sin descanso",
+        "translation": "travailler sans relâche",
+        "context": "durante toda la madrugada, sin descanso, han seguido trabajando sobre los restos de los trenes."
+      },
+      {
+        "term": "esclarecer los hechos",
+        "translation": "éclaircir les faits / faire toute la lumière",
+        "context": "Audios como este, a los que ha accedido RTVE, serán clave en esclarecer los hechos."
+      },
+      {
+        "term": "reanudar el viaje",
+        "translation": "reprendre la route / le trajet",
+        "context": "Al del convoy de Renfe, le dan la orden de reanudar el viaje a velocidad normal."
+      },
+      {
+        "term": "cotejar las muestras",
+        "translation": "comparer / recouper les échantillons (ADN)",
+        "context": "La Guardia Civil recoge sus muestras para cotejarlas."
+      },
+      {
+        "term": "frenar en seco",
+        "translation": "stopper net / donner un coup d'arrêt",
+        "context": "La tragedia ha frenado en seco la precampaña."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17287762",
+    "title": "Telediario 2 en 4' - 28/10/26",
+    "date": "2026-10-28",
+    "date_label": "28.10.2026",
+    "duration": "02.27 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-28-10-26/17287762/",
+    "image": "https://img.rtve.es/v/17287762?w=800&amp;preview=1793218276991.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17287762.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17287762",
+    "transcript": "Nueve meses después, España vuelve a sufrir una tragedia ferroviaria en la misma línea de la red de alta velocidad, al menos, 68 muertos y un centenar de heridos y una enorme conmoción en toda España.\n\nHay muchas personas que rodaron por el vagón. El golpe fue duro. Sentíamos que nos habían chocado. Unas personas fueron los primeros que nos ocurrieron, que estaban en una camioneta. Fue bastante duro. -Es la cabeza del Renfe. Es un accidente muy grave. Qué tal, buenas noches. Nueve meses después, España vuelve a sufrir una tragedia ferroviaria en la misma línea de la red de alta velocidad. A esta hora, el balance, trágico balance, habla de, al menos, 68 muertos, un centenar de heridos y una enorme conmoción en toda España. Esta vez, el accidente ha ocurrido aquí en la provincia de Toledo, muy cerca del municipio de Urda. Y la que van a ver ahora es la señal en directo. Del punto exacto del accidente, donde continúan trabajando los servicios de emergencia hasta levantar los vagones siniestrados. Y el accidente ha ocurrido así: Un tren ave de Renfe que circulaba rumbo a Sevilla ha chocado por detrás con un tren Iryo detenido en la misma vía. La investigación apunta a dos fallos: el primero... la caída del sistema informático de seguridad, y a continuación una orden errónea según el gobierno, del equipo humano de ADIF que tomó el control de la circulación.",
+    "summary": [
+      "España vive una noche de profunda conmoción nacional tras el gravísimo choque ferroviario en Urda (Toledo), cuyo balance asciende ya a al menos 68 fallecidos y un centenar de heridos en la misma línea de alta velocidad Madrid-Sevilla que sufrió otro siniestro nueve meses atrás.",
+      "La reconstrucción preliminar del accidente revela que un tren AVE de Renfe que circulaba hacia Sevilla embistió por alcance a un convoy de Iryo que se encontraba detenido en la misma vía.",
+      "Las primeras pesquisas del Gobierno apuntan a una concatenación de dos fallos críticos: una caída previa del sistema informático de seguridad seguida de una orden errónea emitida por el equipo humano de control de tráfico de ADIF."
+    ],
+    "vocabulary": [
+      {
+        "term": "una enorme conmoción",
+        "translation": "une onde de choc / un émoi considérable",
+        "context": "al menos 68 muertos, un centenar de heridos y una enorme conmoción en toda España."
+      },
+      {
+        "term": "chocar por detrás (por alcance)",
+        "translation": "percuter par l'arrière",
+        "context": "Un tren AVE de Renfe que circulaba rumbo a Sevilla ha chocado por detrás con un tren Iryo detenido."
+      },
+      {
+        "term": "la caída del sistema informático",
+        "translation": "la panne / la chute du système informatique",
+        "context": "La investigación apunta a dos fallos: el primero, la caída del sistema informático de seguridad."
+      },
+      {
+        "term": "una orden errónea",
+        "translation": "un ordre erroné",
+        "context": "y a continuación una orden errónea según el gobierno, del equipo humano de ADIF."
+      },
+      {
+        "term": "el balance trágico",
+        "translation": "le bilan tragique",
+        "context": "A esta hora, el trágico balance habla de al menos 68 muertos."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17287313",
+    "title": "Telediario 1 en 4' -  28/10/26",
+    "date": "2026-10-28",
+    "date_label": "28.10.2026",
+    "duration": "00.46 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-28-10-26/17287313/",
+    "image": "https://img.rtve.es/v/17287313?w=800&amp;preview=1793197465834.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17287313.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17287313",
+    "transcript": "64 fallecidos en en el accidente de tren que se ha producido esta mañana en Toledo Sigue siendo una cifra provisional porque los servicios\n\nAl menos 64 personas han muerto y más de 80 están heridas tras el choque de dos trenes de alta velocidad en la provincia de Toledo. Los servicios de emergencia siguen a esta hora con las labores de rescate. Se teme que el número de víctimas pueda aumentar. Los supervivientes cuentan que ha sido un golpe muy violento. El accidente se ha producido en la línea Madrid - Andalucía, la misma línea en la que hace solo 9 meses tuvo lugar la tragedia de Adamuz.",
+    "summary": [
+      "Al menos 64 personas han perdido la vida y más de 80 han resultado heridas tras una violentísima colisión entre dos trenes de alta velocidad ocurrida esta mañana en el término municipal de Urda (provincia de Toledo).",
+      "Los servicios de emergencia continúan desplegados en las labores de rescate entre los vagones siniestrados, temiéndose que la cifra provisional de víctimas mortales pueda aumentar en las próximas horas.",
+      "El siniestro se ha producido en el corredor de alta velocidad Madrid-Andalucía, exactamente la misma línea ferroviaria en la que hace apenas nueve meses tuvo lugar la tragedia de Adamuz."
+    ],
+    "vocabulary": [
+      {
+        "term": "el choque de dos trenes",
+        "translation": "la collision entre deux trains",
+        "context": "Al menos 64 personas han muerto y más de 80 están heridas tras el choque de dos trenes de alta velocidad."
+      },
+      {
+        "term": "las labores de rescate",
+        "translation": "les opérations de sauvetage / secours",
+        "context": "Los servicios de emergencia siguen a esta hora con las labores de rescate."
+      },
+      {
+        "term": "una cifra provisional",
+        "translation": "un bilan provisoire",
+        "context": "Sigue siendo una cifra provisional porque los servicios de emergencia siguen trabajando."
+      },
+      {
+        "term": "la alta velocidad",
+        "translation": "la grande vitesse ferroviaire (TGV/AVE)",
+        "context": "tras el choque de dos trenes de alta velocidad en la provincia de Toledo."
+      },
+      {
+        "term": "los supervivientes",
+        "translation": "les survivants",
+        "context": "Los supervivientes cuentan que ha sido un golpe muy violento."
+      }
+    ],
+    "importance": "major",
+    "importance_label": "Collision ferroviaire à Urda"
+  },
+  {
+    "id": "17286539",
+    "title": "Telediario matinal en 4' - 28/10/2026",
+    "date": "2026-10-28",
+    "date_label": "28.10.2026",
+    "duration": "03.48 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-28-10-2026/17286539/",
+    "image": "https://img.rtve.es/v/17286539?w=800&amp;preview=01793100894360.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17286539.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17286539",
+    "transcript": "Incertidumbre absoluta en Israel: Netanyahu lograría ser el candidato con más votos, pero sin mayoría absoluta. El bloque opositor no quiere pactar con él. La llave, en manos de los partidos árabes, con su mejor resultado histórico. Y contra ellos, precisamente, se ha pronunciado Netanyahu. Pide dejarlos fuera de cualquier formación del Ejecutivo. El recuento aún sigue en marcha, pero las proyecciones dejan al país hebreo en una encrucijada que no es nueva: la repetición electoral si no hay acuerdo.\n\nEstados Unidos acoge a Flávio Bolsonaro y su familia tras haber huido de Brasil apenas horas después de perder las elecciones. La Administración Trump ha confirmado que les proporcionará visados. Bolsonaro está investigado en su país por presunto blanqueo. Lula da Silva habla de \"vergüenza\".\n\nHoy España vive movilizaciones del campo, de médicos, de trabajadores del metal, de profesores... que se suman a los altercados violentos que otras movilizaciones recientes han dejado en Barcelona y Bilbao. Un clima de protestas en plena precampaña. \n\nEl BOE publica hoy las listas electorales, cuyos pactos reflejan claramente los dos grandes bloques. El último anuncio: PSC y Frente Amplio concentrarán el voto en tres de las cuatro provincias catalanas en el Senado. Y esos acuerdos para la Cámara Alta son, según Irene Montero, el motivo de que no se lograse un pacto global de izquierdas. La líder de Podemos ha visitado junto a Gabriel Rufián el programa La Revuelta. \n\nRadio Televisión Española ha accedido a documentación enviada por la Policía Nacional a la jueza Tardón, que investiga la entrada a Ceuta. Señalan a presuntos gendarmes marroquíes, dicen, impasibles e incluso que indicaban por dónde ir. Incluyen también testimonios de tres migrantes que cruzaron a la ciudad autónoma e identifican a mandos marroquíes en la frontera: la jueza escuchará hoy sus testimonios.\n\nBuenos días. Netanyahu lograría ser el candidato con más votos pero sin mayoría absoluta. El bloque opositor no quiere pactar con él. La llave, en manos de los partidos árabes, con su mejor resultado histórico. Y contra ellos, precisamente, se ha pronunciado Netanyahu. Pide dejarlos fuera de cualquier formación del ejecutivo. El recuento aún sigue en marcha, pero las proyecciones dejan al país hebreo en una encrucijada que no es nueva: la repetición electoral si no hay acuerdo. Estados Unidos acoge a Flavio Bolsonaro y su familia tras haber huído de Brasil apenas horas después de perder las elecciones. LA administración Trump ha confirmado que les proporcionará visados. Bolsonaro está investigado en su país por presunto blanqueo. Lula da Silva habla de vergüenza. Hoy España vive movilizaciones del campo, de médicos, de trabajadores del metal, de profesores que se suman a los altercados violentos que otras movilizaciones recientes han dejado en Barcelona y Bilbao. Un clima de protestas en plena precampaña. El BOE publica hoy las listas electorales, cuyos pactos reflejan claramente los dos grandes bloques. El último anuncio: PSC y Frente Amplio concentrarán el voto en tres de las cuatro provincias catalanas en el Senado. Y esos acuerdo para la cámara alta, son, según Irene Montero, el motivo de que no se lograse un pacto global de izquierdas. La líder de Podemos ha visitado junto a Gabriel Rufián el programa La Revuelta. Radio Televisión Española ha accedido a documentación enviada por la policía nacional a la jueza Tardón, que investiga la entrada a Ceuta. Señalan a presuntos gendarmes marroquíes, dicen impasibles e incluso, que indicaban por dónde ir. Incluyen también testimonios de tres migrantes que cruzaron a la ciudad autónoma e identifican a mandos marroquíes en la frontera: la jueza escuchará hoy sus testimonios. Y en Deportes, primera eliminatoria de Copa del Rey y primer caído importante. Así es Mireia, porque el Espanyol se ha despedido tras caer por 4 a 3 con el Sestao. Una victoria en la prórroga del equipo de la Segunda REFF que ha supuesto el despido del técnico perico. De los equipos de Primera que jugaban este martes, Málaga, Elche, Rayo y Villarreal pasan de ronda tras imponerse en sus eliminatorias. Y Mbappé está en el ojo de la tormenta tras calificar a Mao Tse Tung de Dictador. El delantero lo hizo mientras hablaba de un meme, pero en China sus palabras han tenido muy mala repercusión, hasta el punto de influir en la retransmisión de partidos del Real Madrid en el país asiático. Mbappé ya ha pedido disculpas en una polémica que sigue abierta. En general tiempo muy estable, nieblas en la meseta norte, nubosidad que se va despejando. Aumento de nubes en el Mediterráneo. Continuarán algunos chubascos en La Palma y Tenerife. Temperaturas que suben en el oeste.",
+    "summary": [
+      "Las elecciones en Israel dejan un escenario de bloqueo e incertidumbre política: Benjamín Netanyahu logra ser el candidato más votado pero sin alcanzar la mayoría absoluta, quedando la gobernabilidad en manos de los partidos árabes ante el rechazo opositor a pactar con él.",
+      "En América Latina, la Administración estadounidense de Donald Trump concede visados y acoge a Flávio Bolsonaro y a su familia tras su huida de Brasil apenas horas después de su derrota electoral frente a Lula da Silva y pese a estar investigado por presunto blanqueo.",
+      "En España, la precampaña electoral se desarrolla en medio de intensas movilizaciones sectoriales (campo, sanidad, educación y metal) y de la publicación en el BOE de las alianzas para el Senado, mientras un informe policial remitido a la Audiencia Nacional señala la pasividad de gendarmes marroquíes en la entrada de migrantes en Ceuta."
+    ],
+    "vocabulary": [
+      {
+        "term": "la mayoría absoluta",
+        "translation": "la majorité absolue",
+        "context": "Netanyahu lograría ser el candidato con más votos pero sin mayoría absoluta."
+      },
+      {
+        "term": "estar en una encrucijada",
+        "translation": "être à la croisée des chemins / dans une impasse",
+        "context": "las proyecciones dejan al país hebreo en una encrucijada que no es nueva: la repetición electoral."
+      },
+      {
+        "term": "la repetición electoral",
+        "translation": "la tenue de nouvelles élections",
+        "context": "la repetición electoral si no hay acuerdo."
+      },
+      {
+        "term": "concentrar el voto",
+        "translation": "concentrer les suffrages (vote utile)",
+        "context": "PSC y Frente Amplio concentrarán el voto en tres de las cuatro provincias catalanas en el Senado."
+      },
+      {
+        "term": "estar en el ojo de la tormenta",
+        "translation": "être dans l'œil du cyclone (au cœur de la polémique)",
+        "context": "Y Mbappé está en el ojo de la tormenta tras calificar a Mao Tse Tung de dictador."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17286396",
+    "title": "Telediario 2 en 4' -27/10/26",
+    "date": "2026-10-27",
+    "date_label": "27.10.2026",
+    "duration": "04.44 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-27-10-26/17286396/",
+    "image": "https://img.rtve.es/v/17286396?w=800&amp;preview=1793132175125.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17286396.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17286396",
+    "transcript": "En Brasil, la policía investiga si Flavio Bolsonaro ha huido del país después de perder las elecciones ante Lula. Fuentes oficiales, citadas por Reuters, dicen que está volando hacia Estados Unidos. Israel decide en las urnas su futuro político inmediato. Tercer trimestre flojo para el mercado laboral. Hay 95.900 desempleados más y la tasa de paro. El barrio de Deusto, en Bilbao, ha vuelto a la normalidad después de los disturbios de ayer\n\n¿Qué tal?, buenas noches. Ayer quería ser presidente de Brasil y hoy se ha fugado de su pais. Flavio Bolsonaro vuela ya camino de Estados Unidos. Son fuentes del gobierno Trump las que confirman el viaje y algunos colaboradores del ultraderechista. Huye con el pasaporte que hace solo unas horas prometió entregar como le había pedido el Tribunal Supremo. No lo ha hecho. Bolsonaro, derrotado el domingo en las urnas por Lula, tiene una investigación abierta en su país por su presunta implicación en una trama de blanqueo de dinero con apuestas digitales. Ahora busca refugio, Cristina Olea, en los Estados Unidos de Trump. si lo proporcionaron cuentan con la simpatía de Trump y no sería el primero la familia que escapa a Estados Unidos. su hermano Eduardo vive aquí la exigencia de noticias Reuter pública que hoy Fabre evolucionado buena ya rubio rumbo a Estados Unidos. Después de horas de confusión con los después de negarse a reconocer su derrota y después de esa orden judicial que lo obliga a entregar sus pasaportes. En Israel, los colegios electorales están a punto de cerrar con una participación histórica, la más alta registrada nunca en el país, y Marc Campdelacreu con Netanyahu sembrando dudas sobre el proceso electoral. La junta electoral ignorado. proque muestra su nerviosismo. La participación ha sido altísima y él ha intentado movilizar al electorado de derechas porque sabe que puede perder estos comicios. Aquí, la precampaña electoral acaba de perfilar los dos bloques entre los que se juegan las elecciones del 29 de noviembre. Lo último es el pacto entre el PSC y los Comunes para que Frente Amplio no presente candidaturas al Senado en Girona, Lleida y Tarragona y concentrar así el voto en los socialistas. Del otro lado PP/VOX. Hoy Feijoo ha vuelto a defender su pacto con Abascal para la cámara alta como una reacción a los acuerdos del PSOE. El barrio de Deusto, en Bilbao, ha vuelto a la normalidad después de los disturbios de ayer. Los operarios municipales han pasado el día limpiando los restos de los vehículos y el mobiliario urbano calcinado. Diez de los detenidos eran menores. Esta tarde han quedado en libertad. El mercado laboral cerró el verano con más desempleados, la tasa de paro ha vuelto a superar el 10 %, y también con récord de personas trabajando, ya hay más de 22 700 000. Según la encuesta de Población Activa, entre julio y septiembre dos de cada tres nuevos contratos Ya tengo mi contrato. el profesor de inglés. los firmaron mujeres. Creo que tener algo asegúrese de su propiedad. es importante. Una puja muchísimo. Hoy salen a subasta cientos de objetos del Pazo de Meirás, que le regalaron a Franco y ha pertenecido a la familia durante más de 80 años. El Estado recuperó el inmueble, pero no reclamó su contenido. Por eso, el dinero de la venta irá a parar a los herederos del dictador. Tanto el presidente de la Liga, Javier Tebas, como el propio Mbappe, han pedido disculpas a China después de que el jugador bromeara sobre un meme suyo calificando de dictador a Mao. La reacción china al comentario de Mbappe ha sido inmediata pérdida de patrocinios y suspensión de retransmisiones de los partidos en la tele del gigante asiático. Y luego escucharemos la respuesta de Salvador Dalí a esta pregunta de Jesús Hermida. Seguro que les sorprende. Es una de las perlas de nuestro Archivo que recuperamos en este Día Mundial del Patrimonio Audiovisual.",
+    "summary": [
+      "El candidato ultraderechista brasileño Flávio Bolsonaro huye hacia Estados Unidos tras perder las elecciones presidenciales frente a Lula da Silva, desoyendo la orden del Tribunal Supremo de entregar su pasaporte en el marco de una investigación por blanqueo de capitales.",
+      "En clave nacional, el Boletín Oficial del Estado perfila la polarización en dos grandes bloques de cara a los comicios generales del 29 de noviembre con acuerdos estratégicos para el Senado entre el PSC y los Comunes por un lado, y entre PP y Vox por otro.",
+      "La Encuesta de Población Activa (EPA) del tercer trimestre refleja luces y sombras en el mercado laboral español: se alcanza un récord histórico de más de 22,7 millones de ocupados, pero el desempleo repunta en 95.900 personas y devuelve la tasa de paro por encima del 10 %, mientras salen a subasta los bienes del Pazo de Meirás a beneficio de los herederos de Franco."
+    ],
+    "vocabulary": [
+      {
+        "term": "fugarse del país",
+        "translation": "prendre la fuite / quitter clandestinement le pays",
+        "context": "Ayer quería ser presidente de Brasil y hoy se ha fugado de su país."
+      },
+      {
+        "term": "sembrar dudas",
+        "translation": "semer le doute",
+        "context": "con Netanyahu sembrando dudas sobre el proceso electoral."
+      },
+      {
+        "term": "la Cámara Alta",
+        "translation": "la Chambre haute (le Sénat)",
+        "context": "Feijóo ha vuelto a defender su pacto con Abascal para la Cámara Alta."
+      },
+      {
+        "term": "la tasa de paro",
+        "translation": "le taux de chômage",
+        "context": "El mercado laboral cerró el verano con más desempleados, la tasa de paro ha vuelto a superar el 10%."
+      },
+      {
+        "term": "salir a subasta",
+        "translation": "être mis aux enchères",
+        "context": "Hoy salen a subasta cientos de objetos del Pazo de Meirás."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
   }
 ]
