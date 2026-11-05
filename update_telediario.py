@@ -131,12 +131,38 @@ def fetch_rtve_catalog(limit=40):
     return episodes[:limit] if limit else episodes
 
 
+def extract_vtt_text(vtt_content):
+    """
+    Extrait fidèlement la transcription mot-à-mot depuis le contenu WebVTT de RTVE,
+    en nettoyant les métadonnées de sous-titrage et en éliminant les répétitions
+    de blocs consécutifs sans jamais tronquer ni paraphraser le texte parlé.
+    """
+    if not vtt_content:
+        return ""
+    normalized = vtt_content.replace("\r\n", "\n").replace("\r", "\n")
+    cues = []
+    blocks = re.split(r"\n\s*\n", normalized)
+    for block in blocks:
+        lines = [line.strip() for line in block.splitlines() if line.strip()]
+        text_lines = []
+        for line in lines:
+            if "-->" in line or line.startswith("WEBVTT") or line.startswith("NOTE") or line.startswith("STYLE") or line.startswith("REGION") or line.isdigit():
+                continue
+            cleaned = re.sub(r"<[^>]+>", "", line).strip()
+            if cleaned:
+                text_lines.append(cleaned)
+        if text_lines:
+            cue_text = " ".join(text_lines)
+            if not cues or cues[-1] != cue_text:
+                cues.append(cue_text)
+    transcript = " ".join(cues)
+    return clean_asr_typos(transcript)
+
+
 def fetch_transcription_and_editorial(video_id):
     """
-    Extrait à la fois :
-    1) Les sous-titres VTT espagnols de RTVE
-    2) Le synopsis éditorial officiel rédigé par les journalistes RTVE (api.rtve.es/api/videos/{id}.json)
-    et les combine pour fournir un texte complet et sans trous.
+    Extrait la transcription officielle mot-à-mot depuis les sous-titres VTT espagnols de RTVE,
+    avec le synopsis éditorial officiel en repli si le VTT n'est pas encore disponible.
     """
     vtt_text = ""
     editorial_text = ""
@@ -156,15 +182,7 @@ def fetch_transcription_and_editorial(video_id):
 
         if vtt_url:
             vtt_content = http_get_text(vtt_url, timeout=RTVE_TIMEOUT, retries=3)
-            lines = []
-            for line in vtt_content.splitlines():
-                line = line.strip()
-                if not line or "-->" in line or line.isdigit() or line.startswith("WEBVTT") or line.startswith("NOTE"):
-                    continue
-                cleaned = re.sub(r'<[^>]+>', '', line).strip()
-                if cleaned and (not lines or lines[-1] != cleaned):
-                    lines.append(cleaned)
-            vtt_text = clean_asr_typos(" ".join(lines))
+            vtt_text = extract_vtt_text(vtt_content)
     except Exception as e:
         print(f"    [!] Avertissement VTT ({video_id}) : {e}")
 
@@ -182,17 +200,9 @@ def fetch_transcription_and_editorial(video_id):
     except Exception as e:
         print(f"    [!] Avertissement Synopsis RTVE ({video_id}) : {e}")
 
-    if editorial_text and vtt_text:
-        if len(editorial_text) > 80 and editorial_text[:40].lower() not in vtt_text[:120].lower():
-            combined_display = f"{editorial_text}\n\n{vtt_text}"
-        else:
-            combined_display = vtt_text
-    elif vtt_text:
-        combined_display = vtt_text
-    else:
-        combined_display = editorial_text
-
-    return combined_display, vtt_text, editorial_text
+    # Priorité absolue à la transcription mot-à-mot des sous-titres VTT
+    transcript = vtt_text if len(vtt_text) > 40 else editorial_text
+    return transcript, vtt_text, editorial_text
 
 
 def parse_gemini_json(raw_text):
@@ -207,38 +217,36 @@ def parse_gemini_json(raw_text):
     return json.loads(text)
 
 
-def generate_ai_analysis(vtt_text, editorial_text, title, date, existing_labels):
-    """Génère la transcription reconstituée, le résumé et le lexique CPGE via l'API Gemini avec retries."""
+def generate_ai_analysis(transcript, editorial_text, title, date, existing_labels):
+    """Génère le résumé et le lexique CPGE ainsi que le niveau d'importance via Gemini avec retries."""
     if not API_KEY:
         raise RuntimeError("GEMINI_API_KEY non définie dans l'environnement.")
 
     forbidden_labels = ", ".join(f'"{lbl}"' for lbl in sorted(existing_labels) if lbl)
 
+    context_editorial = f"\nSynopsis éditorial RTVE (contexte complémentaire) :\n\"\"\"{editorial_text}\"\"\"\n" if editorial_text else ""
+
     prompt = f"""Tu es un professeur agrégé d'espagnol en CPGE (classes préparatoires aux grandes écoles).
-Tu analyses cette édition du journal d'actualité RTVE « Telediario en 4 minutos » :
+Tu analyses la transcription intégrale mot-à-mot de cette édition du journal d'actualité RTVE « Telediario en 4 minutos » :
 - Titre : {title}
 - Date : {date}
+{context_editorial}
+Transcription intégrale du journal :
+\"\"\"{transcript}\"\"\"
 
-Synopsis éditorial officiel rédigé par RTVE :
-\"\"\"{editorial_text}\"\"\"
-
-Sous-titres VTT extraits de l'audio :
-\"\"\"{vtt_text}\"\"\"
-
-Ta mission est de produire une ressource d'actualité complète pour des étudiants de CPGE.
+Ta mission est de produire une ressource pédagogique d'actualité de haute qualité pour des étudiants de CPGE préparant les concours des grandes écoles.
 Génère STRICTEMENT un objet JSON valide (aucun commentaire, pas de balises markdown) ayant exactement cette structure :
 {{
-  "clean_transcript": "Texte intégral en espagnol du journal, fluide, complet et corrigé : utilise les sous-titres VTT comme base fidèle, mais comble les phrases tronquées grâce au synopsis éditorial officiel de RTVE et corrige les erreurs de reconnaissance vocale.",
   "importance": "normal",
   "importance_label": "",
   "summary": [
-    "Premier point clé en espagnol d'actualité soutenu (2 à 3 phrases).",
+    "Premier point clé en espagnol d'actualité soutenu : fait marquant, acteurs et enjeux politiques ou économiques (2 à 3 phrases).",
     "Deuxième point clé sur un autre sujet abordé...",
     "Troisième point clé..."
   ],
   "vocabulary": [
     {{
-      "term": "mot ou expression idiomatique en espagnol présent dans la transcription",
+      "term": "mot ou expression idiomatique en espagnol présent dans le journal",
       "translation": "traduction précise en français adaptée au contexte concours CPGE",
       "context": "phrase courte d'illustration extraite du journal"
     }}
@@ -409,24 +417,22 @@ def main():
 
         if is_valid_cached_episode(cached):
             merged_db[ep_id] = cached
-            print(f"  [CACHE OK] {ep['title']} ({ep['date']}) - déjà complet.")
+            print(f"  [CACHE OK] {cached.get('title', ep['title'])} ({cached.get('date', ep['date'])}) - déjà complet.")
             continue
 
         print(f"\n[+] ANALYSE DE L'ÉDITION : {ep['title']} ({ep['date']}) [ID {ep_id}]")
-        combined_text, vtt_text, editorial_text = fetch_transcription_and_editorial(ep_id)
+        transcript, vtt_text, editorial_text = fetch_transcription_and_editorial(ep_id)
 
         if "Telediario 1" in ep["title"] and (
             "/telediario-2/" in ep.get("url", "") or "buenas noches" in (vtt_text[:120] or "").lower()
         ):
             ep["title"] = ep["title"].replace("Telediario 1", "Telediario 2")
 
-        if combined_text:
-            ep["transcript"] = combined_text
-            print(f"    - Textes extraits (VTT: {len(vtt_text)} car. | Synopsis RTVE: {len(editorial_text)} car.).")
+        if transcript:
+            ep["transcript"] = transcript
+            print(f"    - Transcription mot-à-mot (VTT: {len(vtt_text)} car. | Synopsis RTVE: {len(editorial_text)} car.).")
             try:
-                ai_data = generate_ai_analysis(vtt_text, editorial_text, ep["title"], ep["date"], existing_labels)
-                if ai_data.get("clean_transcript") and len(ai_data["clean_transcript"]) > 100:
-                    ep["transcript"] = ai_data["clean_transcript"]
+                ai_data = generate_ai_analysis(transcript, editorial_text, ep["title"], ep["date"], existing_labels)
                 ep["summary"] = ai_data.get("summary", [])
                 ep["vocabulary"] = ai_data.get("vocabulary", [])
 
