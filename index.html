@@ -12,14 +12,24 @@
   <meta name="theme-color" content="#dc2626">
   <link rel="manifest" href="manifest.json">
 
+  <!-- Anti-cache agressif pour navigateurs mobiles et PWA -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
   <!-- Tailwind CSS via CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- HLS.js pour le streaming fluide -->
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <!-- Phosphor Icons pour une interface moderne -->
   <script src="https://unpkg.com/@phosphor-icons/web"></script>
-  <!-- Données locales pré-chargées (double-clic PC) -->
-  <script src="data/telediarios.js"></script>
+  <!-- Données locales pré-chargées avec contournement de cache dynamique (PC + Mobile) -->
+  <script>
+    (function() {
+      var v = Date.now();
+      document.write('<script src="data/telediarios.js?v=' + v + '"><\/script>');
+    })();
+  </script>
 
   <style>
     body {
@@ -673,6 +683,27 @@
         setTimeout(() => openStudentProfileModal(), 300);
       }
 
+      // 1. Sur serveur Web / GitHub Pages : tentative de récupération directe anti-cache
+      const isHttp = window.location.protocol.startsWith("http");
+      if (isHttp) {
+        try {
+          const freshRes = await fetch("data/telediarios.json?v=" + Date.now(), { cache: "no-store" });
+          if (freshRes.ok) {
+            const freshData = await freshRes.json();
+            if (Array.isArray(freshData) && freshData.length > 0) {
+              allEpisodes = freshData;
+              window.TELEDIARIO_DATA = freshData;
+              renderEpisodePills();
+              selectEpisode(0);
+              return;
+            }
+          }
+        } catch (fetchErr) {
+          console.warn("Fetch distant anti-cache telediarios.json indisponible :", fetchErr);
+        }
+      }
+
+      // 2. Repli local (double-clic fichier PC ou hors ligne) via window.TELEDIARIO_DATA
       if (window.TELEDIARIO_DATA && Array.isArray(window.TELEDIARIO_DATA) && window.TELEDIARIO_DATA.length > 0) {
         allEpisodes = window.TELEDIARIO_DATA;
         renderEpisodePills();
@@ -680,6 +711,7 @@
         return;
       }
 
+      // 3. Dernier recours : fetch classique
       try {
         const res = await fetch("data/telediarios.json");
         if (res.ok) {
