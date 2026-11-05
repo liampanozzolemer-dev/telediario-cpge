@@ -27,9 +27,42 @@
     "embed_url": "https://www.rtve.es/drmn/embed/video/17300630",
     "transcript": "Buenos días, Carlos Cuerpo asume la gestión del ministerio de Transportes. Su primera conversación fue con su predecesor, Oscar Puente. Y su objetivo, dice, de recuperar la confianza en el sistema ferroviario. Así describía también en una entrevista anoche Así describía también en una entrevista anoche en el telediario 2 cómo había recibido la dimisión del presidente de Adif, Luis Pedro Marco de la Peña. Sobre la de Oscar Puente, sabemos que se lo comunicó a Sánchez sólo unos minutos antes, por móvil y en un mensaje largo, cariñoso y personal. En la zona cero, los camiones se llevan poco a poco los vagones siniestrados. 34 personas continúan hospitalizadas, Cuatro en la UCI. El funeral de estado por las víctimas de la tragedia será el próximo martes día 10. Madrid acoge hoy el segundo día de la cumbre iberoamericana: los Reyes la han inaugurado hace unas horas. A las ausencias ya previstas, se sumó anoche la de Javier Milei, que, según ha publicado en redes, sí estuvo con Santiago Abascal. Amnistía Internacional denuncia nuevos casos de presuntas agresiones a migrantes en Ceuta por parte de militares. La ONG asegura que pese a la investigación judicial y la anunciada a nivel interno por Defensa, han podido documentar 28 nuevos casos, 13 a menores. Estados Unidos sigue digiriendo la apabullante victoria demócrata Estados Unidos sigue digiriendo la apabullante victoria demócrata en las urnas. Donald Trump ha admitido que la guerra en Irán ha motivado la debacle, aunque, dice, la repetiría. Estará más limitado en su mandato pero el presidente podrá seguir gobernando a base de vetos y de decretos. Y en Deportes, Suerte desigual para los equipos españoles anoche en la Champions, Joaquín. Así es Cristina, perdió el Betis y ganó el Real Madrid. Los de Mourinho se impusieron en Atenas por 2 a 3 en un partido de remontada. En el descuento, Fede Valverde sacó este cañonazo para dar la victoria a un Madrid que supo sufrir en el campo del AEK, levantando dos veces un gol en contra. Bellingham y Mbappé completaron la cuenta madridista Y el Betis cayó 2 - 1 en Dortmund con la cabeza bien alta. Al tanto de Fabio Silva, respondió Aitor Ruibal igualando el marcador para los verdiblancos. Un gran Álvaro Valles detuvo el ataque rival, hasta que Karetsas desniveló el choque para el Borussia en el 72. Amanecemos con frío Gabriel, sobre todo en el norte. Tiritando en muchos casos, con heladas especialmente en la meseta norte. Salamanca ahora mismo tiene 5° bajo cero, también cuatro negativos en Valencia. También zona de montaña con mucho frío, la mínima se quedan por debajo de 10 en la mayor parte del país. Y especialmente Baleares, y Cataluña con su bajo que pueden ser localmente fuertes. Incluso por la mañana con algo de lluvia. Continuó con ambiente general soleado, y en Canarias alguna gota hacia la isla de La Palma. La temperatura se quedan parecidas a las de ayer, y en el suroeste cerca de 25°.",
     "summary": [
-      "Résumé en cours de traitement."
+      "La crisis en el Ministerio de Transportes se agrava con la asunción de la cartera por Carlos Cuerpo, quien sucede a Óscar Puente con el acuciante cometido de restaurar la credibilidad del maltrecho sistema ferroviario español tras una catástrofe que aún mantiene a decenas de heridos hospitalizados.",
+      "En el plano internacional, la Cumbre Iberoamericana celebrada en Madrid se ve ensombrecida por notables ausencias diplomáticas y tensiones políticas, mientras que Estados Unidos procesa las repercusiones geopolíticas y electorales de una contundente derrota demócrata ligada a la gestión de conflictos exteriores.",
+      "El ámbito deportivo destaca la fortuna dispar de los clubes españoles en la Liga de Campeones, con una sufrida remontada del Real Madrid en Atenas orquestada por figuras clave y un digno tropiezo del Real Betis en suelo alemán ante el Borussia Dortmund."
     ],
-    "vocabulary": []
+    "vocabulary": [
+      {
+        "term": "la debacle",
+        "translation": "la déroute, l'effondrement",
+        "context": "Donald Trump ha admitido que la guerra en Irán ha motivado la debacle."
+      },
+      {
+        "term": "desnivelar el choque",
+        "translation": "faire basculer la rencontre, rompre l'équilibre",
+        "context": "hasta que Karetsas desniveló el choque para el Borussia en el 72."
+      },
+      {
+        "term": "a base de vetos y de decretos",
+        "translation": "à coup de vétos et de décrets",
+        "context": "el presidente podrá seguir gobernando a base de vetos y de decretos."
+      },
+      {
+        "term": "apabullante",
+        "translation": "écrasant, fulgurant",
+        "context": "Estados Unidos sigue digiriendo la apabullante victoria demócrata en las urnas."
+      },
+      {
+        "term": "suerte desigual",
+        "translation": "sort sortilège, fortunes diverses",
+        "context": "Suerte desigual para los equipos españoles anoche en la Champions."
+      },
+      {
+        "term": "con la cabeza bien alta",
+        "translation": "la tête haute",
+        "context": "Y el Betis cayó 2 - 1 en Dortmund con la cabeza bien alta."
+      }
+    ]
   },
   {
     "id": "17299811",
