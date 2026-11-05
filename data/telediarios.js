@@ -1,5 +1,37 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17301584",
+    "title": "Telediario 1 en 4' -  05/11/26",
+    "date": "2026-11-05",
+    "date_label": "05.11.2026",
+    "duration": "03.58 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-05-11-26/17301584/",
+    "image": "https://img.rtve.es/v/17301584?w=800&amp;preview=01793887745556.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17301584.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17301584",
+    "transcript": "Nueva operación policial por el caso Koldo. para requerir información y detiene a seis personas. y un exmilitante del PSOE que hizo de conductor de Sánchez Buenas tardes. Esta nueva operación, bajo secreto de sumario, después de recibir un nuevo informe de la Guardia Civil, Aitor Lourido. -Tráfico de influencias lo que ha hecho es ver los pagos a terceros, o de crédito moneda. en lo que estarían alojadas esas presuntas comisiones, en un cortijo de la corrupción. Koldo García insiste desde la cárcel en que acordó con el abogado del PP El PP lo niega y acusa de mentir al exasesor de Ábalos. Pedro Sánchez y el argentino Javier Milei han coincidido hoy tras el saludo al rey, los dos se han estrechado la mano, de forma ráipida y distante, En su última visita a España, En la zona cero del accidente de Urda En una hora, el ministro Cuerpo, que acaba de asumir Transportes, que ha convocado una huelga para el próximo día 10. El salario mínimo subirá un 5,3 %, hasta los 1.286 euros, en 2027. Son 65 euros más al mes, En Estados Unidos, el partido republicano Trump no se responsabiliza de los resultados. Cree que la guerra de Irán les ha pasado factura. Al menos 25 vuelos en toda Europa han recibido amenazas de bomba, hasta ahora todas falsas, Hoy es la dolorosa despedida a Jesús de Miguel, El mundo del fútbol ha arropado a familiares y amigos del futbolista -como podéis ver imagen en directo, acaba de llegar a esta iglesia parroquial, el coche con el cuerpo delantero Jesús de Miguel, el funeral estaba previsto para las 3:00 de la tarde, hasta aquí se han desplazado numerosos representantes del fútbol, para mostrar el cariño y apoyo a la familia.",
+    "summary": [
+      "Résumé en cours de traitement."
+    ],
+    "vocabulary": []
+  },
+  {
+    "id": "17300630",
+    "title": "Telediario matinal en 4' - 05/11/2026",
+    "date": "2026-11-05",
+    "date_label": "05.11.2026",
+    "duration": "03.37 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-05-11-2026/17300630/",
+    "image": "https://img.rtve.es/v/17300630?w=800&amp;preview=01793824128958.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17300630.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17300630",
+    "transcript": "Buenos días, Carlos Cuerpo asume la gestión del ministerio de Transportes. Su primera conversación fue con su predecesor, Oscar Puente. Y su objetivo, dice, de recuperar la confianza en el sistema ferroviario. Así describía también en una entrevista anoche Así describía también en una entrevista anoche en el telediario 2 cómo había recibido la dimisión del presidente de Adif, Luis Pedro Marco de la Peña. Sobre la de Oscar Puente, sabemos que se lo comunicó a Sánchez sólo unos minutos antes, por móvil y en un mensaje largo, cariñoso y personal. En la zona cero, los camiones se llevan poco a poco los vagones siniestrados. 34 personas continúan hospitalizadas, Cuatro en la UCI. El funeral de estado por las víctimas de la tragedia será el próximo martes día 10. Madrid acoge hoy el segundo día de la cumbre iberoamericana: los Reyes la han inaugurado hace unas horas. A las ausencias ya previstas, se sumó anoche la de Javier Milei, que, según ha publicado en redes, sí estuvo con Santiago Abascal. Amnistía Internacional denuncia nuevos casos de presuntas agresiones a migrantes en Ceuta por parte de militares. La ONG asegura que pese a la investigación judicial y la anunciada a nivel interno por Defensa, han podido documentar 28 nuevos casos, 13 a menores. Estados Unidos sigue digiriendo la apabullante victoria demócrata Estados Unidos sigue digiriendo la apabullante victoria demócrata en las urnas. Donald Trump ha admitido que la guerra en Irán ha motivado la debacle, aunque, dice, la repetiría. Estará más limitado en su mandato pero el presidente podrá seguir gobernando a base de vetos y de decretos. Y en Deportes, Suerte desigual para los equipos españoles anoche en la Champions, Joaquín. Así es Cristina, perdió el Betis y ganó el Real Madrid. Los de Mourinho se impusieron en Atenas por 2 a 3 en un partido de remontada. En el descuento, Fede Valverde sacó este cañonazo para dar la victoria a un Madrid que supo sufrir en el campo del AEK, levantando dos veces un gol en contra. Bellingham y Mbappé completaron la cuenta madridista Y el Betis cayó 2 - 1 en Dortmund con la cabeza bien alta. Al tanto de Fabio Silva, respondió Aitor Ruibal igualando el marcador para los verdiblancos. Un gran Álvaro Valles detuvo el ataque rival, hasta que Karetsas desniveló el choque para el Borussia en el 72. Amanecemos con frío Gabriel, sobre todo en el norte. Tiritando en muchos casos, con heladas especialmente en la meseta norte. Salamanca ahora mismo tiene 5° bajo cero, también cuatro negativos en Valencia. También zona de montaña con mucho frío, la mínima se quedan por debajo de 10 en la mayor parte del país. Y especialmente Baleares, y Cataluña con su bajo que pueden ser localmente fuertes. Incluso por la mañana con algo de lluvia. Continuó con ambiente general soleado, y en Canarias alguna gota hacia la isla de La Palma. La temperatura se quedan parecidas a las de ayer, y en el suroeste cerca de 25°.",
+    "summary": [
+      "Résumé en cours de traitement."
+    ],
+    "vocabulary": []
+  },
+  {
     "id": "17299811",
     "title": "Telediario 1 en 4' -  04/11/26",
     "date": "2026-11-04",
@@ -398,100 +430,6 @@ window.TELEDIARIO_DATA = [
         "term": "cumplir con la tradición",
         "translation": "respecter la tradition",
         "context": "España cumple con la tradición de recordar a sus seres queridos."
-      }
-    ]
-  },
-  {
-    "id": "17295285",
-    "title": "Telediario matinal en 4' - 1/11/26",
-    "date": "2026-11-01",
-    "date_label": "01.11.2026",
-    "duration": "04.30 min",
-    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-1-11-26/17295285/",
-    "image": "https://img.rtve.es/v/17295285?w=800&amp;preview=01793514481923.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17295285.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17295285",
-    "transcript": "Buenos días, ya se han identificado a 56 de las 69 víctimas mortales del trágico accidente ferroviario de Urda y se espera que las otras 13 se completen en las próximas horas. 54 de las víctimas identificadas son españolas y dos extranjeras, una portuguesa y otra francesa. La mayoría de las identificaciones se han realizado por medio de huella dactilar y las otras cuatro por ADN. Mientras, aún hay 41 personas ingresadas en hospitales de Castilla-La Mancha y Madrid. Hoy van a continuar las labores de retirada de los vagones de los trenes accidentados el miércoles. La juez que lleva el caso está siguiendo en el lugar de los hechos estos trabajos y decidiendo qué material se necesita para la investigación Con tierra rellenan el camino que separa las vías de la carretera. Quieren facilitar el acceso a los camiones que se van a llevar el resto de vagones. Allí siguen trabajando las unidades caninas Están coordinados con las grúas para que una vez se están moviendo el amasijo de hierros, el perro y su guía entre con seguridad y puedan hallar algún tipo de resto biológico. Sobre el terreno la jueza revisa personalmente las pruebas.. que se almacenan en una finca cercana. La Guardia Civil ha detectado al menos dos nuevos drones grabando sin autorización. Hoy también ha sido el primer día en el que han recogido enseres personales. Entre ellos es probable que estén los de Almudena, única superviviente del vagón 8 de Lirio Agarramos la mano, ya nos la soltamos y empezamos a hacer turnos para extraer todo lo que podíamos de encima de ella Así recuerda su rescate el agente Salvador Correa. Ha hablado con su pareja y sabe que ella es una de los 41 heridos que siguen ingresados. 34 en hospitales de Castilla-La Mancha. Bajan también los pacientes en la UCI. La cantante Clara Montes ya ha salido Está en Neurocirugía, pero todo son buenas noticias. Mientras sigue la identificación de los cuerpos. Ya son 36 de los 69 fallecidos, entre ellos el de la compositora Marisa Machado. Otras familias siguen sin noticias Nos encontramos trabajando el inicio de un proceso de duelo con las personas, familiares que todavía continúan desaparecidos. En Urda.. esta mañana han celebrado una misa por todas las víctimas. Acompañar a las familias. Estamos con ellos. La Catedral de Toledo acogerá un funeral oficial en los próximos días La línea de alta velocidad Madrid-Andalucía es la única que sigue funcionando con el sistema LZB, pero está a punto de pasar al sistema unificado europeo que ya se utiliza en el resto de la red ferroviaria de nuestro país Los expertos insisten en que todos los sistemas son igual de fiables, aunque recomiendan revisar los protocolos Los expertos reconocen que en el sistema ferroviario español hay aspectos a mejorar. El mantenimiento por kilómetro de vía en España debería de llegar prácticamente a duplicarse. O revisar, dicen desde la Asociación de Ingenieros de Caminos... ...algunos de los protocolos que se aplican Mejorar sustancialmente los protocolos de actuación en situación degradada, es decir, cuando han fallado, que todo puede ocurrir en un momento determinado, los sistemas de control automático. Pero defienden la fiabilidad de los mecanismos de seguridad en sí. En el mundo existen diferentes sistemas para la alta velocidad. El de Japón es considerado todo un referente Pero Europa, recalca a los analistas, no se queda atrás. Aquí la normativa obliga a instalar el conocido como ERTMS. La vocación fue tener un sistema único, muy sofisticado, de gran calidad, para toda la red europea, de forma que un tren alemán pudiese circular por España un tren español pudiese circular por Francia cambiar los sistemas que tiene cada país por el rtms es caro y lleva tiempo. Francia o Alemania van más retrasados, pero en España, como refleja el mapa, solo queda una línea por actualizar. Las únicas líneas de alta velocidad que quedan por migrada es precisamente el corredor Sur, el Madrid-Sevilla, que es el primero que se abrió. Aún así, los expertos inciden en que el otro sistema, el LZB, también es seguro. Ha habido un fallo importante, pero no es un problema ni de la liberalización ni de los sistemas de diseño de los sistemas de seguridad. Encontrar dónde está ese fallo es ahora.. el reto de la investigación investigación",
-    "summary": [
-      "Un trágico accidente ferroviario en Urda, que ha dejado 69 víctimas mortales, mobiliza a los servicios de rescate y a la justicia para identificar los cuerpos restantes y esclarecer las causas del siniestro.",
-      "La investigación judicial cuenta con el apoyo de unidades caninas y avanza en la retirada de los vagones afectados, mientras la Guardia Civil vigila el perímetro y detecta el vuelo no autorizado de drones.",
-      "El debate sobre la seguridad ferroviaria pone el foco en la modernización de las infraestructuras, señalando que la línea Madrid-Andalucía es la última pendiente de migrar al sistema unificado europeo ERTMS."
-    ],
-    "vocabulary": [
-      {
-        "term": "huella dactilar",
-        "translation": "empreinte digitale",
-        "context": "La mayoría de las identificaciones se han realizado por medio de huella dactilar y las otras cuatro por ADN."
-      },
-      {
-        "term": "amasijo de hierros",
-        "translation": "amas de ferraille",
-        "context": "Están coordinados con las grúas para que una vez se estén moviendo el amasijo de hierros, el perro y su guía entre con seguridad."
-      },
-      {
-        "term": "enseres personales",
-        "translation": "effets personnels",
-        "context": "Hoy también ha sido el primer día en el que han recogido enseres personales."
-      },
-      {
-        "term": "situación degradada",
-        "translation": "situation dégradée",
-        "context": "Mejorar sustancialmente los protocolos de actuación en situación degradada, es decir, cuando han fallado los sistemas de control automático."
-      },
-      {
-        "term": "migrar",
-        "translation": "migrer / passer (technologiquement)",
-        "context": "Las únicas líneas de alta velocidad que quedan por migrar es precisamente el corredor Sur."
-      },
-      {
-        "term": "liberalización",
-        "translation": "libéralisation (économique)",
-        "context": "Ha habido un fallo importante, pero no es un problema ni de la liberalización ni de los sistemas de diseño."
-      }
-    ]
-  },
-  {
-    "id": "17295201",
-    "title": "Telediario 2 en 4' - 31/10/26",
-    "date": "2026-10-31",
-    "date_label": "31.10.2026",
-    "duration": "01.04 min",
-    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-31-10-26/17295201/",
-    "image": "https://img.rtve.es/v/17295201?w=800&amp;preview=01793477211149.jpg",
-    "hls_url": "https://ztnr.rtve.es/ztnr/17295201.m3u8",
-    "embed_url": "https://www.rtve.es/drmn/embed/video/17295201",
-    "transcript": "Las grúas han levantado hoy 5 vagones en homenaje a las 69 víctimas. Hay todavía 41 heridos hospitalizados. Disturbios en París y otras ciudades de Francia, pese al fuerte despliegue policial, en el tercer sábado consecutivo de protestas. Hay al menos 400 detenidos. En Alemania, enfrentamientos en Hamburgo o Frankfurt tras las manifestaciones de la generación Z por el coste de la vida y contra el servicio militar. Amplio despliegue policial y comercios blindados en algunas ciudades antes las convocatorias del movimiento radical Blocus. En Barcelona los Mossos y Guardia Urbana han identificado a mil personas. Y la justicia ha decretado prisión provisional al presunto cabezilla de la trama en España.",
-    "summary": [
-      "Un homenaje solemne con el izado de cinco vagones conmemora a las 69 víctimas de una catástrofe ferroviaria, mientras que 41 personas continúan ingresadas, evidenciando la magnitud todavía palpable de la tragedia.",
-      "Francia registra su tercer sábado consecutivo de disturbios con un balance de al menos 400 detenidos, reflejando la persistencia de una contestación social agudizada a pesar del masivo dispositivo policial desplegado.",
-      "Alemania experimenta enfrentamientos urbanos en ciudades como Hamburgo y Fráncfort a raíz de protestas de la generación Z contra el coste de la vida y el servicio militar, en un contexto de tensiones marcadas por la acción de movimientos radicales.",
-      "En el ámbito de la seguridad interior, Barcelona despliega un control exhaustivo con un millar de identificaciones conjuntas de los Mozos de Escuadra y la Guardia Urbana, mientras la justicia endurece su respuesta dictando prisión provisional contra el presunto cabecilla de una trama en España."
-    ],
-    "vocabulary": [
-      {
-        "term": "un fuerte despliegue policial",
-        "translation": "un important dispositif de police",
-        "context": "Disturbios en París y otras ciudades de Francia, pese al fuerte despliegue policial."
-      },
-      {
-        "term": "el coste de la vida",
-        "translation": "le coût de la vie",
-        "context": "En Alemania, enfrentamientos en Hamburgo o Frankfurt tras las manifestaciones por el coste de la vida."
-      },
-      {
-        "term": "comercios blindados",
-        "translation": "commerces aux vitrines protégées / barricadés",
-        "context": "Amplio despliegue policial y comercios blindados en algunas ciudades."
-      },
-      {
-        "term": "prisión provisional",
-        "translation": "détention provisoire",
-        "context": "Y la justicia ha decretado prisión provisional al presunto cabecilla."
-      },
-      {
-        "term": "el presunto cabecilla",
-        "translation": "le presumé chef de file / meneur",
-        "context": "Y la justicia ha decretado prisión provisional al presunto cabecilla de la trama en España."
       }
     ]
   }
