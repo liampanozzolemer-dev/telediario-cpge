@@ -1,5 +1,23 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17304258",
+    "title": "Telediario 2 en 4' - 06/11/26",
+    "date": "2026-11-06",
+    "date_label": "06.11.2026",
+    "duration": "03.24 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-06-11-26/17304258/",
+    "image": "https://img.rtve.es/v/17304258?w=800&amp;preview=1793995863081.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17304258.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17304258",
+    "transcript": "¿Qué está pasando? Hoy los ataques le han tocado a los datos financieros y médicos de miles de ciudadanos de Moldavia, a varias grandes cadenas de televisión \"Estamos ante un intento de agresión híbrida. y de guerra de alguna forma psicológica, Y así realizar la inmensa tarea que tenemos por delante, los mítines y actos de partido están ya por toda España. \"Quedan tres semanas y dos días y para que España tenga un nuevo futuro. La Fiscalía Europea abre una investigación para mejorar la seguridad de la línea de alta velocidad Agentes de la UCO han requerido documentación 14 detenidos en una operación Los investigan por delito de odio, asociación ilícita y tenencia de armas. Han registrado 7 sedes, en distintas provincias. Todas las grandes empresas tecnológicas y también porque la derrota de Donald Trump pueda acabar con la barra libre regulatoria de la que han disfrutado estas grandes compañías. Comienza el juicio político contra el presidente de Paraguay por el escándalo del banco Ueno, Santiago Peña fue accionista de la entidad. para convertirse en senador y gozar de inmunidad, El anuncio de la Lotería de Navidad de este año Hoy preguntamos cuánto gastamos los españoles en loterías de todo tipo,",
+    "summary": [
+      "Résumé en cours de traitement."
+    ],
+    "vocabulary": [],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17303558",
     "title": "Telediario 1 en 4' - 06/11/2026",
     "date": "2026-11-06",
