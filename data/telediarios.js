@@ -1,5 +1,56 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17304729",
+    "title": "Telediario 1 en 4' - 07/11/26",
+    "date": "2026-11-07",
+    "date_label": "07.11.2026",
+    "duration": "03.31 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-07-11-26-1-cuatro-minutos-071126/17304729/",
+    "image": "https://img.rtve.es/v/17304729?w=800&amp;preview=01794060202877.png",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17304729.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17304729",
+    "transcript": "Pedro Sánchez y Alberto Núñez Feijóo Pedro Sánchez y Alberto Núñez Feijóo apelan a la movilización del voto en el último fin de semana de precamapaña tras el parón provocado por el accidente de Urda. Ambos líderes piden mayorías para poder gobernar después de la cita con las urnas del 29 de noviembre. Buenas tardes. Feijóo se ha centrado en las críticas a la gestión del accidente de Urda y Sánchez en recordar que tras Brasil y Estados Unidos \"Que nadie piense que van a venir solos los votos. hay que ir a votar\". Actos también hoy de los candidatos de los principales partidos. La ruta canaria acelera el ritmo de llegadas de migrantes. la isla ha recibido en los últimos 7 días más de 41 embarcaciones y más de 4000 migrantes. Desarticulada en Catalunya una red criminal con ganancias de más de 3 millones de euros. Destituido y arrestado el presidente de Paraguay Santiago Peña. El senado lo aparta del cargo tras el colapso de un banco sin acceso a sus cuentas. A esta hora el papa oficia una misa oficiada en Uruguay, La Liga se vuelca en recordar a Jesús de Miguel, Emotivo minuto de silencio y el partido se paró,",
+    "summary": [
+      "A pocas semanas de la cita electoral del 29 de noviembre, Pedro Sánchez y Alberto Núñez Feijóo apelan intensamente a la movilización de sus bases tras el paréntesis provocado por el siniestro de Urda, cuyo impacto y gestión siguen polarizando el debate político.",
+      "La crisis migratoria se agudiza con una intensa reactivación de la ruta canaria —con más de 4.000 llegadas en apenas una semana—, al tiempo que las fuerzas de seguridad desmantelan en Cataluña una trama delictiva dedicada al tráfico ilegal de personas.",
+      "En el plano internacional, el Senado de Paraguay ha destituido y puesto bajo arresto al presidente Santiago Peña a raíz del colapso de una entidad bancaria, mientras el papa comienza en Uruguay una gira pastoral de doce días por el continente."
+    ],
+    "vocabulary": [
+      {
+        "term": "apelar a la movilización",
+        "translation": "en appeler à la mobilisation / exhorter à la mobilisation",
+        "context": "Pedro Sánchez y Alberto Núñez Feijóo apelan a la movilización del voto en el último fin de semana de precampaña."
+      },
+      {
+        "term": "la cita con las urnas",
+        "translation": "le rendez-vous électoral / l'échéance électorale",
+        "context": "Ambos líderes piden mayorías para poder gobernar después de la cita con las urnas del 29 de noviembre."
+      },
+      {
+        "term": "el parón",
+        "translation": "le coup d'arrêt / la suspension temporaire",
+        "context": "...en el último fin de semana de precampaña tras el parón provocado por el accidente de Urda."
+      },
+      {
+        "term": "desarticular una red criminal",
+        "translation": "démanteler un réseau criminel",
+        "context": "Desarticulada en Catalunya una red criminal con ganancias de más de 3 millones de euros."
+      },
+      {
+        "term": "apartar del cargo",
+        "translation": "démettre de ses fonctions / destituer",
+        "context": "El senado lo aparta del cargo tras el colapso de un banco sin acceso a sus cuentas."
+      },
+      {
+        "term": "volcarse en",
+        "translation": "se mobiliser pour / s'investir pleinement dans",
+        "context": "La Liga se vuelca en recordar a Jesús de Miguel, el futbolista del Tenerife."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Destitution du président paraguayen"
+  },
+  {
     "id": "17304403",
     "title": "Telediario matinal en 4' - 7/11/26",
     "date": "2026-11-07",
