@@ -14,17 +14,18 @@ DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 OUTPUT_FILE = os.path.join(DATA_DIR, "telediarios.json")
 OUTPUT_JS_FILE = os.path.join(DATA_DIR, "telediarios.js")
 
-# Modèles Gemini officiels et actuels avec repli automatique en cascade
+# Modèles Gemini officiels et ultra-rapides testés avec succès
 GEMINI_MODELS = [
-    "gemini-2.5-flash",
-    "gemini-2.5-flash-lite",
-    "gemini-2.0-flash",
-    "gemini-flash-latest"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite",
+    "gemini-3-flash-preview",
+    "gemini-3.1-flash-lite-preview",
+    "gemini-3.8-flash"
 ]
 
-# Timeouts généreux et tentatives de retry pour éviter tout échec réseau ou temps de génération long
+# Timeouts et tentatives de retry
 RTVE_TIMEOUT = 20
-GEMINI_TIMEOUT = 90
+GEMINI_TIMEOUT = 45
 MAX_RETRIES_PER_MODEL = 2
 
 INVALID_SUMMARY_MARKERS = (
@@ -448,24 +449,23 @@ def main():
 
                 print(f"    - Succès IA : {len(ep['summary'])} points clés, {len(ep['vocabulary'])} termes CPGE.")
                 new_count += 1
+                merged_db[ep_id] = ep
             except Exception as err:
                 print(f"    - Erreur Gemini : {err}")
                 if cached and is_valid_cached_episode(cached):
                     merged_db[ep_id] = cached
-                    continue
-                ep["summary"] = ["Résumé en cours de traitement."]
-                ep["vocabulary"] = []
-                ep["importance"] = "normal"
-                ep["importance_label"] = ""
+                    print(f"    [i] Conservation de la version complète précédente en cache.")
+                else:
+                    print(f"    [!] Édition non publiée en l'état (pas de résumé/lexique). Elle sera retraitée au prochain passage.")
+                continue
         else:
-            ep["transcript"] = ""
-            print("    - Aucune transcription disponible pour l'instant.")
-            ep["summary"] = ["Journal très récent : transcription en attente."]
-            ep["vocabulary"] = []
-            ep["importance"] = "normal"
-            ep["importance_label"] = ""
+            print("    - Aucune transcription disponible pour l'instant (journal trop récent).")
+            if cached and is_valid_cached_episode(cached):
+                merged_db[ep_id] = cached
+            else:
+                print(f"    [!] Édition non publiée en l'état : en attente des sous-titres RTVE au prochain passage.")
+            continue
 
-        merged_db[ep_id] = ep
         time.sleep(1.5)
 
     all_episodes_sorted = sort_episodes_chronologically(merged_db)
