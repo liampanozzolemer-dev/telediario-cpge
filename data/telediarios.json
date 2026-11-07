@@ -62,9 +62,43 @@
     "embed_url": "https://www.rtve.es/drmn/embed/video/17304403",
     "transcript": "El próximo 29 de noviembre no vamos a dar un paso atrás. ¡Al contrario! contrario, vamos a dar un paso al frente para ganar también aquí a la vamos a dar un paso al frente para ganar también aquí a la derecha ya la ultraderecha y a la derecha que se ha ubicado ante la ultraderecha. derecha que ha ubicado a Quedan tres semanas y dos días para que Sánchez sea pasado y para que España tenga un nuevo futuro. El día 30, vamos a empezar a cambiarlo todo y que vamos a levantar todo lo que han derribado, a reconstruir todo lo que han destruido. Recuperar dinero en manos de ultraricos en este país, que debe ser redistribuido a la población Hola, muy buenos días, ya lo ven. Estamos en el último fin de semana de la precampaña. Hoy sábado los líderes se van a repartir por todo el país. Tendremos a Pedro Sánchez en Tarragona, con Salvador Illa, Alberto Núñez Feijó, estará en Valladolid, Abascal en Guadalajara, Irene Montero y Gabriel Rufián compartirán acto en Madrid. Pero este sábado, este 7 de noviembre, nos deja muchos más asuntos. Por ejemplo, la Fiscalía Europea que ha abierto una segunda investigación sobre la línea de alta velocidad Madrid-Sevilla. ¿Quieres saber si pudo haber algún tipo de fraude al usar los fondos europeos para mantener la línea de AVE más antigua del país Todo mientras el sindicato de maquinistas, el SEMAF, mantiene la huelga en Renfe. Será el martes 10 un paro de 24 horas y el jueves 12 paros parciales durante tres franjas. Lo han decidido tras dos reuniones sin acuerdo con el vicepresidente primero. Recordamos que Carlos Cuerpo ha asumido de forma transitoria la cartera de Transportes Y Europa afronta nuevas amenazas contra servicios esenciales cibernéticas en muchos casos. En Irlanda, falsos avisos de bomba han obligado a desalojar hasta la televisión pública Han afectado a otras cadenas y a más de 10 vuelos. En Moldavia, un ciberataque ha dejado al descubierto los datos médicos y financieros de casi medio millón de personas Detienen al expresidente de Paraguay, a Santiago Peña. Está en arresto domiciliario. Horas antes, el Senado le había destituido por unanimidad. La Fiscalía le investiga por El colapso de Buenobank. Esa entidad ha dejado sin poder acceder a sus ahorros a casi 3 millones de clientes. El vicepresidente Pedro Ayana ha asumido la presidencia. El Papa ya está en Uruguay. Es la primera etapa de su gira por Latinoamérica durante estos 12 días. León XIV también estará en Argentina o en Perú Ayer llegó a Montevideo, lo hace tres semanas después de la operación de cáncer de pulmón En Canarias, el Cabildo del Hierro declara la emergencia social tras llegar 8.000 migrantes en apenas cinco semanas El hospital de la isla se declara saturado, falta personal, han ampliado las urgencias hasta en un salón de actos Bueno, y en deportes, Carlos Alcaraz, que está en semifinales del Masters 1000 de París, por primera vez remontó ante el estadounidense Taylor Fritz, salvando dos bolas de partido. Ganó 6-7, 7-5 y 6-3 en dos horas y 45 minutos. Una victoria además que tiene una especie de premio doble, asegura a Rafa Jodar una plaza en las finales ATP de Turismo. Bueno, miramos al tiempo porque en unas horas va a llegar la lluvia a partir de esta tarde y no se va a ir en días. Hay una nueva borrasca de estas que tienen nombre, se llama Bruna ¿Qué tal están? Durante este sábado estamos viendo bastantes nubes e incluso algunas precipitaciones, especialmente en el interior norte peninsular, donde la tarde quedará con bastantes más claros. Veremos allí el sol. Un sol que ya estamos viendo hacia Andalucía, sur del país, también en el este, aunque decorado por algunas nubes altas Ojo porque al final del día, más bien por la noche, llegan lluvias fuertes a la isla de La Palma. Todo con temperaturas que se mueven en torno a 15 grados y que superan los 25 hacia el Valle del Guadalquivir. Mañana veremos un aumento de las nubes por el oeste. Al final también van llegando algunas lluvias y ojo porque en Canarias Europea vuelve a investigar la línea de alta velocidad entre Madrid y Sevilla caerán con intensidad",
     "summary": [
-      "Résumé en cours de traitement."
+      "La campaña electoral española entra en su fase decisiva con los líderes políticos desplegados por todo el territorio nacional, marcando el inicio del último fin de semana de precampaña antes de los comicios.",
+      "La Fiscalía Europea ha iniciado una nueva investigación sobre la gestión de fondos comunitarios destinados al mantenimiento de la línea de alta velocidad Madrid-Sevilla, sospechando posibles irregularidades financieras.",
+      "El Senado de Paraguay ha destituido por unanimidad al presidente Santiago Peña, quien se encuentra bajo arresto domiciliario mientras se le investiga por el colapso de la entidad financiera Buenobank.",
+      "La crisis migratoria en Canarias se agrava tras la llegada de 8.000 personas en cinco semanas, forzando al Cabildo de El Hierro a declarar la emergencia social ante la saturación de sus infraestructuras sanitarias."
     ],
-    "vocabulary": [],
+    "vocabulary": [
+      {
+        "term": "dar un paso al frente",
+        "translation": "prendre ses responsabilités, aller de l'avant",
+        "context": "vamos a dar un paso al frente para ganar también aquí a la derecha"
+      },
+      {
+        "term": "dejar al descubierto",
+        "translation": "mettre en lumière, révéler, exposer",
+        "context": "un ciberataque ha dejado al descubierto los datos médicos y financieros"
+      },
+      {
+        "term": "por unanimidad",
+        "translation": "à l'unanimité",
+        "context": "el Senado le había destituido por unanimidad"
+      },
+      {
+        "term": "estar en el punto de mira",
+        "translation": "être dans le collimateur (ici sous-entendu par l'enquête)",
+        "context": "La Fiscalía le investiga por el colapso de Buenobank"
+      },
+      {
+        "term": "saturado",
+        "translation": "saturé, débordé",
+        "context": "El hospital de la isla se declara saturado, falta personal"
+      },
+      {
+        "term": "borrasca",
+        "translation": "dépression (météorologique)",
+        "context": "Hay una nueva borrasca de estas que tienen nombre, se llama Bruna"
+      }
+    ],
     "importance": "normal",
     "importance_label": ""
   },
@@ -80,11 +114,45 @@
     "embed_url": "https://www.rtve.es/drmn/embed/video/17304258",
     "transcript": "¿Qué está pasando? Hoy los ataques le han tocado a los datos financieros y médicos de miles de ciudadanos de Moldavia, a varias grandes cadenas de televisión \"Estamos ante un intento de agresión híbrida. y de guerra de alguna forma psicológica, Y así realizar la inmensa tarea que tenemos por delante, los mítines y actos de partido están ya por toda España. \"Quedan tres semanas y dos días y para que España tenga un nuevo futuro. La Fiscalía Europea abre una investigación para mejorar la seguridad de la línea de alta velocidad Agentes de la UCO han requerido documentación 14 detenidos en una operación Los investigan por delito de odio, asociación ilícita y tenencia de armas. Han registrado 7 sedes, en distintas provincias. Todas las grandes empresas tecnológicas y también porque la derrota de Donald Trump pueda acabar con la barra libre regulatoria de la que han disfrutado estas grandes compañías. Comienza el juicio político contra el presidente de Paraguay por el escándalo del banco Ueno, Santiago Peña fue accionista de la entidad. para convertirse en senador y gozar de inmunidad, El anuncio de la Lotería de Navidad de este año Hoy preguntamos cuánto gastamos los españoles en loterías de todo tipo,",
     "summary": [
-      "Résumé en cours de traitement."
+      "La Fiscalía Europea ha iniciado una investigación sobre la gestión de los fondos comunitarios destinados a la seguridad de la red de alta velocidad en España, tras requerimientos de documentación por parte de la UCO.",
+      "Moldavia se enfrenta a una oleada de ataques híbridos que han comprometido datos financieros y médicos de miles de ciudadanos, además de afectar a infraestructuras mediáticas críticas.",
+      "El panorama político español se intensifica con el inicio de la campaña electoral, mientras que en Paraguay se ha formalizado el juicio político contra el presidente Santiago Peña por su vinculación con el escándalo del banco Ueno.",
+      "El sector tecnológico global experimenta una fuerte caída bursátil, impulsada por la incertidumbre regulatoria ante el cambio de ciclo político en Estados Unidos tras la derrota de Donald Trump."
     ],
-    "vocabulary": [],
-    "importance": "normal",
-    "importance_label": ""
+    "vocabulary": [
+      {
+        "term": "guerra híbrida",
+        "translation": "guerre hybride (stratégie combinant moyens conventionnels et cyberattaques)",
+        "context": "Estamos ante un intento de agresión híbrida."
+      },
+      {
+        "term": "requerir documentación",
+        "translation": "exiger ou réclamer des documents (terme juridique/administratif)",
+        "context": "Agentes de la UCO han requerido documentación."
+      },
+      {
+        "term": "asociación ilícita",
+        "translation": "association de malfaiteurs",
+        "context": "Los investigan por delito de odio, asociación ilícita y tenencia de armas."
+      },
+      {
+        "term": "barra libre regulatoria",
+        "translation": "absence totale de régulation / laisser-faire réglementaire",
+        "context": "la derrota de Donald Trump pueda acabar con la barra libre regulatoria."
+      },
+      {
+        "term": "gozar de inmunidad",
+        "translation": "bénéficier de l'immunité (parlementaire ou diplomatique)",
+        "context": "para convertirse en senador y gozar de inmunidad."
+      },
+      {
+        "term": "desplomarse en bolsa",
+        "translation": "s'effondrer en bourse",
+        "context": "Todas las grandes empresas tecnológicas de la Inteligencia Artificial se desploman en bolsa."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Ouverture d'une enquête européenne"
   },
   {
     "id": "17303558",
