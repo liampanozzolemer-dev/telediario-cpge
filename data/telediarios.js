@@ -47,9 +47,43 @@ window.TELEDIARIO_DATA = [
     "embed_url": "https://www.rtve.es/drmn/embed/video/17302485",
     "transcript": "Buenos días, dos frentes vuelven a poner el foco habría hecho de chófer para Sánchez. El presidente del gobierno niega vínculos con los detenidos Por las acusaciones que lanzaba al mismo tiempo El PP lo niega. Nueva reunión hoy para tratar de frenar las huelgas de los próximos días, y ya han sido entregados los restos mortales de 66 fallecidos Una oleada de amenazas de bomba falsas en aviones europeos ha provocado aterrizajes de emergencia. Al menos 27 aviones se han visto afectados Y en Deportes, No mucho, en Europa League, Los blanquiazules logran un punto con el tanto de Oskarsson pero los belgas terminaban remontando 1 - 2. Y en Conference, el Getafe cayó ante el Brighton por 0 -1. Y este jueves, la familia, los compañeros de equipo y el mundo del fútbol ha despedido a Jesús de Miguel en un funeral celebrado en Navahermosa, Toledo. en homenaje al dorsal del delantero. Hoy amanecemos, Isabel, con avisos por lluvias en Canarias. -En cuestión de una hora, con aviso que se mantienen activos de las 3:00 de la tarde. en el resto ambiente marcado por las nubes, a medida que vayan a transcurrir la tarde, la temperatura más alta, durante los próximos días, volveremos a los de precipitaciones en muchos puntos de España.",
     "summary": [
-      "Résumé en cours de traitement."
+      "La instrucción del caso Koldo experimenta una nueva reactivación judicial con la apertura de una pieza separada en la Audiencia Nacional y el registro del domicilio del exministro José Luis Ábalos tras las pesquisas de la UCO. En el terreno político, arrecia la confrontación: Pedro Sánchez desmiente cualquier vínculo con los últimos detenidos mientras exige explicaciones al Partido Popular ante las alegaciones vertidas por Koldo García desde prisión sobre presuntos sobornos para desestabilizar al Ejecutivo.",
+      "En el ámbito social e institucional, prosiguen las reuniones de urgencia con el fin de desconvocar las huelgas anunciadas en el sector del transporte, al tiempo que concluyen las tareas de identificación y entrega de los restos mortales a los familiares de los fallecidos en el siniestro ferroviario.",
+      "El sector de la aviación comercial en Europa sufre graves disrupciones operativas tras registrarse una oleada coordinada de falsas amenazas de bomba, lo que ha forzado aterrizajes imprevistos e incidencias en cerca de una treintena de aeronaves.",
+      "La actualidad se completa con homenajes póstumos en el ámbito futbolístico y una alerta meteorológica en el archipiélago canario ante el riesgo inminente de precipitaciones intensas."
     ],
-    "vocabulary": [],
+    "vocabulary": [
+      {
+        "term": "poner el foco",
+        "translation": "braquer les projecteurs, focaliser l'attention",
+        "context": "dos frentes vuelven a poner el foco"
+      },
+      {
+        "term": "frenar las huelgas",
+        "translation": "désamorcer les grèves, enrayer les mouvements de grève",
+        "context": "tratar de frenar las huelgas de los próximos días"
+      },
+      {
+        "term": "restos mortales",
+        "translation": "dépouilles mortelles",
+        "context": "ya han sido entregados los restos mortales de 66 fallecidos"
+      },
+      {
+        "term": "oleada de amenazas",
+        "translation": "vague de menaces",
+        "context": "Una oleada de amenazas de bomba falsas en aviones europeos"
+      },
+      {
+        "term": "aterrizajes de emergencia",
+        "translation": "atterrissages d'urgence",
+        "context": "ha provocado aterrizajes de emergencia"
+      },
+      {
+        "term": "remontar",
+        "translation": "renverser le score, rattraper le retard",
+        "context": "pero los belgas terminaban remontando 1 - 2"
+      }
+    ],
     "importance": "normal",
     "importance_label": ""
   },
