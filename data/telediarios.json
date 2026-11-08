@@ -1,5 +1,57 @@
 [
   {
+    "id": "17305541",
+    "title": "Telediario 2 en 4' - 08/11/26",
+    "date": "2026-11-08",
+    "date_label": "08.11.2026",
+    "duration": "03.10 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-08-11-26/17305541/",
+    "image": "https://img.rtve.es/v/17305541?w=800&amp;preview=01794168464874.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17305541.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17305541",
+    "transcript": "en ocho días de noviembre. tras recibir a medio centenar de cayucos. El martes, Gobierno Central, canario y de El Hierro Los partidos han aprovechado el último domingo de precampaña el debate en los candidatos de los partidos en Barcelona. Yo quiero votar introduciendo mi papeleta. Ni móvil ni tablet ni nada. aunque en España habría que cambiar la ley y, como han oído, tiene detractores y defensores. Asume así el complicado reto de formar Gobierno y poner fin a la era Netanyahu con una oposición muy dividida. Abre la puerta a gobernar con el Likud de Netanyahu, La plaza de Cracovia reabre más de 24 horas La Fiscalía investiga el ataque como terrorismo El papa acaba de aterrizar en Buenos Aires. Libertad con medidas cautelares para 10 de los 14 miembros y tenencia de armas ilegales. Más allá de la ficción Deseo que la entrada de una mujer no sea motivo de discordia. No hace tanto, 25 años, a la reconocida Montserrat Caballé le sacaron bola negra para rechazar su entrada en el Círculo del Liceo de Barcelona. Luego descubrimos esta historia.",
+    "summary": [
+      "La crise migratoire aux Canaries s'intensifie avec l'arrivée de plus de 5 000 migrants à El Hierro en une semaine, poussant les autorités à intensifier la coordination entre le gouvernement central et l'exécutif régional.",
+      "Le paysage politique espagnol entre dans une phase décisive de pré-campagne électorale, marquée par des débats sur la réforme du système de vote et la polarisation des candidats.",
+      "Sur le plan international, la situation politique en Israël reste instable avec les tentatives de formation d'un gouvernement d'urgence, tandis que le pape entame une visite historique en Argentine.",
+      "Le Círculo del Liceo de Barcelona fait l'objet d'une rétrospective historique sur ses pratiques discriminatoires passées, illustrées par le veto opposé à la soprano Montserrat Caballé via le système des boules noires."
+    ],
+    "vocabulary": [
+      {
+        "term": "apurar",
+        "translation": "épuiser, presser, mettre à profit les derniers instants",
+        "context": "Los partidos políticos apuran la precampaña electoral ante el inicio de una semana con debates."
+      },
+      {
+        "term": "cayucos",
+        "translation": "embarcations de fortune (pirogues) utilisées par les migrants",
+        "context": "Más de 5.000 inmigrantes llegan a El Hierro en una semana a bordo de medio centenar de cayucos."
+      },
+      {
+        "term": "medidas cautelares",
+        "translation": "mesures conservatoires ou préventives (judiciaires)",
+        "context": "Libertad con medidas cautelares para 10 de los 14 detenidos de la organización neonazi."
+      },
+      {
+        "term": "vetar",
+        "translation": "opposer son veto, interdire, exclure",
+        "context": "El Círculo del Liceo de Barcelona vetó la entrada a la cantante Montserrat Caballé."
+      },
+      {
+        "term": "bola negra",
+        "translation": "boule noire (symbole de rejet lors d'un vote à bulletin secret)",
+        "context": "A la reconocida Montserrat Caballé le sacaron bola negra para rechazar su entrada."
+      },
+      {
+        "term": "discordia",
+        "translation": "discorde, désaccord profond",
+        "context": "Deseo que la entrada de una mujer no sea motivo de discordia."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17305320",
     "title": "Telediario 1 en 4' - 08/11/26",
     "date": "2026-11-08",
