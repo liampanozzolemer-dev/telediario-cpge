@@ -1,5 +1,56 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17304949",
+    "title": "Telediario 2 en 4' - 07/11/26",
+    "date": "2026-11-07",
+    "date_label": "07.11.2026",
+    "duration": "01.17 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-07-11-26/17304949/",
+    "image": "https://img.rtve.es/v/17304949?w=800&amp;preview=01794081995957.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17304949.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17304949",
+    "transcript": "Al menos seis muertos y 15 heridos en un tiroteo en Cracovia, Polonia. El atacante ha abierto fuego desde un coche en marcha en la plaza mayor. La policía lo ha interceptado y está detenido. donde en los últimos 7 días han llegado más de 4 000 migrantes en el estadio Heliodoro Rodríguez López. Son las marcas de los disparos del tiroteo de esta tarde",
+    "summary": [
+      "Un tiroteo de extrema gravedad ha sacudido la plaza mayor de Cracovia, Polonia, dejando un balance provisional de seis víctimas mortales y quince heridos. El agresor, que abrió fuego desde un vehículo en movimiento, ha sido interceptado y puesto bajo custodia policial.",
+      "La crisis migratoria en las Islas Canarias se intensifica tras el registro de más de 4.000 llegadas en la última semana, lo que ha forzado al Gobierno central y a las autoridades autonómicas a convocar una reunión extraordinaria de la Comisión Interministerial de Inmigración.",
+      "El ámbito deportivo se ha visto marcado por un emotivo acto de despedida en el estadio Heliodoro Rodríguez López, donde se ha rendido homenaje al futbolista Jesús de Miguel, un evento que ha congregado a la afición en un contexto de luto compartido."
+    ],
+    "vocabulary": [
+      {
+        "term": "abrir fuego",
+        "translation": "ouvrir le feu",
+        "context": "El atacante ha abierto fuego desde un coche en marcha"
+      },
+      {
+        "term": "coche en marcha",
+        "translation": "véhicule en mouvement",
+        "context": "El atacante ha abierto fuego desde un coche en marcha"
+      },
+      {
+        "term": "interceptar",
+        "translation": "intercepter / appréhender",
+        "context": "La policía lo ha interceptado y está detenido"
+      },
+      {
+        "term": "abordar",
+        "translation": "traiter / aborder (une question complexe)",
+        "context": "abordar la crisis migratoria"
+      },
+      {
+        "term": "acoger",
+        "translation": "accueillir / abriter (un événement)",
+        "context": "El estadio Heliodoro Rodríguez López acoge un emotivo homenaje"
+      },
+      {
+        "term": "marcas de los disparos",
+        "translation": "impacts de balles",
+        "context": "Son las marcas de los disparos del tiroteo de esta tarde"
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Tuerie de masse à Cracovie"
+  },
+  {
     "id": "17304729",
     "title": "Telediario 1 en 4' - 07/11/26",
     "date": "2026-11-07",
