@@ -1,5 +1,56 @@
 [
   {
+    "id": "17305026",
+    "title": "Telediario matinal en 4' - 8/11/26",
+    "date": "2026-11-08",
+    "date_label": "08.11.2026",
+    "duration": "03.44 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-8-11-26/17305026/",
+    "image": "https://img.rtve.es/v/17305026?w=800&amp;preview=01794119244741.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17305026.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17305026",
+    "transcript": "Hierro está desbordado por la llegada de migrantes. Más de 4.000 en una semana, cerca de 8.000 en poco más de un mes, equivale a casi el 70% de la población de la isla El Cabildo ha declarado la emergencia migratoria. Y ante esta situación, lo último es la decisión del gobierno Va a reunir de urgencia este martes a varios ministerios en busca de soluciones. Lo han acordado Pedro Sánchez y el presidente Canario ...tras hablar por teléfono este sábado. Buenos días, son las 6 de la mañana en Canarias.. las 7 en el resto del país. Así comenzamos las noticias fin de semana de este domingo. Una situación que ha llevado al límite los recursos ahí en el Hierro. Por ejemplo, los servicios sanitarios que están saturados. Por eso la isla está pidiendo ayuda al gobierno central y al resto de Canarias para poder atenderles. Más de 4.500 migrantes han llegado al Hierro en la última semana a una isla de unos 12.000 habitantes En los dos puertos que tiene llevan trabajando esta semana casi sin descanso decenas de profesionales Se está realizando un primer triaje sanitario, que incluso explica a la persona a dónde han llegado... ...y posteriormente pasa al CATE... ...la Policía Nacional identifica a las personas. 600 personas.. han llegado a las costas... ...en seis cayucos desde la pasada... ...medianoche, Cruz Roja, Salvamento Marítimo.. agentes y sanitarios les asisten. Compañeros de aquí de El Hierro llevan unos días pues muy muy duros de trabajo son migrantes la mayoría de origen subsahariano tras una dura travesía, algunos acaban ingresados en este hospital de El Hierro. Deshidratación, malestar general un poco de hipotermia. Son las consecuencias más comunes, las sufren también mujeres y niños. Hay mujeres embarazadas, hay niños pequeños... ...que están ahí, que están asignados.. que no tenemos un respaldo para poder sacar a esa gente de este puerto. Se han rescatado 44 embarcaciones en siete días, en lo que llevamos de noviembre se ha superado a todo el mes anterior Bueno, por lo demás, en lo político estamos en el último domingo de precampaña. Antes de las elecciones, Pedro Sánchez va a participar hoy en un mitin en Bilbao, Feijo estará en Málaga, Ada Colau en Palma, por ejemplo, y Gabriel Rufián en Badalona La precampaña se ha retomado intensamente este fin de semana. Hace falta un cambio profundo de arriba abajo. Si Feijo y Abascal son un viaje al pasado. Para Sánchez, la mejor receta contra la involución se llama movilización. Si votamos en masa.. mandamos a casa Feijoy y Abascal. No me basta con tener una mayoría simple defiende que han dado la cara frente a las tragedias como la de Urda. Feijóa ha centrado parte de su discurso en ese accidente. Critica que el gobierno haya puesto de ejemplo a Puente Más atención para el que dice que se va que para los que no van a volver nunca Auditarán, dice el transporte ferroviario. España, afirma Pascal, no resiste cuatro años más de califica esta mafia Han destruido todas las infraestructuras. Han destruido la convivencia. El fanatismo mata Mientras en el Frente Amplio aseguran que no les temblará el pulso para subir impuestos a los más ricos para garantizar servicios públicos Y Montero y Rufián se reivindican como el verdadero voto útil Hace falta izquierda para que se puedan llevar a cabo las transformaciones que judicial nuestro país necesita",
+    "summary": [
+      "La isla de El Hierro afronta una crisis migratoria sin precedentes tras la llegada de más de 4.000 personas en una semana, lo que ha llevado al Cabildo a declarar la emergencia migratoria ante la saturación de los servicios sanitarios y de acogida.",
+      "El Gobierno central y el Ejecutivo canario han acordado convocar una reunión extraordinaria de la Comisión Interministerial de Inmigración para coordinar una respuesta urgente ante el colapso de los recursos en los puertos de la isla.",
+      "En el ámbito político, los principales partidos han intensificado la precampaña electoral, con un discurso polarizado donde Sánchez, Feijóo y Abascal apelan a la movilización de sus bases, mientras las formaciones a la izquierda del PSOE reivindican su papel como garantes de las políticas sociales."
+    ],
+    "vocabulary": [
+      {
+        "term": "estar desbordado",
+        "translation": "être débordé / dépassé par les événements",
+        "context": "Hierro está desbordado por la llegada de migrantes."
+      },
+      {
+        "term": "llevar al límite",
+        "translation": "pousser à bout / mettre à rude épreuve",
+        "context": "Una situación que ha llevado al límite los recursos ahí en el Hierro."
+      },
+      {
+        "term": "dar la cara",
+        "translation": "assumer ses responsabilités / faire face",
+        "context": "defiende que han dado la cara frente a las tragedias como la de Urda."
+      },
+      {
+        "term": "involución",
+        "translation": "régression (politique ou sociale)",
+        "context": "Para Sánchez, la mejor receta contra la involución se llama movilización."
+      },
+      {
+        "term": "no temblarle el pulso a alguien",
+        "translation": "ne pas hésiter / ne pas trembler au moment de prendre une décision ferme",
+        "context": "aseguran que no les temblará el pulso para subir impuestos a los más ricos."
+      },
+      {
+        "term": "voto útil",
+        "translation": "vote utile",
+        "context": "Montero y Rufián se reivindican como el verdadero voto útil."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17304949",
     "title": "Telediario 2 en 4' - 07/11/26",
     "date": "2026-11-07",
