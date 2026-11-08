@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17305320",
+    "title": "Telediario 1 en 4' - 08/11/26",
+    "date": "2026-11-08",
+    "date_label": "08.11.2026",
+    "duration": "02.46 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-08-11-26-1-cuatro-minutos-081126/17305320/",
+    "image": "https://img.rtve.es/v/17305320?w=800&amp;preview=01794146453820.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17305320.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17305320",
+    "transcript": "Sigue aumentando la presión migratoria en El Hierro. de la isla en noviembre es casi 5000. Buenas tardes. Último domingo de precampaña electoral con Feijóo en Málaga y Sánchez en Bilbao que sigue buscando el reflejo \"Vamos a volver a movilizarnos, y vamos a vencer a la involución\". \"Fuimos los primeros en 2023, y en 2026 seremos los siguientes\". \"Que si las elecciones de Brasil, que si las elecciones Faltan 5 días para el inicio de la campaña electoral Los partidos aceleran el ritmo y recorren todo el país con los candidatos en Cataluña. Fallece un soldado durante una instrucción investiga las causas de la muerte de este joven que había ingresado en el Ejército en 2028. En Cracovia, la fiscalía investiga como acto terrorista Todo apunta a que el atacante actuó influido por ideología de extrema derecha. Horas después del ataque, la policía encontró otros tres cadáveres en casa del sospechoso: los de sus padres y su hermana. En una hora, Gadi Eisenkot recibirá el encargo de formar el próximo Gobierno en Israel. Tendrá hasta seis semanas para configurar una alianza que desbanque a Netanyahu. muchos obstáculos políticos. España tiene cada vez una población con más mayores. Por primera vez, Yo tengo 90. Y sube la cifra de centenarios,",
+    "summary": [
+      "La situation migratoire aux îles Canaries demeure préoccupante, avec une pression accrue sur l'île d'El Hierro où le nombre d'arrivées en novembre avoisine les 5 000 personnes.",
+      "La campagne électorale espagnole s'intensifie à cinq jours du scrutin, marquée par une polarisation entre les discours de Pedro Sánchez, qui alerte contre l'involución, et les déplacements stratégiques d'Alberto Núñez Feijóo.",
+      "Un drame terroriste frappe la ville de Cracovie, où une fusillade a causé six décès, un acte attribué à l'idéologie d'extrême droite et lié à la découverte macabre de trois autres victimes au domicile du suspect.",
+      "En Israël, le paysage politique se recompose avec la mission confiée à Gadi Eisenkot de former un gouvernement de coalition visant à évincer Benjamin Netanyahu, malgré des obstacles institutionnels majeurs."
+    ],
+    "vocabulary": [
+      {
+        "term": "presión migratoria",
+        "translation": "pression migratoire",
+        "context": "Sigue aumentando la presión migratoria en El Hierro."
+      },
+      {
+        "term": "involución",
+        "translation": "régression (politique/démocratique)",
+        "context": "Vamos a vencer a la involución."
+      },
+      {
+        "term": "acelerar el ritmo",
+        "translation": "accélérer la cadence / intensifier les efforts",
+        "context": "Los partidos aceleran el ritmo y recorren todo el país."
+      },
+      {
+        "term": "a plena luz del día",
+        "translation": "en plein jour",
+        "context": "el tiroteo mortal a plena luz del día que dejó seis muertos."
+      },
+      {
+        "term": "desbancar",
+        "translation": "évincer / détrôner",
+        "context": "configurar una alianza que desbanque a Netanyahu."
+      },
+      {
+        "term": "centenarios",
+        "translation": "personnes centenaires",
+        "context": "Y sube la cifra de centenarios."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17305026",
     "title": "Telediario matinal en 4' - 8/11/26",
     "date": "2026-11-08",
