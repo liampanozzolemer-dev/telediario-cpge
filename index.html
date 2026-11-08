@@ -619,9 +619,33 @@
     // --- SUIVI DE LA CLASSE ---
     const CLASS_SYNC_TOPIC = "telediario_cpge_2026_class_tracker_v1";
     const ADMIN_SECRET_CODE = "PCSI2";
+
+    // Liste officielle permanente de la classe (garantit l'affichage immédiat sur tout nouvel appareil ou en navigation privée)
+    const DEFAULT_CLASS_ROSTER = [
+      "Ambre",
+      "Cédric",
+      "Gabriel",
+      "Ines",
+      "Liam",
+      "Marylou",
+      "Mme Madrid",
+      "Nicolas",
+      "Paul",
+      "Valentin"
+    ];
+
     let currentStudent = localStorage.getItem("telediario_current_student") || "";
     let classState = JSON.parse(localStorage.getItem("telediario_class_state") || '{"roster":[],"views":{}}');
-    if (!Array.isArray(classState.roster)) classState.roster = [];
+    if (!Array.isArray(classState.roster) || classState.roster.length === 0) {
+      classState.roster = DEFAULT_CLASS_ROSTER.slice();
+    } else {
+      DEFAULT_CLASS_ROSTER.forEach(name => {
+        if (!classState.roster.includes(name)) {
+          classState.roster.push(name);
+        }
+      });
+      classState.roster.sort((a, b) => a.localeCompare(b, "fr"));
+    }
     if (!classState.views || typeof classState.views !== "object") classState.views = {};
 
     const mediaPlayer = document.getElementById("media-player");
