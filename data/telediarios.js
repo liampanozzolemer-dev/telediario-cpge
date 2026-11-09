@@ -1,5 +1,109 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17306775",
+    "title": "Telediario 1 en 4' - 09/11/26",
+    "date": "2026-11-09",
+    "date_label": "09.11.2026",
+    "duration": "02.52 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/cuatro-minutos-09-11-26/17306775/",
+    "image": "https://img.rtve.es/v/17306775?w=800&amp;preview=01794238720553.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17306775.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17306775",
+    "transcript": "con más de 5.000 llegadas en lo que llevamos de noviembre. Hola, buenas tardes. A dos días de la huelga general, Pedro Sánchez reivindica la movilización social. En un mensaje en redes, pide no olvidar Nvidia, el gigante tecnológico estadounidense, El papa sigue su gira por Argentina, el país natal de su antecesor Francisco. En su primer acto junto al presidente, León XIV ha criticado las políticas económicas de Milei, 2026 será uno de los 4 años más cálidos de la historia según la Organización Meteorológica Mundial y se espera que 2027 sea aun peor por el fenónemo de El Niño. La borrasca Bruna está dejando ya mucha lluvia en España Aquí, en el norte de Cáceres, por la ceniza de los incendios y se preparan ya para lo peor. para mitigar los efectos de la presumible crecida. Y quizá le sorprenda pero cuando Cecilia",
+    "summary": [
+      "La crise migratoire aux Canaries s'intensifie avec plus de 5 000 arrivées en novembre, poussant le gouvernement à mobiliser les moyens du ministère de la Défense pour organiser les transferts vers la péninsule.",
+      "À l'approche de la grève générale, le président Pedro Sánchez défend la légitimité de la mobilisation sociale, tandis que le Parti Populaire dénonce une manœuvre politique dirigée contre le futur exécutif.",
+      "Le pape François, en visite en Argentine, a marqué les esprits par une critique ouverte des politiques économiques du président Javier Milei lors d'un acte conjoint, illustrant les tensions idéologiques actuelles.",
+      "Les conditions météorologiques se dégradent en Espagne avec l'arrivée de la tempête Bruna, plaçant plusieurs régions en alerte rouge face aux risques d'inondations et de crues."
+    ],
+    "vocabulary": [
+      {
+        "term": "cayucos",
+        "translation": "embarcations de fortune (utilisées par les migrants)",
+        "context": "Tres cayucos con más de 300 inmigrantes a bordo son interceptados en aguas de El Hierro."
+      },
+      {
+        "term": "reivindicar",
+        "translation": "revendiquer, défendre, mettre en avant",
+        "context": "Pedro Sánchez reivindica la movilización social y pide no olvidar que los derechos no caen del cielo."
+      },
+      {
+        "term": "cargar contra",
+        "translation": "s'en prendre violemment à, critiquer vivement",
+        "context": "El PP carga contra los sindicatos por convocar una huelga."
+      },
+      {
+        "term": "borrasca",
+        "translation": "tempête, dépression atmosphérique",
+        "context": "La borrasca Bruna deja intensas lluvias en España."
+      },
+      {
+        "term": "mitigar",
+        "translation": "atténuer, limiter les effets",
+        "context": "se preparan ya para lo peor para mitigar los efectos de la presumible crecida."
+      },
+      {
+        "term": "no caer del cielo",
+        "translation": "ne pas tomber du ciel (ne pas être acquis sans effort)",
+        "context": "pide no olvidar que los derechos no caen del cielo."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17305680",
+    "title": "Telediario matinal en 4' - 09/11/2026",
+    "date": "2026-11-09",
+    "date_label": "09.11.2026",
+    "duration": "03.44 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-09-11-2026/17305680/",
+    "image": "https://img.rtve.es/v/17305680?w=800&amp;preview=01793976690697.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17305680.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17305680",
+    "transcript": "Los partidos de Canarias, excepto Vox, han firmado un acuerdo para llevarla reunión de urgencia mañana, en el palacio de la Moncloa muy buenos días. La crisis migratorias es de los temas que ha irrumpido en estos temas, se intensifica la agenda de los candidatos, que hacen entrevistas y mítines para mover a los electorados las crisis ferroviarias y las pensiones también se cuelan en los discursos. Ahora lo vemos. Hoy arranca la protesta del sector cárnico Y si los profesores en Madrid. Gabriel, hemos empezado un día con mucho viento y lluvia. -Semana completamente señal. Fíjense, llegan a ser de nivel naranja en el sistema central, en Huelva hay varios metros cuadrados a lo largo de 12 horas. Lluvias prácticamente en casi los sectores del país. Poca lluvia en el Cantábrico, por lo demás, mucha lluvia, pero temperaturas bastante, dejando máximas por encima de los 20 grados. -Crisis abierta del emblema tecnológico estadounidense. Su director está siendo investigado tras admitir la relación extramatrimonial con la espía china. Pretendían liderar el mercado de los chips y la inteligencia artificial. -La economía debe estar al servicio de la persona y no al revés. -Es parte del primer mensaje del papa desde Argentina León XIV ha reclamado dicha social a los líderes políticos. Javier Milei estaba sentado muy cerca. Y en deportes, el Barça es más líder de LaLiga -Y tanto que nos vencieron a los del Atlético de Madrid. Mantiene la distancia corta con el Real Madrid. Y Carlos Alcaraz suma su segundo título en solo nueve días tras el triunfo en Viena. Venció a Ben Shelton y se proclama cambio sobre la pista parisina.",
+    "summary": [
+      "La crisis migratoria en El Hierro se sitúa en el centro del debate político español, motivando un acuerdo entre las fuerzas políticas canarias, a excepción de Vox, que será trasladado al Gobierno central en una reunión de urgencia en la Moncloa.",
+      "El panorama sociopolítico se ve tensionado por una intensa agenda de movilizaciones y huelgas sectoriales, destacando el primer paro general en catorce años, sumado a las protestas de los maquinistas, el sector cárnico y el profesorado madrileño.",
+      "En el ámbito internacional, el Papa Francisco ha instado a los líderes políticos, entre ellos Javier Milei, a priorizar la justicia social y el bienestar humano sobre los imperativos económicos, durante su visita a Argentina.",
+      "El sector tecnológico estadounidense atraviesa una crisis reputacional tras la investigación abierta contra su director ejecutivo por una relación extramatrimonial con una espía china, lo que compromete su liderazgo en el mercado de semiconductores e inteligencia artificial."
+    ],
+    "vocabulary": [
+      {
+        "term": "irrumpir",
+        "translation": "faire irruption, surgir soudainement",
+        "context": "La crisis migratorias es de los temas que ha irrumpido en estos temas."
+      },
+      {
+        "term": "colarse",
+        "translation": "s'immiscer, se glisser (dans un débat)",
+        "context": "Las crisis ferroviarias y las pensiones también se cuelan en los discursos."
+      },
+      {
+        "term": "arrancar",
+        "translation": "démarrer, débuter (une action ou un mouvement)",
+        "context": "Hoy arranca la protesta del sector cárnico."
+      },
+      {
+        "term": "reclamar",
+        "translation": "exiger, revendiquer, réclamer",
+        "context": "León XIV ha reclamado dicha social a los líderes políticos."
+      },
+      {
+        "term": "mantener la distancia",
+        "translation": "maintenir l'écart (compétition sportive)",
+        "context": "Mantiene la distancia corta con el Real Madrid."
+      },
+      {
+        "term": "proclamarse campeón",
+        "translation": "se proclamer vainqueur/champion",
+        "context": "Se proclama campeón sobre la pista parisina."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17305541",
     "title": "Telediario 2 en 4' - 08/11/26",
     "date": "2026-11-08",
