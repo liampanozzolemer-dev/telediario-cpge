@@ -1,5 +1,57 @@
 [
   {
+    "id": "17307072",
+    "title": "Telediario 2 en 4' - 09/11/26",
+    "date": "2026-11-09",
+    "date_label": "09.11.2026",
+    "duration": "03.37 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/cuatro-minutos-09-11-26/17307072/",
+    "image": "https://img.rtve.es/v/17307072?w=800&amp;preview=01794255125055.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17307072.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17307072",
+    "transcript": "Qué tal, buenas noches. Hoy Iniciamos la última semana de precampaña y en 27 horas comienza la huelga general convocada para este miércoles contra el precio de la vivienda y los bajos salarios. Y esos dos caminos se han cruzado hoy en las declaraciones, los actos de los líderes y hasta en un vídeo de Pedro Sánchez. \"Los sindicatos han estado apesebrados, \"Podíamos no haber convocado la huelga Los españoles que lo son por la Ley de Nietos no podrán votar el 29 de noviembre pero atención sus hijos, sí. ha rechazado ahora un recurso de VOX y Iustitia Europa que pretendía Acaba de llegar a la península un nuevo avión militar con unos 160 migrantes procedentes de Canarias. de acogida desbordados en las islas. Más de mil vídeos con presuntos abusos sexuales a menores en TikTok. Es lo que ha encontrado la organización Maldita. es en una investigación. El Gobierno ha pedido a la Fiscalía que investigue estos contenidos de la red social en España. Nvidia investiga si la relación extramatrimonial de su CEO un caso de espionaje. Pekín lo niega y habla de \"calumnias\". La Borrasca Bruna deja una jornada de lluvia y viento fuerte en Extremadura y Galicia. No amaina y se deja sentir seguimos aquí pendientes en la realidad de reusado el des arroyo esa borrasca burlona. Festejando lluvias y vientos en la totalidad de la comunidad en la que las vías baristas se esperan unos 40 l por metro cuadrado. Acumulados en 12 horas. la borrasca continuará mañana cuando se espera un fuerte oleaje en la costa atlántica, si dentro de las rías al estar más resguardadas. ¿Por qué a los hombres les sigue costando llorar ante sus amigos? Ese es el punto de partida de la obra de teatro \"Menú Cerrado\" que les vamos a presentar hoy. Amigos con muchas aventuras a la espalda, que pasan horas juntos, que se han visto hacer de todo, pero no llorar. \"Es una comedia",
+    "summary": [
+      "La scène politique espagnole est marquée par une polarisation croissante à l'approche de la grève générale du 13 novembre, cristallisée par les tensions autour de la crise du logement et de la précarité salariale.",
+      "Le Tribunal Supremo a tranché en faveur des descendants de citoyens espagnols naturalisés via la 'Ley de Nietos', leur garantissant le droit de vote, malgré les recours déposés par les partis Vox et Iustitia Europa.",
+      "Le gouvernement espagnol a saisi le ministère public afin d'enquêter sur la prolifération de contenus pédopornographiques sur TikTok, envisageant une possible suspension de la plateforme, tandis que le géant Nvidia est secoué par des allégations d'espionnage industriel liées à son PDG.",
+      "La borrasca Bruna frappe violemment le nord-ouest de la péninsule ibérique, provoquant des intempéries sévères en Galice et en Estrémadure, avec des précipitations et des rafales de vent atteignant les 90 km/h."
+    ],
+    "vocabulary": [
+      {
+        "term": "apesebrado",
+        "translation": "soumis, servile, inféodé (souvent utilisé pour critiquer la passivité des syndicats)",
+        "context": "Los sindicatos han estado apesebrados."
+      },
+      {
+        "term": "desbordado",
+        "translation": "débordé, submergé (utilisé ici pour les services d'accueil des migrants)",
+        "context": "Servicios de acogida desbordados en las islas."
+      },
+      {
+        "term": "no amainar",
+        "translation": "ne pas faiblir, ne pas s'apaiser (pour une tempête ou une situation)",
+        "context": "No amaina y se deja sentir seguimos aquí pendientes."
+      },
+      {
+        "term": "calumnias",
+        "translation": "calomnies, diffamations",
+        "context": "Pekín lo niega y habla de calumnias."
+      },
+      {
+        "term": "punto de partida",
+        "translation": "point de départ, prémisse",
+        "context": "Ese es el punto de partida de la obra de teatro."
+      },
+      {
+        "term": "tener a la espalda",
+        "translation": "avoir derrière soi (une expérience, un vécu)",
+        "context": "Amigos con muchas aventuras a la espalda."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17306775",
     "title": "Telediario 1 en 4' - 09/11/26",
     "date": "2026-11-09",
