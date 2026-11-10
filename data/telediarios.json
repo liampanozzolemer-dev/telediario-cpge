@@ -1,5 +1,56 @@
 [
   {
+    "id": "17308121",
+    "title": "Telediario 1 en 4' -  10/11/26",
+    "date": "2026-11-10",
+    "date_label": "10.11.2026",
+    "duration": "04.15 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-10-11-26/17308121/",
+    "image": "https://img.rtve.es/v/17308121?w=800&amp;preview=1794319214337.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17308121.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17308121",
+    "transcript": "Caos en los trenes de Cercanías en Madrid y de Rodalies en Cataluña Renfe denuncia que los servicios mínimos no se han cumplido a primera hora. -No hay trenes, voy al trabajo y no hay trenes. -Iré en patinete a la universidad como pueda. Hola, buenas tardes. La situación se ha complicado a primera hora, ahora la imagen es esta, muchos viajeros en los tornos a la espera de que salga su terreno. La huelga se convocó a raíz del accidente. A pocas horas de la huelga general de mañana, el Gobierno pide al PP que respete a los sindicatos. Los populares vuelven a cargar contra ellos. Díaz Ayuso pide a Feijóo que acabe con lo que ha llamado -Todo lo que está promoviendo con esta mafia sindical que nos lleva a esta huelga que es totalmente política, lo que te está diciendo es que no queremos alternancia política. Feijóo ha presentado hoy su programa electoral bajo el lema \"Reconstrucción Nacional\". La polémica entrevista de Broncano a Abascal en La Revuelta El gobierno y la izquierda creen que sus declaraciones si llega al poder. Un policía ha muerto y otro está gravemente herido tras un tiroteo que dejó a una menor herida. Paula Bango. La menor de 17 años está ingresada, aunque su vida no corre peligro. El tiroteo fue por un conflicto vecinal. El autor está identificado pero no localizado. Los miembros del grupo neonazi Núcleo Nacional recibieron entrenamiento paramilitar en Ucrania. TVE ha tenido acceso al sumario de la investigación. Según la policía, planeaban un alzamiento armado. El secretario de defensa de Estados Unidos, Pete Hegseth, se enfrenta a un posible impeachment, un juicio político en el Congreso, por 8 cargos. Entre ellos, iniciar la guerra de Irán sin la autorización legal de la cámara, Y las fuertes lluvias han complicado mucho la mañana en el norte de Cáceres y el sur de Ávila, donde hay aviso rojo. Se han suspendido las clases en la zona, por riesgo de que se desborde una presa, Alex Merayo La Presa del Horcajo, esta montaña arriba, las previsiones de lluvia para esta tarde, podrían llegar a desbordarse.",
+    "summary": [
+      "El sistema ferroviario español se enfrenta a una jornada de caos operativo debido a una huelga de maquinistas, afectando gravemente a los servicios de Cercanías en Madrid y Rodalies en Cataluña, mientras el Gobierno insta al Partido Popular a mantener una postura de respeto hacia las organizaciones sindicales.",
+      "El líder del PP, Alberto Núñez Feijóo, ha oficializado su programa electoral bajo el lema 'Reconstrucción Nacional', en un contexto de alta tensión política marcado por las críticas de Isabel Díaz Ayuso hacia la legitimidad de las movilizaciones sindicales, calificándolas de injerencia política.",
+      "La investigación sobre el grupo neonazi 'Núcleo Nacional' ha revelado vínculos con entrenamiento paramilitar en Ucrania, con indicios policiales que apuntan a una planificación de alzamiento armado, mientras que en el ámbito internacional, el secretario de Defensa de EE. UU., Pete Hegseth, afronta un proceso de impeachment por presuntas actuaciones ilegales en política exterior."
+    ],
+    "vocabulary": [
+      {
+        "term": "Cercanías",
+        "translation": "Réseau de trains de banlieue (équivalent du RER ou Transilien)",
+        "context": "Caos en los trenes de Cercanías en Madrid y de Rodalies en Cataluña."
+      },
+      {
+        "term": "Cargar contra",
+        "translation": "S'en prendre vivement à, critiquer avec véhémence",
+        "context": "Los populares vuelven a cargar contra ellos."
+      },
+      {
+        "term": "Alternancia política",
+        "translation": "Alternance politique (changement de majorité au pouvoir)",
+        "context": "lo que te está diciendo es que no queremos alternancia política."
+      },
+      {
+        "term": "Sumario",
+        "translation": "Dossier d'instruction (judiciaire)",
+        "context": "TVE ha tenido acceso al sumario de la investigación."
+      },
+      {
+        "term": "Alzamiento armado",
+        "translation": "Soulèvement armé, insurrection",
+        "context": "Según la policía, planeaban un alzamiento armado."
+      },
+      {
+        "term": "Juicio político",
+        "translation": "Procédure de destitution (impeachment)",
+        "context": "se enfrenta a un posible impeachment, un juicio político en el Congreso."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17307214",
     "title": "Telediario matinal en 4' - 10/11/2026",
     "date": "2026-11-10",
