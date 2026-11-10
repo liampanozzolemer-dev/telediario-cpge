@@ -1,5 +1,61 @@
 [
   {
+    "id": "17307214",
+    "title": "Telediario matinal en 4' - 10/11/2026",
+    "date": "2026-11-10",
+    "date_label": "10.11.2026",
+    "duration": "03.21 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-10-11-2026/17307214/",
+    "image": "https://img.rtve.es/v/17307214?w=800&amp;preview=01794256829650.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17307214.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17307214",
+    "transcript": "La maquinaria electoral se acelera a tres días y cuestionó el cambio climático. Fue un programa con un tono diferente La huelga general de este miercoles centra el choque en precampaña, que complica la movilidad desde primera hora. De urgencia se reúne a las 8 de la mañana la interministerial de Inmigración. El presidente canario y el del Cabildo de El Hierro piden más recursos para atender a quienes llegan en cayuco: 5.000 personas este noviembre. PP y Vox critican los traslados a la península. El gobierno les acusa de demonizar a los migrantes. En el tiempo jornada complicada con mucha lluvia -Buenos días. Precaución porque se activa el máximo nivel de aviso, especialmente hacia el norte de Cáceres. Allí caerán por lo menos, Allí caerán por lo -120 l por metro cuadrado en 12 horas, que es donde más va a llover. precipitaciones especialmente fuertes, en Extremadura y oeste de Castilla y León, al igual que en Toledo, y para encontrar la zona que se queda al margen de imágenes al Mediterráneo. Temperaturas de hasta 28 en Murcia, 26 en Alicante, y máximas que son suaves gracias a los vientos abrigos, en gran parte del país. Siete días después de las elecciones de medio mandato, empiezan a moverse los cimientos de la administración Trump. Un congresista del propio partido republicano ha comenzado el proceso político para intentar destituir al secretario de Defensa, a Pete Hegseth, por la guerra contra Irán. Y en Deportes, Así es Álex, porque vuelve la Nations League para preparar el encuentro del jueves contra los checos, Y uno de los concentrados, Pau Cubarsí, además de La Liga con el Barça.",
+    "summary": [
+      "La precampaña electoral española se ve marcada por la crispación política tras la intervención de Santiago Abascal en el programa 'La Revuelta', donde el líder de Vox cuestionó consensos básicos como la lucha contra el cambio climático y las leyes de violencia de género.",
+      "El panorama social se tensa ante la convocatoria de una huelga general que cuenta con el respaldo del Gobierno de Pedro Sánchez pero es tildada de 'disparate' por la oposición, sumándose a los paros de los maquinistas de Renfe que dificultan la movilidad nacional.",
+      "La crisis migratoria en Canarias alcanza niveles críticos con la llegada de miles de personas a El Hierro, lo que ha forzado una reunión interministerial de urgencia y ha reavivado el enfrentamiento entre el Ejecutivo y el bloque PP-Vox sobre el traslado de migrantes a la península."
+    ],
+    "vocabulary": [
+      {
+        "term": "maquinaria electoral",
+        "translation": "l'appareil électoral / les rouages de la campagne",
+        "context": "La maquinaria electoral se acelera a tres días de que comience la campaña."
+      },
+      {
+        "term": "secundar",
+        "translation": "suivre / se rallier à (un mot d'ordre de grève)",
+        "context": "Pedro Sánchez llama a secundarla, para Alberto Núñez Feijóo es un disparate."
+      },
+      {
+        "term": "paro",
+        "translation": "débrayage / arrêt de travail / grève",
+        "context": "Hoy, hay un paro de los maquinistas de Renfe que complica la movilidad."
+      },
+      {
+        "term": "cayuco",
+        "translation": "embarcation de fortune (utilisée par les migrants)",
+        "context": "Piden más recursos para atender a quienes llegan en cayuco."
+      },
+      {
+        "term": "demonizar",
+        "translation": "diaboliser",
+        "context": "El Gobierno les acusa de demonizar a los migrantes."
+      },
+      {
+        "term": "aviso",
+        "translation": "bulletin d'alerte (météorologique)",
+        "context": "Precaución porque se activa el máximo nivel de aviso."
+      },
+      {
+        "term": "destituir",
+        "translation": "démettre de ses fonctions / destituer",
+        "context": "Ha comenzado el proceso político para intentar destituir al secretario de Defensa."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17307072",
     "title": "Telediario 2 en 4' - 09/11/26",
     "date": "2026-11-09",
