@@ -1,5 +1,57 @@
 [
   {
+    "id": "17308782",
+    "title": "Telediario 2 en 4' - 10/11/26",
+    "date": "2026-11-10",
+    "date_label": "10.11.2026",
+    "duration": "05.40 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-10-11-26/17308782/",
+    "image": "https://img.rtve.es/v/17308782?w=800&amp;preview=1794341527394.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17308782.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17308782",
+    "transcript": "¿Qué tal? y soluciones al grave problema de la vivienda. Una huelga extraordinaria por distintos motivos, los convocantes, calientan motores ahí en Sol, Han organizado un acto. Hacen un llamamiento para secundar esta huelga. Dicen que hay motivos de sobra para reclamar mejores salarios y una vivienda digna. Este es el primer gesto de los sindicatos a las puertas de la huelga que comienza a medianoche. -Mañana es nuestro día. Mañana hay que tapar la calle. A los sindicatos se ha referido Isabel Díaz Ayuso. La presidenta madrileña ha pedido al líder del PP que acabe con lo que ha llamado \"basura sindical\". \"He hablado con Feijóo y le he dicho: \"Exijo respeto a los sindicatos Y el líder del PP ha presentado hoy su programa electoral. Promete la prohibición de las regularizaciones masivas y priorizar el arraigo en España para acceder a las ayudas. Y hoy ha sido un día muy complicado para moverse en cercanías. La huelga de maquinistas ha llevado el caos a estaciones de tren de Madrid y Cataluña, El sindicato de maquinistas ha aplazado al 23 de noviembre la huelga prevista para este jueves. Y David Broncano ha reconocido esta tarde errores en el planteamiento de la entrevista -Siento que decepcionado alguna gente que esperaba algo diferente de nosotros. Hemos generado una identificación con el público, y ayer no lo hicimos como había que hacerlo. El Gobierno cree que las palabras del líder de Vox para quitarles votos. RTVE ha tenido acceso al sumario de la investigación para el que contaban con armas sin licencia. En Oviedo sigue en marcha a esta hora un amplio dispositivo policial. En Toledo, hace unos minutos ha terminado el funeral Siguiendo la misa ha estado Pepa Bueno. -Los Reyes siguen todavía dentro de la catedral. Están hablando con los familiares de las víctimas. Habido muchas emociones a misa funeral. presidida por el arzobispo de Toledo y con presencia de los Reyes. Ana Benítez hermana de un fallecido, David, padre de dos niños pequeños, ha hecho la lectura de la primera lectura de la misa. Dolor y contención en una ceremonia con presencia también de vecinos de Urda, los primeros en auxiliar a los afectados. Muy atentos al temporal de lluvias y viento y también en Ávila, Y nuestros compañeros de Radio Nacional Reconocen así su libertad creativa y el no haberse dejado arrastrar por las modas en la música.",
+    "summary": [
+      "España se prepara para una huelga general, la primera en 14 años, marcada por reivindicaciones salariales y el acceso a una vivienda digna, mientras el clima político se tensa con las críticas de Isabel Díaz Ayuso hacia los sindicatos.",
+      "El líder del Partido Popular, Alberto Núñez Feijóo, ha presentado su programa electoral, centrando sus propuestas en la restricción de regularizaciones masivas y la priorización del arraigo para el acceso a ayudas sociales.",
+      "La actualidad se ve ensombrecida por el trágico suceso en Toledo, donde se ha celebrado el funeral de las víctimas del reciente tiroteo, un acto solemne que ha contado con la presencia de los Reyes de España.",
+      "David Broncano ha realizado una autocrítica pública respecto a su entrevista a Santiago Abascal en el programa 'La Revuelta', admitiendo errores en el planteamiento que decepcionaron a parte de su audiencia."
+    ],
+    "vocabulary": [
+      {
+        "term": "calentar motores",
+        "translation": "préparer le terrain / s'échauffer (pour un événement)",
+        "context": "los convocantes, calientan motores ahí en Sol"
+      },
+      {
+        "term": "hacer un llamamiento",
+        "translation": "lancer un appel",
+        "context": "Hacen un llamamiento para secundar esta huelga"
+      },
+      {
+        "term": "a las puertas de",
+        "translation": "à la veille de / aux abords de",
+        "context": "Este es el primer gesto de los sindicatos a las puertas de la huelga"
+      },
+      {
+        "term": "tapar la calle",
+        "translation": "occuper l'espace public / manifester en masse",
+        "context": "Mañana hay que tapar la calle"
+      },
+      {
+        "term": "sumario",
+        "translation": "dossier d'instruction (judiciaire)",
+        "context": "RTVE ha tenido acceso al sumario de la investigación"
+      },
+      {
+        "term": "contención",
+        "translation": "retenue / maîtrise de soi (émotionnelle)",
+        "context": "Dolor y contención en una ceremonia"
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17308121",
     "title": "Telediario 1 en 4' -  10/11/26",
     "date": "2026-11-10",
