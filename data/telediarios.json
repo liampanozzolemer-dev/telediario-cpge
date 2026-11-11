@@ -1,5 +1,56 @@
 [
   {
+    "id": "17309595",
+    "title": "Telediario 1 en 4' -  11/11/26",
+    "date": "2026-11-11",
+    "date_label": "11.11.2026",
+    "duration": "04.28 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-11-11-26/17309595/",
+    "image": "https://img.rtve.es/v/17309595?w=800&amp;preview=1794405603549.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17309595.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17309595",
+    "transcript": "Jornada de huelga general para reivindicar el derecho a la vivienda y unos salarios dignos. Los sindicatos reconocen un seguimiento dispar, según regiones y sectores, pero se muestran satisfechos. La patronal asegura que está siendo bajo. Hay 27 detenidos tras los choques entre piquetes y policía a primera hora de la mañana en algunas ciudades. Los sindicatos denuncian que en Mercamadrid los agentes han utilizado gas pimienta. Hola, buenas tardes. Es la primera huelga general en 14 años A primera hora, los piquetes han cortado numerosos accesos Y hasta hace unos minutos, estaba cortada la Gran Vía Daniel Luis. La Gran Vía de Madrid lo ha estado durando de hace un par de horas, ha terminado con cargas policiales y ocho detenidos. Estos actos violentos, ya lo preveían los comercios, por eso muchos han decidido echar el cierre. Esos cortes de carreteras han provocado importantes retenciones y ha complicado mucho la movilidad en Madrid, Sevilla o Barcelona. Allí, en la capital catalana, el metro y los autobuses han dejado de funcionar. Los servicios mínimos no se retoman hasta a las 4 y media de la tarde, Laura Vidal. Desde las 9:30, no circulan trenes ni metros. Los servicios mínimos, son del 25% en horas punta, dificulta la movilidad a los usuarios. Algunos supermercados han bajado el cierre y otros están custodiados por la Policía. Los sindicatos piden también una huelga de consumo. Cientos de manifestantes han cortado la Gran Vía de Madrid que está cerrada totalmente al tráfico y blindada por los antidisturbios, Daniel Luis. \"La huelga general es un éxito. Supera las expectativas de las organizaciones sindicales\". \"Nos jugamos nuestro derecho a la vivienda, a los servicios públicos. Nuestro derecho a unos salarios dignos\". \"Esta huelga general es porque el pueblo quiere un cambio en el modelo de vivienda por completo\". En el Gobierno, ningún ministro tiene hoy agenda. El PSOE defiende los motivos de esta huelga y Sumar llama directamente a la movilización. El PP denuncia una huelga electoral contra el próximo gobierno y vuelve a cargar contra los sindicatos, con esta imagen de una mariscada entre sindicalistas hecha con IA. Hoy, de nuevo, en Europa, se han activado tras recibir el mismo mensaje. hasta ahora, todas han resultado falsas. Lluvia, viento y olas. La borrasca Charles ha obligado a activar avisos Y en alerta máxima están el sur de Ávila y el norte de Cáceres, Rosa Chaparro. En el norte de Cáceres, continúa lloviendo con intensidad junto ha dejado de hacerlo en los últimos tres días. El río que pasa por detrás de nosotros, hoy preocupa menos que ayer. Y a pesar de ese fuerte temporal siguen llegando cayucos a El Hierro En este, que han captado nuestras cámaras, viajaban 68 personas que han logrado completar la travesía en unas condiciones tremendamente peligrosas con enormes olas y mucho viento",
+    "summary": [
+      "España vive una jornada de huelga general inédita en 14 años, convocada para reivindicar el derecho a la vivienda y la mejora de los salarios. Mientras los sindicatos califican la movilización de éxito, la patronal minimiza su impacto y se han registrado incidentes violentos con 27 detenidos.",
+      "El panorama político se polariza ante la proximidad de las elecciones: el Gobierno muestra posturas divergentes entre el PSOE y Sumar, mientras el Partido Popular califica la huelga de maniobra electoralista, utilizando incluso imágenes generadas por IA para criticar a los sindicatos.",
+      "La inestabilidad meteorológica, marcada por la borrasca Charles, mantiene en alerta a gran parte del país debido a las intensas lluvias y vientos. Paralelamente, la crisis migratoria persiste con la llegada de un cayuco a El Hierro con 68 personas a bordo, desafiando condiciones marítimas extremas."
+    ],
+    "vocabulary": [
+      {
+        "term": "echar la persiana",
+        "translation": "baisser le rideau (fermer un commerce)",
+        "context": "Algunos supermercados han echado la persiana, otros han abierto y están custodiados por la Policía."
+      },
+      {
+        "term": "piquetes",
+        "translation": "piquets de grève",
+        "context": "Hay 27 detenidos tras los choques entre piquetes y policía a primera hora de la mañana."
+      },
+      {
+        "term": "cargas policiales",
+        "translation": "charges policières",
+        "context": "La Gran Vía de Madrid lo ha estado durando de hace un par de horas, ha terminado con cargas policiales."
+      },
+      {
+        "term": "servicios mínimos",
+        "translation": "service minimum (réquisition de travailleurs)",
+        "context": "Los servicios mínimos no se retoman hasta a las 4 y media de la tarde."
+      },
+      {
+        "term": "blindada",
+        "translation": "protégée/bouclée (par des forces de l'ordre)",
+        "context": "Cientos de manifestantes han cortado la Gran Vía de Madrid que está cerrada totalmente al tráfico y blindada por los antidisturbios."
+      },
+      {
+        "term": "borrasca",
+        "translation": "dépression météorologique / tempête",
+        "context": "La borrasca Charles ha obligado a activar avisos en buena parte del país."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17308961",
     "title": "Telediario matinal en 4' - 11/11/2026",
     "date": "2026-11-11",
