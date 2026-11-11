@@ -1,5 +1,57 @@
 [
   {
+    "id": "17309945",
+    "title": "Telediario 2 en 4' - 11/11/26",
+    "date": "2026-11-11",
+    "date_label": "11.11.2026",
+    "duration": "04.49 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-11-11-26/17309945/",
+    "image": "https://img.rtve.es/v/17309945?w=800&amp;preview=1794427640365.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17309945.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17309945",
+    "transcript": "¿Qué tal?, buenas noches. convocada contra el precio de la vivienda y los bajos salarios Pese a la intensa lluvia que ha traído el temporal Charles, la multitudinaria manifestación de Madrid ha atravesado el centro de la capita Bajo paraguas, y a ritmo ligero, ha terminado en Plaza de España. Eneko Carazo, Hasta que ha llegado de forma pacífica, pero se ha encontrado con un cordón policial, que impedía llegar a la plaza de España, la situación está comprimida, pero la policía ha cargado, escuchamos los disparos al aire, lanzamiento de pelotas, se puede respirar el gas pimienta, se resisten a marcharse, vemos algunos restos de disturbios. \"Y solo el pueblo salva al pueblo, así que hay que salir a la calle\". \"No por mí, si no por mis hijos y mis nietos\". Los sindicatos reconocen que el seguimiento pero aseguran que el paro ha desbordado sus previsiones. Para la patronal ha sido un fracaso. El sindicato de inquilinas, \"La jornada de paro laboral es una jornada de éxito\". del salario\". \"Queremos acabar con el negocio de la vivienda, Y también en Barcelona, Bilbao, Valencia, Málaga, Zaragoza y otras capitales españolas la jornada de huelga culminaba En Sevilla, Huelva o Cádiz se han tenido que suspender por el temporal. Y esta es señal en directo de Barcelona, Han comenzado al terminar la gran manifestación que ha recorrido el centro de la ciudad. En un mensaje en redes, el presidente de la Generalitat, Salvador Illa, ha insistido en que \"la protesta es legítima, la violencia no\" Los sindicatos han anunciado que llevarán a la justicia entre las fuerzas de seguridad y algunos piquetes informativos Policía, Ertzaintza y Mossos d'Esquadra El Gobierno ha vaciado de actos públicos su agenda de hoy. y el resto de partidos de izquierda han participado Partido Popular y Vox han seguido con la precampaña electoral. El PP habla de despropósito Vox habla de circo general. Y ya hemos visto en algunas manifestaciones los efectos de la borrasca Charles En el sur de Ávila y el norte de Cáceres se mantienen los avisos rojos hasta la medianoche. Marta Collado, en Cáceres, Aquí preocupa la crecida del río, una mujer y sus dos hijos han tenido que ser rescatados, por la subida de un arroyo, por otro lado, en el Jerte, la presa está desembolsando, en el norte de Cáceres, donde se mantiene activado el aviso rojo, por fuertes lluvias. Mañana se espera que ama INE.",
+    "summary": [
+      "Una huelga general, convocada en protesta por el encarecimiento de la vivienda y la precariedad salarial, ha movilizado a miles de ciudadanos en las principales ciudades españolas, a pesar de las condiciones meteorológicas adversas.",
+      "La jornada ha estado marcada por tensiones y enfrentamientos entre manifestantes y las fuerzas de seguridad, lo que ha llevado a los sindicatos a anunciar acciones legales contra las cargas policiales registradas durante las protestas.",
+      "Mientras el Gobierno ha suspendido su agenda pública, el arco parlamentario se ha fracturado: la izquierda ha mostrado su respaldo a las reivindicaciones, mientras que el Partido Popular y Vox han calificado la movilización de despropósito y circo general.",
+      "El temporal Charles, que ha azotado gran parte de la península, ha condicionado el desarrollo de las manifestaciones y ha provocado situaciones de emergencia, especialmente en las provincias de Ávila y Cáceres, donde se mantienen avisos rojos por riesgo de inundaciones."
+    ],
+    "vocabulary": [
+      {
+        "term": "desbordar las previsiones",
+        "translation": "dépasser les prévisions",
+        "context": "aseguran que el paro ha desbordado sus previsiones."
+      },
+      {
+        "term": "piquetes informativos",
+        "translation": "piquets de grève",
+        "context": "choques entre las fuerzas de seguridad y algunos piquetes informativos."
+      },
+      {
+        "term": "vaciado de actos públicos",
+        "translation": "allégé de tout acte public",
+        "context": "El Gobierno ha vaciado de actos públicos su agenda de hoy."
+      },
+      {
+        "term": "borrasca",
+        "translation": "dépression météorologique / tempête",
+        "context": "Y ya hemos visto en algunas manifestaciones los efectos de la borrasca Charles."
+      },
+      {
+        "term": "desembolsar",
+        "translation": "lâcher de l'eau (barrage)",
+        "context": "en el Jerte, la presa está desembolsando."
+      },
+      {
+        "term": "precampaña electoral",
+        "translation": "pré-campagne électorale",
+        "context": "Partido Popular y Vox han seguido con la precampaña electoral."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17309595",
     "title": "Telediario 1 en 4' -  11/11/26",
     "date": "2026-11-11",
