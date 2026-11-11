@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17308961",
+    "title": "Telediario matinal en 4' - 11/11/2026",
+    "date": "2026-11-11",
+    "date_label": "11.11.2026",
+    "duration": "03.09 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-11-11-2026/17308961/",
+    "image": "https://img.rtve.es/v/17308961?w=800&amp;preview=01794368050105.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17308961.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17308961",
+    "transcript": "¿Qué tal? Buenos dias! y han convocado manifestaciones esta tarde en muchas ciudades. Esto son las cocheras de los autobuses madrileños. Y esto, Mercamadrid, el mayor centro de distribución el derecho constitucional a la huelga. Un termómetro del paro son los transportes, En el tiempo jornada complicada con mucha lluvia -Complicada tanto por la lluvia como por el viento. Con acumulado de esta 120 l de metro cuadrado, el mapa se llena de avisos en este caso por el viento, en la isla de La Palma en nivel rojo. ahí la racha, llegar a las 150 km/h. Casi nadie se va libra de la lluvia. Quedarán un poco más al margen también a ser cantábrico. Pete Hegseth, secretario de defensa de Estados Unidos, logra esquivar -de momento- el juicio político. Los republicanos han cerrado filas en torno a él, dejando solo con la oposición al impulsor del impeachment, Thomas Masie, también de los suyos. Trump ha celebrado lo que llama exoneracion de un gran patriota. Y la Selección ya está en Praga Así es Álex, Será el primero de los dos encuentros Una victoria de los de Luis de la Fuente es clave, Y en la Copa del Rey, no hubo sorpresas en los partidos de Valencia y Alavés... Ambos equipos de Primera División resolvieron sus duelos ante Tavernes y Anaitasuna. Desde medianoche...",
+    "summary": [
+      "España afronta su primera huelga general en catorce años, marcada por una alta tensión en los centros logísticos y el transporte, en un contexto político inusual al coincidir con la víspera de una campaña electoral.",
+      "Los sindicatos, que cuentan con el respaldo de sectores del Gobierno, denuncian trabas al ejercicio del derecho constitucional a la huelga frente a la actuación policial en los piquetes informativos.",
+      "En el ámbito internacional, el secretario de Defensa de Estados Unidos, Pete Hegseth, evita temporalmente el proceso de destitución tras el apoyo unánime de la bancada republicana, un desenlace celebrado por Donald Trump.",
+      "La actualidad meteorológica se ve condicionada por un episodio de lluvias torrenciales y vientos extremos, con especial incidencia en la isla de La Palma, donde se ha activado el nivel de alerta roja."
+    ],
+    "vocabulary": [
+      {
+        "term": "cerrar filas",
+        "translation": "faire bloc / resserrer les rangs",
+        "context": "Los republicanos han cerrado filas en torno a él."
+      },
+      {
+        "term": "piquetes informativos",
+        "translation": "piquets de grève",
+        "context": "Son momentos de tensión entre agentes de policía y los piquetes informativos."
+      },
+      {
+        "term": "vísperas",
+        "translation": "veille (d'un événement)",
+        "context": "La primera en vísperas de una campaña electoral."
+      },
+      {
+        "term": "esquivar",
+        "translation": "esquiver / éviter",
+        "context": "Pete Hegseth logra esquivar -de momento- el juicio político."
+      },
+      {
+        "term": "racha",
+        "translation": "rafale (de vent)",
+        "context": "Ahí la racha, llegar a las 150 km/h."
+      },
+      {
+        "term": "quedar al margen",
+        "translation": "être épargné / rester en marge",
+        "context": "Quedarán un poco más al margen también a ser cantábrico."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Huelga general en España"
+  },
+  {
     "id": "17308782",
     "title": "Telediario 2 en 4' - 10/11/26",
     "date": "2026-11-10",
