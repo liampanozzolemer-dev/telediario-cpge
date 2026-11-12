@@ -1,5 +1,109 @@
 [
   {
+    "id": "17311024",
+    "title": "Telediario 1 en 4' -  11/11/26",
+    "date": "2026-11-12",
+    "date_label": "12.11.2026",
+    "duration": "02.52 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-11-11-26/17311024/",
+    "image": "https://img.rtve.es/v/17311024?w=800&amp;preview=1794492322973.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17311024.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17311024",
+    "transcript": "Las cargas policiales durante la jornada de huelga general de ayer abren otro frente político con el ministro Marlaska, de nuevo, en el foco. El ministro ha ordenado que se investiguen esas cargas de la Policía y que no se use gas lacrimógeno en las manifestaciones. El Congreso convalida uno de los dos decretos de vivienda aprobados por el gobierno tras el desahucio de Maricarmen. La jueza Tardón imputa al exdelegado del Gobierno en Ceuta por la entrada masiva del pasado julio. A las 12 de la noche arranca oficialmente la campaña electoral. Se complica el futuro del fundador de Nvidia. El Papa llega a Perú, el país en el que fue misionero y obispo, durante 20 años",
+    "summary": [
+      "La gestión de la huelga general del 11 de noviembre genera una crisis política en torno al ministro Marlaska, quien ha ordenado investigar las cargas policiales y prohibir el uso de gases lacrimógenos en futuras protestas.",
+      "El Congreso de los Diputados ha convalidado un decreto de vivienda, una medida impulsada por el Ejecutivo tras la repercusión mediática del desahucio de Maricarmen.",
+      "En el ámbito judicial, la jueza Tardón ha imputado al exdelegado del Gobierno en Ceuta por la entrada masiva de inmigrantes ocurrida el pasado mes de julio.",
+      "La actualidad internacional destaca la llegada del Papa a Perú, país donde ejerció como misionero y obispo durante dos décadas, mientras que el sector tecnológico observa con incertidumbre la situación del fundador de Nvidia."
+    ],
+    "vocabulary": [
+      {
+        "term": "cargas policiales",
+        "translation": "charges policières",
+        "context": "Las cargas policiales durante la jornada de huelga general de ayer abren otro frente político."
+      },
+      {
+        "term": "estar en el foco",
+        "translation": "être sous le feu des projecteurs / être au centre de l'attention",
+        "context": "El ministro Marlaska, de nuevo, en el foco."
+      },
+      {
+        "term": "convalidar",
+        "translation": "ratifier / valider (un décret)",
+        "context": "El Congreso convalida uno de los dos decretos de vivienda aprobados por el gobierno."
+      },
+      {
+        "term": "desahucio",
+        "translation": "expulsion (d'un logement)",
+        "context": "El Congreso convalida uno de los dos decretos de vivienda aprobados por el gobierno tras el desahucio de Maricarmen."
+      },
+      {
+        "term": "imputar",
+        "translation": "mettre en examen",
+        "context": "La jueza Tardón imputa al exdelegado del Gobierno en Ceuta."
+      },
+      {
+        "term": "arrancar",
+        "translation": "démarrer / débuter (une campagne)",
+        "context": "A las 12 de la noche arranca oficialmente la campaña electoral."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17310073",
+    "title": "Telediario matinal en 4' - 12/11/2026",
+    "date": "2026-11-12",
+    "date_label": "12.11.2026",
+    "duration": "03.12 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-12-11-2026/17310073/",
+    "image": "https://img.rtve.es/v/17310073?w=800&amp;preview=01794425978833.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17310073.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17310073",
+    "transcript": "Multitudinarias manifestaciones para cerrar la huelga general. Miles de personas desafiaron a la lluvia para reivindicar salarios y viviendas dignas. En Barcelona, destrozos en escaparates y mobiliario. La huelga general ha sido para ellos, para los sindicatos, Sí lo hace la patronal que reduce el seguimiento al 5 %. no ha sido \"contra nadie\". A la izquierda del PSOE, respaldo absoluto. Para la oposición es \"absurda y electoral\" según Vox. Y tras la huelga, esta mañana la diputación permanente uno de los dos decretos de vivienda. Incluye la protección antidesahucios a vulnerables, el alquiler En el tiempo jornada complicada con mucha lluvia y avisos rojos en torno al Sistema Central. -La que se va a echarles. Se queda por una, aunque guión no tan intenso como jornadas anteriores. Con lluvias más fuertes en el caso, en la costa gallega, también así cantábrico. Incluso con mucho sol, y temperaturas allí se disparan por el viento de poniente. Podremos llegar a 27° en puntos como Alicante y Murcia. Tres millones de personas han recibido al Papa en Perú, su país adoptivo y el cierre de su gira por Latinoamérica. Y en Nueva York, los equipos de emergencia trabajan sin descanso entre los escombros de un edificio que se ha derrumbado en Brooklyn; hay al menos 2 muertos y casi una veintena de heridos. Fondo, adaptar el del TD2, y cambiar el texto Así es Álex Será frente a República Checa, esta tarde a las nueve menos cuarto. con Nico Williams ya recuperado para Luis de la Fuente, Y el mismo grupo de España, Inglaterra recibe a Croacia, por primera vez juntos en la Selección. Y sin dejar la Nations, Mbappé es baja por molestias en el que está en juego el liderato del grupo A.",
+    "summary": [
+      "La jornada de huelga general en España ha estado marcada por una fuerte polarización política y episodios de violencia urbana, con 60 detenidos tras las manifestaciones. Mientras los sindicatos califican la movilización de éxito, el Gobierno insiste en su carácter no confrontativo, frente a una oposición que tilda la convocatoria de maniobra electoralista.",
+      "En el ámbito legislativo, la diputación permanente ha comenzado a tramitar decretos urgentes en materia de vivienda, incluyendo medidas de protección antidesahucios para colectivos vulnerables, en un contexto de inestabilidad climática que afecta a diversas regiones del país.",
+      "En el plano internacional, la actualidad se centra en la multitudinaria acogida al Papa en Perú durante su gira latinoamericana y en el trágico derrumbe de un edificio en Brooklyn, Nueva York, que ha dejado un balance provisional de dos víctimas mortales.",
+      "En el terreno deportivo, la selección española de fútbol se prepara para su encuentro de la Nations League contra la República Checa, destacando el retorno de Nico Williams, mientras que la actualidad europea se ve condicionada por la baja de Mbappé en el grupo A."
+    ],
+    "vocabulary": [
+      {
+        "term": "desafiar a la lluvia",
+        "translation": "braver la pluie",
+        "context": "Miles de personas desafiaron a la lluvia para reivindicar salarios y viviendas dignas."
+      },
+      {
+        "term": "cargas de los antidisturbios",
+        "translation": "charges des forces de l'ordre (anti-émeutes)",
+        "context": "Al terminar la de Madrid hubo cargas de los antidisturbios."
+      },
+      {
+        "term": "seguimiento",
+        "translation": "taux de participation (à une grève)",
+        "context": "Sí lo hace la patronal que reduce el seguimiento al 5 %."
+      },
+      {
+        "term": "protección antidesahucios",
+        "translation": "protection contre les expulsions locatives",
+        "context": "Incluye la protección antidesahucios a vulnerables."
+      },
+      {
+        "term": "trabajar sin descanso",
+        "translation": "travailler sans relâche",
+        "context": "los equipos de emergencia trabajan sin descanso entre los escombros."
+      },
+      {
+        "term": "estar en juego",
+        "translation": "être en jeu / être en ligne de mire",
+        "context": "en el que está en juego el liderato del grupo A."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17309945",
     "title": "Telediario 2 en 4' - 11/11/26",
     "date": "2026-11-11",
