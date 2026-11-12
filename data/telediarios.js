@@ -1,5 +1,56 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17311079",
+    "title": "Telediario 1 en 4' -  12/11/26",
+    "date": "2026-11-12",
+    "date_label": "12.11.2026",
+    "duration": "02.52 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-12-11-26/17311079/",
+    "image": "https://img.rtve.es/v/17311079?w=800&amp;preview=1794493596363.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17311079.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17311079",
+    "transcript": "Las cargas policiales durante la jornada de huelga general de ayer Los socios del Gobierno piden la dimisión de Marlaska. Los días. Buenos días cuatro. Hola, buenas tardes. El ministro ordena una investigación específica sobre esas cargas de la Policía y que no se use gas lacrimógeno en las manifestaciones. Moncloa descarta su cese. Y el Partido Popular sale en defensa de la Policía. -Los mandos policiales son responsables y tienen que determinar si ha habido algún episodio que son inasumibles en democracia. Los sindicatos dicen que la actuación policial fue desproporcionada y denunciaran el uso de gas pimienta. El Congreso convalida uno de los dos decretos de vivienda Sale delante el que prohíbe los desahucios pero han rechazado La jueza Tardón imputa al exdelegado del Gobierno en Ceuta Pérez Triano tendrá que declarar el 18 de diciembre El PSOE apuesta por Andalucía y el PP por Cataluña. Pedro Sánchez abrirá en Sevilla y Feijóo en Badalona. Abascal lo hará en Madrid. Se complica el futuro del fundador de Nvidia. Podría ser destituido, después de que se hiciera público tuvo otra relación con una empleada de la empresa. Nvidia se desploma en bolsa. El Papa llega a Perú,",
+    "summary": [
+      "La gestión de las cargas policiales durante la reciente huelga general ha generado una crisis política interna, con los socios del Gobierno exigiendo la dimisión del ministro Marlaska. El Ejecutivo ha ordenado una investigación sobre el uso de gases lacrimógenos, mientras el Partido Popular defiende la actuación de las fuerzas de seguridad.",
+      "En el ámbito legislativo, el Congreso ha convalidado uno de los decretos de vivienda presentados por el Gobierno, logrando prohibir los desahucios, aunque la segunda parte de la propuesta ha sido rechazada. Paralelamente, la justicia ha imputado al exdelegado del Gobierno en Ceuta por los incidentes migratorios del pasado julio.",
+      "El panorama electoral se intensifica con el inicio de la campaña, donde los principales líderes políticos han seleccionado plazas estratégicas para sus actos de apertura: Sevilla para el PSOE, Badalona para el PP y Madrid para Vox. Por otro lado, la inestabilidad corporativa afecta a Nvidia tras la posible destitución de su fundador por motivos éticos."
+    ],
+    "vocabulary": [
+      {
+        "term": "cargas policiales",
+        "translation": "charges policières",
+        "context": "Las cargas policiales durante la jornada de huelga general de ayer abren otro frente político."
+      },
+      {
+        "term": "convalidar",
+        "translation": "ratifier / valider (terme juridique/parlementaire)",
+        "context": "El Congreso convalida uno de los dos decretos de vivienda aprobados por el gobierno."
+      },
+      {
+        "term": "desahucio",
+        "translation": "expulsion (de logement)",
+        "context": "Sale delante el que prohíbe los desahucios pero han rechazado."
+      },
+      {
+        "term": "imputar",
+        "translation": "inculper / mettre en examen",
+        "context": "La jueza Tardón imputa al exdelegado del Gobierno en Ceuta."
+      },
+      {
+        "term": "desplomarse",
+        "translation": "s'effondrer (en parlant de la bourse)",
+        "context": "Nvidia se desploma en bolsa."
+      },
+      {
+        "term": "inasumible",
+        "translation": "inacceptable / intolérable",
+        "context": "Tienen que determinar si ha habido algún episodio que son inasumibles en democracia."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17311024",
     "title": "Telediario 1 en 4' -  11/11/26",
     "date": "2026-11-12",
