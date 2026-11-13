@@ -1,5 +1,51 @@
 [
   {
+    "id": "17313748",
+    "title": "Telediario 2 en 4' - 13/11/26",
+    "date": "2026-11-13",
+    "date_label": "13.11.2026",
+    "duration": "00.24 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-13-11-26/17313748/",
+    "image": "https://img.rtve.es/v/17313748?w=800&amp;preview=1794602213082.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17313748.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17313748",
+    "transcript": "Buenas noches. Hasta el extremo de que hoy, tres entrevistas a Sánchez, Feijóo y Colau del \"youtuber\" Jordi Wild protagonizan el primer día oficial de la campaña. Casi seis horas de entrevistas en Youtube",
+    "summary": [
+      "El inicio oficial de la campaña electoral para los comicios del 29 de noviembre marca un punto de inflexión en la estrategia comunicativa de los principales líderes políticos españoles.",
+      "La centralidad de las redes sociales se confirma con la irrupción del youtuber Jordi Wild como entrevistador de figuras clave como Pedro Sánchez, Alberto Núñez Feijóo y Ada Colau.",
+      "Este fenómeno mediático, que suma casi seis horas de contenido audiovisual, subraya la desintermediación política y la búsqueda de nuevos nichos electorales en plataformas digitales."
+    ],
+    "vocabulary": [
+      {
+        "term": "librarse una batalla",
+        "translation": "se livrer une bataille (contexte compétitif)",
+        "context": "Buena parte de la batalla electoral para el 29 de noviembre se libra en las redes sociales."
+      },
+      {
+        "term": "hasta el extremo de que",
+        "translation": "au point que",
+        "context": "Hasta el extremo de que hoy, tres entrevistas a Sánchez, Feijóo y Colau protagonizan el primer día."
+      },
+      {
+        "term": "protagonizar",
+        "translation": "être au centre de, occuper le devant de la scène",
+        "context": "Tres entrevistas a Sánchez, Feijóo y Colau protagonizan el primer día oficial de la campaña."
+      },
+      {
+        "term": "comicios",
+        "translation": "élections, scrutin",
+        "context": "Buena parte de la batalla electoral para los comicios del 29 de noviembre."
+      },
+      {
+        "term": "irrupción",
+        "translation": "irruption, apparition soudaine et marquante",
+        "context": "La irrupción del youtuber Jordi Wild como entrevistador de figuras clave."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17312850",
     "title": "Telediario 1 en 4' - 13/11/2026",
     "date": "2026-11-13",
