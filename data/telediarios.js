@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17312850",
+    "title": "Telediario 1 en 4' - 13/11/2026",
+    "date": "2026-11-13",
+    "date_label": "13.11.2026",
+    "duration": "03.26 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/telediario-1-cuatro-minutos-13-11-2026-1-4-minutos-13112026/17312850/",
+    "image": "https://img.rtve.es/v/17312850?w=800&amp;preview=01794578813192.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17312850.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17312850",
+    "transcript": "Hola, buenas tardes. Aunque llevamos 5 semanas en clave electoral, desde que Pedro Sánchez hoy es el primer día oficial de campaña. Y la noticia no está en los mítines, sino en los nuevos formatos que estrenan los principales candidatos para lanzar sus mensajes: Pongo la mano en el fuego por José Luis. -No va haber un ministerio de igualdad ni de vivienda. Pedro Sánchez y Alberto Núñez Feijóo y también Ada Colau han defendido sus propuestas en el estudio del youtuber Jordi Wild. Abascal ha rechazado ir. Anoche Sánchez arrancó campaña en Sevilla y la sorpresa fue la intervención por primera vez en un mitín de Begoña Gómez y Feijóo hoy ha compartido escenario con Ayuso. Abascal ha estado en Toledo donde la Policía ha dispersado a un grupo que protestaba contra el acto de Vox. Y justo hoy, primer día de campaña, para revalorizar las pensiones en 2027. Lo ha aprobado en un Consejo de Ministros Extraordinario habrá otro antes de las elecciones del 29 de noviembre. El Tribunal de Cuentas ve indicios de uso indebido Dice que es necesario determinar si los 6,3 millones que costó constituyó una salida de dinero público carente por completo de justificación legal. su nivel más alto en 3 años. Detrás está el encarecimiento de la energía. Seguirá activo hasta final de año el descuento La crisis de Nvidia compromete el desarrollo de la IA. Directamente ligada a la figura de Jensen Huang plantea el debate de cuánto poder puede acumular una persona tras la grave crisis de las últimas horas desde ayer por la tarde no funcionaban sus aplicaciones en todo el mundo. La compañía descarta un ciberataque Rosalía se corona en los Grammy Latinos con 6 premios para 'Lux'. \"La perla\", elegida canción del año con esta dedicatoria muy aplaudida Para todas que se han encontrado con alguna perla, ojalá que la vida les tenga guardado un diamante. Una ya no está para bisutería. \"La perla\", elegida canción del año con esta dedicatoria muy aplaudida en llevarse el galardón de mejor álbum en tres ocasiones. España amplía su récord internacional y sumó 44 partidos consecutivos invicta. Alex Baena y Marc Pubill marcaron los goles ante Chequia en Praga. La selección se jugará contra Inglaterra, el domingo aquí en la 1, el liderato de grupo.",
+    "summary": [
+      "El inicio oficial de la campaña electoral española se caracteriza por la irrupción de nuevos formatos comunicativos, como la participación de los principales candidatos en espacios de creadores de contenido digital, desplazando el foco de los mítines tradicionales.",
+      "El Gobierno ha activado medidas extraordinarias para la revalorización de las pensiones en 2027, mientras el Tribunal de Cuentas investiga posibles irregularidades en la gestión de fondos públicos vinculada a la compra de un inmueble por parte del Ejecutivo de Ayuso.",
+      "El panorama económico y tecnológico se ve afectado por una inflación persistente del 4,9% y una crisis operativa global en Microsoft, que se suma a las incertidumbres sobre el desarrollo de la Inteligencia Artificial tras los problemas estructurales en Nvidia.",
+      "En el ámbito cultural y deportivo, Rosalía consolida su proyección internacional al obtener seis galardones en los Grammy Latinos, mientras que la selección española de fútbol prolonga su racha histórica de imbatibilidad tras vencer a Chequia."
+    ],
+    "vocabulary": [
+      {
+        "term": "poner la mano en el fuego",
+        "translation": "mettre sa main au feu (avoir une confiance absolue)",
+        "context": "Pongo la mano en el fuego por José Luis."
+      },
+      {
+        "term": "arrancar campaña",
+        "translation": "donner le coup d'envoi de la campagne",
+        "context": "Anoche Sánchez arrancó campaña en Sevilla."
+      },
+      {
+        "term": "indicios de uso indebido",
+        "translation": "indices d'usage abusif / détournement",
+        "context": "El Tribunal de Cuentas ve indicios de uso indebido de fondos."
+      },
+      {
+        "term": "carente por completo de justificación",
+        "translation": "totalement dépourvu de justification",
+        "context": "constituyó una salida de dinero público carente por completo de justificación legal."
+      },
+      {
+        "term": "encarecimiento",
+        "translation": "renchérissement / hausse des prix",
+        "context": "Detrás está el encarecimiento de la energía."
+      },
+      {
+        "term": "invicta",
+        "translation": "invaincue",
+        "context": "España amplía su récord internacional y sumó 44 partidos consecutivos invicta."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17311936",
     "title": "Telediario matinal en 4' - 13/11/2026",
     "date": "2026-11-13",
