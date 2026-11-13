@@ -1,5 +1,56 @@
 [
   {
+    "id": "17311936",
+    "title": "Telediario matinal en 4' - 13/11/2026",
+    "date": "2026-11-13",
+    "date_label": "13.11.2026",
+    "duration": "03.42 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-13-11-2026/17311936/",
+    "image": "https://img.rtve.es/v/17311936?w=800&amp;preview=01794500773955.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17311936.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17311936",
+    "transcript": "Qué tal, Buenos dias! Desde Sevilla, Sánchez confía en una remontada épica. pide movilización para dar la vuelta a las encuestas. Hasta las puertas de esta campaña han llegado las cargas policiales contra piquetes y manifestantes en la huelga general. ha encargado una investigación y prohibe el uso de gas pimienta. La diputación permanente del Congreso No ha salido adelante el otro decreto, La jueza que investiga al grupo neonazi Núcleo Nacional ha ordenado el cierre de los locales de la organización Seguimos con tiempo otoñal y con el paraguas a mano, -Durante la mañana la presentaciones son sobre todo Castilla y León, y Cantabria, y a partir del mediodía se vuelven a generalizar, hecho bajo por buena parte del centro norte. ¿ quien queda al margen? Con bastante sol y temperaturas suaves, que allí superarán los 25° en el resto otoñales, entre 15 y 18°. La empresa más valiosa del mundo se derrumba en bolsa. Y en Deportes, la Selección continúa la racha los de Luis de la Fuente llevan ya 43 partidos sin perder en la cuenta, Un partido exigente para la Selección que se adelantó gracias a un penalti por mano del rival Con el homenaje a Harry Kane de fondo por su balón de Oro, y se jugará con España el liderato de grupo este domingo... en un partido de remontada, con doblete de Pio Esposito",
+    "summary": [
+      "El inicio oficial de la campaña electoral para las elecciones generales del 29 de noviembre marca el comienzo de una intensa quincena de movilización política, donde los partidos buscan consolidar sus bases y atraer al electorado indeciso.",
+      "El panorama social se ve tensionado por una huelga general que ha derivado en cargas policiales, provocando una respuesta gubernamental que incluye la apertura de una investigación y la prohibición del uso de gas pimienta por parte de las fuerzas de seguridad.",
+      "En el ámbito judicial y de seguridad, la jueza instructora ha ordenado el cierre de los locales del grupo neonazi 'Núcleo Nacional', mientras que en el plano deportivo, la selección española de fútbol mantiene una racha histórica de 43 partidos invicta."
+    ],
+    "vocabulary": [
+      {
+        "term": "exprimir su tiempo",
+        "translation": "optimiser au maximum son temps",
+        "context": "todos los partidos exprimirán su tiempo con actos, mítines y mensajes."
+      },
+      {
+        "term": "dar la vuelta a las encuestas",
+        "translation": "renverser la tendance des sondages",
+        "context": "pide movilización para dar la vuelta a las encuestas."
+      },
+      {
+        "term": "cargas policiales",
+        "translation": "charges policières",
+        "context": "Hasta las puertas de esta campaña han llegado las cargas policiales contra piquetes."
+      },
+      {
+        "term": "no ha salido adelante",
+        "translation": "n'a pas été adopté / n'a pas abouti",
+        "context": "La diputación permanente del Congreso No ha salido adelante el otro decreto."
+      },
+      {
+        "term": "quedar al margen",
+        "translation": "être épargné / rester en dehors",
+        "context": "¿quien queda al margen? Con bastante sol y temperaturas suaves."
+      },
+      {
+        "term": "mantener la racha",
+        "translation": "poursuivre la série (de victoires/invincibilité)",
+        "context": "la Selección continúa la racha los de Luis de la Fuente llevan ya 43 partidos sin perder."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Lancement de la campagne electorale"
+  },
+  {
     "id": "17311079",
     "title": "Telediario 1 en 4' -  12/11/26",
     "date": "2026-11-12",
