@@ -1,5 +1,51 @@
 [
   {
+    "id": "17314496",
+    "title": "Telediario 2 en 4' - 14/11/26",
+    "date": "2026-11-14",
+    "date_label": "14.11.2026",
+    "duration": "00.55 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-14-11-26/17314496/",
+    "image": "https://img.rtve.es/v/17314496?w=800&amp;preview=01794686499423.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17314496.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17314496",
+    "transcript": "EE.UU. atribuye el parón de unas horas en el tráfico aéreo a un fallo ocurrido Solo hoy 11 cayucos con 850 personas a bordo han alcanzado la isla, por parte de los principales partidos Buenas noches.",
+    "summary": [
+      "Las autoridades estadounidenses han identificado un fallo técnico, derivado de labores de mantenimiento en el cableado del sistema de control, como la causa principal de la reciente interrupción del tráfico aéreo en el país.",
+      "La crisis migratoria en las Islas Canarias se intensifica tras la llegada de 850 personas en una sola jornada, distribuidas en once embarcaciones, lo que pone de relieve la vulnerabilidad de la ruta atlántica.",
+      "En el ámbito nacional, las formaciones políticas han dado el pistoletazo de salida a la campaña electoral, centrando sus esfuerzos en actos multitudinarios para movilizar al electorado ante los próximos comicios."
+    ],
+    "vocabulary": [
+      {
+        "term": "parón",
+        "translation": "arrêt, interruption, blocage",
+        "context": "EE.UU. atribuye el parón de unas horas en el tráfico aéreo a un fallo ocurrido"
+      },
+      {
+        "term": "cayucos",
+        "translation": "embarcations de fortune (utilisées par les migrants)",
+        "context": "Solo hoy 11 cayucos con 850 personas a bordo han alcanzado la isla"
+      },
+      {
+        "term": "a bordo",
+        "translation": "à bord",
+        "context": "850 personas a bordo de 11 embarcaciones"
+      },
+      {
+        "term": "alcanzar",
+        "translation": "atteindre, arriver à",
+        "context": "850 personas a bordo han alcanzado la isla"
+      },
+      {
+        "term": "dar el pistoletazo de salida",
+        "translation": "donner le coup d'envoi",
+        "context": "Los principales partidos inician la campaña electoral"
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17314207",
     "title": "Telediario 1 en 4' - 14/11/26",
     "date": "2026-11-14",
