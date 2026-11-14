@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17314207",
+    "title": "Telediario 1 en 4' - 14/11/26",
+    "date": "2026-11-14",
+    "date_label": "14.11.2026",
+    "duration": "02.55 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-14-11-26-1-cuatro-minutos-141126/17314207/",
+    "image": "https://img.rtve.es/v/17314207?w=800&amp;preview=01794665105405.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17314207.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17314207",
+    "transcript": "Caos aéreo en EE.UU., por un problema informático que ha obligado a detener la actividad durante horas en todos los aeropuertos del país. 10 000 vuelos retrasados y 6500 cancelados solo este viernes, con cientos de miles de viajeros afectados. El tráfico aéreo ya se ha reanudado tras un parón que no se veía desde el 11 de septiembre. Buenas tardes. Primer fin de semana de campaña electoral. Los candidatos han protagonizado grandes actos. En unas durísimas condiciones del mar, en las últimas 24 horas a la isla de El Hierro. 8 cayucos, con casi 40 menores a bordo. Se fue siendo el padre Roberto y ha vuelto como León XIV. En Chiclayo, en Perú, donde fue obispo, le han recibido más de un millón de fieles. se trasladaba en burro entre los poblados. Cualquier ayuda, por pequeña que sea, suma. Cuatro accidentes en la P7 de Cataluña. Un camión investiga otro dejan una víctima mortal. \"¿Hay jóvenes hoy en día dispuestos a formarse en técnicas de tapizado del siglo 18? La respuesta es si en un negocio que además está en auge. En esta real fábrica de tapices la demanda ha aumentado El fenómeno de La bola negra sigue imparable.",
+    "summary": [
+      "Un fallo informático masivo ha paralizado el tráfico aéreo en Estados Unidos, provocando la cancelación y el retraso de miles de vuelos y afectando a cientos de miles de pasajeros, en una interrupción sin precedentes desde los atentados del 11 de septiembre.",
+      "En el ámbito migratorio, la isla de El Hierro continúa recibiendo flujos constantes de personas, con la llegada de ocho cayucos en las últimas 24 horas, incluyendo a decenas de menores de edad que arriban en condiciones marítimas extremadamente adversas.",
+      "El papa León XIV ha protagonizado un emotivo regreso a Chiclayo, Perú, donde ejerció como obispo, siendo recibido por una multitud de más de un millón de fieles en un viaje que evoca su labor pastoral histórica en la región.",
+      "La Real Fábrica de Tapices experimenta un renacimiento inesperado, con un aumento significativo de la demanda que ha despertado el interés de las nuevas generaciones por oficios artesanales del siglo XVIII, considerados hasta hace poco en peligro de extinción."
+    ],
+    "vocabulary": [
+      {
+        "term": "parón",
+        "translation": "interruption, arrêt prolongé",
+        "context": "El tráfico aéreo ya se ha reanudado tras un parón que no se veía desde el 11 de septiembre."
+      },
+      {
+        "term": "protagonizar",
+        "translation": "être au cœur de, être l'acteur principal de",
+        "context": "Los candidatos han protagonizado grandes actos."
+      },
+      {
+        "term": "cayucos",
+        "translation": "embarcations de fortune (pirogues)",
+        "context": "En las últimas 24 horas a la isla de El Hierro, 8 cayucos."
+      },
+      {
+        "term": "fieles",
+        "translation": "fidèles (religieux)",
+        "context": "Le han recibido más de un millón de fieles."
+      },
+      {
+        "term": "en auge",
+        "translation": "en plein essor, en pleine expansion",
+        "context": "La respuesta es sí en un negocio que además está en auge."
+      },
+      {
+        "term": "imparable",
+        "translation": "inarrêtable, irrésistible",
+        "context": "El fenómeno de La bola negra sigue imparable."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17313882",
     "title": "Telediario matinal en 4'- 14/11/26",
     "date": "2026-11-14",
