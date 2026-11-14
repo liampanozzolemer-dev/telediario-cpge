@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17313882",
+    "title": "Telediario matinal en 4'- 14/11/26",
+    "date": "2026-11-14",
+    "date_label": "14.11.2026",
+    "duration": "02.59 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-14-11-26/17313882/",
+    "image": "https://img.rtve.es/v/17313882?w=800&amp;preview=01794638905204.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17313882.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17313882",
+    "transcript": "Estados Unidos recupera poco a poco el tráfico aéreo tras cinco horas con todos.. los despegues suspendidos. Así está en estos momentos el aeropuerto de Washington cuando se adentran en la madrugada. Va a estar toda la noche abierto, pero por la noche reducen el número de vuelos. La razón es que un fallo de comunicación ha afectado a los centros de control aéreo de todo el país. La Administración Federal de Aviación.. ha paralizado las salidas por seguridad. Hasta ahora han cancelado más de 8.000 vuelos. Todo apunta a una sobrecarga de datos en los equipos informáticos y de comunicaciones más antiguos Hola, buenos días. Así comenzamos la actualidad de este sábado con la Casa Blanca, pidiendo además hasta 30.000 millones de dólares al Congreso para actualizar todos esos sistemas. Enseguida lo vemos aquí en España siguen llegando pateras a la Isla del Hierro. Hace unas horas llegaba la última, el sexto cayuco de este viernes.. con 87 personas a bordo. Entre ellas hemos visto niños, mujeres, gente que se desvanecía nada más tocar tierra. En lo que va además, más de 8.000 personas han llegado a Canarias El gobierno da el primer paso para subir las pensiones en 2027. Lo ha aprobado un consejo de ministros extraordinario, celebrado el primer día de campaña. Anuncian otro antes de las elecciones del 29 de noviembre. La Fiscalía denuncia a TikTok por difundir vídeos de abuso sexual infantil. Según la web maldita.es hay más de mil en la plataforma. La Fiscalía pide a un juez que ordene retirarlos de inmediato. Empresas como el Corte Inglés, Mueve o Banco Santander han retirado ya la normalidad publicidad tras la grave crisis que han sufrido sus sistemas estas últimas horas. Durante 18 horas no han funcionado sus aplicaciones en todo el mundo. La compañía descarta que se trate de un fibrata ciberataque. Chiclayo se vuelca con la vuelta de León 14 Miles de personas han viajado hasta esta ciudad del Perú para recibir al Papa. Muchas han recurrido cientos de kilómetros para reencontrarse con quien fue durante años el obispo de Chiclayo España, con chubascos y tormentas incluso en zonas de Andalucía, Mar de Alborán y El Estrecho, y con lluvias persistentes en el entorno del sistema central El cielo más abierto lo encontraremos únicamente a orillas del Mediterráneo. En Canarias también podría llover un poco en el norte y oeste de las islas. Mañana llega otro frente por Galicia. Aquí va a dejar bastante lluvia, sobre todo en Pontevedra. Y las precipitaciones se irán extendiendo a lo largo del día de oeste a este, sin alcanzar al litoral mediterráneo. Las temperaturas no van a cambiar mucho, ambiente fresco, no demasiado frío, temperaturas entre los 15 y los 20 en el interior, más altas en la costa, mañana sí que bajarán un poquito, nos quedaremos con 13 en Salamanca, con 12 en Madrid o con 12 en Burgos y en León",
+    "summary": [
+      "La Administración Federal de Aviación de Estados Unidos ha paralizado el tráfico aéreo durante cinco horas debido a un fallo técnico en sistemas informáticos obsoletos, lo que ha llevado a la Casa Blanca a solicitar una inversión de 30.000 millones de dólares al Congreso para su modernización.",
+      "La crisis migratoria en las Islas Canarias se agrava con la llegada de un nuevo cayuco a El Hierro, elevando la cifra de migrantes a más de 8.000 en lo que va de mes, en un contexto de extrema vulnerabilidad humanitaria.",
+      "El Gobierno español ha iniciado el procedimiento legislativo para la revalorización de las pensiones en 2027, coincidiendo con el arranque de la campaña electoral, mientras la Fiscalía ha solicitado medidas urgentes contra TikTok por la difusión de contenidos ilícitos.",
+      "El sector empresarial español, incluyendo entidades como Banco Santander y El Corte Inglés, ha sufrido una interrupción operativa de 18 horas en sus aplicaciones digitales, descartando las autoridades cualquier origen delictivo o ciberataque."
+    ],
+    "vocabulary": [
+      {
+        "term": "paralizar",
+        "translation": "suspendre, paralyser, interrompre",
+        "context": "La Administración Federal de Aviación ha paralizado las salidas por seguridad."
+      },
+      {
+        "term": "cayuco",
+        "translation": "embarcation de fortune (utilisée par les migrants)",
+        "context": "Hace unas horas llegaba el sexto cayuco de este viernes a la isla de El Hierro."
+      },
+      {
+        "term": "desvanecerse",
+        "translation": "s'évanouir, perdre connaissance",
+        "context": "Entre ellas hemos visto niños, mujeres, gente que se desvanecía nada más tocar tierra."
+      },
+      {
+        "term": "en lo que va de",
+        "translation": "depuis le début de (la période)",
+        "context": "En lo que va de mes más de 8.000 personas han llegado a Canarias."
+      },
+      {
+        "term": "volcarse con",
+        "translation": "se mobiliser massivement pour, se consacrer à",
+        "context": "Chiclayo se vuelca con la vuelta de León 14."
+      },
+      {
+        "term": "descartar",
+        "translation": "écarter, exclure (une hypothèse)",
+        "context": "La compañía descarta que se trate de un ciberataque."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17313748",
     "title": "Telediario 2 en 4' - 13/11/26",
     "date": "2026-11-13",
