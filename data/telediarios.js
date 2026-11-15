@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17314607",
+    "title": "Telediario matinal en 4' - 15/11/26",
+    "date": "2026-11-15",
+    "date_label": "15.11.2026",
+    "duration": "05.07 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-cuatro-minutos-15-11-26/17314607/",
+    "image": "https://img.rtve.es/v/17314607?w=800&amp;preview=01794724332367.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17314607.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17314607",
+    "transcript": "Canarias bate su récord histórico de rescates de migrantes en un solo día. Casi 1.500 personas en 14 cayucos. El último.. ha llegado esta misma noche a la Isla de Hierro. Ahí lo ven con más de 300 personas a bordo. Entre ellas hay decenas de menores Son las 6 de la mañana en las Islas Canarias, las 7 en el resto del país. del país. Buenos días. Buenos días. En unas horas, a lo largo de esta En unas horas, a lo largo de esta mañana, el ministro de Política mañana, el ministro de Política Territorial tiene previsto visitar ese Territorial tiene previsto visitar ese puerto de la Restinga. puerto de la Restín Allí han atendido a más de mil personas en un solo día. Los servicios y los equipos de rescate están al límite. En el puerto de la Restinga, las idas y venidas de salvamento marítimo se repiten sin cesar. Solo este sábado llegaban al hierro más de un millar de personas con más de 70 menores entre ellas. Y los rescates continúan desde que comenzó el repunte de la crisis migratoria en octubre más de 9.000 migrantes han llegado a la isla. Un problema que se ha agudizado aún más en las dos primeras semanas de noviembre. Tanto que el pasado día 10 el gobierno decretó la emergencia migratoria en Canarias Los equipos de rescate están desbordados, las llegadas no dan tregua. Mentalmente hay que gestionarlo de una manera que tenemos que valer para esto, si no, no lo haríamos. Su labor va más allá de localizar los cayucos. Intentar tranquilizarlos lo máximo posible para que no se alteren y se pongan de pie, sobre todo de pie, y crean una.. inestabilidad en el cayuco y se puede evitar riesgos. En el puerto, tras el rescate, es el turno de Cruz Roja. Darle ropa seca, darle algo de Roja alimento, darle agua, líquidos que nos llegan desde su país. Con el objetivo de conocer de primera mano la situación, el ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, visita este domingo la isla Con una visita que seguiremos en directo, miramos a Francia, que encadena su quinto fin de semana de protestas Estudiantes, sindicatos y chalecos amarillos reclaman más inversión en educación y no aceptan la subida de 24 euros del salario mínimo que propone el gobierno. Unas 100.000 personas han participado en las movilizaciones En el caso de París, la policía ha usado gases lacrimógenos para dispersar a manifestantes También han salido miles de personas a las calles de Portugal en este caso por una Vivienda digna. Piden derogar la ley de alquileres. Se han movilizado en más de 30 ciudades En el caso de la capital de Lisboa, la plataforma Casa para Vivir dice que han participado unas 60.000 personas y en Barcelona unas 700 según la guardia urbana han salido para pedir la libertad de los tres detenidos por los altercados durante la huelga general la Confederación de Sindicatos de la Vivienda de Cataluña ha convocado esta protesta. Dicen que es desproporcionado que estén.. en prisión provisional. Por eso van a recurrir para que salgan libres cuanto antes Bueno, Nueva York ahora son una y tres minutos de la madrugada y sigue el caos aéreo en todo Estados Unidos con más de 15.000 vuelos cancelados. Además, ya sabemos dónde empezó todo. No ha sido un ciberataque, sino algo mucho más cotidiano. Un fallo mientras estaban cambiando viejos cables de cobre por otros de fibra óptica Ni ciberataque ni ataque externo por parte de otra nación El secretario de Transporte de Estados Unidos insiste en un fallo de un sistema de la Administración Federal de Aviación de Estados Unidos, que ha dicho de nuevo, está obsoleto En concreto, apunta una sobrecarga de datos en los equipos más antiguos. El resultado, unos 16.000 vuelos anulados Y más allá de las pérdidas económicas, están los millones de pasajeros afectados. Tania es una de ellas. Tenía un vuelo de México a Chicago, pero su avión tuvo que aterrizar en Dallas. Y allí sigue esperando el siguiente vuelo en un hotel desde el que atiende al Canal 24 Horas. Teníamos un vuelo programado y de repente tenemos que aterrizar y no sabemos ni qué está pasando. Nos bajan a Dallas y lo único que nos dicen es tenemos que aterrizar. seguiremos teniendo retrasos y cancelaciones, aseguran desde la Chicago ahorita no está recibiendo aviones. Cinco horas en donde todos los que estábamos ahí pues empezó a entrar el pánico porque Agencia de Aviación de Estados Unidos pero esto nos permitirá recuperar la normalidad por completo mañana. Así que habrá que esperar a este domingo para comprobarlo. Mientras, aquí en España, las cancelaciones no han llegado a superar la decena",
+    "summary": [
+      "Las Islas Canarias afrontan una crisis migratoria sin precedentes tras registrar la llegada de 1.500 personas en una sola jornada, lo que ha llevado al Gobierno a decretar la emergencia migratoria ante el desbordamiento de los servicios de rescate.",
+      "Francia se ve sacudida por un quinto fin de semana de movilizaciones sociales, donde sindicatos y el movimiento de los 'chalecos amarillos' rechazan la propuesta gubernamental de incremento del salario mínimo, exigiendo mayores inversiones en el sector educativo.",
+      "El caos aéreo en Estados Unidos, que ha provocado la cancelación de más de 15.000 vuelos, se atribuye a un fallo técnico en los sistemas informáticos obsoletos de la Administración Federal de Aviación, descartándose cualquier tipo de ciberataque.",
+      "Diversas ciudades portuguesas han sido escenario de protestas ciudadanas bajo el lema de la vivienda digna, reclamando la derogación de la actual ley de alquileres ante la creciente dificultad de acceso a la vivienda."
+    ],
+    "vocabulary": [
+      {
+        "term": "batir un récord",
+        "translation": "battre un record",
+        "context": "Canarias bate su récord histórico de rescates de migrantes en un solo día."
+      },
+      {
+        "term": "estar al límite",
+        "translation": "être à bout de forces / à saturation",
+        "context": "Los servicios y los equipos de rescate están al límite."
+      },
+      {
+        "term": "dar tregua",
+        "translation": "donner du répit",
+        "context": "Los equipos de rescate están desbordados, las llegadas no dan tregua."
+      },
+      {
+        "term": "gases lacrimógenos",
+        "translation": "gaz lacrymogènes",
+        "context": "En París, la policía ha usado gases lacrimógenos para dispersar a manifestantes."
+      },
+      {
+        "term": "caos aéreo",
+        "translation": "chaos aérien",
+        "context": "Sigue el caos aéreo en todo Estados Unidos con más de 15.000 vuelos cancelados."
+      },
+      {
+        "term": "obsoleto",
+        "translation": "obsolète / vétuste",
+        "context": "El secretario de Transporte de Estados Unidos insiste en un fallo de un sistema que está obsoleto."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17314496",
     "title": "Telediario 2 en 4' - 14/11/26",
     "date": "2026-11-14",
