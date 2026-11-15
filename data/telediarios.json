@@ -1,5 +1,57 @@
 [
   {
+    "id": "17314912",
+    "title": "Telediario 1 en 4' - 15/11/26",
+    "date": "2026-11-15",
+    "date_label": "15.11.2026",
+    "duration": "02.56 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-15-11-26-1-cuatro-minutos-151126/17314912/",
+    "image": "https://img.rtve.es/v/17314912?w=800&amp;preview=01794751419722.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17314912.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17314912",
+    "transcript": "Récord de llegadas. con cifras que no se habían dado en más de 30 años. En el día de ayer se rescataron en total 15 cayucos, Buenas tardes. Siguen los grandes mítines y entre las críticas al contrario y prioridad nacional y Frente Amplio ha propuesto un nuevo permiso de cuidados. EE.UU. vive una nueva jornada Cada día en España 4 personas mueren en siniestros viales. no es fácil. Debe ser presencial, según el protocolo vigente que busca humanizar este momento. Se lo contamos hoy en el día mundial en recuerdo de las víctimas Ya van tarde si no tienen cerrada su reserva Esta noche en La 1, liga de naciones, España-Inglaterra. Con la primera plaza del grupo en juego, España-Inglaterra, uno de los mejores partidos Hoy estamos de aniversario en RTVE. La 2 cumple hoy 60 años. después la segunda cadena, para acabar siendo La 2., un referente de televisión pública En el cierre de sumario las dos ultimas fotos deben ser Sanchez",
+    "summary": [
+      "La ruta migratoria canaria enfrenta una crisis sin precedentes en tres décadas, marcada por una llegada masiva de cayucos que pone a prueba los recursos de acogida y la gestión fronteriza del Estado.",
+      "En el marco de la campaña electoral, los partidos políticos intensifican sus estrategias de confrontación y propuestas sociales, destacando la iniciativa del Frente Amplio sobre un nuevo permiso de cuidados.",
+      "La cadena pública RTVE celebra el 60 aniversario de La 2, consolidada como un referente cultural y de servicio público en el panorama televisivo español desde su creación.",
+      "La jornada informativa también subraya la siniestralidad vial en España, coincidiendo con el Día Mundial en recuerdo de las víctimas, y la expectación deportiva ante el encuentro de la Liga de Naciones entre España e Inglaterra."
+    ],
+    "vocabulary": [
+      {
+        "term": "aluvión",
+        "translation": "afflux massif, déferlement",
+        "context": "La ruta canaria registra un aluvión de cayucos en sus costas."
+      },
+      {
+        "term": "siniestros viales",
+        "translation": "accidents de la route",
+        "context": "Cada día en España 4 personas mueren en siniestros viales."
+      },
+      {
+        "term": "en juego",
+        "translation": "en jeu",
+        "context": "Con la primera plaza del grupo en juego, España-Inglaterra."
+      },
+      {
+        "term": "referente",
+        "translation": "référence, pilier",
+        "context": "La 2, un referente de televisión pública."
+      },
+      {
+        "term": "mítines",
+        "translation": "meetings politiques",
+        "context": "Siguen los grandes mítines y entre las críticas al contrario."
+      },
+      {
+        "term": "protocolo vigente",
+        "translation": "protocole en vigueur",
+        "context": "Debe ser presencial, según el protocolo vigente."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17314607",
     "title": "Telediario matinal en 4' - 15/11/26",
     "date": "2026-11-15",
