@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17317070",
+    "title": "Telediario 2 en 4' - 16/11/26",
+    "date": "2026-11-16",
+    "date_label": "16.11.2026",
+    "duration": "03.47 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/telediario-2-cuatro-minutos-16-11-26-2-4-minutos-16-11-26/17317070/",
+    "image": "https://img.rtve.es/v/17317070?w=800&amp;preview=1794859500267.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17317070.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17317070",
+    "transcript": "¿Qué tal?, buenas noches. pero de momento, no paran. Feijoo propone en Pamplona puedan votar en las elecciones autonómicas de Euskadi. Sánchez comparte este vídeo con Lula como la del presidente brasileño en su país. como la brasileña. Abascal visita hoy en Tenerife. VOX define la llegada de cayucos a Canarias Y el Frente Amplio reclama como suyas medidas del programa del PSOE, como el control electrónico del horario laboral. y tiene sus servicios de acogida saturados, -Tanto el centro de acogida temporal, y otros sitios, están hasta arriba, que les han podido agilizar los trámites. Cinco paises europeos acuerdan deportar a Ruanda a los migrantes que no consigan asilo. Aunque esas personas no sean ruandesas Son Alemania, Dinamarca, Paises Bajos, Austria y Grecia. Tanto Dinamarca como Reino Unido habían intentado un proyecto parecido con Ruanda, y en los dos casos fracasó. La corte suprema británica lo consideró ilegal porque Ruanda no es un país seguro. La Agencia Estatal de Seguridad Ferroviaria endurece sus protocolos tras el accidente de Urda, Se impone la marcha a la vista con velocidad reducida si falla el sistema informático, para fijar el personal mínimo de la tripulación formado para evacuar trenes. La Justicia italiana interviene el banco digital Revolut por fallar en el control del blanqueo de capitales vinculados a la mafia. El banco sigue operando, pero lo supervisará durante un año un administrador judicial. Casi la mitad de los españoles reconoce, Eso de tener \"licencia para matar\" en el cine, actor que dará vida, ¿a quién? Pues a Bond, James Bond. Y no, no es una mujer, sigue siendo un hombre, el británico Robert Pattinson tomará el relevo de Daniel Craig 5 años después de su última película.",
+    "summary": [
+      "La campaña electoral española se intensifica a pocos días del debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo, mientras los partidos debaten sobre el derecho al voto en las autonómicas vascas y la gestión de la inmigración irregular en Canarias.",
+      "Cinco países europeos, entre ellos Alemania y Dinamarca, han suscrito un acuerdo para externalizar la gestión de las solicitudes de asilo mediante la deportación a Ruanda, una medida controvertida que ya fue declarada ilegal anteriormente por la justicia británica.",
+      "La Agencia Estatal de Seguridad Ferroviaria ha endurecido sus protocolos de actuación tras el reciente accidente en Urda, imponiendo medidas estrictas de velocidad y evacuación en caso de fallo de los sistemas informáticos.",
+      "La justicia italiana ha intervenido el banco digital Revolut bajo la supervisión de un administrador judicial, tras detectar graves deficiencias en los controles contra el blanqueo de capitales vinculados a organizaciones mafiosas."
+    ],
+    "vocabulary": [
+      {
+        "term": "cara a cara",
+        "translation": "débat télévisé en tête-à-tête",
+        "context": "a tres dias del cara a cara entre Sánchez y Feijoo"
+      },
+      {
+        "term": "cayucos",
+        "translation": "embarcations de fortune (utilisées par les migrants)",
+        "context": "VOX define la llegada de cayucos a Canarias"
+      },
+      {
+        "term": "agilizar los trámites",
+        "translation": "accélérer les démarches administratives",
+        "context": "que les han podido agilizar los trámites"
+      },
+      {
+        "term": "marcha a la vista",
+        "translation": "marche à vue (terme ferroviaire)",
+        "context": "Se impone la marcha a la vista con velocidad reducida"
+      },
+      {
+        "term": "blanqueo de capitales",
+        "translation": "blanchiment d'argent",
+        "context": "fallar en el control del blanqueo de capitales"
+      },
+      {
+        "term": "tomar el relevo",
+        "translation": "prendre la relève",
+        "context": "el británico Robert Pattinson tomará el relevo de Daniel Craig"
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17316364",
     "title": "Telediario 1 en 4' -  16/11/26",
     "date": "2026-11-16",
