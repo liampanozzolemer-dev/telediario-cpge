@@ -1,5 +1,51 @@
 [
   {
+    "id": "17315166",
+    "title": "Telediario 2 en 4' - 15/11/26",
+    "date": "2026-11-15",
+    "date_label": "15.11.2026",
+    "duration": "01.07 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-15-11-26/17315166/",
+    "image": "https://img.rtve.es/v/17315166?w=800&amp;preview=01794775371914.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17315166.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17315166",
+    "transcript": "(Música) Hacía más de 30 años que no se registraban Tranquilidad en estos momentos en el muelle de la Restinga, allí las 3 salvamar que operan están ahora mismo atracadas tengan que volver a salir ante un aviso en altamar por la llegada de un nuevo cayuco. hacia otras islas como por ejemplo Tenerife. Hoy han salido 800 personas, quedan en la isla 1 606.",
+    "summary": [
+      "La ruta migratoria canaria experimenta una presión sin precedentes, registrando cerca de 2.800 llegadas en un solo fin de semana, lo que tensiona los recursos de acogida en la isla de El Hierro.",
+      "La situación operativa en el muelle de La Restinga refleja la saturación de los servicios de salvamento marítimo, que deben gestionar de forma ininterrumpida la recepción de cayucos en alta mar.",
+      "Las autoridades han procedido al traslado de 800 migrantes hacia otras islas, como Tenerife, para aliviar la capacidad de acogida en El Hierro, donde permanecen más de 1.600 personas a la espera de ser reubicadas."
+    ],
+    "vocabulary": [
+      {
+        "term": "cayuco",
+        "translation": "embarcación precaria de madera utilizada por los migrantes para cruzar el Atlántico",
+        "context": "ante un aviso en altamar por la llegada de un nuevo cayuco"
+      },
+      {
+        "term": "atracadas",
+        "translation": "amarradas o fondeadas (en el contexto portuario)",
+        "context": "las 3 salvamar que operan están ahora mismo atracadas"
+      },
+      {
+        "term": "muelle",
+        "translation": "embarcadero o zona de atraque en un puerto",
+        "context": "Tranquilidad en estos momentos en el muelle de la Restinga"
+      },
+      {
+        "term": "altamar",
+        "translation": "alta mar (lejos de la costa)",
+        "context": "ante un aviso en altamar por la llegada de un nuevo cayuco"
+      },
+      {
+        "term": "registrarse",
+        "translation": "producirse o contabilizarse (un hecho o cifra)",
+        "context": "Hacía más de 30 años que no se registraban"
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17314912",
     "title": "Telediario 1 en 4' - 15/11/26",
     "date": "2026-11-15",
