@@ -1,5 +1,109 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17316364",
+    "title": "Telediario 1 en 4' -  16/11/26",
+    "date": "2026-11-16",
+    "date_label": "16.11.2026",
+    "duration": "02.57 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-16-11-26/17316364/",
+    "image": "https://img.rtve.es/v/17316364?w=800&amp;preview=1794838499462.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17316364.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17316364",
+    "transcript": "en el Puerto de la Restinga en El Hierro tras el fin de semana con más llegadas de cayucos a la isla en tres décadas. Hola, buenas tardes. La ruta canaria se ha reactivado desde que comenzó noviembre y el 80% de los cayucos que llegan a las islas, están llegando precisamente ahí, a El Hierro. Más de 2000 personas en este mes de noviembre. Las llegadas superan a las salidas. Ésta se repetirá la medida. Se trata de dar más agilidad a las derivaciones. El PP propone una \"Ley de Nietos\" para que los exiliados vascos por el terrorismo de ETA puedan votar en las elecciones autonómicas. En un acto de campaña en Lleida, Feijóo ha dicho que la mano de obra necesaria sólo se consigue con una inmigración ordenada y legal. Según Vox, lo que está pasando en El Hierro es como Ceuta, una invasión. Y a falta de mitin con Lula, que está afónico, el PSOE ha grabado con el presidente brasileño un vídeo electoral. El CNI no encuentra evidencias de que la entrada masiva en Ceuta fuera una acción instigada o coordinada por Marruecos. después de dimitir hace unos días por tener varias aventuras, Estaría sondeando apoyos para recuperar el control Tener una administración de lotería no es un negocio rentable \"¿Cuánto gana el lotero en un décimo? ya es mucho\". Importante despliegue para localizar al Ruso en Barcelona. en busca del acusado de dejar en un edificio de Oviedo la mochila bomba que mató a un policia Un arte, declarado patrimonio inmaterial de la humanidad, que enamora en todo el mundo, y para el que los artistas Hoy les hemos preguntado cómo ven su futuro. España pone fin a su racha histórica de 44 partidos invicta.",
+    "summary": [
+      "La ruta migratoria canaria experimenta un repunte significativo en noviembre, concentrándose la mayor parte de las llegadas en la isla de El Hierro, lo que plantea desafíos logísticos y políticos sobre la gestión de las derivaciones.",
+      "El Partido Popular ha propuesto una 'Ley de Nietos' destinada a permitir el voto en las elecciones autonómicas a los vascos exiliados a causa del terrorismo de ETA, mientras el debate sobre la inmigración se intensifica en la precampaña electoral.",
+      "El CNI ha concluido, tras una investigación, que no existen pruebas que vinculen a Marruecos con la instigación o coordinación de la entrada masiva de migrantes en Ceuta, desestimando las tesis que apuntaban a una maniobra deliberada del país vecino.",
+      "En el ámbito deportivo y cultural, España pone fin a su racha histórica de 44 partidos invicta, mientras se pone en valor el arte declarado patrimonio inmaterial de la humanidad que sigue despertando interés internacional."
+    ],
+    "vocabulary": [
+      {
+        "term": "cayucos",
+        "translation": "embarcaciones precarias utilizadas por migrantes",
+        "context": "8 de cada 10 cayucos que llegan a las islas, llegan a El Hierro."
+      },
+      {
+        "term": "derivaciones",
+        "translation": "traslados o redistribución de personas entre centros o territorios",
+        "context": "Se trata de dar más agilidad a las derivaciones."
+      },
+      {
+        "term": "instigada",
+        "translation": "incitada, provocada o promovida por un tercero",
+        "context": "El CNI no encuentra evidencias de que la entrada masiva en Ceuta fuera una acción instigada o coordinada por Marruecos."
+      },
+      {
+        "term": "sondeando apoyos",
+        "translation": "explorando la posibilidad de obtener respaldo o adhesiones",
+        "context": "Estaría sondeando apoyos para recuperar el control."
+      },
+      {
+        "term": "mochila bomba",
+        "translation": "artefacto explosivo oculto en una mochila",
+        "context": "en busca del acusado de dejar en un edificio de Oviedo la mochila bomba que mató a un policia."
+      },
+      {
+        "term": "racha histórica",
+        "translation": "serie continuada de resultados positivos",
+        "context": "España pone fin a su racha histórica de 44 partidos invicta."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17315266",
+    "title": "Telediario matinal en 4' - 16/11/2026",
+    "date": "2026-11-16",
+    "date_label": "16.11.2026",
+    "duration": "03.00 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-16-11-2026/17315266/",
+    "image": "https://img.rtve.es/v/17315266?w=800&amp;preview=01794799549066.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17315266.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17315266",
+    "transcript": "La guardia urbana de Barcelona han desalojado esta madrugada la acampada de Plaza Catalunya Quedaban unas 70 personas. La situación en El Hierro sigue siendo crítica, y el cabildo confirma La mayoría llegan de Senegal, Gambia y Mauritania. y revisará las medidas adoptadas hace una semana en una nueva reunión este martes. En el tiempo, hoy parece -En la jornada de hoy. Paraguas en Galicia, y por la mañana en el Principado de Asturias, con el norte de Castilla y León. También el Mediterráneo, y las Islas Canarias tiempo tranquilo generar un ambiente soleado. Las temperaturas muy suaves, la meseta norte sólo en torno a los 15°, en el resto rondando los 20. Superándose 20 Andalucía, llegando 25 Mediterráneo. Xi Jinping, Donald Trump y Vladimir Putin se reunen en Shenzhen, Y tras el caos aéreo de los últimos días, Trump culpa a Biden. Y en Deportes, fin de la buena racha para España. Así es, después de 43 partidos consecutivos sin perder, Los ingleses fueron superiores durante 60 minutos Y sorpresa en el Bélgica - Italia. Junto a los belgas, Francia se clasifica primera de grupo, tras ganar 2-1 a Turquía.",
+    "summary": [
+      "La Guardia Urbana de Barcelona y los Mossos d'Esquadra han procedido al desalojo de la acampada en Plaza Catalunya tras 47 días de ocupación, invocando razones de seguridad y convivencia ciudadana.",
+      "La crisis migratoria en la isla de El Hierro alcanza niveles críticos con la llegada de más de 2500 personas este fin de semana, lo que ha obligado a las autoridades a intensificar los traslados hacia otras islas del archipiélago.",
+      "En el ámbito geopolítico, se ha confirmado una cumbre histórica en Shenzhen entre Xi Jinping, Donald Trump y Vladímir Putin, centrada en el control de las armas atómicas ante la creciente tensión global.",
+      "El panorama político estadounidense se tensa tras el colapso del tráfico aéreo, con Donald Trump responsabilizando a la administración Biden y solicitando fondos al Congreso para la modernización de las infraestructuras."
+    ],
+    "vocabulary": [
+      {
+        "term": "desalojar",
+        "translation": "évacuer, expulser (d'un lieu)",
+        "context": "La guardia urbana de Barcelona han desalojado esta madrugada la acampada de Plaza Catalunya."
+      },
+      {
+        "term": "desbordado",
+        "translation": "débordé, submergé",
+        "context": "Los equipos de emergencia están desbordados."
+      },
+      {
+        "term": "caos aéreo",
+        "translation": "chaos aérien",
+        "context": "Y tras el caos aéreo de los últimos días, Trump culpa a Biden."
+      },
+      {
+        "term": "racha",
+        "translation": "série (de résultats, de victoires)",
+        "context": "En Deportes, fin de la buena racha para España."
+      },
+      {
+        "term": "reprogramar",
+        "translation": "reprogrammer (vols, rendez-vous)",
+        "context": "9.000 vuelos cancelados o reprogramados."
+      },
+      {
+        "term": "meseta",
+        "translation": "plateau (géographie)",
+        "context": "Las temperaturas muy suaves, la meseta norte sólo en torno a los 15°."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Sommet tripartite sur le nucléaire"
+  },
+  {
     "id": "17315166",
     "title": "Telediario 2 en 4' - 15/11/26",
     "date": "2026-11-15",
