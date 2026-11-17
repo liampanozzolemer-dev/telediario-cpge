@@ -1,5 +1,52 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17318926",
+    "title": "Telediario 2 en 4' - 17/11/26",
+    "date": "2026-11-17",
+    "date_label": "17.11.2026",
+    "duration": "04.21 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-17-11-26/17318926/",
+    "image": "https://img.rtve.es/v/17318926?w=800&amp;preview=1794945904987.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17318926.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17318926",
+    "transcript": "Acabamos de conocer que el gobierno que salga de las urnas el 29 de noviembre Este incremento, pactado con los sindicatos, Y seguirá sin pagar el IRPF desde ahora sin retención en nómina. Decisiones del Gobierno a 12 días de las elecciones generales la decisión de cinco países europeos bendecida por Bruselas, Sánchez lo considera inhumano. Colau pide al Gobierno que lo recurra en los tribunales europeos, Vox lo defiende para evitar lo que llaman invasión. A Albiol del PP le parece fantástico siempre que sean a países seguros. La economía española crecerá este año y el que viene pero campeones también de la inflación, Este año un 4 y el próximo un 3. Ha sido un día muy dificil para desplazarse en tren, Barcelona y Madrid han sufrido especialmente En la comunidad madrileña, Celia Maestro, Aquí en Atocha los más afectados han sido los cercanías de Madrid, los servicios mínimos no se han cumplido como hay los pocos trenes que han salido lo han salido con retraso. Ucrania ha asestado un duro golpe a Rusia destruyendo parcialmente el puente de Crimea, símbolo del poder ruso, que se anexionó la península ucraniana en 2014. Un ataque que llega a dos días de que Putin se reúna con Trump y Xi Jinping en China, donde abordarán precisamente la guerra en Ucrania, además de la inteligencia artificial y las relaciones comerciales. Una investigación periodística internacional el mayor banco de Alemania. o que siguieron operando con fortunas de oligarcas rusos Lo hemos visto en triunfar en el cine removernos por dentro frente a la pantalla. Su debut teatral se producirá este jueves en una sala madrileña",
+    "summary": [
+      "El Gobierno español ha anunciado un incremento salarial del 4,5% para los empleados públicos, medida que se elevará al 5% en el primer trimestre, en un contexto marcado por la proximidad de las elecciones generales del 29 de noviembre.",
+      "La Comisión Europea ha revisado al alza las previsiones de crecimiento de la economía española para este año y el próximo, aunque el país sigue enfrentándose a una inflación persistente que se sitúa en el 4% y el 3% respectivamente.",
+      "La huelga ferroviaria ha provocado graves perturbaciones en la movilidad de Madrid y Barcelona debido al incumplimiento de los servicios mínimos, mientras que, en el plano internacional, Ucrania ha logrado dañar parcialmente el puente de Crimea antes de la cumbre entre Putin, Trump y Xi Jinping.",
+      "Una investigación periodística internacional ha destapado presuntas irregularidades, fallos en los controles antiblanqueo y casos de corrupción en el Deutsche Bank, vinculando a la entidad con la gestión de fortunas de oligarcas rusos."
+    ],
+    "vocabulary": [
+      {
+        "term": "salir de las urnas",
+        "translation": "issu des urnes / élu",
+        "context": "el gobierno que salga de las urnas el 29 de noviembre"
+      },
+      {
+        "term": "retención en nómina",
+        "translation": "prélèvement à la source (sur salaire)",
+        "context": "seguirá sin pagar el IRPF desde ahora sin retención en nómina"
+      },
+      {
+        "term": "asestar un duro golpe",
+        "translation": "porter un coup dur",
+        "context": "Ucrania ha asestado un duro golpe a Rusia destruyendo parcialmente el puente de Crimea"
+      },
+      {
+        "term": "antiblanqueo",
+        "translation": "lutte contre le blanchiment d'argent",
+        "context": "fallos en los controles antiblanqueo"
+      },
+      {
+        "term": "removernos por dentro",
+        "translation": "nous bouleverser / nous remuer les tripes",
+        "context": "Lo hemos visto en triunfar en el cine removernos por dentro frente a la pantalla"
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17318309",
     "title": "Telediario 1 en 4' -  17/11/26",
     "date": "2026-11-17",
