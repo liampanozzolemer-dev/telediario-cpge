@@ -1,5 +1,109 @@
 [
   {
+    "id": "17318309",
+    "title": "Telediario 1 en 4' -  17/11/26",
+    "date": "2026-11-17",
+    "date_label": "17.11.2026",
+    "duration": "02.59 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-17-11-26/17318309/",
+    "image": "https://img.rtve.es/v/17318309?w=800&amp;preview=1794924660668.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17318309.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17318309",
+    "transcript": "en los trenes de Cercanías en Madrid y de Rodalíes en Cataluña, para reclamar mejoras en la seguridad y en las condiciones laborales. y la Generalitat advierte de posibles despidos. Se ha pedido a los viajeros que busquen medios alternativos de transporte. Última hora, Raúl Rivera. El complemento de los servicios mínimos se está afectando a los trenes de larga media distancia, y a los cercanías. En Madrid se han cancelado 98% de los genes de cercanías. \"Media hora más tarde. Esta prueba convocada por todos los sindicatos ferroviarios. y todo, pero los servicios mínimos hay que respetarlos\". \"Me quedaré aquí o alquilaré un coche, no lo sé\". El Gobierno aprueba subir el salario mínimo un 5,3 % y el sueldo de los funcionarios y empleados públicos un 4,5 % El SMI pasará en enero de 1.221 euros a 1.286 euros brutos al mes en 14 pagas y continuará exento de pagar el impuesto sobre la renta. Bruselas mejora la previsión de crecimiento de España pero advierte: Bruselas mejora la previsión de crecimiento de España pero advierte: el acceso a la vivienda es el principal problema de nuestra economía y la inflación seguirá escalando. La inflación llegará este año al 3.9 en España según Bruselas, por encima de la media europea, y se notará sobre todo en los alimentos. Pero la economía europea aguanta el golpe la previsión de Bruselas es que mejore el crecimiento a pesar de la guerra de Irán y los altos precios. El primer centro en Ruanda para inmigrantes expulsados estará operativo, previsiblemente, en 2027, y acogerá a 100 deportados de los 5 países europeos que han firmado el pacto. Las ONG creen que se violan los derechos de los inmigrantes. El Gobierno ha expresado su rechazo frontal Frente Amplio pide al PSOE que recurra al Tribunal de Justicia Europeo. Vox defiende la medida que también apoya, dentro del PP, Un extrabajador de la empresa que suministró el balastro asegura que no cumplía la normativa de ADIF. La jueza ha incorporado su declaración a la investigación del accidente en el que murieron 46 pasajeros. del Museo Nacional de Arte de Cataluña para devolvérselas a Aragón.",
+    "summary": [
+      "Una huelga general en los servicios ferroviarios de Cercanías y Rodalíes ha paralizado gran parte de la movilidad en Madrid y Cataluña, provocando la cancelación masiva de trayectos y afectando gravemente a los usuarios.",
+      "El Gobierno español ha anunciado un incremento del 5,3% en el Salario Mínimo Interprofesional (SMI) y del 4,5% para los funcionarios, buscando mitigar el impacto de la inflación, que según Bruselas, seguirá presionando la economía española.",
+      "La Comisión Europea ha revisado al alza las previsiones de crecimiento para España, aunque advierte que el acceso a la vivienda y el encarecimiento de los alimentos representan riesgos estructurales significativos para la estabilidad económica.",
+      "Se ha revelado un testimonio clave en la investigación del accidente ferroviario de Adamuz, donde un extrabajador denuncia que el balastro suministrado no cumplía con los estándares técnicos exigidos por ADIF."
+    ],
+    "vocabulary": [
+      {
+        "term": "servicios mínimos",
+        "translation": "services minimums (obligatoires en cas de grève)",
+        "context": "El complemento de los servicios mínimos se está afectando a los trenes de larga media distancia."
+      },
+      {
+        "term": "SMI (Salario Mínimo Interprofesional)",
+        "translation": "SMIC (Salaire Minimum Interprofessionnel de Croissance)",
+        "context": "El SMI pasará en enero de 1.221 euros a 1.286 euros brutos al mes."
+      },
+      {
+        "term": "exento de",
+        "translation": "exonéré de",
+        "context": "continuará exento de pagar el impuesto sobre la renta."
+      },
+      {
+        "term": "revisar al alza",
+        "translation": "revoir à la hausse",
+        "context": "Bruselas mejora la previsión de crecimiento de España."
+      },
+      {
+        "term": "rechazo frontal",
+        "translation": "opposition catégorique / refus total",
+        "context": "El Gobierno ha expresado su rechazo frontal a esos centros de deportación."
+      },
+      {
+        "term": "balastro",
+        "translation": "ballast (couche de pierres sous les voies ferrées)",
+        "context": "Un extrabajador de la empresa que suministró el balastro en el tramo de Adamuz asegura que no cumplía la normativa."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17317263",
+    "title": "Telediario matinal en 4' - 17/11/2026",
+    "date": "2026-11-17",
+    "date_label": "17.11.2026",
+    "duration": "03.29 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-17-11-2026/17317263/",
+    "image": "https://img.rtve.es/v/17317263?w=800&amp;preview=01794858096154.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17317263.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17317263",
+    "transcript": "Hoy volverá a ser muy complicado moverse en tren en cualquier punto del país. en Cercanías, a esta hora, hora punta de la mañana. Otro foco informativo del día, Moncloa. También un aumento del 4 y medio por ciento Antes, también en Moncloa, está convocada una nueva El formato es similar a la del martes pasado Nuevo frente atlántico, Gabriel, que nos trae sobre todo muchas nubes y algo de lluvia. - Hoy las precipitaciones serán débiles, aunque en Galicia caerán con él, de fuerza. Especialmente durante la tarde. En el cuadrante noroeste, sobre todo por la mañana, mientras que el Mediterráneo queda al margen con bastante sol, al igual que el archipiélago canario. Un día más con viento especialmente fuerte, en zonas del norte. Haciendo que se dispare las temperaturas hasta 23° en Bilbao, seis a 18 en el interior, pasamos de 20 en Andalucía, y 25 Mediterráneo. fue \"parcial e insuficiente\", Alemania, Austria, Dinamarca, Grecia y Países Bajos, crearán en Ruanda un centro de deportación para migrantes que incluye estos centros en terceros países. Y en Deportes, goleada de Alemania anoche en la Nations. que podría ser el rival de España en Cuartos Los de Klopp arrollaron a los de Xavi, con disparos desde fuera del área y jugadas a balón parado. A pesar de la goleada, las dos selecciones pasan de ronda. Y victoria arrolladora de Alcaraz sobre Tiafoe en su estreno en las ATP Finals.",
+    "summary": [
+      "El sector ferroviario español se enfrenta a una jornada de huelga general que paraliza la movilidad nacional, con servicios mínimos fijados en un 75% durante la hora punta para mitigar el impacto en los usuarios.",
+      "El Ejecutivo aborda la crisis migratoria en El Hierro mediante una reunión interministerial, buscando actualizar las medidas de gestión ante la llegada masiva de 4.400 personas en una semana.",
+      "En el ámbito internacional, varios países europeos exploran la creación de centros de deportación en terceros países, una estrategia que busca endurecer las políticas de control migratorio en el continente.",
+      "La actualidad deportiva destaca la contundente victoria de la selección alemana en la Nations League frente al combinado dirigido por Xavi, así como el sólido debut de Carlos Alcaraz en las ATP Finals."
+    ],
+    "vocabulary": [
+      {
+        "term": "hora punta",
+        "translation": "heure de pointe",
+        "context": "a esta hora, hora punta de la mañana."
+      },
+      {
+        "term": "foco informativo",
+        "translation": "centre d'intérêt / point d'actualité",
+        "context": "Otro foco informativo del día, Moncloa."
+      },
+      {
+        "term": "quedar al margen",
+        "translation": "être épargné / rester en dehors",
+        "context": "mientras que el Mediterráneo queda al margen con bastante sol."
+      },
+      {
+        "term": "arrollar",
+        "translation": "écraser / balayer (au sens figuré)",
+        "context": "Los de Klopp arrollaron a los de Xavi."
+      },
+      {
+        "term": "estreno",
+        "translation": "début / première apparition",
+        "context": "victoria arrolladora de Alcaraz sobre Tiafoe en su estreno en las ATP Finals."
+      },
+      {
+        "term": "dispararse",
+        "translation": "grimper en flèche / s'envoler (pour des températures)",
+        "context": "Haciendo que se dispare las temperaturas hasta 23° en Bilbao."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17317070",
     "title": "Telediario 2 en 4' - 16/11/26",
     "date": "2026-11-16",
