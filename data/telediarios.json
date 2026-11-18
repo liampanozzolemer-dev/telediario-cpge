@@ -1,5 +1,109 @@
 [
   {
+    "id": "17320059",
+    "title": "Telediario 1 en 4' -  18/11/26",
+    "date": "2026-11-18",
+    "date_label": "18.11.2026",
+    "duration": "02.25 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-18-11-26/17320059/",
+    "image": "https://img.rtve.es/v/17320059?w=800&amp;preview=1795010828165.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17320059.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17320059",
+    "transcript": "Este es el plató donde Pedro Sánchez Los dos principales candidatos a la Moncloa Hola, buenas tardes. y evita disculparse. La Audiencia Nacional por delitos contra la libertad sexual, lesiones y trato degradante. de las mansiones del cantante. En China ya hemos visto la imagen más buscada: con el resto de jefes de estado. Tras 16 días de récord, se frena la llegada de migrantes a El Hierro. mientras continúan los traslados a centros de acogida de otras islas. Y día de contrastes en lo meteorológico. Y la sonda espacial Voyager 1, Está ya a un día luz de distancia, a punto de cumplir 50 años y con la tecnología de entonces, la sonda sigue enviando datos",
+    "summary": [
+      "La scène politique espagnole est marquée par la préparation d'un débat télévisé crucial entre le président du gouvernement, Pedro Sánchez, et le chef de l'opposition, Alberto Núñez Feijóo, en vue des prochaines échéances électorales.",
+      "L'Audiencia Nacional a ouvert une procédure judiciaire à l'encontre du chanteur Julio Iglesias, impliquant des accusations graves de délits contre la liberté sexuelle, de lésions corporelles et de traitements dégradants.",
+      "Sur la scène internationale, le sommet de Shenzhen a été le théâtre d'une rencontre diplomatique majeure réunissant Xi Jinping, Donald Trump et Vladimir Poutine, tandis que la crise migratoire aux îles Canaries connaît un léger répit après seize jours d'afflux record à El Hierro.",
+      "Sur le plan scientifique, la sonde spatiale Voyager 1 continue de transmettre des données depuis une distance d'un jour-lumière, illustrant une prouesse technologique remarquable à l'approche de son cinquantième anniversaire."
+    ],
+    "vocabulary": [
+      {
+        "term": "cara a cara",
+        "translation": "débat en tête-à-tête (souvent utilisé pour les duels télévisés)",
+        "context": "Pedro Sánchez y Alberto Núñez Feijóo debatirán mañana, cara a cara."
+      },
+      {
+        "term": "trato degradante",
+        "translation": "traitement dégradant",
+        "context": "La Audiencia Nacional abre investigación contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante."
+      },
+      {
+        "term": "frenarse",
+        "translation": "se ralentir, marquer un coup d'arrêt",
+        "context": "Tras 16 días de récord, se frena la llegada de migrantes al Hierro."
+      },
+      {
+        "term": "centros de acogida",
+        "translation": "centres d'accueil (pour migrants)",
+        "context": "mientras continúan los traslados a centros de acogida de otras islas."
+      },
+      {
+        "term": "día de contrastes",
+        "translation": "journée contrastée (souvent utilisé pour la météo ou l'actualité)",
+        "context": "Y día de contrastes en lo meteorológico."
+      },
+      {
+        "term": "a un día luz de distancia",
+        "translation": "à une distance d'un jour-lumière",
+        "context": "Y la sonda espacial Voyager 1, Está ya a un día luz de distancia."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Enquête judiciaire contre Julio Iglesias"
+  },
+  {
+    "id": "17319080",
+    "title": "Telediario matinal en 4' - 18/11/2026",
+    "date": "2026-11-18",
+    "date_label": "18.11.2026",
+    "duration": "03.24 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-18-11-2026/17319080/",
+    "image": "https://img.rtve.es/v/17319080?w=800&amp;preview=01794846949304.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17319080.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17319080",
+    "transcript": "La diputación permanente del Congreso vota hoy para denunciar situaciones de peligro. Un texto que responde a algunas de las demandas de los sindicatos y que llega tras un paro total cancelaciones de trenes Siguen los traslados de migrantes desde El Hierro a otras islas para descongestionar su centro de atención temporal. La llegada de cayucos se ha frenado. 5 millones más, para hacer frente a la crisis migratoria. Hoy va a ser el día más lluvioso de esta semana, La compañía Nvidia duplica sus ingresos en el tercer trimestre. Castilla-La Mancha y comunidad de Madrid, la lluvia avanzará por la tarde, a veces activados en el sur de Castilla y León y Castilla-La Mancha, por lluvias abundantes y ojo al viento, que no dejará racha de más de 80 km/h, y en temporal de mar muy importante en la costa gallega. Hoy la temperatura vuelven a subir estarán disparadas en el Mediterráneo, cerca los 30°. La compañía Nvidia duplica sus ingresos en el tercer trimestre. Jennsen Huang quiere volver a ponerse al frente, La Agencia de Seguridad Nacional Y en Deportes, Portugal y Noruega, clasificadas para Cuartos de la Nations. Así es, los noruegos firman el pase en el minuto 96 ante Dinamarca El combinado luso pasa como primero de grupo Y Fernando Alonso volverá a disputar el Dakar. Alonso regresa a las dunas 7 años después de su primera participación.",
+    "summary": [
+      "La Diputación Permanente del Congreso debate medidas urgentes para reforzar la seguridad ferroviaria, respondiendo a las reivindicaciones sindicales tras una huelga que paralizó la movilidad en Madrid y Barcelona.",
+      "La crisis migratoria en El Hierro continúa siendo una prioridad gubernamental, con la implementación de traslados hacia otras islas y una inyección adicional de 5 millones de euros para la gestión de los centros de atención.",
+      "El panorama meteorológico en España se torna adverso con la previsión de lluvias abundantes y fuertes rachas de viento, mientras que en el ámbito económico, Nvidia reporta un crecimiento exponencial de sus ingresos trimestrales.",
+      "En el plano deportivo, las selecciones de Portugal y Noruega aseguran su clasificación para los cuartos de final de la Nations League, destacando el regreso de Fernando Alonso al Rally Dakar tras siete años de ausencia."
+    ],
+    "vocabulary": [
+      {
+        "term": "Diputación Permanente",
+        "translation": "Députation permanente (organe assurant la continuité du Congrès hors sessions)",
+        "context": "La diputación permanente del Congreso vota hoy para denunciar situaciones de peligro."
+      },
+      {
+        "term": "Cayucos",
+        "translation": "Embarcations de fortune (utilisées par les migrants pour atteindre les Canaries)",
+        "context": "La llegada de cayucos se ha frenado."
+      },
+      {
+        "term": "Descongestionar",
+        "translation": "Désengorger (ici, réduire la saturation des centres d'accueil)",
+        "context": "Siguen los traslados de migrantes desde El Hierro a otras islas para descongestionar su centro de atención temporal."
+      },
+      {
+        "term": "Hacer frente a",
+        "translation": "Faire face à / affronter",
+        "context": "5 millones más, para hacer frente a la crisis migratoria."
+      },
+      {
+        "term": "Racha",
+        "translation": "Rafale (de vent)",
+        "context": "Ojo al viento, que no dejará racha de más de 80 km/h."
+      },
+      {
+        "term": "Disparadas",
+        "translation": "En flèche / très élevées (en parlant des températures)",
+        "context": "Hoy la temperatura vuelven a subir estarán disparadas en el Mediterráneo."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17318926",
     "title": "Telediario 2 en 4' - 17/11/26",
     "date": "2026-11-17",
