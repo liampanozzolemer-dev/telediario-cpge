@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17320719",
+    "title": "Telediario 2 en 4' - 18/11/26",
+    "date": "2026-11-18",
+    "date_label": "18.11.2026",
+    "duration": "03.36 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-18-11-26/17320719/",
+    "image": "https://img.rtve.es/v/17320719?w=800&amp;preview=01795032782819.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17320719.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17320719",
+    "transcript": "¿Qué tal? Buenas noches. La campaña electoral vive ya la cuenta atrás para el cara a cara Sanchez-Feijóo de mañana por la noche. Los dos se han tomado la tarde para prepararse para una cita política importantísima en la carrera a la Moncloa. Y en la Academia de la Televisión, Paula Murillo, se trabaja intensamente para tenerlo todo a punto. Siguen trabajando más de cincuenta personas para tenerlo todo listo. Ha llegado ya la mesa que separará los candidatos, mientras abordan temas tan importantes, como la economía y la vivienda. # Yo si te voy a votar. # # Anotop at. # para una campaña que no está siendo nada clásica. Las redes, los podcast, la música, las revistas del corazón, los periódicos deportivos, los candidatos se multiplican en todos los formatos para ir al encuentro de los electores. Núñez Feijóo asegura, en una entrevista publicada hoy, que no descarta, si gobierna, Y la izquierda andaluza pide la reprobación de Ayuso en el Parlamento regional y explicaciones a Moreno Bonilla. ¿Y por qué? Pues, porque para cargar contra los socialistas, la presidenta madrileña habló de 40 años andaluces de fracaso y abandono escolar Y finalmente, la Audiencia Nacional investigará a Julio Iglesias que han trabajado en las casas del cantante y lo han denunciado. Ellas declararán ante el juez el 3 de febrero. Y en Shenzhen, en la Cumbre de la APEC, hoy se ha hablado entre Xi, Trump y Putin. La sonda espacial Voyager 1, Lleva un disco con el sonido grabado de un beso, de la risa, saludos en 50 idiomas o música por si alguien o algo en algun lugar del universo lo escucha y quiere saber cómo somos los humanos. No mirando al cielo sino frente a una pantalla en tres horas llega a España la esperadísima nueva entrega del videojuego GTA y todo es a lo grande en esto: 17 millones de copias vendidas solo hasta hoy. Empresas de Estados Unidos dando tiempo libre para jugar, pero para jugar a qué. vamos a preguntar a los expertos qué nos dice el éxito de un juego en el que los excesos se premian.",
+    "summary": [
+      "La campaña electoral española se intensifica ante el inminente cara a cara televisivo entre Pedro Sánchez y Alberto Núñez Feijóo, un evento crucial para la carrera hacia la Moncloa que moviliza a un amplio equipo técnico en la Academia de la Televisión.",
+      "La Audiencia Nacional ha decidido abrir una investigación contra el cantante Julio Iglesias tras las denuncias presentadas por antiguas empleadas domésticas por presuntos delitos contra la libertad sexual y trato degradante.",
+      "El panorama político nacional se ve sacudido por la polémica generada por las declaraciones de Isabel Díaz Ayuso sobre la gestión educativa en Andalucía, lo que ha provocado una petición de reprobación por parte de la izquierda andaluza.",
+      "En el ámbito internacional, la cumbre de la APEC en Shenzhen ha reunido a líderes mundiales como Xi Jinping, Donald Trump y Vladímir Putin, mientras que el lanzamiento global del videojuego GTA marca un hito cultural y comercial sin precedentes."
+    ],
+    "vocabulary": [
+      {
+        "term": "cara a cara",
+        "translation": "débat télévisé en tête-à-tête",
+        "context": "La campaña electoral vive ya la cuenta atrás para el cara a cara Sanchez-Feijóo."
+      },
+      {
+        "term": "revistas del corazón",
+        "translation": "presse people",
+        "context": "Las redes, los podcast, la música, las revistas del corazón, los periódicos deportivos..."
+      },
+      {
+        "term": "cargar contra",
+        "translation": "s'en prendre violemment à, fustiger",
+        "context": "Pues, porque para cargar contra los socialistas, la presidenta madrileña habló de 40 años andaluces de fracaso."
+      },
+      {
+        "term": "reprobación",
+        "translation": "blâme, motion de censure symbolique",
+        "context": "Y la izquierda andaluza pide la reprobación de Ayuso en el Parlamento regional."
+      },
+      {
+        "term": "a lo grande",
+        "translation": "en grand, à grande échelle",
+        "context": "Y todo es a lo grande en esto: 17 millones de copias vendidas solo hasta hoy."
+      },
+      {
+        "term": "ir al encuentro de",
+        "translation": "aller à la rencontre de",
+        "context": "Los candidatos se multiplican en todos los formatos para ir al encuentro de los electores."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17320059",
     "title": "Telediario 1 en 4' -  18/11/26",
     "date": "2026-11-18",
