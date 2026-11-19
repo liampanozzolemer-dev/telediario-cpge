@@ -1,5 +1,108 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17321851",
+    "title": "Telediario 1 en 4' -  19/11/26",
+    "date": "2026-11-19",
+    "date_label": "19.11.2026",
+    "duration": "03.55 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-19-11-26/17321851/",
+    "image": "https://img.rtve.es/v/17321851?w=800&amp;preview=1795096792475.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17321851.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17321851",
+    "transcript": "Es la imagen del día, que quedará para la Historia. se han comprometido a no iniciar una guerra nuclear. Acusan a los tribunales internacionales de excederse en sus poderes y se ha referido a Putin como \"su amigo\", y Xi se consolida como el gran mediador. Hola, buenas tardes, todo preparado para el primer y único cara a cara de la campaña electoral entre Pedro Sánchez y Alberto Núñez Feijóo. A las 22:00 horas, los dos principales candidatos a la Moncloa confrontarán propuestas Cinco bloques temáticos de 16 minutos cada uno. Todos los tiempos muy medidos. Sánchez y Feijóo ultiman con sus equipos las estrategias que van a seguir esta noche. El candidato del PSOE está en Moncloa trabajando con su núcleo duro y, del PP trabaja con los suyos en su despacho de Génova. RTVE analizará las claves de esta cita antes y después, en un especial informativo que arrancará a las 19;45. Será el octavo cara a cara de la democracia. La primera contienda entre candidatos Será el octavo cara a cara de la democracia. los debates han dejado momentos que han pasado a la historia. Luego los repasamos. la mayor salida a bolsa de la historia, Nueva York, Ángela García Romero. aunque se espera que suban con fuerza. Lo ha dictaminado la corte internacional de justicia. Ya se han recuperado cuatro cuerpos. Una comisión internacional de científicos dice",
+    "summary": [
+      "Las tres superpotencias mundiales han suscrito un compromiso histórico para evitar una escalada nuclear, al tiempo que han cuestionado la legitimidad de los tribunales internacionales, acusándolos de extralimitarse en sus funciones.",
+      "El panorama político español se centra en el cara a cara electoral entre Pedro Sánchez y Alberto Núñez Feijóo, un debate decisivo que será analizado minuciosamente por RTVE tras una intensa preparación de los equipos de campaña.",
+      "En el ámbito económico, la empresa Anthropic se prepara para protagonizar la mayor salida a bolsa de la historia, con una recaudación proyectada de 81.000 millones de dólares en el mercado neoyorquino.",
+      "La Corte Internacional de Justicia ha dictaminado que Birmania perpetró un genocidio contra la minoría rohingya, mientras se reporta una nueva tragedia migratoria con el naufragio de un cayuco procedente de Senegal."
+    ],
+    "vocabulary": [
+      {
+        "term": "excederse en sus poderes",
+        "translation": "outrepasser ses pouvoirs / faire un excès de pouvoir",
+        "context": "Acusan a los tribunales internacionales de excederse en sus poderes."
+      },
+      {
+        "term": "cara a cara",
+        "translation": "débat télévisé en tête-à-tête",
+        "context": "Todo preparado para el primer y único cara a cara de la campaña electoral."
+      },
+      {
+        "term": "núcleo duro",
+        "translation": "cercle restreint / premier cercle (de conseillers)",
+        "context": "El candidato del PSOE está en Moncloa trabajando con su núcleo duro."
+      },
+      {
+        "term": "salida a bolsa",
+        "translation": "introduction en bourse",
+        "context": "Anthropic va protagonizar la mayor salida a bolsa de la historia."
+      },
+      {
+        "term": "contienda",
+        "translation": "compétition / affrontement électoral",
+        "context": "La primera contienda entre candidatos será el octavo cara a cara de la democracia."
+      },
+      {
+        "term": "cayuco",
+        "translation": "embarcation de fortune (utilisée par les migrants)",
+        "context": "Decenas de personas han desaparecido en el mar al naufragar un cayuco."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17320883",
+    "title": "Telediario matinal en 4' - 19/11/2026",
+    "date": "2026-11-19",
+    "date_label": "19.11.2026",
+    "duration": "03.08 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-19-11-2026/17320883/",
+    "image": "https://img.rtve.es/v/17320883?w=800&amp;preview=01795057261213.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17320883.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17320883",
+    "transcript": "En Shenzen, Donald Trump y Vladimir Putin están ahora reunidos. Después se sumará Xi Jinping. Ambos candidatos han preparado durante las ultimas horas Estarán separados por una mesa de dos metros y medio y el debate se dividirá en cinco bloques: Por sorteo, Feijóo abre, Sánchez cierra. Buena parte de los cayucos Allí, el gobierno senegalés intenta frenar las salidas. Mucho viento en el este del país. Se abrirán claros, pero pasaremos más frío. Y desde medianoche se puede jugar en España al nuevo GTA. Un fenómeno global de proporciones estratosféricas con un impacto económico con pocos precedentes. Y en deportes, Carlos Alcaraz sigue avanzando en la Copa de Maestros. y lo ha hecho incluso jugando con molestias en la pierna. Un pequeño susto que puso en pausa el segundo set, Y anoche jugaban tres equipos de Segunda en la Copa del Rey y los tres se llevaron la eliminatoria. Y esta noche llega un momento clave en cada campaña,",
+    "summary": [
+      "Un sommet diplomatique de haute volée se tient à Shenzhen, réunissant Donald Trump, Vladimir Poutine et Xi Jinping. Malgré le caractère historique de cette rencontre, les observateurs demeurent sceptiques quant à la portée concrète des décisions qui pourraient en découler.",
+      "La campagne électorale espagnole atteint son paroxysme avec la tenue du débat télévisé entre Pedro Sánchez et Alberto Núñez Feijóo. Les deux candidats ont finalisé leur préparation pour cet affrontement structuré en cinq blocs thématiques.",
+      "Le secteur du divertissement est en effervescence avec le lancement mondial du nouveau GTA, un phénomène culturel et économique majeur. Parallèlement, l'actualité sportive est marquée par la progression de Carlos Alcaraz à la Copa de Maestros, malgré des soucis physiques."
+    ],
+    "vocabulary": [
+      {
+        "term": "cara a cara",
+        "translation": "débat télévisé en tête-à-tête",
+        "context": "esta noche es el cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo"
+      },
+      {
+        "term": "confrontar posturas",
+        "translation": "confronter les points de vue / exposer des positions divergentes",
+        "context": "en el que confrontarán posturas durante algo más de hora y media"
+      },
+      {
+        "term": "proporciones estratosféricas",
+        "translation": "proportions démesurées / d'une ampleur considérable",
+        "context": "Un fenómeno global de proporciones estratosféricas"
+      },
+      {
+        "term": "molestias",
+        "translation": "douleurs / gênes physiques",
+        "context": "lo ha hecho incluso jugando con molestias en la pierna"
+      },
+      {
+        "term": "llevarse la eliminatoria",
+        "translation": "remporter la phase éliminatoire / se qualifier",
+        "context": "los tres se llevaron la eliminatoria"
+      },
+      {
+        "term": "abrirse claros",
+        "translation": "des éclaircies apparaissent",
+        "context": "Se abrirán claros, pero pasaremos más frío"
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Sommet diplomatique à Shenzhen"
+  },
+  {
     "id": "17320719",
     "title": "Telediario 2 en 4' - 18/11/26",
     "date": "2026-11-18",
