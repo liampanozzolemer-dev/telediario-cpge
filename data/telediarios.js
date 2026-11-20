@@ -1,5 +1,112 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17323667",
+    "title": "Telediario 1 en 4' - 20/11/2026",
+    "date": "2026-11-20",
+    "date_label": "20.11.2026",
+    "duration": "04.25 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/telediario-1-cuatro-minutos-20-11-2026-1-4-minutos-20112026/17323667/",
+    "image": "https://img.rtve.es/v/17323667?w=800&amp;preview=01795183517323.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17323667.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17323667",
+    "transcript": "Feijóo y Sánchez se enfrentaron anoche en un cara cara clave que comenzó con un frío apretón de manos. Los candidatos apenas se miraron. Feijóo fue al ataque desde el principio frente a un Sánchez contenido que pidió perdón hasta en 2 ocasiones: por los accidentes de tren y por la corrupción. Su gobierno ha hecho todo tipo de guarradas, a mí me daría vergüenza si fuese usted. Yo quiero empezar este bloque pidiendo perdón ¿Usted recibió alguna donación proveniente de la prostitución? En el PP están eufóricos con su candidato. La izquierda critica la actuación de Sánchez. Dicen que se equivocó en su planteamiento y en el tono. Contención dirigida al voto moderado, era la estrategia de Pedro Sánchez toma aunque voto socialista sí que reprochan que echaron en falta al Sánchez más combativo. Colau le reprocha que no plantara cara a Feijóo y Rufián cree que estuvo mal asesorado. Abascal lamenta que Feijóo no hablara más de inmigración. En el debate, todo estuvo medido y cronometrado al milímetro. Hoy repasamos todos estos detalles y \"el lenguaje no verbal\" Corbata fusía muy curiosa el color de la izquierda a la izquierda del PSOE. El Grupo RTVE lidera la audiencia de este cara a cara, con un 25,3% de cuota de pantalla Los maquinistas desconvocan la huelga del 23 de noviembre Rusia ha atacado Ucrania con más de 100 misiles y 400 drones, es la respuesta al derribo del puente de Crimea. Putin ya dijo que esa represalia sería dolorosa. Polonia ha denunciado que varios artefactos rusos Anthropic cae hoy más de un 7% en bolsa, están las dudas de los inversores en tecnológicas, Y estos días se rueda en Euskadi, \"Blanco\", La cinta es un homenaje a la memoria del concejal de Ermua Se estrenará en julio, La Francia de Zidane y Mbappé será el rival de España y la vuelta en París.",
+    "summary": [
+      "El debate electoral entre Feijóo y Sánchez ha marcado la actualidad política, caracterizándose por un tono contenido del presidente frente a una ofensiva directa del líder del PP, lo que ha generado críticas internas en el bloque de la izquierda.",
+      "En el ámbito internacional, la escalada del conflicto en Ucrania se intensifica tras un ataque masivo ruso con misiles y drones, en represalia por la destrucción del puente de Crimea, mientras Polonia alerta sobre la incursión de artefactos en su territorio.",
+      "El sector tecnológico experimenta inestabilidad financiera con la caída bursátil de Anthropic, mientras que en el plano cultural, el rodaje de la película 'Blanco' en el País Vasco busca preservar la memoria histórica del concejal Miguel Ángel Blanco."
+    ],
+    "vocabulary": [
+      {
+        "term": "cara a cara",
+        "translation": "débat en tête-à-tête (duel télévisé)",
+        "context": "Feijóo y Sánchez se enfrentaron anoche en un cara a cara clave."
+      },
+      {
+        "term": "enmienda a la totalidad",
+        "translation": "motion de censure (au sens figuré : rejet global d'une politique)",
+        "context": "Feijóo hizo una enmienda a la totalidad del Gobierno."
+      },
+      {
+        "term": "echar en falta",
+        "translation": "manquer à quelqu'un / regretter l'absence de quelque chose",
+        "context": "voto socialista sí que reprochan que echaron en falta al Sánchez más combativo."
+      },
+      {
+        "term": "medido al milímetro",
+        "translation": "calculé au millimètre près",
+        "context": "En el debate, todo estuvo medido y cronometrado al milímetro."
+      },
+      {
+        "term": "cuota de pantalla",
+        "translation": "part d'audience (audiovisuel)",
+        "context": "El Grupo RTVE lidera la audiencia de este cara a cara, con un 25,3% de cuota de pantalla."
+      },
+      {
+        "term": "represalia",
+        "translation": "représailles",
+        "context": "Putin ya dijo que esa represalia sería dolorosa."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17322690",
+    "title": "Telediario matinal en 4' - 20/11/2026",
+    "date": "2026-11-20",
+    "date_label": "20.11.2026",
+    "duration": "03.04 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-20-11-2026/17322690/",
+    "image": "https://img.rtve.es/v/17322690?w=800&amp;preview=01795121574367.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17322690.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17322690",
+    "transcript": "Pedro Sánchez y Alberto Núñez Feijóo pero sin entrar al cuerpo a cuerpo. Han hablado de vivienda, de Ceuta, de pensiones. El líder del PP ha cargado con dureza por los casos de corrupción que rodean al PSOE. Sánchez, contenido, ha defendido su gestión al frente del ejecutivo y ha pedido perdón a las víctimas de los accidentes ferroviarios. Ambos se sienten ganadores del primer y único cara a cara de una campaña que llega a su ecuador. El lunes, debate a 8 en esta casa. El jueves, a 4: De la histórica cumbre de Shenzen queda esta imagen: China, Estados Unidos y Rusia, las tres potencias sentadas a la misma mesa. Una declaración de intenciones para limitar la proliferación de armas atómicas Como contrapunto a esa trilateral, en Berlín los aliados europeos de Ucrania quieren mediar para poner fin a la guerra. La coalición de voluntarios anuncia una reunión con Rusia Viernes de muchas nubes, pero de momento poca lluvia, Andrés. Mañana lluvia sobre todo por la noche. El fin de semana, jornada pasada por agua el sábado, domingo más frío y más soleado. La Corte Internacional de Justicia condena a Birmania por genocidio contra la minoría musulmana Rohinyá. Es la primera condena a un estado y no a una persona concreta. La decisión sienta las bases para otros procesos como el que tiene abierto Israel por la franja de Gaza. Y en Deportes, hoy juega Alcaraz Así es Álex, un partido contra Cobolli en el que no se juega nada, Le han hecho pruebas médicas y el tenista ha decidido continuar en las ATP Finals. Y a las 12 de hoy por Teledeporte sorteo para los encuentros de cuartos de final en la Liga de Naciones. podría cruzarse en la siguiente fase con Alemania, Portugal o Francia.",
+    "summary": [
+      "El cara a cara electoral entre Pedro Sánchez y Alberto Núñez Feijóo ha marcado el ecuador de la campaña, centrándose en temas como la vivienda, la gestión de la corrupción y la seguridad ferroviaria, sin derivar en un enfrentamiento personal directo.",
+      "En el ámbito geopolítico, la cumbre de Shenzhen ha reunido a China, Estados Unidos y Rusia para suscribir una declaración de intenciones destinada a frenar la proliferación nuclear, mientras que en Berlín se busca una mediación europea para el conflicto en Ucrania.",
+      "La Corte Internacional de Justicia ha emitido una sentencia histórica al condenar a Birmania por genocidio contra la minoría rohinyá, estableciendo un precedente jurídico relevante para otros procesos internacionales en curso, como el caso de Israel en Gaza."
+    ],
+    "vocabulary": [
+      {
+        "term": "entrar al cuerpo a cuerpo",
+        "translation": "entrer dans une confrontation directe / un corps-à-corps politique",
+        "context": "Pedro Sánchez y Alberto Núñez Feijóo pero sin entrar al cuerpo a cuerpo."
+      },
+      {
+        "term": "cargar con dureza",
+        "translation": "critiquer vivement / s'en prendre avec virulence",
+        "context": "El líder del PP ha cargado con dureza por los casos de corrupción que rodean al PSOE."
+      },
+      {
+        "term": "llegar a su ecuador",
+        "translation": "atteindre sa mi-parcours",
+        "context": "Ambos se sienten ganadores del primer y único cara a cara de una campaña que llega a su ecuador."
+      },
+      {
+        "term": "declaración de intenciones",
+        "translation": "déclaration d'intention (souvent diplomatique)",
+        "context": "Una declaración de intenciones para limitar la proliferación de armas atómicas."
+      },
+      {
+        "term": "como contrapunto",
+        "translation": "en guise de contrepoint / pour faire contrepoids",
+        "context": "Como contrapunto a esa trilateral, en Berlín los aliados europeos de Ucrania quieren mediar."
+      },
+      {
+        "term": "jornada pasada por agua",
+        "translation": "journée pluvieuse / journée marquée par la pluie",
+        "context": "El fin de semana, jornada pasada por agua el sábado."
+      },
+      {
+        "term": "sentar las bases",
+        "translation": "poser les bases / jeter les fondements",
+        "context": "La decisión sienta las bases para otros procesos como el que tiene abierto Israel."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17321851",
     "title": "Telediario 1 en 4' -  19/11/26",
     "date": "2026-11-19",
