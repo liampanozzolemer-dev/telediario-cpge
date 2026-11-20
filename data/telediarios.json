@@ -1,5 +1,57 @@
 [
   {
+    "id": "17324456",
+    "title": "Telediario 2 en 4' - 20/11/26",
+    "date": "2026-11-20",
+    "date_label": "20.11.2026",
+    "duration": "03.17 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/url-2-4-minutos-20-11-26/17324456/",
+    "image": "https://img.rtve.es/v/17324456?w=800&amp;preview=1795205375329.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17324456.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17324456",
+    "transcript": "¿Qué tal?, buenas noches. La campaña electoral en España enfila su último fin de semana tras el debate Sánchez-Feijóo. Ambos líderes se acaban de referir a él en sus mitines de esta tarde. \"Ayer pusimos a Sánchez frente al espejo de su corrupción, de su mala gestión En el día después del gélido cara a cara entre los dos líderes, España necesita una política sana y buena educación. En el día después del gélido cara a cara entre los dos líderes, los populares exhiben una euforia desatada y los socialistas aseguran que su líder buscó el voto moderado. Hoy han opinado todos, también sus hipotéticos socios de Gobierno. \"El señor Sánchez tal y como es su proyecto político, \"Lo celebro como si fuera yo mismo quien lo hace, Y hoy también, Díaz Ayuso admite por primera vez un error que compró su Comunidad. En una entrevista escrita, Y primera valoración de Donald Trump La califica como un tremendo éxito, en la misma línea que han hecho los presidentes ruso y chino. pero hoy ha vuelto a bombardear el país, matando a decenas de personas. Este apretón de manos simboliza el primer gran acuerdo entre la Unión Europea y el Reino Unido tras el Brexit. Londres y Bruselas permitirán la movilidad de 200.000 jóvenes europeos y británicos para que puedan estudiar o trabajar en sus territorios durante tres años Se suelen llevar besugo. En Nochebuena puede costar hasta noventa. Los más previsores cargan estos días el congelador antes de que algunos precios se disparen en Navidad. el papel de Lorca en 'La Bola Negra'. -Me acerqué al Federico persona, creador, poeta y amante, enamorado. El actor malagueño estrena ahora una obra de teatro en el Festival de Otoño. Hoy hablamos con él, con Alberto Cortés.",
+    "summary": [
+      "La campaña electoral española entra en su fase decisiva tras el tenso cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo, marcado por acusaciones cruzadas de corrupción y gestión deficiente.",
+      "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha reconocido por primera vez un error en la gestión de la adquisición de un ático de lujo por parte de la administración regional.",
+      "La Unión Europea y el Reino Unido han alcanzado un acuerdo post-Brexit que facilita la movilidad de 200.000 jóvenes, permitiéndoles estudiar y trabajar en sus respectivos territorios durante un periodo de tres años.",
+      "Donald Trump ha calificado su reciente gira por Asia y sus encuentros con Putin y Xi Jinping como un éxito rotundo, a pesar de la persistencia de la violencia en el conflicto ucraniano."
+    ],
+    "vocabulary": [
+      {
+        "term": "enfila su último fin de semana",
+        "translation": "aborde sa dernière ligne droite",
+        "context": "La campaña electoral en España enfila su último fin de semana tras el debate Sánchez-Feijóo."
+      },
+      {
+        "term": "cara a cara",
+        "translation": "débat télévisé en tête-à-tête",
+        "context": "En el día después del gélido cara a cara entre los dos líderes."
+      },
+      {
+        "term": "euforia desatada",
+        "translation": "euphorie incontrôlée / débordante",
+        "context": "los populares exhiben una euforia desatada y los socialistas aseguran que su líder buscó el voto moderado."
+      },
+      {
+        "term": "hipotéticos socios de Gobierno",
+        "translation": "partenaires de coalition potentiels",
+        "context": "Hoy han opinado todos, también sus hipotéticos socios de Gobierno."
+      },
+      {
+        "term": "los más previsores",
+        "translation": "les plus prévoyants",
+        "context": "Los más previsores cargan estos días el congelador antes de que algunos precios se disparen en Navidad."
+      },
+      {
+        "term": "dispararse",
+        "translation": "s'envoler (en parlant des prix)",
+        "context": "antes de que algunos precios se disparen en Navidad."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17323667",
     "title": "Telediario 1 en 4' - 20/11/2026",
     "date": "2026-11-20",
