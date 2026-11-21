@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17324581",
+    "title": "Telediario matinal en 4' - 21/11/26",
+    "date": "2026-11-21",
+    "date_label": "21.11.2026",
+    "duration": "03.10 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-21-11-26/17324581/",
+    "image": "https://img.rtve.es/v/17324581?w=800&amp;preview=01795242505993.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17324581.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17324581",
+    "transcript": "europea. Desde la Asamblea de Docentes de Ajetaje, con el apoyo de las familias, iniciamos encierros en tres centros educativos de la localidad para pedirle a la consejera Mercedes Arzalejo que se sienta a negociar con el comité de huelga Varios profesores pasan su primera noche encerrados en dos colegios y un instituto de Getafe Y a esta hora siguen allí, protestan tras seis semanas de huelga sin que les reciba la consejera de Educación este encierro llega después de otra jornada de movilizaciones en Madrid los docentes también rechazan las nuevas medidas para impedir las protestas dentro de los institutos. Hola, buenos días. Así empezamos las noticias de este sábado, este 21 de noviembre, con otro titular. No habrá huelga finalmente de maquinistas el lunes. Transportes, Renfe y el sindicato SEMAF han llegado a un acuerdo, así que han desconvocado ese paro. El pacto incluye nuevas medidas para mejorar la seguridad ferroviaria, entre ellas, por ejemplo, límites a los tiempos de conducción, cambios en los descansos o un nuevo protocolo de alertas Isabel Díaz Ayuso reconoce por primera vez un error con el lático de 6 millones de euros que compró la Comunidad de Madrid... ...pero no se arrepiente de esa compra... ...la presidenta madrileña dice que el error.. estuvo en cómo se explicó esa operación Y fuera de nuestro país entramos hoy en el primer día de prórroga en la Cumbre del Clima en Turquía en busca de un acuerdo La COP31 tenía que haber terminado ayer, pero los países siguen divididos sobre los plazos para abandonar los combustibles fósiles y cómo financiar las medidas contra el cambio climático. Las negociaciones siguen hoy sábado contra reloj Cinco años después del Brexit, británicos y europeos tendrán más facilidades para estudiar y trabajar al otro lado del canal de la mancha. Londres y Bruselas pactan un programa de movilidad para 200.000 jóvenes. Entre otras cosas, podrán vivir hasta tres años en el Reino Unido o en países de la Unión Trump habla de éxito tremendo rotundo tras su reunión con Putin y Xi Jinping. Los presidentes de Rusia y China también hacen un balance positivo sobre Ucrania. Trump asegura que Putin le ha dicho que está dispuesto a acabar con la guerra, pero siguen los ataques. Hoy los bombardeos han dejado decenas de muertos en Ucrania proclamarse hoy campeón del mundo de MotoGP El piloto de Ducati tiene una nueva oportunidad para revalidar el título. España Le basta con sumar 14 puntos en el Gran Premio de Portugal y podría conseguirlo esta misma tarde en la carrera al Spin. Miramos al tiempo Especialmente en Galicia van a ser intensas las precipitaciones, aunque acabarán llegando a toda la mitad noroeste. En el resto, sobre todo, nubosidad de tipo alto. Y las temperaturas, siendo bastante suaves en la mitad sur.. con valores que incluso pasan de los 20 grados... ...mientras que en muchas ciudades de la mitad norte no conseguimos alcanzar.. los 15... ...mañana cambio radical de las condiciones... ...cielos mucho más despejados... ...veremos poca precipitación.. pero ambiente frío y más viento",
+    "summary": [
+      "En Getafe, el conflicto laboral en el sector educativo se intensifica con el encierro de docentes en centros públicos, quienes denuncian la falta de interlocución con la consejera de Educación tras seis semanas de huelga.",
+      "El sector ferroviario evita una huelga de maquinistas tras alcanzar un acuerdo entre el sindicato SEMAF y el Ministerio de Transportes, que incluye la implementación de nuevos protocolos de seguridad y ajustes en los tiempos de conducción.",
+      "En el ámbito internacional, la COP31 en Turquía se prolonga ante la falta de consenso sobre la descarbonización y la financiación climática, mientras que la movilidad juvenil entre el Reino Unido y la UE se ve reforzada por un nuevo programa de intercambio.",
+      "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, admite errores en la comunicación de una polémica compra de material sanitario, aunque defiende la gestión de la operación financiera."
+    ],
+    "vocabulary": [
+      {
+        "term": "encierro",
+        "translation": "occupation de locaux (moyen de protestation)",
+        "context": "Iniciamos encierros en tres centros educativos de la localidad."
+      },
+      {
+        "term": "desconvocar",
+        "translation": "annuler (un mouvement de grève)",
+        "context": "Transportes, Renfe y el sindicato SEMAF han llegado a un acuerdo, así que han desconvocado ese paro."
+      },
+      {
+        "term": "contra reloj",
+        "translation": "contre la montre",
+        "context": "Las negociaciones siguen hoy sábado contra reloj."
+      },
+      {
+        "term": "revalidar el título",
+        "translation": "remettre son titre en jeu / conserver son titre",
+        "context": "El piloto de Ducati tiene una nueva oportunidad para revalidar el título."
+      },
+      {
+        "term": "precipitaciones",
+        "translation": "précipitations (terme météorologique soutenu)",
+        "context": "Especialmente en Galicia van a ser intensas las precipitaciones."
+      },
+      {
+        "term": "nubosidad",
+        "translation": "nébulosité / couverture nuageuse",
+        "context": "En el resto, sobre todo, nubosidad de tipo alto."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17324456",
     "title": "Telediario 2 en 4' - 20/11/26",
     "date": "2026-11-20",
