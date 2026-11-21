@@ -1,5 +1,52 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17325130",
+    "title": "Telediario 2 en 4' - 21/11/26",
+    "date": "2026-11-21",
+    "date_label": "21.11.2026",
+    "duration": "01.23 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/2-cuatro-minutos-21-11-26/17325130/",
+    "image": "https://img.rtve.es/v/17325130?w=800&amp;preview=01795291630750.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17325130.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17325130",
+    "transcript": "El último sábado de campaña nos deja El último sábado de campaña nos deja imágenes como la del acto del PP en la plaza de Toros de Valencia aunque Feijóo pide no confiarse. Llamada también a la movilización de Sánchez para que no haya, dice, una involución. VOX exige al PP saber con quién va a pactar y Frente Amplio recuerda al PSOE que no basta con ganar, sino con Sumar. Hoy han empezado a votar los españoles residentes en el exterior. por la ley de nietos depositan su voto. El presidente del Consejo Europeo propone un impuesto y un recorte del 10% en el presupuesto comunitario respecto a la propuesta de la Comisión. Para Alemania el gasto sigue siendo excesivo. Madrid ha encendido esta tarde sus luces de Navidad.",
+    "summary": [
+      "La recta final de la campaña electoral española se intensifica con actos multitudinarios del PP en Valencia y llamamientos a la movilización por parte de Sánchez, VOX y Frente Amplio, evidenciando una polarización marcada por la incertidumbre sobre los futuros pactos de gobierno.",
+      "Ha dado comienzo el proceso de voto para los españoles residentes en el exterior, marcado por la particularidad de una urna diferenciada para los afectados por la reciente suspensión judicial de la denominada 'ley de nietos'.",
+      "En el ámbito europeo, el presidente del Consejo propone una reforma presupuestaria que incluye un nuevo impuesto tecnológico y un recorte del 10% en las cuentas comunitarias, una medida que encuentra resistencia en Alemania por considerarse aún insuficiente.",
+      "Madrid ha inaugurado oficialmente su alumbrado navideño, sumándose a otras capitales españolas en una apuesta por la dinamización comercial mediante el despliegue de millones de puntos de luz LED."
+    ],
+    "vocabulary": [
+      {
+        "term": "no confiarse",
+        "translation": "ne pas baisser la garde / ne pas crier victoire trop tôt",
+        "context": "Feijóo pide no confiarse."
+      },
+      {
+        "term": "involución",
+        "translation": "régression (politique ou démocratique)",
+        "context": "Sánchez para que no haya, dice, una involución."
+      },
+      {
+        "term": "pactar",
+        "translation": "conclure un accord / passer une alliance",
+        "context": "VOX exige al PP saber con quién va a pactar."
+      },
+      {
+        "term": "presupuesto comunitario",
+        "translation": "budget de l'Union européenne",
+        "context": "un recorte del 10% en el presupuesto comunitario."
+      },
+      {
+        "term": "gasto excesivo",
+        "translation": "dépenses excessives",
+        "context": "Para Alemania el gasto sigue siendo excesivo."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17324896",
     "title": "Telediario 1 en 4' - 21/11/26",
     "date": "2026-11-21",
