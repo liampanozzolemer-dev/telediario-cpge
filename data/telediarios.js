@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17324896",
+    "title": "Telediario 1 en 4' - 21/11/26",
+    "date": "2026-11-21",
+    "date_label": "21.11.2026",
+    "duration": "02.58 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-21-11-26-1-cuatro-minutos-211126/17324896/",
+    "image": "https://img.rtve.es/v/17324896?w=800&amp;preview=01795269712455.png",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17324896.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17324896",
+    "transcript": "Último fin de semana de campaña e instan al PSOE a sumar para gobernar. Buenas tardes. con cerca de 70 migrantes a bordo. El presidente del Consejo Europeo Intenta acercar posiciones entre los que piden más austeridad como Alemania o Suecia Copenhague acusa a Moscú de estar detrás de un rapero ucraniano-estadounidense. Se nota ya en los mercados y supermercados Muchos ya están empezando a comprar los menús de Nochebuena y Navidad ya que los precios empiezan a subir y ser previsor nos puede ayudar \"No espero, porque luego me quedo sin él\". \"El mazapán es imprescindible\". \"Lechazo\". \"Estamos mirando algún que otro precio\". \"Ha subido mucho el mercado\". \"Hay que venir antes\". apenas tenemos ya secretos para ustedes. Bueno, sí, nuestra forma de hablar. Hoy compartimos nuestro particular lenguaje. En nada descubrimos todos los secretos",
+    "summary": [
+      "En plena recta final de la campaña electoral previa al 29N, el debate político se intensifica con llamamientos a la formación de mayorías parlamentarias, mientras el Gobierno anuncia medidas fiscales sobre la banca destinadas a financiar políticas de vivienda.",
+      "La crisis migratoria persiste en las Islas Canarias con la llegada de una nueva embarcación a El Hierro, al tiempo que el Consejo Europeo debate una propuesta para gravar a las grandes tecnológicas con el fin de robustecer el presupuesto comunitario.",
+      "En el ámbito internacional, la tensión diplomática aumenta tras las acusaciones de Copenhague contra Moscú por un presunto intento de asesinato en suelo danés, mientras las negociaciones climáticas globales se prolongan más allá de los plazos previstos.",
+      "La proximidad de las festividades navideñas provoca un cambio en los hábitos de consumo, marcado por una anticipación de las compras ante la escalada inflacionista de los precios en los mercados."
+    ],
+    "vocabulary": [
+      {
+        "term": "acercar posiciones",
+        "translation": "rapprocher les points de vue / tenter de trouver un terrain d'entente",
+        "context": "El presidente del Consejo Europeo intenta acercar posiciones entre los que piden más austeridad."
+      },
+      {
+        "term": "ser previsor",
+        "translation": "être prévoyant / anticiper",
+        "context": "ser previsor nos puede ayudar."
+      },
+      {
+        "term": "estar detrás de",
+        "translation": "être à l'origine de / être derrière (une action)",
+        "context": "Copenhague acusa a Moscú de estar detrás de un rapero ucraniano-estadounidense."
+      },
+      {
+        "term": "fuera de plazo",
+        "translation": "hors délai / au-delà des délais impartis",
+        "context": "Fuera de plazo, los 200 países que participan en la cumbre del clima siguen negociando."
+      },
+      {
+        "term": "sumar para gobernar",
+        "translation": "atteindre la majorité nécessaire pour gouverner",
+        "context": "instan al PSOE a sumar para gobernar."
+      },
+      {
+        "term": "escalada de precios",
+        "translation": "hausse des prix / inflation",
+        "context": "los precios empiezan a subir."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17324581",
     "title": "Telediario matinal en 4' - 21/11/26",
     "date": "2026-11-21",
