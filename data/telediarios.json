@@ -1,5 +1,57 @@
 [
   {
+    "id": "17325737",
+    "title": "Telediario 2 en 4' - 22/11/26",
+    "date": "2026-11-22",
+    "date_label": "22.11.2026",
+    "duration": "03.32 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-2-cuatro-minutos-22-11-26-2-cuatro-minutos-221126/17325737/",
+    "image": "https://img.rtve.es/v/17325737?w=800&amp;preview=01795377877501.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17325737.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17325737",
+    "transcript": "La campaña electoral afronta La campaña electoral afronta sus jornadas más decisivas. Los partidos han organizado actos multitudinarios para movilizar a su electorado. Alberto Núñez Feijóo y Pedro Sánchez han coincidido en Murcia y en sus apelaciones al voto útil. Alusión que no gusta a Santiago Abascal, que habla de \"juego sucio\". ERC y Podemos se han dirigido hoy a la izquierda indecisa. Buenas noches. con grupo propio en el Congreso. Todo está preparado aquí, en Prado del Rey, para el gran debate a ocho organizado Durante 90 minutos, los ocho portavoces parlamentarios Mañana también será el último día Hasta 6 cayucos con 300 personas migrantes han llegado este domingo a la isla de El Hierro. Ha sido un fin de semana con un importante repunte Fracaso en la Cumbre del Clima que ha finalizado sin documento de conclusiones. A la carrera global por fabricar drones de uso militar se suma otra: La primera terminado sin acuerdo. Han dicho que no se avanza en la lucha contra el cambio climático, sino que iba hacia atrás. A la carrera global por fabricar drones de uso militar se suma otra: la que busca desarrollar sistemas para acabar con ellos. En este Telediario les mostramos cómo funcionan algunas de esas tecnologías, que se usan cada día en conflictos como el de Ucrania. Aunque ya llevamos días con ofertas, mañana empieza empieza la semana del Black Friday. Hoy descubriremos el impacto en nuestro cerebro de las estrategias de marketing que hacen que nos parezca una maravillosa idea comprar y gastar. Sumario Los créditos al consumo se disparan en España, según el último estudio del Banco de España Mucha gente los utiliza para financiar por ejemplo los electrodomésticos de su cocina. Y en otros préstamos sin intereses también hay que tener algún tipo Vaya fin de semana de éxitos del deporte español al derrotar en dos sets al número 1 del mundo Zverev. Antes, a primera hora de la tarde, el octavo en la máxima categoría igualando a una leyenda",
+    "summary": [
+      "La campaña electoral española entra en su fase decisiva con los principales líderes políticos apelando al voto útil, mientras se prepara el debate televisado entre los ocho portavoces parlamentarios.",
+      "La crisis migratoria en las Islas Canarias se agrava tras la llegada de seis cayucos a El Hierro, sumando 300 personas migrantes en un solo fin de semana.",
+      "La Cumbre del Clima concluye sin un documento de conclusiones, evidenciando un estancamiento en las negociaciones internacionales frente a la urgencia climática.",
+      "El deporte español celebra un hito histórico con las victorias de Carlos Alcaraz en las ATP Finals y de Marc Márquez, quien se corona campeón del mundo de MotoGP por octava vez."
+    ],
+    "vocabulary": [
+      {
+        "term": "jornadas decisivas",
+        "translation": "moments cruciaux / étapes déterminantes",
+        "context": "La campaña electoral afronta sus jornadas más decisivas."
+      },
+      {
+        "term": "voto útil",
+        "translation": "vote utile",
+        "context": "Alberto Núñez Feijóo y Pedro Sánchez han coincidido en sus apelaciones al voto útil."
+      },
+      {
+        "term": "juego sucio",
+        "translation": "jeu déloyal / coups bas",
+        "context": "Alusión que no gusta a Santiago Abascal, que habla de 'juego sucio'."
+      },
+      {
+        "term": "repunte",
+        "translation": "recrudescence / hausse soudaine",
+        "context": "Ha sido un fin de semana con un importante repunte."
+      },
+      {
+        "term": "se disparan",
+        "translation": "s'envolent / montent en flèche",
+        "context": "Los créditos al consumo se disparan en España."
+      },
+      {
+        "term": "proclamarse campeón",
+        "translation": "être sacré champion",
+        "context": "Carlos Alcaraz se acaba de proclamar campeón de las ATP Finals."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17325544",
     "title": "Telediario 1 en 4' - 22/11/26",
     "date": "2026-11-22",
