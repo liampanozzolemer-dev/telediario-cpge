@@ -1,5 +1,57 @@
 [
   {
+    "id": "17325544",
+    "title": "Telediario 1 en 4' - 22/11/26",
+    "date": "2026-11-22",
+    "date_label": "22.11.2026",
+    "duration": "03.07 min",
+    "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/telediario-1-cuatro-minutos-22-11-26-1-cuatro-minutos-221126/17325544/",
+    "image": "https://img.rtve.es/v/17325544?w=800&amp;preview=01795356091790.png",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17325544.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17325544",
+    "transcript": "A siete días para acudir a las urnas, Lleno también de Abascal en Zaragoza y Ada Colau ha estado en Canarias, donde la izquierda va en una sola papeleta. Buenas tardes. El gran debate parlamentario con los 8 partidos con grupo propio en el Congreso Los españoles que viven fuera de España siguen votando. Largas colas en algunos de los puntos de votación donde hasta el jueves pueden votar los españoles que residen en el exterior. En esta ocasión, la convocatoria viene marcada a algunos de los nacionalizados por la \"Ley de Nietos\". Y hoy en el Telediario nos colamos en el centro de llamadas está realizando encuestas electorales. Se reactiva la llegada de cayucos a El Hierro. cinco nuevas embarcaciones y han avistado una más. Solo este domingo han llegado más de 250 personas, La cumbre del clima de Turquía, la más larga de la historia, acaba sin acuerdo. En torno a un centenar de países han vetado un texto para abandonar los combustibles fósiles, México vuelve a golpear al narco el Chapo Isidro, pocos meses después de la caída del Mencho en el estado de Sinaloa, donde el ejército mexicano ha llevado a cabo el operativo El Teatro Real es, vuelve a ser la mejor ópera del mundo. Pues, estamos oficialmente, en el mejor escenario del mundo para la ópera, con noticias de nuestro informativo. Marc Márquez acaba de proclamarse campeón del mundo de Moto GP. En el circuito de Portimao en Portugal está Nico de Vicente El rey retiene su corona",
+    "summary": [
+      "A una semana de la cita electoral, el panorama político español se intensifica con actos multitudinarios y la preparación del debate parlamentario que reunirá a las ocho formaciones con grupo propio en el Congreso.",
+      "La crisis migratoria en las Islas Canarias se agudiza con la reactivación de la llegada de cayucos a El Hierro, registrándose más de 250 personas en una sola jornada, mientras continúa el proceso de voto exterior marcado por la Ley de Nietos.",
+      "En el ámbito internacional, la COP de Turquía concluye sin un acuerdo histórico tras 17 años de consenso, al fracasar la propuesta de abandono de los combustibles fósiles, mientras México asesta un nuevo golpe al narcotráfico con la captura del 'Chapo Isidro'.",
+      "El ámbito cultural y deportivo celebra el reconocimiento del Teatro Real como la mejor ópera del mundo y la consagración de Marc Márquez como campeón del mundo de Moto GP en el circuito de Portimao."
+    ],
+    "vocabulary": [
+      {
+        "term": "acudir a las urnas",
+        "translation": "se rendre aux urnes / aller voter",
+        "context": "A siete días para acudir a las urnas, Lleno también de Abascal en Zaragoza."
+      },
+      {
+        "term": "colarse",
+        "translation": "s'immiscer / s'introduire (ici : accéder aux coulisses)",
+        "context": "Y hoy en el Telediario nos colamos en el centro de llamadas está realizando encuestas electorales."
+      },
+      {
+        "term": "cayucos",
+        "translation": "embarcations de fortune (pirogues)",
+        "context": "Se reactiva la llegada de cayucos a El Hierro."
+      },
+      {
+        "term": "avistar",
+        "translation": "apercevoir / repérer",
+        "context": "cinco nuevas embarcaciones y han avistado una más."
+      },
+      {
+        "term": "vetar",
+        "translation": "opposer son veto / rejeter",
+        "context": "En torno a un centenar de países han vetado un texto para abandonar los combustibles fósiles."
+      },
+      {
+        "term": "proclamarse campeón",
+        "translation": "être sacré champion",
+        "context": "Marc Márquez acaba de proclamarse campeón del mundo de Moto GP."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17325223",
     "title": "Telediario matinal en 4' - 22/11/26",
     "date": "2026-11-22",
