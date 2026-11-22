@@ -1,5 +1,56 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17325223",
+    "title": "Telediario matinal en 4' - 22/11/26",
+    "date": "2026-11-22",
+    "date_label": "22.11.2026",
+    "duration": "02.53 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-cuatro-minutos-22-11-26/17325223/",
+    "image": "https://img.rtve.es/v/17325223?w=800&amp;preview=01795328916422.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17325223.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17325223",
+    "transcript": "Son las 7 de la mañana a las 6 en las Islas Canarias. Muy buenos días. 11 personas han muerto en México durante la captura de uno de los narcotraficantes más buscados por el FBI Cuatro son militares y siete presuntos delincuentes. La detención del Chapo Isidro ha desatado tiroteos en el estado de Sinaloa y el pánico entre la población. Estados Unidos ofrecía 5 millones de dólares por su captura Una detención que sigue teniendo muchas consecuencias ahí en Sinaloa. Los narcotraficantes, por ejemplo, han bloqueado carreteras, han atacado negocios, quemado vehículos. También se han enfrentado a tiros con las fuerzas de seguridad en la localidad de Guasave. Un reportero ha vivido en primera persona el pánico que han provocado estos ataques Rodando vueltas, a mis espaldas está la policía resguardando la zona para que nadie se... ¡Se escuchan balazos! En estos momentos estamos aquí presenciando y acaba de pasar una bala, una bala están disparando, estamos resguardados aquí y se está viendo ya.. Bueno, pues ya entran ahora en la madrugada, así que vamos a seguir cualquier novedad que nos llegue desde Sinaloa a raíz de esta detención. Más temas, la Cumbre del Clima en Turquía parece que se acerca a un acuerdo, aunque todavía quedan flecos. El nuevo borrador obliga a los países ricos a financiar la lucha contra el cambio climático. El objetivo es triplicar las ayudas de aquí a 2035, pero no concreta cuánto dinero aportarán ni de dónde saldrá Y venimos de otro sábado de protestas en Portugal por el precio de la vivienda y el alto coste de la vida Miles de personas han salido a las calles de Lisboa pese a la lluvia. Las ha convocado el principal sindicato del país. Portugal atraviesa una de las peores crisis de acceso a la vivienda de toda Europa Los salarios además están un 37% por debajo de la media de la Unión Y siguen las protestas en Francia. Sexto sábado consecutivo contra el coste de la vida. Esta vez han salido de las calles unas 80.000 personas, según las autoridades. La participación va bajando cada semana, pero sigue habiendo nuevas movilizaciones en París, en Marsella. Hemos visto disturbios al terminar las marchas. Hay más de 100 detenidos",
+    "summary": [
+      "La detención del narcotraficante conocido como 'El Chapo Isidro' en Sinaloa ha desencadenado una ola de violencia extrema, provocando la muerte de 11 personas, entre ellas cuatro militares, y generando un clima de pánico generalizado en la región.",
+      "En el marco de la Cumbre del Clima en Turquía, se perfila un principio de acuerdo que insta a las naciones desarrolladas a incrementar significativamente la financiación climática para 2035, aunque persisten incertidumbres sobre la cuantía y el origen de los fondos.",
+      "Diversos países europeos, concretamente Portugal y Francia, enfrentan una creciente inestabilidad social marcada por movilizaciones ciudadanas masivas contra el encarecimiento del coste de la vida y la crisis habitacional, evidenciando un malestar persistente en el continente."
+    ],
+    "vocabulary": [
+      {
+        "term": "desatar",
+        "translation": "déclencher, provoquer (une réaction en chaîne)",
+        "context": "La detención del Chapo Isidro ha desatado tiroteos en el estado de Sinaloa."
+      },
+      {
+        "term": "quedar flecos",
+        "translation": "rester des détails à régler, des points en suspens",
+        "context": "La Cumbre del Clima en Turquía parece que se acerca a un acuerdo, aunque todavía quedan flecos."
+      },
+      {
+        "term": "borrador",
+        "translation": "avant-projet, ébauche (de texte législatif ou d'accord)",
+        "context": "El nuevo borrador obliga a los países ricos a financiar la lucha contra el cambio climático."
+      },
+      {
+        "term": "acceso a la vivienda",
+        "translation": "accès au logement",
+        "context": "Portugal atraviesa una de las peores crisis de acceso a la vivienda de toda Europa."
+      },
+      {
+        "term": "movilizaciones",
+        "translation": "manifestations, mouvements de protestation",
+        "context": "Sigue habiendo nuevas movilizaciones en París, en Marsella."
+      },
+      {
+        "term": "disturbios",
+        "translation": "troubles à l'ordre public, émeutes",
+        "context": "Hemos visto disturbios al terminar las marchas."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17325130",
     "title": "Telediario 2 en 4' - 21/11/26",
     "date": "2026-11-21",
