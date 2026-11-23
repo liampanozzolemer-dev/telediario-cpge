@@ -1,5 +1,56 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17327515",
+    "title": "Telediario 2 en 4' - 23/11/26",
+    "date": "2026-11-23",
+    "date_label": "23.11.2026",
+    "duration": "01.50 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/cuatro-minutos-23-11-26/17327515/",
+    "image": "https://img.rtve.es/v/17327515?w=800&amp;preview=01795466532349.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17327515.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17327515",
+    "transcript": "Imágenes en directo de los exteriores de Radio Televisión Española en Prado del Rey. Javier Gutiérrez. Hay más noticias este lunes, además del debate. Javier Gutiérrez, hoy última oportunidad para publicar encuestas Eso es Pepa, y el CIS que preside José Felix Tezanos ha publicado la suya. Da una ventaja de 10 puntos al PSOE sobre el PP. Son dos puntos más de margen que en el último estudio del CIS al inicio de la campaña. Vox caería casi tres puntos, Frente Amplio recuperaría uno y Podemos no conseguiría representación parlamentaria. Escenario completamente distinto al que recogen las encuestas privadas. Según el promedio elaborado por nuestra sección de DATOS, el PP ganaría las elecciones con más de dos puntos sobre el PSOE. Vox quedaría por encima del 18% y Frente Amplio en torno al 5 y medio. Nueve años después de huir a Bélgica, el Supremo aplica la ley de amnistía a Carles Puigdemont y cierra de forma definitiva catalán y los ex-consellers Comín y Puig. Los tres podrán regresar a España cuando quieran, Puigdemont ha compartido en sus redes un poema en el que,",
+    "summary": [
+      "La recta final de la campaña electoral se ve marcada por una profunda discrepancia demoscópica: mientras el CIS otorga una ventaja de diez puntos al PSOE, el promedio de las encuestas privadas sitúa al PP como ganador con posibilidad de alcanzar la mayoría absoluta junto a Vox.",
+      "En un giro judicial histórico, el Tribunal Supremo ha aplicado la ley de amnistía a Carles Puigdemont y a los ex-consellers Comín y Puig, extinguiendo la responsabilidad penal por malversación y permitiendo su regreso a España tras nueve años de huida.",
+      "RTVE se convierte en el epicentro del debate político nacional al albergar el encuentro entre los portavoces de los ocho grupos parlamentarios, en lo que representa una de las últimas oportunidades para captar el voto indeciso antes de la cita con las urnas."
+    ],
+    "vocabulary": [
+      {
+        "term": "sondeo",
+        "translation": "sondage d'opinion",
+        "context": "el CIS que preside José Felix Tezanos ha publicado la suya. Da una ventaja de 10 puntos al PSOE sobre el PP. Son dos puntos más de margen que en el último estudio del CIS al inicio de la campaña."
+      },
+      {
+        "term": "escaño",
+        "translation": "siège (parlementaire)",
+        "context": "Podemos queda sin escaños."
+      },
+      {
+        "term": "promedio",
+        "translation": "moyenne",
+        "context": "Según el promedio elaborado por nuestra sección de DATOS, el PP ganaría las elecciones."
+      },
+      {
+        "term": "huir",
+        "translation": "s'enfuir / s'exiler",
+        "context": "Nueve años después de huir a Bélgica, el Supremo aplica la ley de amnistía a Carles Puigdemont."
+      },
+      {
+        "term": "cerrar la causa",
+        "translation": "classer l'affaire / clore les poursuites",
+        "context": "el Supremo aplica la ley de amnistía a Carles Puigdemont y cierra de forma definitiva la causa del procés."
+      },
+      {
+        "term": "malversación",
+        "translation": "détournement de fonds publics",
+        "context": "cierra definitivamente la causa del procés por malversación."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Amnistie pour Carles Puigdemont"
+  },
+  {
     "id": "17326986",
     "title": "Telediario 1 en 4' -  23/11/26",
     "date": "2026-11-23",
