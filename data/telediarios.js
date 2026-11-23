@@ -1,5 +1,103 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17326986",
+    "title": "Telediario 1 en 4' -  23/11/26",
+    "date": "2026-11-23",
+    "date_label": "23.11.2026",
+    "duration": "03.22 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-23-11-26/17326986/",
+    "image": "https://img.rtve.es/v/17326986?w=800&amp;preview=1795444657379.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17326986.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17326986",
+    "transcript": "La batalla por la Moncloa entra en su recta final. con fortunas superiores a 100 millones de euros. Feijóo ha propuesto una nueva ley de eutanasia, Hola, buenas tardes con 10 puntos de ventaja sobre el PP, Los datos del CIS contrastan Y esta noche, debate a 8, organizado por RTVE, entre los portavoces de los partidos con grupo propio en el Congreso. A las 10h empieza ese encuentro. El Supremo aplica la amnistía a Carles Puigdemont y Para no perder detalle de las relaciones de los de los portavoces. El alto tribunal declara extinguida la responsabilidad penal Se reactiva la llegada de cayucos a Canarias. Hace poco más de una hora, llegaban dos embarcaciones a la playa de los Cristianos en Tenerife y otras 4 a El Hierro Ha quedado muy atrás el paréntesis en las llegadas. Se cuenta ya rendía rescates algunas embarcaciones como es un centenar de personas. el hierro vive un repunte dentro de un repunte. Ucrania ha hundido un buque ruso en las costas de Libia, y varias refinerías y depósitos en Siberia. Mientras Rusia sigue atacando a Kiev y destruye infraestructuras energéticas, a las puertas del invierno. El incendio en Formentor, en Mallorca sigue fuera de control despues de quemar 200 hectáreas. En las últimas horas la mejora de las condiciones meteorológicas hace que los servicios de extinción sean más optimistas. Y hoy un grupo de adolescentes españoles ha podido acercarse Siempre estoy interesada contra lo que tienen algún espacio. Pensamos que puede pasar algo la tierra y tengo que ver otro planeta. El objetivo de esta misión:",
+    "summary": [
+      "La campaña electoral para las elecciones generales entra en su recta final marcada por la discrepancia entre los sondeos del CIS y el resto de encuestas, mientras RTVE organiza esta noche un debate decisivo a ocho bandas entre los portavoces parlamentarios.",
+      "El Tribunal Supremo ha aplicado la amnistía a Carles Puigdemont, declarando extinguida su responsabilidad penal y cerrando de forma definitiva la causa judicial del procés.",
+      "La presión migratoria vuelve a intensificarse en las Islas Canarias con la reactivación de la llegada de cayucos a Tenerife y El Hierro, poniendo fin a la tregua estacional en las rutas atlánticas.",
+      "En el ámbito internacional, Ucrania reivindica el hundimiento de un buque ruso en Libia y ataques contra infraestructuras energéticas en Siberia, mientras persiste la ofensiva rusa contra Kiev ante la inminencia del invierno."
+    ],
+    "vocabulary": [
+      {
+        "term": "recta final",
+        "translation": "dernière ligne droite",
+        "context": "La batalla por la Moncloa entra en su recta final."
+      },
+      {
+        "term": "sondeos electorales",
+        "translation": "sondages électoraux",
+        "context": "Los datos del CIS contrastan con el resto de sondeos electorales."
+      },
+      {
+        "term": "responsabilidad penal",
+        "translation": "responsabilité pénale",
+        "context": "El alto tribunal declara extinguida la responsabilidad penal."
+      },
+      {
+        "term": "repunte",
+        "translation": "reprise, recrudescence",
+        "context": "El Hierro vive un repunte dentro de un repunte."
+      },
+      {
+        "term": "fuera de control",
+        "translation": "hors de contrôle",
+        "context": "El incendio en Formentor, en Mallorca sigue fuera de control."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17325833",
+    "title": "Telediario matinal en 4' - 23/11/2026",
+    "date": "2026-11-23",
+    "date_label": "23.11.2026",
+    "duration": "03.23 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-23-11-2026/17325833/",
+    "image": "https://img.rtve.es/v/17325833?w=800&amp;preview=01795192507884.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17325833.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17325833",
+    "transcript": "Se intensifican los esfuerzos por avanzar en un proceso de paz en Ucrania. Zelenski interviene en la Asamblea de la OTAN en Berlín, el Parlamento Europeo debate sobre el papel de Los 27 ante la guerra y -jueves y viernes- los líderes del continente abordarán las necesidades de financiación de Kiev para el año que viene. Lunes de sol, pero con frío, Gabriel. Frustración y enfado ni siquiera un acuerdo de mínimos. Y la actualidad deportiva, la marcan dos nombres: Y tanto Álex, empezamos por Márquez, El de Cervera colocaba una pieza más a la torre de campeones, Un título que cierra una remontada de 102 puntos esta temporada. Y otra leyenda es Carlos Alcaraz que ha ganado la Copa de Maestros.",
+    "summary": [
+      "La scène internationale se concentre sur les efforts diplomatiques pour la paix en Ukraine, avec une série d'interventions de haut niveau incluant Volodímir Zelenski à l'Assemblée de l'OTAN et des débats au Parlement européen sur le financement de Kiev.",
+      "La vie politique espagnole est marquée par une vive tension, illustrée par l'échec des négociations entre les forces politiques, incapables de parvenir à un accord minimal, alors que la campagne électorale se poursuit.",
+      "L'actualité sportive est dominée par deux figures majeures du sport espagnol : Álex Márquez, qui décroche un titre mondial après une remontée spectaculaire, et Carlos Alcaraz, sacré vainqueur de la Copa de Maestros."
+    ],
+    "vocabulary": [
+      {
+        "term": "acuerdo de mínimos",
+        "translation": "accord a minima / accord sur le strict nécessaire",
+        "context": "Frustración y enfado ni siquiera un acuerdo de mínimos."
+      },
+      {
+        "term": "remontada",
+        "translation": "remontée (au classement) / retournement de situation",
+        "context": "Un título que cierra una remontada de 102 puntos esta temporada."
+      },
+      {
+        "term": "se intensifican los esfuerzos",
+        "translation": "les efforts s'intensifient",
+        "context": "Se intensifican los esfuerzos por avanzar en un proceso de paz en Ucrania."
+      },
+      {
+        "term": "abordar",
+        "translation": "aborder / traiter (un sujet ou un problème)",
+        "context": "los líderes del continente abordarán las necesidades de financiación de Kiev."
+      },
+      {
+        "term": "pieza más a la torre",
+        "translation": "une pierre de plus à l'édifice / un succès supplémentaire",
+        "context": "El de Cervera colocaba una pieza más a la torre de campeones."
+      },
+      {
+        "term": "Los 27",
+        "translation": "les 27 (États membres de l'Union européenne)",
+        "context": "el Parlamento Europeo debate sobre el papel de Los 27 ante la guerra."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17325737",
     "title": "Telediario 2 en 4' - 22/11/26",
     "date": "2026-11-22",
