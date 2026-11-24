@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17329513",
+    "title": "Telediario 2 en 4' - 24/11/26",
+    "date": "2026-11-24",
+    "date_label": "24.11.2026",
+    "duration": "04.11 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-24-11-26/17329513/",
+    "image": "https://img.rtve.es/v/17329513?w=800&amp;preview=01795551018178.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17329513.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17329513",
+    "transcript": "Qué tal, muy buenas noches. Entre debate a 8, aquí en TVE y debate a Cuatro el jueves en la Academia, hoy la campaña electoral retoma el ritmo de los mítines. Una España libre una España democrática una España plural pero también con derechos y libertades frente a la inversión que resulta fijo. Pedro Sanchez ha hecho doblete en Huesca y ahora en Barcelona donde ha defendido los derechos de las mujeres y de colectivos como el LGTBI y ha alertado del riesgo de involución si gana el bloque de la derecha, Alberto Núñez Feijoo ha estado hoy en Alicante y a pocas horas de haber fallado a las mujeres. La Federación de Asociaciones de Periodistas de España, FAPE, Expediente por formular tres preguntas sobre si los medios La FAPE insta a la Junta Electoral Central a los medios públicos. Y en el último consejo de ministros antes de las elecciones, de los descuentos al transporte, y que deberá convalidar o rechazar Aquí en EEUU el regreso de Jensen Huang como jefe de Nvidia Nvidia y sus chips son clave en la carrera por la IA Un estudiante español de 22 años lleva 11 días encerrado en un centro Su Universidad anuló su acreditación como estudiante internacional Gisèle Pelicot denuncia a una editorial en el que él fue condenado a 20 años de cárcel por drogarla y permitir que decenas de hombres la violaran a lo largo de diez años. Para hablar de Villancicos y de una cantante llamada María no hace falta irse muy lejos. La Nadia Calviño cambia según los tipos de familia. hay un momento en el que habló en alguno de los yaceo como lleva metido con su novio nuevo pero sacado divorciar. que familia más moderna. Son bulerías, tanguillos y alguna rumba que hoy nos trae la cantautora malagueña.",
+    "summary": [
+      "La campaña electoral española se intensifica con los candidatos Pedro Sánchez y Alberto Núñez Feijóo centrando sus discursos en la defensa de los derechos sociales y la advertencia sobre el riesgo de una involución política.",
+      "La Federación de Asociaciones de Periodistas de España (FAPE) y Reporteros sin Fronteras han manifestado su rechazo ante el expediente abierto por la Junta Electoral Central contra la periodista Silvia Intxaurrondo.",
+      "El Consejo de Ministros ha aprobado medidas de carácter social, incluyendo la ampliación del permiso retribuido por fallecimiento de un familiar, en la última sesión previa a la cita con las urnas.",
+      "El caso de Gisèle Pelicot cobra relevancia mediática tras su denuncia contra una editorial por el uso indebido de imágenes personales en la promoción de una obra literaria."
+    ],
+    "vocabulary": [
+      {
+        "term": "involución",
+        "translation": "régression politique ou sociale",
+        "context": "ha alertado del riesgo de involución si gana el bloque de la derecha"
+      },
+      {
+        "term": "hacer doblete",
+        "translation": "mener deux activités ou déplacements successifs dans la même journée",
+        "context": "Pedro Sanchez ha hecho doblete en Huesca y ahora en Barcelona"
+      },
+      {
+        "term": "permiso retribuido",
+        "translation": "congé payé",
+        "context": "hoy el gobierno ha ampliado el permiso retribuido por fallecimiento de un familiar"
+      },
+      {
+        "term": "convalidar",
+        "translation": "ratifier ou valider (terme juridique/parlementaire)",
+        "context": "y que deberá convalidar o rechazar"
+      },
+      {
+        "term": "encerrado",
+        "translation": "retenu ou enfermé",
+        "context": "Un estudiante español de 22 años lleva 11 días encerrado en un centro"
+      },
+      {
+        "term": "mítines",
+        "translation": "meetings politiques",
+        "context": "hoy la campaña electoral retoma el ritmo de los mítines"
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17328814",
     "title": "Telediario 1 en 4' -  24/11/26",
     "date": "2026-11-24",
