@@ -1,5 +1,108 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17328814",
+    "title": "Telediario 1 en 4' -  24/11/26",
+    "date": "2026-11-24",
+    "date_label": "24.11.2026",
+    "duration": "03.58 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-24-11-26/17328814/",
+    "image": "https://img.rtve.es/v/17328814?w=800&amp;preview=1795529088332.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17328814.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17328814",
+    "transcript": "Siguen las largas colas en los consulados y embajadas de España para poder votar en las elecciones del domingo. Hoy en Londres la espera es de hasta una hora. Los españoles que residen en el exterior, casi 2,8 millones, tienen de plazo hasta el jueves para ejercer su derecho. Hola, buenas tardes. Sánchez critica que se intente deslegitimar el proceso y vuelve a llamar a la movilización. Los consulados están recogiendo aparte de los afectados por la ley de nietos Lo ordenó el Supremo y Exteriores dice que están cumpliendo derechas e izquierdas, que confrontan en estas elecciones. \"Ustedes han estado 8 años pisando moqueta. Y a un mes de las elecciones. No te he dado permiso para que me tutee\". Y a cinco días de las elecciones, el gobierno ha aprobado una batería de medidas sociales. y hasta 20 semanas el de nacimiento y cuidado de hijos, y habrá un día de permiso para quienes acompañen a una persona en proceso de eutanasia. y el impuesto a la banca, Almudena Guerrero. Nunca ha querido aprovechar la última reunión del Consejo de ministros, para desplegar ese abanico de iniciativas sociales, Con facultades limitadas, y sin expedientes, como el posible indulto, Álvaro García Ortiz. han recibido entre aplausos a Jensen Huang, tras recuperar su cargo como CEO de la tecnológica. El propio presidente Trump intercedió para que volviera a su puesto, a su puesto, asegura que el país lo necesita para que prospere la economía. Un estudiante español de 22 años lleva 11 días detenido por el ICE, Los descuentos de Black Friday hacen que aumenten las compras y con ellas los ciberdelitos. Llamadas fraudulentas que simulan ser de nuestro banco, con un 90 % de descuento, probablemente sea una estafa\". Hace 35 años nos dejó un genio de la música. Freddie Mercury murió el 24 de noviembre de 1991, dejando un legado que ha acompañado a varias generales",
+    "summary": [
+      "A escasos días de las elecciones generales, el clima político se tensa con un debate televisado que evidencia la polarización entre los bloques de izquierda y derecha, mientras el Gobierno aprueba un paquete de medidas sociales de última hora.",
+      "La movilización del voto exterior se intensifica con largas colas en las embajadas y consulados, en un contexto marcado por la polémica sobre la legitimidad del proceso electoral y la gestión de las solicitudes bajo la Ley de Memoria Democrática.",
+      "En el ámbito internacional, destaca la reincorporación de Jensen Huang como CEO de Nvidia tras la mediación de Donald Trump, y la preocupante detención de un estudiante español por parte de las autoridades migratorias estadounidenses (ICE).",
+      "La proximidad del Black Friday ha activado las alertas de las autoridades ante el incremento de los ciberdelitos y las estafas financieras que aprovechan el aumento del consumo digital."
+    ],
+    "vocabulary": [
+      {
+        "term": "pisar moqueta",
+        "translation": "occuper des fonctions de pouvoir / exercer des responsabilités gouvernementales",
+        "context": "Ustedes han estado 8 años pisando moqueta."
+      },
+      {
+        "term": "deslegitimar",
+        "translation": "délégitimer / contester la validité",
+        "context": "Sánchez critica que se intente deslegitimar el proceso."
+      },
+      {
+        "term": "batería de medidas",
+        "translation": "train de mesures / ensemble de dispositions",
+        "context": "el gobierno ha aprobado una batería de medidas sociales."
+      },
+      {
+        "term": "ejercer su derecho",
+        "translation": "exercer son droit (de vote)",
+        "context": "tienen de plazo hasta el jueves para ejercer su derecho."
+      },
+      {
+        "term": "interceder",
+        "translation": "intercéder / intervenir en faveur de",
+        "context": "El propio presidente Trump intercedió para que volviera a su puesto."
+      },
+      {
+        "term": "ciberdelitos",
+        "translation": "cybercriminalité / cyberdélits",
+        "context": "los descuentos de Black Friday hacen que aumenten las compras y con ellas los ciberdelitos."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17327691",
+    "title": "Telediario matinal en 4' - 24/11/2026",
+    "date": "2026-11-24",
+    "date_label": "24.11.2026",
+    "duration": "03.42 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-24-11-2026/17327691/",
+    "image": "https://img.rtve.es/v/17327691?w=800&amp;preview=01795480828743.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17327691.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17327691",
+    "transcript": "Vivienda, servicios públicos y pactos postelectorales de los partidos con grupo propio en el Congreso. Una hora y media que ha puesto en evidencia la distancia política la izquierda por un lado, la derecha por otro. Y cuáles son las líneas rojas Esta mañana, El Tribunal Supremo aplica la amnistía a Carles Puigdemont y contra sus exconsellers Puig y Comín. Se extingue su responsabilidad penal y -nueve años después del procés- Puigdemont podrá regresar a España. Un ciudadano español lleva diez días detenido Los agente del ICE le arrestaron en Florida había cancelado su credencial de estudiante internacional. Lunes de sol, pero con frío, Gabriel. Las lluvias y cada vez con más frío. Las máximas que la llegaran a 10°. Diez días después de su salida, a los de los Estados Unidos. Y en Deportes, hoy vuelve la Champions Así es, Álex, El Madrid, que está segundo en la tabla, en el Bernabéu. Y en tenis, Carlos Alcaraz ya ha llegado a Bolonia Tras la foto de familia con el moderador,",
+    "summary": [
+      "El Tribunal Supremo ha dictaminado la aplicación de la ley de amnistía a Carles Puigdemont y a sus exconsejeros, extinguiendo su responsabilidad penal tras nueve años de proceso judicial derivado del 'procés'. Esta resolución jurídica despeja el camino para el retorno del líder independentista a España.",
+      "El panorama político nacional se encuentra marcado por el debate parlamentario entre los ocho grupos con representación en el Congreso, evidenciando una profunda polarización entre los bloques de izquierda y derecha, así como la fijación de líneas rojas en las negociaciones poselectorales.",
+      "La agenda gubernamental se centra en la inminente aprobación de la ampliación de los permisos por fallecimiento de familiares y en la gestión de la crisis migratoria en Canarias, tras la llegada de ocho nuevas embarcaciones con más de 800 personas a bordo."
+    ],
+    "vocabulary": [
+      {
+        "term": "extinguir la responsabilidad penal",
+        "translation": "éteindre la responsabilité pénale (annuler les poursuites)",
+        "context": "Se extingue su responsabilidad penal y -nueve años después del procés- Puigdemont podrá regresar a España."
+      },
+      {
+        "term": "poner en evidencia",
+        "translation": "mettre en évidence, souligner, révéler",
+        "context": "Una hora y media que ha puesto en evidencia la distancia política que separa a los dos grandes bloques."
+      },
+      {
+        "term": "líneas rojas",
+        "translation": "lignes rouges (limites infranchissables dans une négociation)",
+        "context": "Y cuáles son las líneas rojas que fijan quienes no quieren situarse en ninguno de ellos."
+      },
+      {
+        "term": "repunte",
+        "translation": "recrudescence, rebond (hausse soudaine)",
+        "context": "Nueva reunión interministerial para abordar el repunte de crisis migratoria en Canarias."
+      },
+      {
+        "term": "cayucos",
+        "translation": "cayucos (embarcations de fortune utilisées par les migrants)",
+        "context": "Han llegado ocho cayucos más, con 815 migrantes a bordo."
+      },
+      {
+        "term": "Consejo de Ministros ordinario",
+        "translation": "Conseil des ministres ordinaire",
+        "context": "Esta mañana, último Consejo de Ministros ordinario antes del 29N."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17327515",
     "title": "Telediario 2 en 4' - 23/11/26",
     "date": "2026-11-23",
