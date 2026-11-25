@@ -1,5 +1,57 @@
 [
   {
+    "id": "17331342",
+    "title": "Telediario 2 en 4' - 25/11/26",
+    "date": "2026-11-25",
+    "date_label": "25.11.2026",
+    "duration": "04.21 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-25-11-26/17331342/",
+    "image": "https://img.rtve.es/v/17331342?w=800&amp;preview=1795637492063.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17331342.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17331342",
+    "transcript": "¿Qué tal?, muy buenas noches. Verónica tenía 32 años, era madre de dos niñas y hoy su pareja la ha matado a puñaladas, en Murcia. Hoy también, han detenido en Cádiz al presunto asesino de otra mujer. La realidad es tan dramática y tozuda que carga de razones un año más este 25 de noviembre, Día Internacional Contra la Violencia de Género. Y durante toda la tarde el feminismo ha tomado las calle en España. Empezamos en Madrid, Claudia Poyato. Aquí en Madrid miles de personas han salido a la calle, para decir basta la violencia machista, entre las reivindicaciones la abolición de la prostitución, el rechazo a la violencia, o el rechazar los vientres de alquiler, han sido en dos manifestaciones diferentes, una acaba de terminar en la Puerta del Sol. -Miles de personas han recorrido las calles de Barcelona, en una marcha unitaria lanzan un mensaje claro, que este tipo de violencia no son un caso aislado. También en Sevilla, Zaragoza, Bilbao o Vigo, miles de personas han salido esta tarde a la calle. Además de la manifestaciones, se han celebrado homenajes a las víctimas de la violencia de género. La violencia de género ha copado los mensajes de este miércoles Los partidos de izquierda, desde las manifestaciones del 25N, pueden desaparecer con un pacto de la derecha. Mañana, penúltimo día de campaña y último debate electoral. Antes y después, mesa de análisis Y un día más, nos vamos a la isla del Hierro con una ultima hora. para trabajar en labores de apoyo sanitario, triaje y derivación. Continúa el goteo constante de embarcaciones. Las condiciones en la mar empeoran y el gobierno de Canarias declara la emergencia sanitaria. Así se refiere Kilmar Abrego a la Administración Trump. La administración Trump habla de auto-deportación de nuestro país. El acelerón de ventas por las ofertas del Black Friday ¿Cómo aman los artistas...? El nuevo libro de Carlos del Amor se titula \"Amarte\" y explora grandes historias de amor de grandes artistas",
+    "summary": [
+      "La jornada del 25 de noviembre, Día Internacional contra la Violencia de Género, ha estado marcada por una movilización masiva en toda España, donde miles de ciudadanos han exigido medidas contundentes contra la violencia machista y la abolición de la prostitución.",
+      "El clima político se tensa ante la recta final de la campaña electoral, con un debate decisivo a cuatro bandas que enfrentará a los principales candidatos, mientras la violencia de género se consolida como un eje central del discurso político.",
+      "La crisis migratoria en la isla de El Hierro se agrava debido al incesante flujo de embarcaciones y al deterioro de las condiciones meteorológicas, lo que ha llevado al Gobierno de Canarias a declarar la emergencia sanitaria.",
+      "El sector comercial se prepara para el Black Friday, un evento que pone a prueba la resiliencia de la logística nacional ante el previsible incremento del consumo, mientras la actualidad cultural destaca el lanzamiento de la última obra de Carlos del Amor."
+    ],
+    "vocabulary": [
+      {
+        "term": "copar",
+        "translation": "occuper, accaparer (le devant de la scène)",
+        "context": "La violencia de género ha copado los mensajes de este miércoles."
+      },
+      {
+        "term": "tozuda",
+        "translation": "obstinée, têtue (ici : implacable, persistante)",
+        "context": "La realidad es tan dramática y tozuda que carga de razones un año más este 25 de noviembre."
+      },
+      {
+        "term": "vientres de alquiler",
+        "translation": "gestation pour autrui (GPA)",
+        "context": "Entre las reivindicaciones la abolición de la prostitución, el rechazo a la violencia, o el rechazar los vientres de alquiler."
+      },
+      {
+        "term": "goteo constante",
+        "translation": "flux ininterrompu, arrivée au compte-gouttes (mais soutenu)",
+        "context": "Continúa el goteo constante de embarcaciones."
+      },
+      {
+        "term": "acelerón",
+        "translation": "accélération, coup d'accélérateur",
+        "context": "El acelerón de ventas por las ofertas del Black Friday."
+      },
+      {
+        "term": "marcha unitaria",
+        "translation": "manifestation unitaire / rassemblement commun",
+        "context": "Miles de personas han recorrido las calles de Barcelona, en una marcha unitaria."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17330653",
     "title": "Telediario 1 en 4' -  25/11/26",
     "date": "2026-11-25",
