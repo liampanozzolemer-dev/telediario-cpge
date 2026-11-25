@@ -1,5 +1,102 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17330653",
+    "title": "Telediario 1 en 4' -  25/11/26",
+    "date": "2026-11-25",
+    "date_label": "25.11.2026",
+    "duration": "02.32 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-25-11-26/17330653/",
+    "image": "https://img.rtve.es/v/17330653?w=800&amp;preview=1795615454541.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17330653.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17330653",
+    "transcript": "Son algunos de los casi 2000 migrantes que ayer desembarcaron en la isla de El Hierro en un día sin precedentes. nunca habían llegado tantos en un día. Solo en noviembre han llegado allí 15 mil personas Hola, buenas tardes. Dos mujeres se suman a la lista de víctimas de la violencia machista La última, apuñalada esta mañana por su pareja en plena calle, Decenas de actos en toda España La violencia de género marca hoy la campaña electoral. Puigdemont anuncia que volverá a España el 12 de diciembre. no hay fecha para ese encuentro. Una rotura de la soldadura en la vía. Y se pudo romper, dicen, porque se hizo mal o Le han ofrecido acogerse a una auto-deportación. Rosendo lanza sus memorias. que ha bautizado como esta canción, 'Ni gozo, ni Calvario'. repasa sus más de 4 décadas de trayectoria. y después, ya en solitario.",
+    "summary": [
+      "La crisis migratoria golpea con dureza la isla de El Hierro, que ha recibido la cifra récord de 15 000 personas solo en el mes de noviembre, evidenciando la saturación de los recursos de acogida en el archipiélago canario.",
+      "Con motivo del 25N, España se ha convocado en numerosas manifestaciones para condenar la violencia de género, una lacra que vuelve a teñir de luto el país tras el apuñalamiento mortal de una mujer a manos de su pareja.",
+      "El líder independentista catalán Carles Puigdemont ha anunciado oficialmente su regreso a España previsto para el próximo 12 de diciembre, un movimiento político que promete reavivar la tensión institucional en plena precampaña."
+    ],
+    "vocabulary": [
+      {
+        "term": "sin precedentes",
+        "translation": "sans précédent",
+        "context": "en un día sin precedentes. nunca habían llegado tantos en un día."
+      },
+      {
+        "term": "violencia machista",
+        "translation": "violences conjugales / violences machistes",
+        "context": "Dos mujeres se suman a la lista de víctimas de la violencia machista."
+      },
+      {
+        "term": "campaña electoral",
+        "translation": "campagne électorale",
+        "context": "La violencia de género marca hoy la campaña electoral."
+      },
+      {
+        "term": "rotura de la soldadura",
+        "translation": "Rupture de la soudure",
+        "context": "Una rotura de la soldadura en la vía."
+      },
+      {
+        "term": "trayectoria",
+        "translation": "parcours / carrière",
+        "context": "repasa sus más de 4 décadas de trayectoria."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17329658",
+    "title": "Telediario matinal en 4' - 25/11/2026",
+    "date": "2026-11-25",
+    "date_label": "25.11.2026",
+    "duration": "03.39 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-25-11-2026/17329658/",
+    "image": "https://img.rtve.es/v/17329658?w=800&amp;preview=1795442512702.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17329658.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17329658",
+    "transcript": "Cinco mujeres son asesinadas cada hora por su pareja, su expareja Conocen a su agresor y su casa, su hogar, sigue siendo el lugar más peligroso Hoy es 25 de noviembre, Quedan tres días de campaña, el domingo son las elecciones. Aquí la campaña se acelera Hemos vuelto a ver colas en París, Londres, Buenos Aires. a la espera de la decisión definitiva. Las asociaciones profesionales de periodistas la extrema derecha en los medios públicos. En su último Consejo de Ministros antes de las urnas, rebajas fiscales para autónomos, descuentos en los transportes Un abanico de medidas sociales, algunas de aplicación inmediata, Lunes de sol, pero con frío, Gabriel. La cota de nieve baja aunque va a ir subiendo rápido. Lluvias fuertes hoy. Especialmente en el Cantábrico oriental. Hoy esperamos lluvias abundantes en la isla de La Palma. Sensación invernal. En Cuenca no pasarán de los 7°. 2.121 migrantes en un solo día. La isla de El Hierro lleva al límite sus recursos ante la llegada casi continua de cayucos. A bordo, decenas de mujeres, de menores. Y en Deportes noche redonda de Champions Y tanto Álex, comenzando por los blancos que se colocan líderes con una remontada con goleada. Y victoria del Betis en Bratislava, por 0 a 2 ante el Slova. Dos cabezazos del Cucho Hernández para sumar la cuarta victoria verdiblanca en la Champions y colocarles en el cuarto puesto de la tabla.",
+    "summary": [
+      "En el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer, el informe subraya la persistencia de la violencia de género, destacando que el hogar sigue siendo el entorno más peligroso para las víctimas, con cifras alarmantes a nivel global.",
+      "A tres días de los comicios, la campaña electoral española se intensifica mientras el voto exterior, que moviliza a más de 2,7 millones de ciudadanos, enfrenta desafíos logísticos y judiciales, especialmente en relación con la ley de nietos.",
+      "El Consejo de Ministros ha aprobado un paquete de medidas sociales de carácter fiscal y de transporte, mientras la actualidad nacional se ve marcada por la crisis migratoria en El Hierro y la inestabilidad meteorológica invernal en diversas regiones."
+    ],
+    "vocabulary": [
+      {
+        "term": "rebajas fiscales",
+        "translation": "allègements fiscaux / baisses d'impôts",
+        "context": "En su último Consejo de Ministros antes de las urnas, rebajas fiscales para autónomos."
+      },
+      {
+        "term": "cota de nieve",
+        "translation": "limite pluie-neige",
+        "context": "La cota de nieve baja aunque va a ir subiendo rápido."
+      },
+      {
+        "term": "cayucos",
+        "translation": "embarcations de fortune (utilisées par les migrants)",
+        "context": "La isla de El Hierro lleva al límite sus recursos ante la llegada casi continua de cayucos."
+      },
+      {
+        "term": "noche redonda",
+        "translation": "soirée parfaite / sans fausse note",
+        "context": "Y en Deportes noche redonda de Champions."
+      },
+      {
+        "term": "abanico de medidas",
+        "translation": "éventail de mesures",
+        "context": "Un abanico de medidas sociales, algunas de aplicación inmediata."
+      },
+      {
+        "term": "remontada",
+        "translation": "remontée au score / retournement de situation",
+        "context": "Comenzando por los blancos que se colocan líderes con una remontada con goleada."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17329513",
     "title": "Telediario 2 en 4' - 24/11/26",
     "date": "2026-11-24",
