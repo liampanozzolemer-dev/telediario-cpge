@@ -1,5 +1,108 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17332373",
+    "title": "Telediario 1 en 4' -  26/11/26",
+    "date": "2026-11-26",
+    "date_label": "26.11.2026",
+    "duration": "03.31 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/1-4-minutos-26-11-26/17332373/",
+    "image": "https://img.rtve.es/v/17332373?w=800&amp;preview=1795701653063.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17332373.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17332373",
+    "transcript": "Un marinero ha muerto y hay otros 6 heridos tras volcar por completo un barco con la quilla hacia arriba. Hola, buenas tardes. Y otros cinco heridos de momento hará que más preocupa es que no haya vertidos. Tal como apunta las informaciones. Penúltimo día de una campaña, en la que Sánchez y Feijóo han vuelto a salirse del guion. Son las entrevistas que han concedido a uno de los \"youtuber\" más famosoa de España. en el último debate electoral que se podrá seguir en directo en RTVE. Paula Murillo, se están ultimando los detalles. Ya está todo prácticamente listo para esta noche. El exgobernador del banco de España, Hernández de Cos, El acuerdo se acaba de cerrar en Bruselas. La Policía ha detenido en Cantabria al hombre La víctima, Verónica, de 32 años, tenía dos hijas de diez y 15 años. La UME llegará a El Hierro en las próximas horas. que vive la isla tras la llegada récord de cayucos. En El Cairo, más de 30 personas han muerto en un accidente en una carretera de circunvalación de la capital. Hay 21 personas heridas. Cuidado si deciden financiar las compras del \"Black Friday\". El sobrecoste puede ser de casi un 30 % y superar al descuento que buscábamos. \"Pagué de más unos 23 - 25 ₠\". Se ha desvelado la incógnita, Jesús Vazquez, Silvia Abril y Manuel Carrasco serán y dar la bienvenida a 2027. El anuncio se hizo durante la emisión de El Perro Andaluz. A ellos les toca recoger el testigo de Chenoa y Estopa",
+    "summary": [
+      "La nomination de l'ancien gouverneur de la Banque d'Espagne, Pablo Hernández de Cos, à la présidence de la Banque centrale européenne marque un tournant majeur dans la gouvernance économique de la zone euro.",
+      "Le naufrage d'un navire transportant 7 000 tonnes de gasoil près d'Ibiza suscite une vive inquiétude environnementale, les autorités se concentrant désormais sur la prévention d'une marée noire.",
+      "La campagne électorale espagnole, marquée par une stratégie de communication numérique inédite, s'achève alors que les candidats Sánchez et Feijóo multiplient les interventions auprès de figures influentes du web.",
+      "Un nouveau féminicide à Bullas, dont l'auteur s'est rendu aux autorités, vient alourdir le bilan des violences de genre en Espagne, tandis que l'actualité internationale est marquée par un accident mortel de la route au Caire."
+    ],
+    "vocabulary": [
+      {
+        "term": "salirse del guion",
+        "translation": "sortir du cadre habituel / s'écarter de la ligne directrice",
+        "context": "Sánchez y Feijóo han vuelto a salirse del guion."
+      },
+      {
+        "term": "ultimar los detalles",
+        "translation": "peaufiner les derniers détails / finaliser les préparatifs",
+        "context": "Paula Murillo, se están ultimando los detalles."
+      },
+      {
+        "term": "recoger el testigo",
+        "translation": "prendre le relais / succéder à",
+        "context": "A ellos les toca recoger el testigo de Chenoa y Estopa."
+      },
+      {
+        "term": "desvelar la incógnita",
+        "translation": "lever le voile / révéler le mystère",
+        "context": "Se ha desvelado la incógnita, Jesús Vazquez, Silvia Abril y Manuel Carrasco serán y dar la bienvenida a 2027."
+      },
+      {
+        "term": "sobrecoste",
+        "translation": "surcoût",
+        "context": "El sobrecoste puede ser de casi un 30 % y superar al descuento que buscábamos."
+      },
+      {
+        "term": "con la quilla hacia arriba",
+        "translation": "la quille en l'air (navire retourné)",
+        "context": "Un marinero ha muerto y hay otros 6 heridos tras volcar por completo un barco con la quilla hacia arriba."
+      }
+    ],
+    "importance": "important",
+    "importance_label": "Nomination de Hernandez de Cos"
+  },
+  {
+    "id": "17331495",
+    "title": "Telediario matinal en 4' - 26/11/2026",
+    "date": "2026-11-26",
+    "date_label": "26.11.2026",
+    "duration": "03.32 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-26-11-2026/17331495/",
+    "image": "https://img.rtve.es/v/17331495?w=800&amp;preview=01795587913113.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17331495.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17331495",
+    "transcript": "El gobierno canario Todo preparado en la Academia de Televisión para el último gran debate de la campaña, debate a cuatro: Confrontarán sus programas y propuestas durante 90 minutos, divididos en cinco bloques: Vivienda, economía, política social y servicios públicos, corrupción y -el último- migración y política exterior. Comienza Sánchez, termina Feijóo. La programación especial en los canales de Radio Televisión española comenzará a las 20:00 h. Hasta las 2 de esta tarde se puede votar por correo. se guardan aparte, fuera de las urnas. El feminismo ha tomado las calles La policía busca a su pareja. Lluvias y nevadas. Cota de nieve en 1200 y 1300 m. Resto del país con bastantes nubes. Sobre todo por las mañanas. Algunas lluvias en Canarias. Trump vuelve a abrir la agenda por la página de los aranceles. A todos les acusa de desequilibrar Y en Deportes, pleno de victorias Así es Álex, porque Barça, Villarreal y Atlético vencieron este miércoles. Un triunfo en el Metropolitano con sabor a redención para dos de sus atacantes: Triunfo también para el Barcelona, El Villarreal también se llevó la victoria ante el Slavia de Praga, con un gol de Buchanan que mantiene sus opciones de playoff.",
+    "summary": [
+      "La campaña electoral española entra en su fase decisiva con la organización de un debate a cuatro entre los principales candidatos, Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau, que abordará ejes temáticos como la vivienda, la economía y la política migratoria.",
+      "El proceso electoral se ve marcado por la controversia jurídica en torno al voto exterior, tras la decisión del Tribunal Supremo de suspender cautelarmente el recuento de los votos de los nacionalizados bajo la 'ley de nietos' mientras se valida el uso del DNI electrónico.",
+      "En el ámbito internacional, la agenda económica global se ve tensionada por las nuevas amenazas arancelarias de Donald Trump, quien acusa a sus socios comerciales de generar desequilibrios en el mercado, mientras que en el plano deportivo, los clubes españoles han logrado una jornada exitosa en competiciones europeas."
+    ],
+    "vocabulary": [
+      {
+        "term": "confrontar programas",
+        "translation": "débattre des programmes / confronter les propositions",
+        "context": "Confrontarán sus programas y propuestas durante 90 minutos."
+      },
+      {
+        "term": "voto por correo",
+        "translation": "vote par correspondance",
+        "context": "Hasta las 14:00 de este jueves se puede votar por correo."
+      },
+      {
+        "term": "suspender cautelarmente",
+        "translation": "suspendre à titre conservatoire",
+        "context": "Son votos suspendidos cautelarmente por el Supremo."
+      },
+      {
+        "term": "dar el aval",
+        "translation": "donner son aval / approuver",
+        "context": "un tribunal que ha dado ya su aval al DNI electrónico."
+      },
+      {
+        "term": "aranceles",
+        "translation": "droits de douane / tarifs douaniers",
+        "context": "Trump vuelve a abrir la agenda por la página de los aranceles."
+      },
+      {
+        "term": "pleno de victorias",
+        "translation": "carton plein / série de victoires",
+        "context": "Y en Deportes, pleno de victorias."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17331342",
     "title": "Telediario 2 en 4' - 25/11/26",
     "date": "2026-11-25",
