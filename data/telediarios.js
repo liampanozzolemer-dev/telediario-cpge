@@ -1,5 +1,108 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17334276",
+    "title": "Telediario 1 en 4' - 27/11/2026",
+    "date": "2026-11-27",
+    "date_label": "27.11.2026",
+    "duration": "04.20 min",
+    "url": "https://www.rtve.es/play/videos/telediario-1/telediario-1-cuatro-minutos-27-11-2026-1-4-minutos-27112026/17334276/",
+    "image": "https://img.rtve.es/v/17334276?w=800&amp;preview=01795788821728.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17334276.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17334276",
+    "transcript": "El cierre de campaña en \"Malas lenguas\". El debate a cuatro de anoche ha impactado en las últimas horas Evidenció los dos bloques de los partidos. \"Buena gestión es ponerse al frente de una emergencia nacional Hola, buenas tardes. Los candidatos tienen hoy la agenda repleta de actos. Apuran las últimas horas en las que pueden pedir el voto. Sánchez celebrará su acto final de campaña en Madrid, igual que Colau. Feijóo cerrará en Sevilla y Abascal en Valencia. Un helicóptero de Salvamento Marítimo Los supervivientes han sido trasladados al puerto de La Restinga y en otra embarcación, Se trata un cayuco, que tenía al menos 10 fallecidos en su interior junto y un hombre, que se niega a ser evacuado, a ser trasladado al hospital en helicóptero. Asesinada en Bilbao una mujer de 34 años por su ex-pareja que ya está detenida. La víctima fue acuchillada delante de sus hijos y falleció horas después en el hospital. Con ella son 50 las mujeres asesinadas en lo que llevamos de año. Las pensiones subirán un 3,5 % en 2027, unos 48 ₠ más de media al mes. que se ha moderado al 4,1 %. Las pensiones no contributivas, las mínimas Los expertos de Salvamento Marítimo inspeccionan el buque semihundido que naufragó ayer frente a las costas de Ibiza, para intentar esclarecer las causas del siniestro. De momento se descarta que haya vertidos contaminantes, Desde la 1:30, se está valorando el plan que está valorando la compañía, para presentar el buque que se encuentra semi hundido, a 19 millas de Ibiza. Se contempla como se la traslada puerto, y como serán trasvasadas las 7000 t de diésel que transportaba. El barco permanece amarrada un buque de salvamento Marítimo. Hoy es Black friday, el día de los descuentos. muchos aprovechan para hacer compras pero ojo porque, cada vez más, los consumidores no se fían de que esas ofertas sean reales. \"He comprado tanto online como física esta mañana temprano\" \"Más de 100 euros seguro\" \"La gente estaba ya esperando a que abriesen todas las tiendas \"Hemos comprado hasta del 40 %\" \"No me fío de las ofertas para nada. Y en deportes nos ha pillado por sorpresa a casi todos, entrenamientos de la última carrera en Valencia y en plan, como ha reconocido, Love Actually. He entregado mi cuerpo al motociclismo, Creo que llegué a MotoGP a mi manera y me voy a mi manera.",
+    "summary": [
+      "La campagne électorale espagnole atteint son paroxysme avec les derniers meetings des candidats, marqués par une polarisation accrue entre les blocs politiques après le débat télévisé.",
+      "Le drame migratoire se poursuit aux Canaries avec la découverte d'un cayuco transportant des victimes, tandis que les services de secours tentent de gérer l'évacuation des survivants dans des conditions critiques.",
+      "La lutte contre les violences de genre reste une priorité nationale après le meurtre d'une femme à Bilbao, portant le bilan annuel à 50 victimes, dans un contexte de débat sur la protection des victimes.",
+      "Le secteur économique est rythmé par l'annonce de la revalorisation des pensions de 3,5 % pour 2027 et par le Black Friday, bien que la méfiance des consommateurs vis-à-vis de la véracité des promotions soit en hausse."
+    ],
+    "vocabulary": [
+      {
+        "term": "apurar",
+        "translation": "épuiser, tirer le meilleur parti de, ici : mettre à profit les derniers instants",
+        "context": "Apuran las últimas horas en las que pueden pedir el voto."
+      },
+      {
+        "term": "cayuco",
+        "translation": "embarcation de fortune utilisée par les migrants pour atteindre les îles Canaries",
+        "context": "Se trata un cayuco, que tenía al menos 10 fallecidos en su interior."
+      },
+      {
+        "term": "acuchillada",
+        "translation": "poignardée",
+        "context": "La víctima fue acuchillada delante de sus hijos."
+      },
+      {
+        "term": "esclarecer",
+        "translation": "élucider, faire la lumière sur",
+        "context": "para intentar esclarecer las causas del siniestro."
+      },
+      {
+        "term": "vertidos contaminantes",
+        "translation": "déversements polluants",
+        "context": "De momento se descarta que haya vertidos contaminantes."
+      },
+      {
+        "term": "trasvasar",
+        "translation": "transvaser, transférer (un liquide d'un récipient à un autre)",
+        "context": "como serán trasvasadas las 7000 t de diésel que transportaba."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
+    "id": "17333181",
+    "title": "Telediario matinal en 4' - 27/11/2026",
+    "date": "2026-11-27",
+    "date_label": "27.11.2026",
+    "duration": "02.58 min",
+    "url": "https://www.rtve.es/play/videos/telediario-matinal/telediario-matinal-4-minutos-27-11-2026/17333181/",
+    "image": "https://img.rtve.es/v/17333181?w=800&amp;preview=01795741289834.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17333181.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17333181",
+    "transcript": "El debate a cuatro deja por supuesto \"la pregunta clásica\": Quién ha ganado. Y \"la gran duda\": Si alguno de los candidatos podrá rentabilizarlo en las urnas. Cuatro voces, dos bloques claros. Feijóo ha mantenido estrategia, y ha esquivado el choque con Abascal. Volcado, con la quilla en superficie. Así sigue el buque naufragado frente a las costas de Ibiza. En sus tanques hay 7.000 toneladas de carburante. Por primera vez, un español presidirá el Banco Central Europeo. Le ha designado el Consejo Europeo. En el tiempo, hoy sin lluvia, pero mucho frío, Están apareciendo las heladas en el centro y norte del país. Muchísimo frío. Puede llegar a caer alguna gota en estas zonas. También alguna gota en el archipiélago canario. Muchos esperan encontrar un chollo, Los expertos recomiendan planificar las compras. Y en Deportes, Así es, Álex, triunfo contundente de los Chus Mateo Una victoria amplia por 62 a 93 ante los montenegrinos Y en tenis, España ya está en las semifinales de la Copa Davis,",
+    "summary": [
+      "El panorama político español se encuentra en plena ebullición tras el debate electoral a cuatro, donde se han evidenciado dos bloques antagónicos y una estrategia de confrontación directa por parte de Sánchez frente a la prudencia de Feijóo.",
+      "En el ámbito económico y europeo, se ha oficializado un hito histórico: Pablo Hernández de Cos ha sido designado por el Consejo Europeo para presidir el Banco Central Europeo, convirtiéndose en el primer español en ostentar este cargo de máxima relevancia monetaria.",
+      "La actualidad nacional también se ve marcada por la emergencia marítima en Ibiza, donde un buque naufragado con 7.000 toneladas de combustible permanece bajo vigilancia constante para evitar un desastre ecológico, mientras se contabilizan las víctimas del accidente."
+    ],
+    "vocabulary": [
+      {
+        "term": "rentabilizar",
+        "translation": "tirer profit de, rentabiliser (politiquement)",
+        "context": "Si alguno de los candidatos podrá rentabilizarlo en las urnas."
+      },
+      {
+        "term": "esquivar",
+        "translation": "esquiver, éviter",
+        "context": "Feijóo ha mantenido estrategia, y ha esquivado el choque con Abascal."
+      },
+      {
+        "term": "quilla",
+        "translation": "quille (pièce maîtresse de la structure d'un navire)",
+        "context": "Volcado, con la quilla en superficie."
+      },
+      {
+        "term": "relevar",
+        "translation": "remplacer, relever de ses fonctions",
+        "context": "Pablo Hernández de Cos relevará a Christine Lagarde al frente de la política monetaria."
+      },
+      {
+        "term": "chollo",
+        "translation": "aubaine, bonne affaire",
+        "context": "Muchos esperan encontrar un chollo."
+      },
+      {
+        "term": "triunfo contundente",
+        "translation": "victoire écrasante, succès probant",
+        "context": "Triunfo contundente de los Chus Mateo."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17332373",
     "title": "Telediario 1 en 4' -  26/11/26",
     "date": "2026-11-26",
