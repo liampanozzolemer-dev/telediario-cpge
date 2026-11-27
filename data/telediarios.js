@@ -1,5 +1,57 @@
 window.TELEDIARIO_DATA = [
   {
+    "id": "17334995",
+    "title": "Telediario 2 en 4' - 27/11/26",
+    "date": "2026-11-27",
+    "date_label": "27.11.2026",
+    "duration": "04.18 min",
+    "url": "https://www.rtve.es/play/videos/telediario-2/2-4-minutos-27-11-26/17334995/",
+    "image": "https://img.rtve.es/v/17334995?w=800&amp;preview=1795810043780.jpg",
+    "hls_url": "https://ztnr.rtve.es/ztnr/17334995.m3u8",
+    "embed_url": "https://www.rtve.es/drmn/embed/video/17334995",
+    "transcript": "¿Qué tal?, muy buenas noches. Con la vista puesta ya en el domingo y con la resaca del debate de ayer, los candidatos llevan todo el día con múltiples actos, tratando de convencer a los indecisos y afianzando el voto de sus seguidores. La mayoría cierra a esta hora una intensa y bronca campaña electoral. Alberto Núñez Feijóo cierra en Sevilla. El candidato del PP pide el voto a los desencantados del PSOE que le garantice el gobierno. \"Esta vez sí. Vamos a conseguirlo. Pedro Sánchez llama a una movilización masiva. El objetivo, dice, es evitar los recortes de la derecha \"Frente a la involución que representa Feijóo y Abascal, movilización, movilización y movilización, el próximo 29 de noviembre\". El líder de Vox, Santiago Abascal, y pide el voto para garantizar el cambio político. Y Ada Colau pide a los suyos no quedarse calladitas A El Hierro han llegado esta tarde los cuerpos de al menos 12 migrantes que iban en un cayuco, La embarcación estaba a la deriva a unos 72 km de la isla canaria. Había partido de Gambia hacía 10 días. Entre los 84 supervivientes, muchos han tenido que ser atendidos por deshidratación e hipotermia. Última hora, Alba Coloret. Llevaban tres días viajando por el medio del Atlántico como hay sin agua y sin motor. ya los 80 y cuatro se supervientes sabido que rescatarles en alta mar, tan integraciones a urgencias como a varios en estado de shock, y hemos podido saber allí, que 14 fallecidos. El barco semihundido frente a las costas de Ibiza al gobierno murciano, que se opone al traslado. La inflación se moderó en octubre hasta el 4,1 %, para el año que viene: un 3,5 % las mínimas y las no contributivas se incrementarán hasta un 14 %. que cobran casi 3 millones de personas. Es la antesala de la Navidad, que calcula menos compras y de menor importe que el año pasado. Una exposición en Barcelona reivindica la figura de Christian Dior o Balenciaga. Montó un impero en la España de posguerra como a Lola Flores el día de su boda. Sorpresa mundial tras la retirada de Marc Márquez de MotoGP. Las lesiones de su cuerpo y la visión doble que ha vuelto a sufrir esta temporada, han provocado su despedida justo antes de su última carrera",
+    "summary": [
+      "La campaña electoral española llega a su fase final con los candidatos intensificando sus actos para captar el voto indeciso, en un clima de marcada polarización política entre el bloque de la derecha y el gobierno de coalición.",
+      "Una nueva tragedia migratoria en las costas de El Hierro ha dejado al menos 14 fallecidos tras el rescate de un cayuco a la deriva, evidenciando la persistencia de la crisis humanitaria en la ruta atlántica hacia Canarias.",
+      "El Gobierno ha confirmado la revalorización de las pensiones contributivas en un 3,5% para el próximo año, tras conocerse una moderación de la inflación en octubre hasta el 4,1%.",
+      "El ámbito deportivo y cultural se ve sacudido por la retirada inesperada del piloto Marc Márquez de MotoGP debido a problemas físicos recurrentes y por una exposición en Barcelona que pone en valor la influencia de la alta costura en la posguerra española."
+    ],
+    "vocabulary": [
+      {
+        "term": "resaca",
+        "translation": "contrecoup, séquelles (ici, au sens figuré)",
+        "context": "Con la vista puesta ya en el domingo y con la resaca del debate de ayer"
+      },
+      {
+        "term": "bronca",
+        "translation": "houleuse, conflictuelle",
+        "context": "La mayoría cierra a esta hora una intensa y bronca campaña electoral."
+      },
+      {
+        "term": "involución",
+        "translation": "régression (politique)",
+        "context": "Frente a la involución que representa Feijóo y Abascal, movilización."
+      },
+      {
+        "term": "a la deriva",
+        "translation": "à la dérive",
+        "context": "La embarcación estaba a la deriva a unos 72 km de la isla canaria."
+      },
+      {
+        "term": "antesala",
+        "translation": "antichambre, prélude",
+        "context": "Es la antesala de la Navidad, que calcula menos compras."
+      },
+      {
+        "term": "reivindicar",
+        "translation": "revendiquer, mettre en lumière, réhabiliter",
+        "context": "Una exposición en Barcelona reivindica la figura de Christian Dior o Balenciaga."
+      }
+    ],
+    "importance": "normal",
+    "importance_label": ""
+  },
+  {
     "id": "17334276",
     "title": "Telediario 1 en 4' - 27/11/2026",
     "date": "2026-11-27",
